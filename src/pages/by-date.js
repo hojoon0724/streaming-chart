@@ -81,10 +81,10 @@ export default function ByDatePage() {
   if (loading) {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-        <Header title="Charts by Date" showBackButton={true} iconColor="text-green-600 dark:text-green-400" />
+        <Header title="Charts by Date" showBackButton={true} iconColor="text-yellow-600 dark:text-yellow-400" />
         <main className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <Loader2 className="mx-auto h-16 w-16 text-green-600 dark:text-green-400 mb-6 animate-spin" />
+            <Loader2 className="mx-auto h-16 w-16 text-yellow-600 dark:text-yellow-400 mb-6 animate-spin" />
             <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100 mb-4">Loading Chart Data...</h2>
             <p className="text-lg text-gray-600 dark:text-gray-300">Please wait while we process the data</p>
           </div>
@@ -96,7 +96,7 @@ export default function ByDatePage() {
   if (error) {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-        <Header title="Charts by Date" showBackButton={true} iconColor="text-green-600 dark:text-green-400" />
+        <Header title="Charts by Date" showBackButton={true} iconColor="text-yellow-600 dark:text-yellow-400" />
         <main className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <AlertCircle className="mx-auto h-16 w-16 text-red-600 dark:text-red-400 mb-6" />
@@ -104,7 +104,7 @@ export default function ByDatePage() {
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">{error}</p>
             <button
               onClick={loadAvailableDates}
-              className="px-6 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors"
+              className="px-6 py-3 bg-yellow-600 text-white rounded-lg hover:bg-yellow-700 transition-colors"
             >
               Try Again
             </button>
@@ -116,7 +116,7 @@ export default function ByDatePage() {
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-      <Header title="Charts by Date" showBackButton={true} iconColor="text-green-600 dark:text-green-400" />
+      <Header title="Charts by Date" showBackButton={true} iconColor="text-yellow-600 dark:text-yellow-400" />
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">

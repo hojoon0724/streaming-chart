@@ -146,10 +146,10 @@ export default function AggregatePage() {
   if (loading) {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-        <Header title="Charts by Song" showBackButton={true} iconColor="text-purple-600 dark:text-purple-400" />
+        <Header title="Charts by Song" showBackButton={true} iconColor="text-green-600 dark:text-green-400" />
         <main className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col items-center justify-center py-20">
-            <Loader2 className="h-12 w-12 text-purple-600 dark:text-purple-400 animate-spin mb-4" />
+            <Loader2 className="h-12 w-12 text-green-600 dark:text-green-400 animate-spin mb-4" />
             <p className="text-lg text-gray-600 dark:text-gray-300">Loading song data...</p>
           </div>
         </main>
@@ -160,7 +160,7 @@ export default function AggregatePage() {
   if (error) {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-        <Header title="Charts by Song" showBackButton={true} iconColor="text-purple-600 dark:text-purple-400" />
+        <Header title="Charts by Song" showBackButton={true} iconColor="text-green-600 dark:text-green-400" />
         <main className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col items-center justify-center py-20">
             <AlertCircle className="h-12 w-12 text-red-500 dark:text-red-400 mb-4" />
@@ -168,7 +168,7 @@ export default function AggregatePage() {
             <p className="text-gray-600 dark:text-gray-300 mb-4">{error}</p>
             <button
               onClick={() => fetchSongData(currentPage)}
-              className="px-4 py-2 bg-purple-600 dark:bg-purple-500 text-white rounded-md hover:bg-purple-700 dark:hover:bg-purple-600 focus:outline-none focus:ring-2 focus:ring-purple-500 dark:focus:ring-purple-400"
+              className="px-4 py-2 bg-green-600 dark:bg-green-500 text-white rounded-md hover:bg-green-700 dark:hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-500 dark:focus:ring-green-400"
             >
               Try Again
             </button>
@@ -180,7 +180,7 @@ export default function AggregatePage() {
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-      <Header title="Charts by Song" showBackButton={true} iconColor="text-purple-600 dark:text-purple-400" />
+      <Header title="Charts by Song" showBackButton={true} iconColor="text-green-600 dark:text-green-400" />
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
@@ -206,20 +206,20 @@ export default function AggregatePage() {
                     step="100"
                     value={payoutPerMillion}
                     onChange={(e) => setPayoutPerMillion(Number(e.target.value) || 0)}
-                    className="pl-8 pr-3 py-2 border border-gray-300 dark:border-gray-600 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-purple-500 dark:focus:ring-purple-400 focus:border-purple-500 dark:focus:border-purple-400 w-24 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
+                    className="pl-8 pr-3 py-2 border border-gray-300 dark:border-gray-600 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-green-500 dark:focus:ring-green-400 focus:border-green-500 dark:focus:border-green-400 w-24 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
                   />
                 </div>
               </div>
             </div>
-            <Music className="h-12 w-12 text-purple-600 dark:text-purple-400" />
+            <Music className="h-12 w-12 text-green-600 dark:text-green-400" />
           </div>
 
           {/* Artist Table */}
           <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg overflow-hidden">
-            <div className="px-6 py-4 bg-purple-50 dark:bg-gray-700 border-b border-purple-100 dark:border-gray-600">
+            <div className="px-6 py-4 bg-green-50 dark:bg-gray-700 border-b border-green-100 dark:border-gray-600">
               <div className="flex items-center justify-between">
-                <h3 className="text-lg font-semibold text-purple-900 dark:text-purple-300">
-                  Page {currentPage} of {pagination.totalPages || 0} ({ITEMS_PER_PAGE} songs per page)
+                <h3 className="text-lg font-semibold text-green-900 dark:text-green-300">
+                  Page {currentPage} of {pagination.totalPages || 0}
                 </h3>
 
                 {/* Search Bar */}
@@ -232,7 +232,7 @@ export default function AggregatePage() {
                     placeholder="Search songs or artists..."
                     value={searchQuery}
                     onChange={(e) => setSearchQuery(e.target.value)}
-                    className="block w-64 pl-10 pr-10 py-2 border border-gray-300 dark:border-gray-600 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-purple-500 dark:focus:ring-purple-400 focus:border-purple-500 dark:focus:border-purple-400 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
+                    className="block w-64 pl-10 pr-10 py-2 border border-gray-300 dark:border-gray-600 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-green-500 dark:focus:ring-green-400 focus:border-green-500 dark:focus:border-green-400 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
                   />
                   {searchQuery && (
                     <button onClick={clearSearch} className="absolute inset-y-0 right-0 pr-3 flex items-center">
@@ -243,7 +243,7 @@ export default function AggregatePage() {
               </div>
 
               {searchQuery && (
-                <div className="mt-2 text-sm text-purple-700 dark:text-purple-300">
+                <div className="mt-2 text-sm text-green-700 dark:text-green-300">
                   {filteredData.length > 0
                     ? `Found ${filteredData.length} song${filteredData.length === 1 ? "" : "s"} matching "${searchQuery}"`
                     : `No songs found matching "${searchQuery}"`}
@@ -287,7 +287,7 @@ export default function AggregatePage() {
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap">
                           <div className="flex items-center space-x-2">
-                            <div className="text-sm font-medium text-purple-600 dark:text-purple-400 transition-colors">
+                            <div className="text-sm font-medium text-green-600 dark:text-green-400 transition-colors">
                               {song.trackName}
                             </div>
                             {expandedSongs.has(song.trackId) ? (
@@ -363,7 +363,7 @@ export default function AggregatePage() {
                       disabled={page === "..."}
                       className={`px-3 py-2 text-sm font-medium rounded-md ${
                         page === currentPage
-                          ? "bg-purple-600 text-white"
+                          ? "bg-green-600 text-white"
                           : page === "..."
                             ? "text-gray-400 cursor-default"
                             : "text-gray-700 bg-white border border-gray-300 hover:bg-gray-50"

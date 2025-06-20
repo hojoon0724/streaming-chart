@@ -1,11 +1,11 @@
-import { AlertCircle, ChevronDown, ChevronUp, Loader2, User } from "lucide-react";
+import { AlertCircle, ChevronDown, ChevronUp, Loader2, Search, User, X } from "lucide-react";
 import React, { useEffect, useState } from "react";
 import ArtistCatalogExpansion from "../components/ArtistCatalogExpansion";
 import Header from "../components/Header";
 import Pagination from "../components/Pagination";
 import StackedBarChart from "../components/StackedBarChart";
 
-export default function ByArtistPage() {
+export default function AggregateArtistPage() {
   const [artistData, setArtistData] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
   const [loading, setLoading] = useState(true);
@@ -16,57 +16,60 @@ export default function ByArtistPage() {
   const [artistSongs, setArtistSongs] = useState({});
   const [loadingArtists, setLoadingArtists] = useState(new Set());
   const [expandedArtists, setExpandedArtists] = useState(new Set());
-
+  const [searchQuery, setSearchQuery] = useState("");
+  const [debouncedSearch, setDebouncedSearch] = useState(searchQuery);
   const ITEMS_PER_PAGE = 100;
+
+  // Debounce search input to delay API calls until user stops typing
+  useEffect(() => {
+    const handler = setTimeout(() => {
+      setDebouncedSearch(searchQuery);
+      setCurrentPage(1);
+    }, 500);
+    return () => clearTimeout(handler);
+  }, [searchQuery]);
 
   useEffect(() => {
     fetchArtistData(currentPage);
-  }, [currentPage]);
+  }, [currentPage, debouncedSearch]);
 
   const fetchArtistData = async (page) => {
     setLoading(true);
     setError(null);
-
     try {
-      const response = await fetch(`/api/artists?page=${page}&limit=${ITEMS_PER_PAGE}`);
-
-      if (!response.ok) {
-        throw new Error(`Failed to fetch data: ${response.statusText}`);
+      const params = new URLSearchParams();
+      if (debouncedSearch.trim()) {
+        params.append("search", debouncedSearch);
+      } else {
+        params.append("page", page);
+        params.append("limit", ITEMS_PER_PAGE);
       }
-
+      const response = await fetch(`/api/aggregate-artists?${params.toString()}`);
+      if (!response.ok) throw new Error(`Failed to fetch data: ${response.statusText}`);
       const data = await response.json();
-
       setArtistData(data.artists);
       setPagination(data.pagination);
     } catch (err) {
-      console.error("Error fetching artist data:", err);
+      console.error("Error fetching aggregate artist data:", err);
       setError(err.message);
     } finally {
       setLoading(false);
     }
   };
 
-  const getCurrentPageData = () => {
-    return artistData; // Data is already paginated from API
-  };
-
-  const formatNumber = (num) => {
-    return new Intl.NumberFormat().format(num);
-  };
+  const formatNumber = (num) => new Intl.NumberFormat().format(num);
 
   const calculateEstimatedPayout = (totalPlays) => {
     const millions = totalPlays / 1000000;
-    const payout = millions * payoutPerMillion;
     return new Intl.NumberFormat("en-US", {
       style: "currency",
       currency: "USD",
       minimumFractionDigits: 0,
       maximumFractionDigits: 0,
-    }).format(payout);
+    }).format(millions * payoutPerMillion);
   };
 
   const toggleArtistExpansion = async (artistName) => {
-    // Toggle expanded state
     const newExpanded = new Set(expandedArtists);
     if (newExpanded.has(artistName)) {
       newExpanded.delete(artistName);
@@ -77,81 +80,59 @@ export default function ByArtistPage() {
       setExpandedArtists(newExpanded);
     }
 
-    // If we don't have the detailed song data yet, fetch it
     if (!artistSongs[artistName] && !loadingArtists.has(artistName)) {
       const newLoading = new Set(loadingArtists);
       newLoading.add(artistName);
       setLoadingArtists(newLoading);
-
       try {
         const response = await fetch(`/api/artist-songs/${encodeURIComponent(artistName)}`);
-        if (response.ok) {
-          const data = await response.json();
-          setArtistSongs((prev) => ({
-            ...prev,
-            [artistName]: data.songs,
-          }));
-        }
-      } catch (error) {
-        console.error(`Error fetching detailed songs for ${artistName}:`, error);
+        const result = await response.json();
+        setArtistSongs((prev) => ({ ...prev, [artistName]: result.songs }));
+      } catch (err) {
+        console.error("Error fetching artist songs:", err);
       } finally {
-        const updatedLoading = new Set(loadingArtists);
-        updatedLoading.delete(artistName);
-        setLoadingArtists(updatedLoading);
+        setLoadingArtists((prev) => {
+          const s = new Set(prev);
+          s.delete(artistName);
+          return s;
+        });
       }
     }
   };
 
   const loadPercentagesForArtist = async (artistName) => {
-    // If we don't have the percentage data yet, fetch it
     if (!artistPercentages[artistName] && !loadingArtists.has(artistName)) {
       const newLoading = new Set(loadingArtists);
       newLoading.add(artistName);
       setLoadingArtists(newLoading);
-
       try {
-        const response = await fetch(`/api/artist-percentages/${encodeURIComponent(artistName)}`);
-        if (response.ok) {
-          const data = await response.json();
-          setArtistPercentages((prev) => ({
-            ...prev,
-            [artistName]: data,
-          }));
-        }
-      } catch (error) {
-        console.error(`Error fetching percentages for ${artistName}:`, error);
+        // fetch per-track totals distribution from daily_totals dataset
+        const response = await fetch(`/api/aggregate-artist-songs/${encodeURIComponent(artistName)}`);
+        const result = await response.json();
+        // store song list and distribution percentages
+        setArtistSongs((prev) => ({ ...prev, [artistName]: result.songs }));
+        setArtistPercentages((prev) => ({
+          ...prev,
+          [artistName]: {
+            percentages: result.songs.map((s) => s.percentage),
+            totalSongs: result.totalSongs,
+          },
+        }));
+      } catch (err) {
+        console.error("Error fetching artist percentages:", err);
       } finally {
-        const updatedLoading = new Set(loadingArtists);
-        updatedLoading.delete(artistName);
-        setLoadingArtists(updatedLoading);
+        setLoadingArtists((prev) => {
+          const s = new Set(prev);
+          s.delete(artistName);
+          return s;
+        });
       }
     }
   };
 
-  // Pre-load percentage data for visible artists
   useEffect(() => {
-    if (artistData.length > 0) {
-      artistData.forEach((artist) => {
-        loadPercentagesForArtist(artist.name);
-      });
-    }
+    artistData.forEach((artist) => loadPercentagesForArtist(artist.name));
   }, [artistData]);
-
-  const generateRandomColor = (index) => {
-    const colors = [
-      "bg-red-500",
-      "bg-green-500",
-      "bg-yellow-500",
-      "bg-red-500",
-      "bg-purple-500",
-      "bg-pink-500",
-      "bg-indigo-500",
-      "bg-gray-500",
-      "bg-orange-500",
-      "bg-teal-500",
-    ];
-    return colors[index % colors.length];
-  };
 
   const goToPage = (page) => {
     if (page !== currentPage && page >= 1 && page <= pagination.totalPages) {
@@ -165,34 +146,36 @@ export default function ByArtistPage() {
     const range = [];
     const rangeWithDots = [];
     const totalPages = pagination.totalPages || 0;
-
     for (let i = Math.max(2, currentPage - delta); i <= Math.min(totalPages - 1, currentPage + delta); i++) {
       range.push(i);
     }
-
     if (currentPage - delta > 2) {
       rangeWithDots.push(1, "...");
     } else {
       rangeWithDots.push(1);
     }
-
     rangeWithDots.push(...range);
-
     if (currentPage + delta < totalPages - 1) {
       rangeWithDots.push("...", totalPages);
-    } else {
-      if (totalPages > 1) rangeWithDots.push(totalPages);
+    } else if (totalPages > 1) {
+      rangeWithDots.push(totalPages);
     }
-
     return rangeWithDots;
   };
+
+  const handleClearSearch = () => {
+    setSearchQuery("");
+    setDebouncedSearch("");
+    setCurrentPage(1);
+  };
+
   if (loading) {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-        <Header title="Charts by Artist" showBackButton={true} iconColor="text-red-600 dark:text-red-400" />
+        <Header title="Aggregate Charts by Artist" showBackButton={true} iconColor="text-blue-600 dark:text-blue-400" />
         <main className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col items-center justify-center py-20">
-            <Loader2 className="h-12 w-12 text-red-600 dark:text-red-400 animate-spin mb-4" />
+            <Loader2 className="h-12 w-12 text-blue-600 dark:text-blue-400 animate-spin mb-4" />
             <p className="text-lg text-gray-600 dark:text-gray-300">Loading artist data...</p>
           </div>
         </main>
@@ -203,7 +186,7 @@ export default function ByArtistPage() {
   if (error) {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-        <Header title="Aggregate Charts" showBackButton={true} iconColor="text-red-600 dark:text-red-400" />
+        <Header title="Aggregate Charts by Artist" showBackButton={true} iconColor="text-blue-600 dark:text-blue-400" />
         <main className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col items-center justify-center py-20">
             <AlertCircle className="h-12 w-12 text-red-500 dark:text-red-400 mb-4" />
@@ -211,7 +194,7 @@ export default function ByArtistPage() {
             <p className="text-gray-600 dark:text-gray-300 mb-4">{error}</p>
             <button
               onClick={() => fetchArtistData(currentPage)}
-              className="px-4 py-2 bg-red-600 dark:bg-red-500 text-white rounded-md hover:bg-red-700 dark:hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-500 dark:focus:ring-red-400"
+              className="px-4 py-2 bg-blue-600 dark:bg-blue-500 text-white rounded-md hover:bg-blue-700 dark:hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 dark:focus:ring-blue-400"
             >
               Try Again
             </button>
@@ -223,9 +206,7 @@ export default function ByArtistPage() {
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-      <Header title="Charts by Artist" showBackButton={true} iconColor="text-red-600 dark:text-red-400" />
-
-      {/* Main Content */}
+      <Header title="Aggregate Charts by Artist" showBackButton={true} iconColor="text-blue-600 dark:text-blue-400" />
       <main className="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
         <div className="mb-8">
           <div className="flex items-center justify-between mb-6">
@@ -249,22 +230,39 @@ export default function ByArtistPage() {
                     step="100"
                     value={payoutPerMillion}
                     onChange={(e) => setPayoutPerMillion(Number(e.target.value) || 0)}
-                    className="pl-8 pr-3 py-2 border border-gray-300 dark:border-gray-600 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-red-500 dark:focus:ring-red-400 focus:border-red-500 dark:focus:border-red-400 w-24 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
+                    className="pl-8 pr-3 py-2 border border-gray-300 dark:border-gray-600 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 dark:focus:ring-blue-400 focus:border-blue-500 dark:focus:border-blue-400 w-24 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
                   />
                 </div>
               </div>
             </div>
-            <User className="h-12 w-12 text-red-600 dark:text-red-400" />
+            <User className="h-12 w-12 text-blue-600 dark:text-blue-400" />
           </div>
 
-          {/* Artist Table */}
           <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg overflow-hidden">
-            <div className="px-6 py-4 bg-red-50 dark:bg-red-900/50 border-b border-red-100 dark:border-red-700">
-              <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">
-                Page {currentPage} of {pagination.totalPages || 0}
-              </h3>
+            <div className="px-6 py-4 bg-blue-50 dark:bg-blue-900/50 border-b border-blue-100 dark:border-blue-700">
+              <div className="flex items-center justify-between">
+                <h3 className="text-lg font-semibold text-blue-900 dark:text-blue-100">
+                  Page {currentPage} of {pagination.totalPages || 0}
+                </h3>
+                <div className="relative">
+                  <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                    <Search className="h-4 w-4 text-gray-400 dark:text-gray-500" />
+                  </div>
+                  <input
+                    type="text"
+                    placeholder="Search artists..."
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    className="block w-64 pl-10 pr-10 py-2 border border-gray-300 dark:border-gray-600 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 dark:focus:ring-blue-400 focus:border-blue-500 dark:focus:border-blue-400 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
+                  />
+                  {searchQuery && (
+                    <button onClick={handleClearSearch} className="absolute inset-y-0 right-0 pr-3 flex items-center">
+                      <X className="h-4 w-4 text-gray-400 dark:text-gray-500 hover:text-gray-600 dark:hover:text-gray-300" />
+                    </button>
+                  )}
+                </div>
+              </div>
             </div>
-
             <div className="overflow-x-auto">
               <table className="min-w-full divide-y divide-gray-200 dark:divide-gray-700 table-fixed w-full">
                 <thead className="bg-gray-50 dark:bg-gray-700">
@@ -290,7 +288,7 @@ export default function ByArtistPage() {
                   </tr>
                 </thead>
                 <tbody className="bg-white dark:bg-gray-800 divide-y divide-gray-200 dark:divide-gray-700">
-                  {getCurrentPageData().map((artist, index) => (
+                  {artistData.map((artist, index) => (
                     <React.Fragment key={artist.name}>
                       <tr
                         className="hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-150 cursor-pointer"
@@ -301,11 +299,11 @@ export default function ByArtistPage() {
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap">
                           <div className="flex items-center space-x-2">
-                            <span className="text-sm font-medium text-red-600 dark:text-red-400">{artist.name}</span>
+                            <span className="text-sm font-medium text-blue-600 dark:text-blue-400">{artist.name}</span>
                             {expandedArtists.has(artist.name) ? (
-                              <ChevronUp className="h-4 w-4 text-gray-400 dark:text-gray-500" />
+                              <ChevronUp className="h-4 w-4 " />
                             ) : (
-                              <ChevronDown className="h-4 w-4 text-gray-400 dark:text-gray-500" />
+                              <ChevronDown className="h-4 w-4 " />
                             )}
                           </div>
                         </td>
@@ -320,14 +318,24 @@ export default function ByArtistPage() {
                           </div>
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap w-64">
-                          {/* Stacked Bar Chart Column */}
-                          <div className="space-y-2">
-                            <StackedBarChart
-                              percentages={artistPercentages[artist.name]?.percentages}
-                              generateRandomColor={generateRandomColor}
-                              isLoading={loadingArtists.has(artist.name)}
-                            />
-                          </div>
+                          <StackedBarChart
+                            percentages={artistPercentages[artist.name]?.percentages}
+                            generateRandomColor={(i) =>
+                              [
+                                "bg-blue-500",
+                                "bg-green-500",
+                                "bg-yellow-500",
+                                "bg-red-500",
+                                "bg-purple-500",
+                                "bg-pink-500",
+                                "bg-indigo-500",
+                                "bg-gray-500",
+                                "bg-orange-500",
+                                "bg-teal-500",
+                              ][i % 10]
+                            }
+                            isLoading={loadingArtists.has(artist.name)}
+                          />
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap">
                           <div className="text-sm text-green-600 dark:text-green-400 font-mono">
@@ -335,20 +343,28 @@ export default function ByArtistPage() {
                           </div>
                         </td>
                       </tr>
-
-                      {/* Expanded row with styled song breakdown */}
                       {expandedArtists.has(artist.name) && (
                         <tr>
-                          <td
-                            colSpan="6"
-                            className="px-0 py-0 bg-gradient-to-r from-red-50 to-indigo-50 dark:from-red-900/20 dark:to-indigo-900/20"
-                          >
+                          <td colSpan="6">
                             <ArtistCatalogExpansion
                               artist={artist}
                               artistSongs={artistSongs}
                               isLoading={loadingArtists.has(artist.name)}
                               formatNumber={formatNumber}
-                              generateRandomColor={generateRandomColor}
+                              generateRandomColor={(i) =>
+                                [
+                                  "bg-blue-500",
+                                  "bg-green-500",
+                                  "bg-yellow-500",
+                                  "bg-red-500",
+                                  "bg-purple-500",
+                                  "bg-pink-500",
+                                  "bg-indigo-500",
+                                  "bg-gray-500",
+                                  "bg-orange-500",
+                                  "bg-teal-500",
+                                ][i % 10]
+                              }
                               calculateEstimatedPayout={calculateEstimatedPayout}
                             />
                           </td>
@@ -360,32 +376,22 @@ export default function ByArtistPage() {
               </table>
             </div>
           </div>
-
-          {/* Pagination */}
-          <Pagination
-            currentPage={currentPage}
-            pagination={pagination}
-            formatNumber={formatNumber}
-            goToPage={goToPage}
-            getPaginationRange={getPaginationRange}
-          />
+          {!searchQuery && (
+            <Pagination
+              currentPage={currentPage}
+              pagination={pagination}
+              formatNumber={formatNumber}
+              goToPage={goToPage}
+              getPaginationRange={getPaginationRange}
+            />
+          )}
+          {searchQuery && artistData.length > 0 && (
+            <div className="mt-6 text-sm text-gray-700 dark:text-gray-300">
+              Showing all {artistData.length} search result{artistData.length === 1 ? "" : "s"} for "{searchQuery}"
+            </div>
+          )}
         </div>
       </main>
     </div>
   );
-
-  // return (
-  //   <div className="min-h-screen bg-gray-50">
-  //     <Header title="Charts by Artist" showBackButton={true} iconColor="text-red-600" />
-
-  //     {/* Main Content */}
-  //     <main className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
-  //       <div className="text-center">
-  //         <User className="mx-auto h-16 w-16 text-red-600 mb-6" />
-  //         <h2 className="text-4xl font-bold text-gray-900 mb-4">Charts by Artist</h2>
-  //         <p className="text-lg text-gray-600">Content coming soon...</p>
-  //       </div>
-  //     </main>
-  //   </div>
-  // );
 }
