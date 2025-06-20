@@ -171,7 +171,7 @@ export default function SongHistoryChart({ trackId, isOpen, onClose, payoutPerMi
               className="overflow-x-scroll bg-white dark:bg-gray-900 rounded border border-gray-200 dark:border-gray-600"
               onScroll={handlePerformanceScroll}
             >
-              <div className="flex items-end gap-0.5 h-52 pt-12 pl-1">
+              <div className="flex items-end gap-0.5 h-52 pt-16 pl-1">
                 {historyData.history.map((entry, index) => {
                   const height = getBarHeight(entry.streams);
                   const totalBars = historyData.history.length;
@@ -231,7 +231,7 @@ export default function SongHistoryChart({ trackId, isOpen, onClose, payoutPerMi
               className="overflow-x-scroll bg-white dark:bg-gray-900 rounded border border-gray-200 dark:border-gray-600"
               onScroll={handleCumulativeScroll}
             >
-              <div className="flex items-end gap-0.5 h-52 pt-12 pl-1">
+              <div className="flex items-end gap-0.5 h-52 pt-16 pl-1">
                 {getCumulativeData().map((entry, index) => {
                   const height = getCumulativeBarHeight(entry.cumulativeStreams);
                   const totalBars = getCumulativeData().length;
