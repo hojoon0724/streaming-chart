@@ -1,7 +1,7 @@
 import { ArrowLeft, Music } from "lucide-react";
 import { useRouter } from "next/router";
 
-export default function Header({ title, showBackButton = false, backPath = "/home", iconColor = "text-blue-600" }) {
+export default function Header({ title, showBackButton = false, backPath = "/", iconColor = "text-blue-600" }) {
   const router = useRouter();
 
   const goBack = () => {
