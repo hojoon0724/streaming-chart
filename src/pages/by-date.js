@@ -1,34 +1,78 @@
 import { AlertCircle, Calendar, Loader2 } from "lucide-react";
 import { useEffect, useState } from "react";
 import Header from "../components/Header";
-import WeeklyEarningsRibbon from "../components/WeeklyEarningsTable";
+import WeekMatrix from "../components/WeekMatrix";
+import WeeklyChartDisplay from "../components/WeeklyChartDisplay";
 
 export default function ByDatePage() {
   const [chartData, setChartData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [payoutPerMillion, setPayoutPerMillion] = useState(5000);
-  const [dataLimit, setDataLimit] = useState(50);
+  const [selectedDate, setSelectedDate] = useState(null);
+  const [availableDates, setAvailableDates] = useState([]);
+  const [selectedWeekData, setSelectedWeekData] = useState(null);
 
   useEffect(() => {
-    loadChartData();
-  }, [dataLimit]);
+    loadAvailableDates();
+  }, []);
 
-  const loadChartData = async () => {
+  useEffect(() => {
+    if (selectedDate) {
+      loadWeekData(selectedDate);
+    }
+  }, [selectedDate]);
+
+  const loadAvailableDates = async () => {
     try {
       setLoading(true);
       setError(null);
 
-      // Load a limited dataset for better performance
-      const response = await fetch(`/api/charts?limit=${dataLimit}`);
+      // Load all available dates using the dedicated endpoint
+      const response = await fetch("/api/available-dates");
       if (!response.ok) {
-        throw new Error(`Failed to load chart data: ${response.statusText}`);
+        throw new Error(`Failed to load available dates: ${response.statusText}`);
       }
       const data = await response.json();
-      setChartData(data);
+
+      if (data.availableDates) {
+        setAvailableDates(data.availableDates);
+        setChartData({ metadata: data.metadata }); // Set metadata for display
+
+        // Set the most recent date as default
+        if (data.availableDates.length > 0) {
+          setSelectedDate(data.availableDates[data.availableDates.length - 1]);
+        }
+      }
     } catch (err) {
-      console.error("Error loading chart data:", err);
+      console.error("Error loading available dates:", err);
       setError(err.message);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const loadWeekData = async (date) => {
+    try {
+      setLoading(true);
+      setError(null);
+
+      const response = await fetch(`/api/charts?dateFrom=${date}&dateTo=${date}`);
+      if (!response.ok) {
+        throw new Error(`Failed to load week data: ${response.statusText}`);
+      }
+      const data = await response.json();
+
+      if (data.charts && data.charts[date]) {
+        setSelectedWeekData(data.charts[date]);
+        setChartData(data);
+      } else {
+        setSelectedWeekData([]);
+      }
+    } catch (err) {
+      console.error("Error loading week data:", err);
+      setError(err.message);
+      setSelectedWeekData([]);
     } finally {
       setLoading(false);
     }
@@ -59,7 +103,7 @@ export default function ByDatePage() {
             <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100 mb-4">Error Loading Data</h2>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">{error}</p>
             <button
-              onClick={loadChartData}
+              onClick={loadAvailableDates}
               className="px-6 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors"
             >
               Try Again
@@ -79,40 +123,25 @@ export default function ByDatePage() {
         <div className="mb-8">
           <div className="flex items-center justify-between mb-6">
             <div>
-              <h2 className="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-2">Weekly Track Earnings</h2>
+              <h2 className="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-2">Weekly Chart Explorer</h2>
               <p className="text-lg text-gray-600 dark:text-gray-300">
-                Breakdown of estimated revenue per track by week
+                Select a week from the matrix below to view that week's charts and estimated earnings
               </p>
             </div>
-            <div className="flex items-center gap-6">
-              <div className="flex items-center gap-2">
-                <label className="text-sm font-medium text-gray-700 dark:text-gray-300">Weeks to load:</label>
-                <select
-                  value={dataLimit}
-                  onChange={(e) => setDataLimit(Number(e.target.value))}
-                  className="px-3 py-1 border border-gray-300 dark:border-gray-600 rounded-md bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100"
-                >
-                  <option value={25}>25 weeks</option>
-                  <option value={50}>50 weeks</option>
-                  <option value={100}>100 weeks</option>
-                  <option value={200}>200 weeks</option>
-                </select>
-              </div>
-              <div className="flex items-center gap-2">
-                <label className="text-sm font-medium text-gray-700 dark:text-gray-300">
-                  Payout per million streams:
-                </label>
-                <div className="flex items-center">
-                  <span className="text-sm text-gray-600 dark:text-gray-400">$</span>
-                  <input
-                    type="number"
-                    value={payoutPerMillion}
-                    onChange={(e) => setPayoutPerMillion(Number(e.target.value))}
-                    className="w-20 px-2 py-1 ml-1 border border-gray-300 dark:border-gray-600 rounded-md bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100"
-                    min="0"
-                    step="100"
-                  />
-                </div>
+            <div className="flex items-center gap-2">
+              <label className="text-sm font-medium text-gray-700 dark:text-gray-300">
+                Payout per million streams:
+              </label>
+              <div className="flex items-center">
+                <span className="text-sm text-gray-600 dark:text-gray-400">$</span>
+                <input
+                  type="number"
+                  value={payoutPerMillion}
+                  onChange={(e) => setPayoutPerMillion(Number(e.target.value))}
+                  className="w-20 px-2 py-1 ml-1 border border-gray-300 dark:border-gray-600 rounded-md bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100"
+                  min="0"
+                  step="100"
+                />
               </div>
             </div>
           </div>
@@ -135,7 +164,17 @@ export default function ByDatePage() {
             </div>
           )}
 
-          <WeeklyEarningsRibbon chartData={chartData} payoutPerMillion={payoutPerMillion} />
+          <div className="space-y-6">
+            {/* Week Matrix Section */}
+            <WeekMatrix availableDates={availableDates} selectedDate={selectedDate} onDateSelect={setSelectedDate} />
+
+            {/* Chart Display Section */}
+            <WeeklyChartDisplay
+              weekData={selectedWeekData}
+              selectedDate={selectedDate}
+              payoutPerMillion={payoutPerMillion}
+            />
+          </div>
         </div>
       </main>
     </div>

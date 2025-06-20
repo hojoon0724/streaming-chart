@@ -28,7 +28,7 @@ export default function HomePage() {
             This is only from Spotify's top charts data
           </h2>
           <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100 mb-1">
-            Actual play counts are much higher
+            Counts do not include time spent outside the weekly chart
           </h2>
           <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100 mb-1">Accurate payouts are unknown</h2>
           <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100 mb-8">

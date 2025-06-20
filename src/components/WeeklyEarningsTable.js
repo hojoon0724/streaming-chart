@@ -5,7 +5,7 @@ const WeeklyEarningsRibbon = ({ chartData, payoutPerMillion = 5000 }) => {
   const [currentWeekIndex, setCurrentWeekIndex] = useState(0);
   const [isPlaying, setIsPlaying] = useState(false);
   const [playSpeed, setPlaySpeed] = useState(1000);
-  const [showTopN, setShowTopN] = useState(20);
+  const [showTopN, setShowTopN] = useState(200);
 
   const calculateEstimatedPayout = (totalStreams) => {
     const millions = totalStreams / 1000000;
@@ -173,10 +173,9 @@ const WeeklyEarningsRibbon = ({ chartData, payoutPerMillion = 5000 }) => {
                 onChange={(e) => setShowTopN(Number(e.target.value))}
                 className="px-3 py-1 border border-gray-300 dark:border-gray-600 rounded-md bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100"
               >
-                <option value={10}>10</option>
-                <option value={20}>20</option>
-                <option value={30}>30</option>
                 <option value={50}>50</option>
+                <option value={100}>100</option>
+                <option value={200}>200</option>
               </select>
             </div>
             <div className="flex items-center gap-2">
@@ -280,8 +279,8 @@ const WeeklyEarningsRibbon = ({ chartData, payoutPerMillion = 5000 }) => {
                   key={track.track_id}
                   className="relative flex items-center p-4 rounded-lg transition-all duration-500 transform hover:scale-[1.01] border border-gray-200 dark:border-gray-700"
                   style={{
-                    backgroundColor: `${track.color}08`,
-                    borderLeftColor: track.color,
+                    // backgroundColor: `${track.color}08`,
+                    // borderLeftColor: track.color,
                     borderLeftWidth: "3px",
                   }}
                 >
@@ -355,7 +354,7 @@ const WeeklyEarningsRibbon = ({ chartData, payoutPerMillion = 5000 }) => {
       </div>
 
       {/* Summary Stats */}
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <div className="bg-white dark:bg-gray-800 p-4 rounded-lg shadow border border-gray-200 dark:border-gray-700">
           <div className="text-sm text-gray-800 dark:text-gray-200">Week Total Revenue</div>
           <div className="text-2xl font-bold text-green-800 dark:text-green-200">
@@ -366,20 +365,6 @@ const WeeklyEarningsRibbon = ({ chartData, payoutPerMillion = 5000 }) => {
           <div className="text-sm text-gray-800 dark:text-gray-200">Total Streams</div>
           <div className="text-2xl font-bold text-gray-900 dark:text-white">
             {formatNumber(currentWeekData.reduce((sum, track) => sum + track.streams, 0))}
-          </div>
-        </div>
-        <div className="bg-white dark:bg-gray-800 p-4 rounded-lg shadow border border-gray-200 dark:border-gray-700">
-          <div className="text-sm text-gray-800 dark:text-gray-200">New Entries</div>
-          <div className="text-2xl font-bold text-blue-800 dark:text-blue-200">
-            {currentWeekData.filter((track) => getPositionChange(track.track_id) === -999).length}
-          </div>
-        </div>
-        <div className="bg-white dark:bg-gray-800 p-4 rounded-lg shadow border border-gray-200 dark:border-gray-700">
-          <div className="text-sm text-gray-800 dark:text-gray-200">Avg. Position</div>
-          <div className="text-2xl font-bold text-gray-900 dark:text-white">
-            {currentWeekData.length > 0
-              ? Math.round(currentWeekData.reduce((sum, track) => sum + track.position, 0) / currentWeekData.length)
-              : 0}
           </div>
         </div>
       </div>
