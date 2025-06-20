@@ -29,12 +29,12 @@ export default function Header({ title, showBackButton = false, backPath = "/", 
             <Music className={`h-8 w-8 ${iconColor} mr-3`} />
             <h1 className="text-xl font-semibold text-gray-900 dark:text-gray-100">{title}</h1>
           </div>
-          <button
+          {/* <button
             onClick={handleLogout}
             className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-blue-600 dark:text-blue-400 bg-blue-50 dark:bg-blue-900/50 hover:bg-blue-100 dark:hover:bg-blue-900/70 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 dark:focus:ring-blue-400 focus:ring-offset-white dark:focus:ring-offset-gray-800"
           >
             Logout
-          </button>
+          </button> */}
         </div>
       </div>
     </header>

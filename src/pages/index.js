@@ -1,4 +1,4 @@
-import { BarChart3, Calendar, User,Music } from "lucide-react";
+import { Calendar, Music, User } from "lucide-react";
 import { useRouter } from "next/router";
 import Header from "../components/Header";
 
@@ -22,10 +22,75 @@ export default function HomePage() {
       <Header title="Streams Chart Dashboard" />
 
       {/* Main Content */}
-      <main className="max-w-4xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
+      <main className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-4">Choose Your View</h2>
-          <p className="text-lg text-gray-600 dark:text-gray-300">Select how you'd like to explore the streaming charts</p>
+          <h2 className="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-8">
+            This is only from Spotify's top charts data
+          </h2>
+          <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100 mb-1">
+            Actual play counts are much higher
+          </h2>
+          <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100 mb-1">Accurate payouts are unknown</h2>
+          <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100 mb-8">
+            We estimate it to be around $5,000 per million
+          </h2>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 text-sm text-gray-800 dark:text-gray-200">
+            <div class="bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg px-4 pt-3 pb-4 text-left">
+              <h2 class="text-xl font-semibold text-gray-700 dark:text-gray-100 mb-2">Source</h2>
+              <ul class="space-y-1">
+                <li>
+                  <strong>Platform:</strong> <span class="text-blue-700 dark:text-blue-300">Spotify</span>
+                </li>
+                <li>
+                  <strong>Market share:</strong> ~<span class="text-pink-700 dark:text-pink-300">30%</span>
+                </li>
+                <li>
+                  <strong>Total entries:</strong> <span class="text-green-700 dark:text-green-300">88,462</span>
+                </li>
+                <li>
+                  <strong>Unique dates:</strong> <span class="text-green-700 dark:text-green-300">494</span>
+                </li>
+              </ul>
+            </div>
+
+            <div class="bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg px-4 pt-3 pb-4 text-left">
+              <h2 class="text-xl font-semibold text-gray-700 dark:text-gray-100 mb-2">Time Range</h2>
+              <ul class="space-y-1">
+                <li>
+                  <strong>Beginning:</strong> <span class="text-yellow-700 dark:text-yellow-300">2013/09/29</span>
+                </li>
+                <li>
+                  <strong>Ending:</strong> <span class="text-yellow-700 dark:text-yellow-300">2023/04/06</span>
+                </li>
+              </ul>
+            </div>
+
+            <div class="bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg px-4 pt-3 pb-4 text-left">
+              <h2 class="text-xl font-semibold text-gray-700 dark:text-gray-100 mb-2">Chart Coverage</h2>
+              <ul class="space-y-1">
+                <li>
+                  <strong>Before 2014/10/26:</strong> Top 50
+                </li>
+                <li>
+                  <strong>After 2014/10/26:</strong> Top 200
+                </li>
+              </ul>
+            </div>
+
+            <div class="bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg px-4 pt-3 pb-4 text-left">
+              <h2 class="text-xl font-semibold text-gray-700 dark:text-gray-100 mb-2">Payout Estimate</h2>
+              <ul class="space-y-1">
+                <li>
+                  <strong>Spotify:</strong> <span class="text-indigo-700 dark:text-indigo-300">$5,000/M</span>
+                </li>
+                <li>
+                  <strong>Other platforms:</strong> Up to{" "}
+                  <span class="text-indigo-800 dark:text-indigo-200">$10,000/M</span>
+                </li>
+              </ul>
+            </div>
+          </div>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
