@@ -1,0 +1,630 @@
+{
+  "artist": "Billie Eilish",
+  "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+  "songs": [
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "lovely (with Khalid)",
+      "trackId": "0u2P5u6lvoDfwTYjAADbn4",
+      "total": 3354103500,
+      "daily": 1297121
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "bad guy",
+      "trackId": "2Fxmhks0bxGSBdJ92vM42m",
+      "total": 2746487557,
+      "daily": 577432
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "BIRDS OF A FEATHER",
+      "trackId": "6dOtVTDdiauQNBQEDOtlAB",
+      "total": 2703145601,
+      "daily": 4336774
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "when the party's over",
+      "trackId": "43zdsphuZLzwA9k4DJhU0I",
+      "total": 2208225280,
+      "daily": 997828
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "everything i wanted",
+      "trackId": "3ZCTVFBt2Brf31RLEnCkWJ",
+      "total": 1895458083,
+      "daily": 738080
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "ocean eyes",
+      "trackId": "2uIX8YMNjGMD7441kqyyNU",
+      "total": 1818958725,
+      "daily": 1006281
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Happier Than Ever",
+      "trackId": "4RVwu0g32PAqgUiJoXsdF8",
+      "total": 1605930246,
+      "daily": 751631
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "trackId": "6wf7Yu7cxBSPrRlWeSeK0Q",
+      "total": 1348114691,
+      "daily": 906178
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "WILDFLOWER",
+      "trackId": "3QaPy1KgI7nu9FJEQUgn6h",
+      "total": 1295515667,
+      "daily": 2872518
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "idontwannabeyouanymore",
+      "trackId": "40T5GIqQ1CegGm2PTEl8Bu",
+      "total": 1252517262,
+      "daily": 373487
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Bored",
+      "trackId": "04sN26COy28wTXYj3dMoiZ",
+      "total": 1169600899,
+      "daily": 448644
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "i love you",
+      "trackId": "6CcJMwBtXByIz4zQLzFkKc",
+      "total": 1167795051,
+      "daily": 649053
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "bellyache",
+      "trackId": "1eiwbaZbqA5xm7BtBPesQj",
+      "total": 1126662802,
+      "daily": 366669
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "bury a friend",
+      "trackId": "4SSnFejRGlZikf02HLewEF",
+      "total": 1098106593,
+      "daily": 218521
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "you should see me in a crown",
+      "trackId": "3XF5xLJHOQQRbWya6hBp7d",
+      "total": 967445706,
+      "daily": 246211
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Therefore I Am",
+      "trackId": "20R4HfKloPKgXDqU7UKk3x",
+      "total": 921212168,
+      "daily": 273526
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "TV",
+      "trackId": "3GYlZ7tbxLOxe6ewMNVTkw",
+      "total": 872822324,
+      "daily": 842749
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "CHIHIRO",
+      "trackId": "7BRD7x5pt8Lqa1eGYC4dzj",
+      "total": 868279664,
+      "daily": 1272329
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "wish you were gay",
+      "trackId": "3Fj47GNK2kUF0uaEDgXLaD",
+      "total": 863883900,
+      "daily": 180423
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "watch",
+      "trackId": "2WazybrAdTHvtwcfCAIlVj",
+      "total": 823621852,
+      "daily": 441152
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "LUNCH",
+      "trackId": "629DixmZGHc7ILtEntuiWE",
+      "total": 814178158,
+      "daily": 751797
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "all the good girls go to hell",
+      "trackId": "6IRdLKIyS4p7XNiP8r6rsx",
+      "total": 712726836,
+      "daily": 161577
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "No Time To Die",
+      "trackId": "73SpzrcaHk0RQPFP73vqVR",
+      "total": 709687586,
+      "daily": 245792
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Guess featuring billie eilish",
+      "trackId": "0IsIY8pfu1yaGkPUD7pkDx",
+      "total": 651262332,
+      "daily": 1119901
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "listen before i go",
+      "trackId": "0tMSssfxAL2oV8Vri0mFHE",
+      "total": 643368302,
+      "daily": 244648
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "my strange addiction",
+      "trackId": "3Tc57t9l2O8FwQZtQOvPXK",
+      "total": 590418660,
+      "daily": 217722
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "my boy",
+      "trackId": "0FQhAHyHGsrbSHvDURmFPn",
+      "total": 583160162,
+      "daily": 135708
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "bitches broken hearts",
+      "trackId": "3m7Fi1xpA6wwaVqGk68GM3",
+      "total": 578509553,
+      "daily": 155022
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "COPYCAT",
+      "trackId": "5nzw98JId7kPlL4LcUqI9M",
+      "total": 570553683,
+      "daily": 147129
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "hostage",
+      "trackId": "7hsI66hd2zDvcqDMOkGkfy",
+      "total": 560784227,
+      "daily": 238855
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Six Feet Under",
+      "trackId": "2VlLbhGLVJgdOW7kKdWWFc",
+      "total": 551054780,
+      "daily": 171860
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Happier Than Ever - Edit",
+      "trackId": "32BeYxKPrig1LefHsC0Xuo",
+      "total": 542376007,
+      "daily": 110898
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "hotline (edit)",
+      "trackId": "0WFryfbNKPXVtVQlz5dZ8H",
+      "total": 540909081,
+      "daily": 190159
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "my future",
+      "trackId": "3YUMWmx8EJq0DurfuIwoGh",
+      "total": 539071731,
+      "daily": 205352
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "xanny",
+      "trackId": "4QIo4oxwzzafcBWkKjDpXY",
+      "total": 506290324,
+      "daily": 106841
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "ilomilo",
+      "trackId": "7qEKqBCD2vE5vIBsrUitpD",
+      "total": 505430720,
+      "daily": 204481
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Your Power",
+      "trackId": "042Sl6Mn83JHyLEqdK7uI0",
+      "total": 499568504,
+      "daily": 202717
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "NDA",
+      "trackId": "38GBNKZUhfBkk3oNlWzRYd",
+      "total": 440226551,
+      "daily": 253520
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Billie Bossa Nova",
+      "trackId": "2KnuaZYoGzDoHiBTNYOTXG",
+      "total": 439363690,
+      "daily": 298918
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "BLUE",
+      "trackId": "2prqm9sPLj10B4Wg0wE5x9",
+      "total": 408424180,
+      "daily": 526549
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "L’AMOUR DE MA VIE",
+      "trackId": "6fPan2saHdFaIHuTSatORv",
+      "total": 404669914,
+      "daily": 534150
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "bad guy (with Justin Bieber)",
+      "trackId": "3yNZ5r3LKfdmjoS3gkhUCT",
+      "total": 386785598,
+      "daily": 39629
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "THE GREATEST",
+      "trackId": "6TGd66r0nlPaYm3KIoI7ET",
+      "total": 372393283,
+      "daily": 628663
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Halley's Comet",
+      "trackId": "5XsAal7ZcWg1I5T4NcRjkv",
+      "total": 367826658,
+      "daily": 279183
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Lost Cause",
+      "trackId": "4191RXFPa7Ge9XkA4cWlna",
+      "total": 364828705,
+      "daily": 158772
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "come out and play",
+      "trackId": "7wC5eZcFS1Q1BsQ35DU6H4",
+      "total": 349503050,
+      "daily": 82197
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "8",
+      "trackId": "6X29iaaazwho3ab7GNue5r",
+      "total": 333821316,
+      "daily": 62499
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Getting Older",
+      "trackId": "4HOryCnbme0zBnF8LWij3f",
+      "total": 306791315,
+      "daily": 200509
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "party favor",
+      "trackId": "6RgMzU9AJPqGsuOeYIG0FM",
+      "total": 298889560,
+      "daily": 69682
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "SKINNY",
+      "trackId": "1CsMKhwEmNnmvHUuO5nryA",
+      "total": 284895603,
+      "daily": 408087
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "I Didn't Change My Number",
+      "trackId": "7bcy34fBT2ap1L4bfPsl9q",
+      "total": 280767654,
+      "daily": 162214
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "goodbye",
+      "trackId": "3LgWsmilsrWXiPYQFRD0T7",
+      "total": 277235654,
+      "daily": 79792
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Oxytocin",
+      "trackId": "4t2OeILB07eMGTXSUbMPEu",
+      "total": 256743538,
+      "daily": 154745
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "THE DINER",
+      "trackId": "1LLUoftvmTjVNBHZoQyveF",
+      "total": 252441736,
+      "daily": 301629
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "&burn",
+      "trackId": "227TvMsTh4WOCsWKzkhvmE",
+      "total": 247856551,
+      "daily": 41584
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Male Fantasy",
+      "trackId": "4ak9GGe6afmi2HbxEjvhIC",
+      "total": 247733065,
+      "daily": 194691
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "The 30th",
+      "trackId": "5SHpuW2qjkQtFRpE6P9Nks",
+      "total": 246001729,
+      "daily": 179635
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "BITTERSUITE",
+      "trackId": "7DpUoxGSdlDHfqCYj0otzU",
+      "total": 216837540,
+      "daily": 271040
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Ocean Eyes - Blackbear Remix",
+      "trackId": "4JuZQeSRYJfLCqBgBIxxrR",
+      "total": 207216742,
+      "daily": 44041
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "WHEN I WAS OLDER - Music Inspired By The Film ROMA",
+      "trackId": "7tGEAA1f8MydT7eVbbO9Zy",
+      "total": 175589549,
+      "daily": 34764
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Lo Vas A Olvidar (with ROSALÍA)",
+      "trackId": "0psS4i5YooJrXfDnGvWRLi",
+      "total": 167447874,
+      "daily": 45975
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Ocean Eyes - Astronomyy Remix",
+      "trackId": "6NOq79ynBpBi6BSJMdgReN",
+      "total": 158109020,
+      "daily": 21451
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "GOLDWING",
+      "trackId": "0FfqyjhB6Kspvit1oOo7ax",
+      "total": 151598462,
+      "daily": 79639
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Everybody Dies",
+      "trackId": "5jhBwnqzNNrENXnYrAdoCe",
+      "total": 140645381,
+      "daily": 91017
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Not My Responsibility",
+      "trackId": "4T2zre0jqstNJ5Gt0WG9lz",
+      "total": 138959344,
+      "daily": 92979
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "OverHeated",
+      "trackId": "5uSG6fUPRaehaV820zcpsK",
+      "total": 128121764,
+      "daily": 70619
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Bellyache - Marian Hill Remix",
+      "trackId": "61X077SWMs5aAGQHhf4pd0",
+      "total": 125794030,
+      "daily": 11409
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "MyBoi - TroyBoi Remix",
+      "trackId": "1T3E8z6VMXSsACrBSQHTkN",
+      "total": 108759686,
+      "daily": 8145
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "COPYCAT - Sofi Tukker Remix",
+      "trackId": "2njUxZ4151DWIrfIK3loFj",
+      "total": 103526912,
+      "daily": 8380
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Six Feet Under - Jerry Folk Remix",
+      "trackId": "58nxGpcCfNDiqmFXklOslz",
+      "total": 72101841,
+      "daily": 5646
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Ocean Eyes - GOLDHOUSE Remix",
+      "trackId": "1JbuC7uZm0P1PyX7N7gDEM",
+      "total": 59779315,
+      "daily": 4686
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+      "trackId": "2Y6U158gVXfvqNWOLdis0R",
+      "total": 53890789,
+      "daily": 110641
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "ilomilo - Live From The Film - Billie Eilish: The World’s A Little Blurry",
+      "trackId": "4EYiIACD4vGzOmiKYzRdkW",
+      "total": 41723481,
+      "daily": 10689
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Six Feet Under - BLU J Remix",
+      "trackId": "4D5sitThGoz0RnMsFdFUuz",
+      "total": 12390614,
+      "daily": 2623
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Six Feet Under - Gazzo Remix",
+      "trackId": "3UHa28GclZhNqqlaNFzKKY",
+      "total": 11336816,
+      "daily": 2546
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Six Feet Under - Aire Atlantica Remix",
+      "trackId": "75WGjm9867pcRxGwiLRwK8",
+      "total": 10791747,
+      "daily": 2466
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Ocean Eyes - Cautious Clay Remix",
+      "trackId": "3bM4b4P6QFDnjdXXI2zufO",
+      "total": 6797433,
+      "daily": 1129
+    },
+    {
+      "artist": "Billie Eilish",
+      "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "!!!!!!!",
+      "trackId": "0rQtoQXQfwpDW0c7Fw1NeM",
+      "total": 225034,
+      "daily": 71
+    }
+  ]
+}

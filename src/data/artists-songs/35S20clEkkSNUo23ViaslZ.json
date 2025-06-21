@@ -1,0 +1,46 @@
+{
+  "artist": "Band Aid",
+  "artistId": "35S20clEkkSNUo23ViaslZ",
+  "songs": [
+    {
+      "artist": "Band Aid",
+      "artistId": "35S20clEkkSNUo23ViaslZ",
+      "trackName": "Do They Know It's Christmas? - 1984 Version",
+      "trackId": "4Yg2w0P29BBBMixyeNjDtj",
+      "total": 646772520,
+      "daily": 9834
+    },
+    {
+      "artist": "Band Aid",
+      "artistId": "35S20clEkkSNUo23ViaslZ",
+      "trackName": "Do They Know It's Christmas? - Performed At Live Aid, Wembley Stadium 1985",
+      "trackId": "7vxRhDmC1mlFjDqzisbuYG",
+      "total": 2378033,
+      "daily": 198
+    },
+    {
+      "artist": "Band Aid",
+      "artistId": "35S20clEkkSNUo23ViaslZ",
+      "trackName": "Do They Know It's Christmas? - 2024 Ultimate Mix",
+      "trackId": "3cK10zROGQYpqa3vsU6bs9",
+      "total": 2338537,
+      "daily": 261
+    },
+    {
+      "artist": "Band Aid",
+      "artistId": "35S20clEkkSNUo23ViaslZ",
+      "trackName": "Feed The World",
+      "trackId": "4MRIP0K2cnN48gnp71VIKs",
+      "total": 895600,
+      "daily": 253
+    },
+    {
+      "artist": "Band Aid",
+      "artistId": "35S20clEkkSNUo23ViaslZ",
+      "trackName": "Do They Know It's Christmas? - 2024 Ultimate Mix / Single Version",
+      "trackId": "4gijcWXre2jpgT7yawZJDe",
+      "total": 387705,
+      "daily": 74
+    }
+  ]
+}

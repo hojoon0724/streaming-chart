@@ -1,0 +1,614 @@
+{
+  "artist": "Bosh",
+  "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+  "songs": [
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Djomb - Bien ou quoi",
+      "trackId": "0KBwGCY9RYD9t2zjeW4h48",
+      "total": 110248742,
+      "daily": 13239
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Solitaire",
+      "trackId": "3F64F36D17vZ1KgI8vkHQf",
+      "total": 45624184,
+      "daily": 13937
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Slide",
+      "trackId": "0jUBH6aktBM2KCNnEZfBWJ",
+      "total": 42718190,
+      "daily": 6500
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "OLA OLA OLA",
+      "trackId": "5zaiTkMn6VsJDJIOtxVa0b",
+      "total": 31700642,
+      "daily": 5097
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Trixma",
+      "trackId": "7jnroWuAADF0L7SENBFff5",
+      "total": 17781998,
+      "daily": 2210
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Coeur Noir",
+      "trackId": "54BjygUE4flw6z7MEITRW7",
+      "total": 15439251,
+      "daily": 1278
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Business (feat. SCH)",
+      "trackId": "0Owx6pQ6gTjFswf0PseBkz",
+      "total": 14634440,
+      "daily": 1038
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Défilé",
+      "trackId": "3mP2F2gyIqVQi0G9ewn43s",
+      "total": 12039614,
+      "daily": 758
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Djomb - Remix",
+      "trackId": "37PWYMEAbH3DTVqvEqrBzm",
+      "total": 11726411,
+      "daily": 1016
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Anomalie",
+      "trackId": "53hDNXyv0QsV4Fsk1bsXw7",
+      "total": 9510855,
+      "daily": 682
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Deux Deux",
+      "trackId": "6i6oEluI3N0Cw2uTxwJwKc",
+      "total": 9136690,
+      "daily": 1226
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Himalaya (feat. Soolking)",
+      "trackId": "3Q0iJMJ48idzwrEC5BZ5TA",
+      "total": 8439895,
+      "daily": 1000
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Dans le noir",
+      "trackId": "3ITfHO9mLy7rKPRzpIPVlO",
+      "total": 8151493,
+      "daily": 1226
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "C'est pour nous",
+      "trackId": "0zTrZBHs0DmMDqCbvPy8TK",
+      "total": 6291565,
+      "daily": 478
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Mafiosi",
+      "trackId": "26HklsIht04eupSF64IrWw",
+      "total": 6215873,
+      "daily": 1192
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Four",
+      "trackId": "1V14jmRPOLonpDgSgozF8b",
+      "total": 4314397,
+      "daily": 194
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Top Boy (feat. Bosh)",
+      "trackId": "5mgvBExlWpOruloxD1KFKr",
+      "total": 4112945,
+      "daily": 447
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "King",
+      "trackId": "2QqXno8zRqbKmS2fvyEnDB",
+      "total": 3829174,
+      "daily": 471
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Marié à la street",
+      "trackId": "4WNsocVaY8EByO5UVfuOil",
+      "total": 3518241,
+      "daily": 793
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Validé II",
+      "trackId": "6ZYuQDdAIOQmdXozETHBmF",
+      "total": 3310884,
+      "daily": 358
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Dans mon élément",
+      "trackId": "2QvYhZhMO5PD9UzGgNrRqR",
+      "total": 3211430,
+      "daily": 218
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Sans effets",
+      "trackId": "0FfkJOMGgmnPwIgBFOxpLO",
+      "total": 3183790,
+      "daily": 222
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "J'élimine",
+      "trackId": "1D5ryV5McERTBfeKgsuJ8a",
+      "total": 3047154,
+      "daily": 182
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Tout droit",
+      "trackId": "5gP1kF25YSEsOJUDVte2te",
+      "total": 3004379,
+      "daily": 278
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Ravitaillé",
+      "trackId": "3lga5lWCWfdubpcrqPvbxH",
+      "total": 2962053,
+      "daily": 199
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Pendejo",
+      "trackId": "3gnkMt0hXl0xrcE0NcAVsQ",
+      "total": 2934900,
+      "daily": 575
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Walter White",
+      "trackId": "6SSEDegzHlRv8FQqeojPPg",
+      "total": 2890464,
+      "daily": 270
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "H24",
+      "trackId": "0UBfw0XZUzGsqY7CeqI2sc",
+      "total": 2641312,
+      "daily": 3954
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Miroir",
+      "trackId": "4acRD9aWLHx5joxkS6f2On",
+      "total": 2485986,
+      "daily": 201
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Gringa",
+      "trackId": "7d8QyjobMnMGiBlLUChF9O",
+      "total": 2411638,
+      "daily": 220
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Mauvais djo",
+      "trackId": "75BQFbqOFHpqXyeIIAHPGR",
+      "total": 1949536,
+      "daily": 338
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Maintenant",
+      "trackId": "1NHKwuujy9MvASBAxTmqZo",
+      "total": 1879191,
+      "daily": 116
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "JITVB (feat. Tigers)",
+      "trackId": "2MDmPWXaNTSyUyGWSGzoeE",
+      "total": 1853471,
+      "daily": 99
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Dans mon del",
+      "trackId": "4BoQGg72mS1N2FLmjlGBEw",
+      "total": 1844233,
+      "daily": 89
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Téléphone",
+      "trackId": "5gStNxLWNtBL6uJQkh1ZR2",
+      "total": 1689358,
+      "daily": 190
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Ouais mon reuf",
+      "trackId": "4hWakOsMFLJMumgQwZ1gJt",
+      "total": 1671037,
+      "daily": 101
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Rue de Ponthieu (feat. Leroy Menace)",
+      "trackId": "5Gy3KCuDk7am3slmk8dsAI",
+      "total": 1638166,
+      "daily": 106
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Bleu",
+      "trackId": "1YHm58aoVl9AoS8ZHHWZ0r",
+      "total": 1590355,
+      "daily": 92
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Vamos",
+      "trackId": "1rDwTwXpJjTJCTSruBqgRt",
+      "total": 1533611,
+      "daily": 110
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Fort",
+      "trackId": "3TJZafFndjB8S4mEQs5qAa",
+      "total": 1436871,
+      "daily": 147
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Bamboula",
+      "trackId": "54sx5KNEXFTyTu2PHdG0NP",
+      "total": 1399849,
+      "daily": 148
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Décepticone (feat. Tigers, Toussaint & Yanoh)",
+      "trackId": "2Zd2nielvl3da5ynSdESHm",
+      "total": 1235444,
+      "daily": 102
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "La monnaie",
+      "trackId": "24idf8gFxzFjASsnxNkKzD",
+      "total": 1215652,
+      "daily": 89
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Vision",
+      "trackId": "1FvCZsBcvnJq548iFqv0BK",
+      "total": 1199923,
+      "daily": 125
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Nouvel ami",
+      "trackId": "24nl1wifgPWxABsbwxfffa",
+      "total": 1148694,
+      "daily": 112
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Jamais",
+      "trackId": "1isk7FXYiFiWwQaAYWvJFl",
+      "total": 1127645,
+      "daily": 86
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Tout va mal",
+      "trackId": "6hPzPQHaA5f1RwTXBlRoNf",
+      "total": 1017097,
+      "daily": 86
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Doser",
+      "trackId": "4k5B695MZOURufru7noQmN",
+      "total": 993182,
+      "daily": 81
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Contrôle (feat. Naza)",
+      "trackId": "0MXVeHfGXPArgvsP5Tsg3g",
+      "total": 977894,
+      "daily": 148
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Chiffres",
+      "trackId": "4qJZRcbMVrCPVWKqrHZd5O",
+      "total": 934856,
+      "daily": 55
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Merco (feat. Dabs & DJ Roc J)",
+      "trackId": "6RdZur0izhz0PXFa2oicdv",
+      "total": 930329,
+      "daily": 79
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "PLS",
+      "trackId": "2fqpHPK268KdwNUFQE6LSO",
+      "total": 927061,
+      "daily": 74
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Yen-Yen (feat. Sadek)",
+      "trackId": "7gjtDb6frz2zOQm69oiQZx",
+      "total": 691771,
+      "daily": 36
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Chap chap",
+      "trackId": "058x24YEjkbNPcMuLyfhzy",
+      "total": 685170,
+      "daily": 113
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Gangsta Shit",
+      "trackId": "6GfwU8R97LNnRpVesUy34I",
+      "total": 673560,
+      "daily": 107
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Libosh (feat. Libo)",
+      "trackId": "6gvZlDzXJBfLLwT5Nwfihq",
+      "total": 671161,
+      "daily": 40
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Intro - Algorithme",
+      "trackId": "4dMhOiQKAQhDuQ3lsOKSEa",
+      "total": 647995,
+      "daily": 85
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Yamaha",
+      "trackId": "0NXLp83ooElvSxntH0X4OQ",
+      "total": 617334,
+      "daily": 55
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Tout ce qu'il faut",
+      "trackId": "4YsI0GgncgGFxfnV7luOPt",
+      "total": 603427,
+      "daily": 67
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Blanc 2 Blanc",
+      "trackId": "23esw4Mt13hr7bDMgbbiA6",
+      "total": 472077,
+      "daily": 50
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Alimenté",
+      "trackId": "7rdBAfFiI9cjAHFOYDL6Kl",
+      "total": 442329,
+      "daily": 81
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Piranha",
+      "trackId": "3IXh8T1V5cYDYRj6kcdedl",
+      "total": 413927,
+      "daily": 42
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Perfect",
+      "trackId": "24cZUPWmt5OumXYgWbR3Zl",
+      "total": 406343,
+      "daily": 111
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Charbon",
+      "trackId": "2gIV4XgsZGdfm7lRUju8Eo",
+      "total": 388387,
+      "daily": 137
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Gang (feat. Yanoh, Tigers & Toussaint)",
+      "trackId": "1V7PureXDV0m1eoCT9mNPW",
+      "total": 353255,
+      "daily": 39
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Rien sans rien",
+      "trackId": "4lQ8CcpU6jgwa6NrpTV3RU",
+      "total": 302802,
+      "daily": 28
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Super-héros",
+      "trackId": "3IhfrTcqO800vh89edReik",
+      "total": 302130,
+      "daily": 82
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Toleka",
+      "trackId": "2CxMW41nEcLBjU2uYGCL16",
+      "total": 211328,
+      "daily": 59
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Black",
+      "trackId": "7ndhlnqEPDGQuJRgtlitnH",
+      "total": 195421,
+      "daily": 96
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Hum Hum (feat. Unknown T)",
+      "trackId": "2CJPlQHBacEX82u0V4P9zF",
+      "total": 187867,
+      "daily": 40
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Comète",
+      "trackId": "5OFujJA35FpYqy9KeLMnTV",
+      "total": 186820,
+      "daily": 34
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "La maille",
+      "trackId": "7y9K3a5slFxQUjB6W2OKVh",
+      "total": 145549,
+      "daily": 97
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Sheubonidas",
+      "trackId": "5bAaZuLtbjWbbGrsS2vLIR",
+      "total": 139698,
+      "daily": 29
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Visonnaire",
+      "trackId": "6HvyLNWAZXfD5XYUIXLB9r",
+      "total": 134914,
+      "daily": 29
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Avalanche",
+      "trackId": "1Zyyjzx305Pid7j3DzL0mL",
+      "total": 123700,
+      "daily": 26
+    },
+    {
+      "artist": "Bosh",
+      "artistId": "6Mm2g25BTeJ6BICPFWGkPg",
+      "trackName": "Comprends",
+      "trackId": "6mPWRS9X2tDKCZtHuh8X2d",
+      "total": 112561,
+      "daily": 20
+    }
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "artist": "Joost",
+  "artistId": "6s5ubAp65wXoTZefE01RNR",
+  "songs": [
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Friesenjung",
+      "trackId": "7b8Z1GU2plJy3aASZTiolF",
+      "total": 201712492,
+      "daily": 140140
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Europapa",
+      "trackId": "4sZGa0UXFc9Ako9Q0Sc9vk",
+      "total": 186743808,
+      "daily": 174125
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Ome Robert",
+      "trackId": "4hFLAgCvQdngAtIhb3KaVI",
+      "total": 40760621,
+      "daily": 24546
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Luchtballon",
+      "trackId": "3Aiv0FNUvnLphXvUFSVVD2",
+      "total": 33761991,
+      "daily": 33652
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Wachtmuziek",
+      "trackId": "43cL1h1glLvYSfJ0EcbcG4",
+      "total": 21597143,
+      "daily": 14226
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Droom Groot",
+      "trackId": "7x5c5nR0F5qyR5lZz3Ypby",
+      "total": 18784767,
+      "daily": 10718
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "TRAFIK!",
+      "trackId": "4VDEbsqJED0VOLm7sF21su",
+      "total": 18700918,
+      "daily": 54998
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Buurman Uit Berlijn",
+      "trackId": "0FWaLpqG0Ze5PPJNOvaMdE",
+      "total": 16662198,
+      "daily": 24559
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Friesenjung (Sped Up)",
+      "trackId": "3PqC6pBbGfq8USUgxqUuS9",
+      "total": 14855102,
+      "daily": 8109
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Albino",
+      "trackId": "7xVssMegpAxQ8GuFa84V31",
+      "total": 13837681,
+      "daily": 5956
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Scandinavian Boy",
+      "trackId": "6YPkb4MZmQQ0BLXnp7CmJc",
+      "total": 13764140,
+      "daily": 1988
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Fryslân Bop",
+      "trackId": "5ZzxgIheA8ZwywtZi61A5j",
+      "total": 13362040,
+      "daily": 5190
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Summervibes 2019",
+      "trackId": "5ILF9ZkUBBPGFzkY3Ue59F",
+      "total": 11327209,
+      "daily": 3077
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Filthy Dog",
+      "trackId": "5cE41BmYbkU4fleNXJ7DNA",
+      "total": 11286948,
+      "daily": 29462
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Florida 2009",
+      "trackId": "23M2pHxtt3QACQJKSYd69Y",
+      "total": 9830798,
+      "daily": 6871
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Europapa - Outro",
+      "trackId": "25BRPXsQ74snNszEnQoamP",
+      "total": 9382895,
+      "daily": 5922
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Joost Klein 2",
+      "trackId": "3BeZ64xDOOzZZULMEkOIsU",
+      "total": 8577520,
+      "daily": 4153
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Buurman",
+      "trackId": "7GQjHVVyHW1tEgsvskGXIN",
+      "total": 7950552,
+      "daily": 3439
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Antwoord",
+      "trackId": "3vxO43zbDREZ0Dh2OwkMTx",
+      "total": 7515465,
+      "daily": 7702
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Wachtmuziek (Sped Up)",
+      "trackId": "5EGgwuVEow9IUdTLnP13uU",
+      "total": 6721798,
+      "daily": 1628
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Meeuw",
+      "trackId": "58SAzHDZoAKTv5mNBZywak",
+      "total": 5690172,
+      "daily": 1519
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Bus Gemist",
+      "trackId": "3UU8OqJfnsj1Z5lCQdTSJ6",
+      "total": 5395337,
+      "daily": 975
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "United By Music",
+      "trackId": "4vd1qr75Q7t0NwZlxho2NL",
+      "total": 5282998,
+      "daily": 47110
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Offline",
+      "trackId": "2bvQXJW3vNwXSLHBEQPMtY",
+      "total": 5279645,
+      "daily": 7627
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Door De Kerk",
+      "trackId": "3nHALlbTj5BXiNEJQJwrhS",
+      "total": 5201268,
+      "daily": 3096
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Disco Belgica",
+      "trackId": "2GokgKgBBYgKsMbkyndpvu",
+      "total": 4810863,
+      "daily": 2548
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Mayo, No Fries!",
+      "trackId": "21i2GLc8YbnCuGUWpGUL2K",
+      "total": 4485496,
+      "daily": 2037
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Zaanse Mayo",
+      "trackId": "2zBUb8oBUVBuEox8y0TFpE",
+      "total": 4301494,
+      "daily": 697
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "PTSD",
+      "trackId": "4NBKc7AyaV6iFPswVZpE0x",
+      "total": 4287134,
+      "daily": 4511
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Joost Klein",
+      "trackId": "2lj2y6ZppRELMdM3PL2ifT",
+      "total": 4260224,
+      "daily": 2092
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Joost Klein 4",
+      "trackId": "7257dq7OmN1QmSZ9UqXFtR",
+      "total": 4142299,
+      "daily": 2760
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "The Bird Song",
+      "trackId": "43aIA9Lq1rvYF2M0I3QqfU",
+      "total": 4072924,
+      "daily": 3677
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Kunst und Musik",
+      "trackId": "6pDVyh6jCAablXFc6yc2bJ",
+      "total": 4052841,
+      "daily": 25121
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Glaassie Water",
+      "trackId": "4ylgxoKpv0UwCUP4INgVNp",
+      "total": 4021026,
+      "daily": 1879
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Joost Klein 3",
+      "trackId": "09lCpF8YS8wkP6bnxu3LNP",
+      "total": 3808627,
+      "daily": 1053
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Papa en Mama",
+      "trackId": "0ubke5GOkbScsDjWG9e064",
+      "total": 3679880,
+      "daily": 3558
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Sexy Song",
+      "trackId": "7IwXEvyeZ28qrRRg99IlAq",
+      "total": 3188703,
+      "daily": 3022
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Vrije Tijd",
+      "trackId": "4PtkeYZzMxcCnSw0gNFlgK",
+      "total": 3170269,
+      "daily": 2705
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Why Not???",
+      "trackId": "4N7mKXFfa64TcjpdqTps3x",
+      "total": 3146999,
+      "daily": 12440
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Kut!",
+      "trackId": "4RMMcvhXaaowXhtzsEwFi1",
+      "total": 3001555,
+      "daily": 2894
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Zelfgemaakt",
+      "trackId": "1uaoMg5s9ceu7MAWzSiN1G",
+      "total": 2958647,
+      "daily": 570
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "2002/2001",
+      "trackId": "5Y1hJgOmthxiEeg3u21G45",
+      "total": 2914099,
+      "daily": 3882
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Rookpauze 2",
+      "trackId": "7M0HgBi7WvF7l1aGzN3Knh",
+      "total": 2893288,
+      "daily": 2830
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Normalje Bass",
+      "trackId": "6YpzKzjxE07dBjdLKpz6ab",
+      "total": 2820951,
+      "daily": 4334
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Buurman Uit Berlijn - Radio Edit",
+      "trackId": "22OehECsOcoKPjcLkLzBBr",
+      "total": 2693745,
+      "daily": 4195
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Parmezaan & Linkerbaan",
+      "trackId": "2mGqOCPDjd5b6acAxphayH",
+      "total": 2662898,
+      "daily": 394
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Bee The Movie",
+      "trackId": "5slwcHyEgLHtYEcMZ7cORH",
+      "total": 2629991,
+      "daily": 1834
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Kogels",
+      "trackId": "2ki6paSQbn3ZVocduGyOTs",
+      "total": 2607276,
+      "daily": 595
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Fußball (World Cup 1998)",
+      "trackId": "4vBFkXEqoRPswfMcXXRbmx",
+      "total": 2592987,
+      "daily": 2115
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Pinkpop 1983",
+      "trackId": "32OuMbVOMUQ7SFz9gwhyuZ",
+      "total": 2523207,
+      "daily": 2230
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Marktplaats",
+      "trackId": "5rdMAv9BCStpVhtd8Amhtc",
+      "total": 2440350,
+      "daily": 479
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "1",
+      "trackId": "67mnvfz5i2xIrICAYMGgLN",
+      "total": 2263509,
+      "daily": 7817
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Life Story",
+      "trackId": "6zbezELeHcSVG9v7WTMPbT",
+      "total": 2229551,
+      "daily": 1777
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Bitches",
+      "trackId": "00i3IxyjRf2tuW88WIqlhK",
+      "total": 2207659,
+      "daily": 1894
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Gabberland",
+      "trackId": "1NIdjdqpYatyogdEwai7je",
+      "total": 2168878,
+      "daily": 10261
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Netflix Und Chill",
+      "trackId": "0bMTZMNSnhTfBZm3BB64yM",
+      "total": 2166680,
+      "daily": 474
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Bruder + Schwester",
+      "trackId": "5AvMPV4Sy3Ifq9H9Z0AQJh",
+      "total": 2166331,
+      "daily": 1963
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Herman van Veen",
+      "trackId": "1PKgwAQjRc0RAtsWbwg4Cc",
+      "total": 1981704,
+      "daily": 1892
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Milf",
+      "trackId": "4mBZEOqOUlqREJUlOGwxUY",
+      "total": 1943409,
+      "daily": 379
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Grote Spelers",
+      "trackId": "1nymGUXDxcwylYJBesZZLQ",
+      "total": 1891790,
+      "daily": 1374
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "European Music",
+      "trackId": "3fEvWoxX58U66SnaJefrgs",
+      "total": 1873188,
+      "daily": 1672
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Ham?",
+      "trackId": "4WNj65WgfiC7ggcHpd1XH8",
+      "total": 1732348,
+      "daily": 694
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Pauze?",
+      "trackId": "5KYngzQXm06kWSG03FvARt",
+      "total": 1725865,
+      "daily": 1293
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Boerenland",
+      "trackId": "6JPS6X6k4Xpk8yu8fJkpPZ",
+      "total": 1674814,
+      "daily": 11712
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Rookpauze",
+      "trackId": "3AEeTvaw75bWAU0IDVQU8G",
+      "total": 1651425,
+      "daily": 1194
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Liverpool",
+      "trackId": "5RWtAnbJu8PdTnX2yMOJZi",
+      "total": 1524178,
+      "daily": 1329
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Voorhoede",
+      "trackId": "6m1ZndzH8TCj4wvjPpNpt7",
+      "total": 1509599,
+      "daily": 452
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Shrek",
+      "trackId": "4ezFZsx32leihtAu0Rh5GZ",
+      "total": 1486850,
+      "daily": 425
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Dankuwel",
+      "trackId": "2pUgSu9IbCKvlJAwddeGq0",
+      "total": 1478818,
+      "daily": 634
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Last Man Standing",
+      "trackId": "1q6srH5QeeZraQ4Phpql6Q",
+      "total": 1459220,
+      "daily": 6650
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Studio 100",
+      "trackId": "3KF2AEekT1fpn74FqoAxbJ",
+      "total": 1446061,
+      "daily": 315
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Eva Jinek",
+      "trackId": "7yAioWazAQtR8bKyzSIXDw",
+      "total": 1437048,
+      "daily": 505
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Bezem",
+      "trackId": "3gKUcKyJPH8kp2fnUIO4we",
+      "total": 1412681,
+      "daily": 251
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Ich Bin Krank",
+      "trackId": "0NZRGlATAFNRWwBjNGA3DC",
+      "total": 1381893,
+      "daily": 491
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Discozwemmen",
+      "trackId": "0VlQjCCBWiU6IbGDfKcF7u",
+      "total": 1343945,
+      "daily": 5063
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Albino Sports Anthem",
+      "trackId": "3UslyAvEV3eWLMZL6rGyKg",
+      "total": 1277878,
+      "daily": 468
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "We'll Meet Again",
+      "trackId": "4oDqUK8gYoAZBsHoY2reKL",
+      "total": 1253251,
+      "daily": 5367
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Schijf van Vijf",
+      "trackId": "2RGlZTnxwUM34sLw0Ya2Lg",
+      "total": 1243325,
+      "daily": 416
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "BOOM BOOM!!!!!",
+      "trackId": "3CXYFdMkJraqKaCBzhPeOv",
+      "total": 1223466,
+      "daily": 5890
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Stoelendans",
+      "trackId": "5d7urEhxUOQvAz94Oew59b",
+      "total": 1187265,
+      "daily": 303
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Schoolshooter",
+      "trackId": "12Hv5gMpBrRM0UyZlJPde1",
+      "total": 1172907,
+      "daily": 310
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Demonen In Me Lichaam",
+      "trackId": "3s1Sk61JVqPo1Lbpei69C4",
+      "total": 1172355,
+      "daily": 1580
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Dakloos",
+      "trackId": "58DGc5X2iU0g15H2TwaWlL",
+      "total": 1170710,
+      "daily": 285
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Guus Meeuwis",
+      "trackId": "6SsUaZrFHXwAjSkVqsKUew",
+      "total": 1165117,
+      "daily": 431
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Gewoon Goed",
+      "trackId": "28b83JHta62CyOZ0SsQVsE",
+      "total": 1160228,
+      "daily": 372
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Internetcafe 24/7",
+      "trackId": "2cpDK73E85AfELBz0mUrdF",
+      "total": 1105394,
+      "daily": 4359
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Bim Bam Bom",
+      "trackId": "6fiIEsv6ndNO4hssFdA2Uu",
+      "total": 1105199,
+      "daily": 1430
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "M Van Marketing",
+      "trackId": "4pHaft5iymL4elqKkA3Qxb",
+      "total": 1082897,
+      "daily": 380
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Florida 2009 - Live at Pinkpop",
+      "trackId": "2XVLuhyjfbYg7tniBLm78y",
+      "total": 1054519,
+      "daily": 628
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Domme Patta",
+      "trackId": "4PBnQipQ15dFHmXVWoO3Z1",
+      "total": 1032971,
+      "daily": 244
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Range Rovers",
+      "trackId": "05uiYDmPoYaK7gZAtscmUh",
+      "total": 996244,
+      "daily": 228
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Frikandelbroodje",
+      "trackId": "5gY0sM8ugus6xUOlTlNcP2",
+      "total": 971942,
+      "daily": 232
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Stockholm",
+      "trackId": "6d8jWXxRqKrlQxuBcFA4eE",
+      "total": 961619,
+      "daily": 311
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Agoeie",
+      "trackId": "65OiugSZZ4GSJC92XX33Hh",
+      "total": 949485,
+      "daily": 322
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Zorro",
+      "trackId": "2HbGsuRku3gi5kSTbQKkc7",
+      "total": 946921,
+      "daily": 246
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Interlude Type Beat",
+      "trackId": "4dFBJ0TwVzURhLKvx7jbUL",
+      "total": 946691,
+      "daily": 274
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Copy The Wave",
+      "trackId": "38Fp8zXFLmNcNJuGzQvTyB",
+      "total": 882685,
+      "daily": 224
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Enfant Terrible",
+      "trackId": "5K8FwToxpng5HBNgsttmE7",
+      "total": 873167,
+      "daily": 615
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Koud (Haha)",
+      "trackId": "0t1jyNtNC5tKYZh6rCIRKZ",
+      "total": 855254,
+      "daily": 168
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Papier Hier",
+      "trackId": "6evFaZ9XlCQgZFhN7UkPVw",
+      "total": 843095,
+      "daily": 246
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Vogel (Bird)",
+      "trackId": "76APKu8vEUncUCyrvmg83n",
+      "total": 830825,
+      "daily": 345
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Vogel Op De Hek",
+      "trackId": "4hD3sEgc81CtDaXv5Pbz9x",
+      "total": 824139,
+      "daily": 274
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "SAMSUNG! [Bonus]",
+      "trackId": "3ciVEzPHZ4OaYdvTgKZRZI",
+      "total": 807840,
+      "daily": 420
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Purno $$ - Bonus Track",
+      "trackId": "7qjVLtXGj59LqKDuE0IAps",
+      "total": 759043,
+      "daily": 293
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Lets Go 2x",
+      "trackId": "7ATlNmP8mIvNZc0jAx8BSO",
+      "total": 754407,
+      "daily": 415
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Pretty Fly 4",
+      "trackId": "5BL0eoUxoqGW3WzfxNHNFS",
+      "total": 743619,
+      "daily": 338
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "DWDD - intro",
+      "trackId": "4qaXD3Y6Wwh6f8JqbPJKdn",
+      "total": 721089,
+      "daily": 307
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Marijke Helwegen",
+      "trackId": "71bvq2W45TRPyWWDFTmKQX",
+      "total": 692512,
+      "daily": 174
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Dutch Classic 2020",
+      "trackId": "6lXkHbv4IEWl8UopdBmJ5t",
+      "total": 668322,
+      "daily": 393
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Fierljeppen",
+      "trackId": "0o9XvBGrcGIoLbScXfiFPB",
+      "total": 659435,
+      "daily": 195
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Marco Borsato Freestyle",
+      "trackId": "07xDkiyVUHm9JAoAKJdHd1",
+      "total": 633405,
+      "daily": 325
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Woensdagochtendwinkel",
+      "trackId": "4RAoGfzfUtN6weuYzM2adQ",
+      "total": 606501,
+      "daily": 192
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Friesenjung (Klingelton)",
+      "trackId": "6tppzZnXsK37HU6p5fLYSH",
+      "total": 593710,
+      "daily": 388
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Leipe Dennis",
+      "trackId": "4R3CcCoqblPGMHHA3wGzOr",
+      "total": 519201,
+      "daily": 150
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "German Song",
+      "trackId": "2KpdFpWGBuXznzM7zxgAiZ",
+      "total": 499850,
+      "daily": 420
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Club Music 2008",
+      "trackId": "1PoKU4bxv2pGxAPx4LxJzA",
+      "total": 432106,
+      "daily": 334
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Furious",
+      "trackId": "6J2tSP6wITacdQUcDkIOUO",
+      "total": 413993,
+      "daily": 170
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Arkham City - Bonus Track",
+      "trackId": "4tLOakeINuLBNqsHNf9Qwt",
+      "total": 406123,
+      "daily": 225
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "International Man",
+      "trackId": "2IFGUEK1XeCYnEFXqRHzUw",
+      "total": 370020,
+      "daily": 210
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Can't F w U",
+      "trackId": "4XXhSuoAQ4SNTwQ7XCponH",
+      "total": 315795,
+      "daily": 345
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Brunzyn Energy",
+      "trackId": "6iUyoOuTulHSqaZ6RerKBg",
+      "total": 297514,
+      "daily": 102
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Amigos",
+      "trackId": "1jAR8Mox6rM5RTAkr4MEUr",
+      "total": 235034,
+      "daily": 96
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Herres",
+      "trackId": "72byxszIKVYVExEGZcYPWT",
+      "total": 228086,
+      "daily": 89
+    },
+    {
+      "artist": "Joost",
+      "artistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "Heel Veel Barz",
+      "trackId": "3V45hQaekMeJ1qmbkWbzs6",
+      "total": 176743,
+      "daily": 62
+    }
+  ]
+}

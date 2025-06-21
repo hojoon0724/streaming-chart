@@ -1,0 +1,982 @@
+{
+  "artist": "MEDUZA",
+  "artistId": "0xRXCcSX89eobfrshSVdyu",
+  "songs": [
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Piece Of Your Heart",
+      "trackId": "5RDUCbvwPZdmjFbhZ5EY4N",
+      "total": 1061641196,
+      "daily": 195444
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Lose Control",
+      "trackId": "2unqiEdHtabnsbv6TJ7gCW",
+      "total": 1005587811,
+      "daily": 191241
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Paradise",
+      "trackId": "40FUdLENDY3sZmHEM25lpE",
+      "total": 790133190,
+      "daily": 168513
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Bad Memories",
+      "trackId": "3JhgPs7rbmzLBWRvHlel8U",
+      "total": 584033212,
+      "daily": 253737
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Piece Of Your Heart - Alok Remix",
+      "trackId": "6iW38RGqdDGOofmz2HeXLW",
+      "total": 412910014,
+      "daily": 106379
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Tell It To My Heart",
+      "trackId": "1sOfNRe7zyQkJj0cY6z2k8",
+      "total": 246336372,
+      "daily": 67306
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Tell Me Why - MEDUZA Remix",
+      "trackId": "7jrMFjEq0t09f7m3HnnWXl",
+      "total": 218911734,
+      "daily": 113255
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Phone",
+      "trackId": "4Y3xYddcLDgr2qm0xVdGgW",
+      "total": 97263497,
+      "daily": 52166
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Bad Habits - MEDUZA Remix",
+      "trackId": "12N23tQKmfGcEO0z8ObwtM",
+      "total": 90310174,
+      "daily": 35801
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Bad Memories - Felix Jaehn Remix",
+      "trackId": "04R4oiYD4NU6ZkdwlaJSep",
+      "total": 79287908,
+      "daily": 49413
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Born To Love",
+      "trackId": "1szpjbwEArT9ke6qapDSwQ",
+      "total": 76843581,
+      "daily": 13176
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Everything You Have Done",
+      "trackId": "44lgAk4wJN8ObrFSglxui5",
+      "total": 75238735,
+      "daily": 39663
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Fire - Official UEFA EURO 2024 Song",
+      "trackId": "7MYLHLCf0YWR4TVs3owDny",
+      "total": 65448097,
+      "daily": 56218
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Upside Down",
+      "trackId": "5KEve04JRDnfszpMRuhxZG",
+      "total": 56806275,
+      "daily": 28380
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Pegasus",
+      "trackId": "6G0ldVNlhQf82Rf3pWjAyQ",
+      "total": 50560016,
+      "daily": 27855
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Piece Of Your Heart - James Hype Remix",
+      "trackId": "71uNY0zkEKMF8UyPtjhod4",
+      "total": 38045588,
+      "daily": 4842
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Lose Control - ChildsPlay & Badd Dimes Remix",
+      "trackId": "44Fy9nmj1bBh42WviVea0m",
+      "total": 31665709,
+      "daily": 4096
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Another World",
+      "trackId": "5U0iZCQ9e8PaLYxup0pcnO",
+      "total": 25041459,
+      "daily": 61184
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Under Pressure",
+      "trackId": "7q887Wj7xbhsSKhHct5xKM",
+      "total": 24314418,
+      "daily": 7891
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Power Over Me - MEDUZA Remix",
+      "trackId": "494rSbjxSGfpm8s74CsSnh",
+      "total": 22482489,
+      "daily": 6147
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Sparks",
+      "trackId": "0SG7XH1L4gMwcXkLuMjDgq",
+      "total": 21511781,
+      "daily": 8363
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Tell It To My Heart (feat. Hozier) - Tiësto Remix",
+      "trackId": "4bL0sCjnM6a1rKoBIHJYxI",
+      "total": 18791788,
+      "daily": 6187
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Wild - MEDUZA Remix",
+      "trackId": "0eHT54ehADNQkSypa0YGgp",
+      "total": 18235017,
+      "daily": 2022
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Paradise - Topic Remix",
+      "trackId": "4PZW5GQCtmdHAocDXLdU4j",
+      "total": 17399550,
+      "daily": 8118
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Friends",
+      "trackId": "02GCklGc3OI3kfkZqttLyM",
+      "total": 16648432,
+      "daily": 6795
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Paradise - Vintage Culture Remix",
+      "trackId": "78GyaxqQGBTiRBOHHgyoln",
+      "total": 14895690,
+      "daily": 2781
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Using (with Emily Warren) - MEDUZA Remix",
+      "trackId": "7c6tga0CoT6IHhHt16EcBd",
+      "total": 12280400,
+      "daily": 1024
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "I Got Nothing",
+      "trackId": "5gYuQutteTbnyTTAIUrzGd",
+      "total": 11689081,
+      "daily": 5082
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Tell It To My Heart (feat. Hozier) - KREAM Remix",
+      "trackId": "4BxYyjqSPyip5kbscidyZx",
+      "total": 11457570,
+      "daily": 3149
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "My Boy (Meduza Remix) (Edit)",
+      "trackId": "0NEWJoeXwbobD2MkycE03Z",
+      "total": 11025005,
+      "daily": 1424
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Innadadance (feat. Suli Breaks & Jazzie B) (Meduza Remix) (Edit)",
+      "trackId": "10WgsNzjXbJ2XZpWXr6wGX",
+      "total": 10462970,
+      "daily": 7029
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Piece Of Your Heart - CYA Remix",
+      "trackId": "3WEifRfQ9VwQ3x7bp5sgCo",
+      "total": 10453552,
+      "daily": 1239
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Tell It To My Heart (feat. Hozier) - KVSH Remix",
+      "trackId": "0AxvmNaxYKmO4xPptkKsnZ",
+      "total": 10184673,
+      "daily": 2547
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Skin and Bones (MEDUZA REMIX)",
+      "trackId": "0q9YLuSfKnDdulECD5a2wJ",
+      "total": 10004504,
+      "daily": 2194
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Paradise - Guitar Acoustic",
+      "trackId": "6ehKqIkVCkz9chGBwk3alc",
+      "total": 9995287,
+      "daily": 2425
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Discopolis 2.0 - MEDUZA Remix",
+      "trackId": "4th8GsGh2B8nxAA2gLAAu2",
+      "total": 9860601,
+      "daily": 2030
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Piece Of Your Heart - Joris Voorn Remix",
+      "trackId": "1rBwz2rjNjvkg2119gAH9V",
+      "total": 7994913,
+      "daily": 939
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Ecstasy",
+      "trackId": "7gT3poPl89krqi8qcBinyU",
+      "total": 7348857,
+      "daily": 4889
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Bad Memories - David Guetta Remix",
+      "trackId": "05VJk3MSJRQ3F1zcIssbVo",
+      "total": 7030919,
+      "daily": 4077
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Lose Control - Pink Panda Remix",
+      "trackId": "4jsWeCIjFihzX3KdXIxXVm",
+      "total": 6465872,
+      "daily": 1312
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Headrush (feat. Elroii)",
+      "trackId": "3zpINmzGKYkktBDWl2LdUW",
+      "total": 6452238,
+      "daily": 1653
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "My Love - MEDUZA Remix",
+      "trackId": "1yyQxEZcZBSTyI1sShNGKC",
+      "total": 5739207,
+      "daily": 1170
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "In My Arms - Meduza Remix",
+      "trackId": "7txEYizM6o5TNsfKoAfbf5",
+      "total": 5491077,
+      "daily": 639
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Piece Of Your Heart - The Stickmen Remix",
+      "trackId": "6gpx6upCWKGaUn8Ngv2wjr",
+      "total": 5244925,
+      "daily": 1080
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Edge Of The World (feat. Nu-La)",
+      "trackId": "2zfWwqiWzmXRsyICIDbwGW",
+      "total": 5032325,
+      "daily": 26064
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Brividi - MEDUZA Remix",
+      "trackId": "6yiDy3IlYchv31DynpLiDz",
+      "total": 4131186,
+      "daily": 603
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Musica",
+      "trackId": "207YcqxaFYsOdJarlqyjWl",
+      "total": 3834458,
+      "daily": 2310
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Forever - MEDUZA Remix",
+      "trackId": "3XF34wLLHxrHBrl5uIryiE",
+      "total": 3756734,
+      "daily": 8983
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Another World - Kevin de Vries & SLVR Remix",
+      "trackId": "70hIxHhQLcxmqwxfcYkoUf",
+      "total": 3586486,
+      "daily": 12912
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Dola re Dola",
+      "trackId": "1R0YUQ48qQQXFd9dLYifQw",
+      "total": 3280192,
+      "daily": 3795
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Friends - ARTBAT Remix",
+      "trackId": "1dtNRzHMtDS3TtIzxNdyag",
+      "total": 3204279,
+      "daily": 3515
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Desire (with Sam Smith) - MEDUZA Remix",
+      "trackId": "0GxduuI5Vj72Z9saYKY3ki",
+      "total": 3198954,
+      "daily": 881
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Another World - HUGEL Remix",
+      "trackId": "36uVlC2w68WFYnvEprzBBO",
+      "total": 3189637,
+      "daily": 10610
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Bad Memories - Acoustic",
+      "trackId": "38Z2ZEs6tW8D0AnM0AVSxP",
+      "total": 2855180,
+      "daily": 643
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Paradise - Cassian Remix",
+      "trackId": "7nL8e8YNagE3WI3YCrUrf0",
+      "total": 2851608,
+      "daily": 664
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "My Boy (Meduza Remix)",
+      "trackId": "3dG4swLk9mLFqRViaMBhX1",
+      "total": 2837690,
+      "daily": 501
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Tell It To My Heart (feat. Hozier) - Fideles Remix",
+      "trackId": "2DR33CsJEcnnf5TjOy3bZP",
+      "total": 2764369,
+      "daily": 561
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Tides (feat. Bajka)",
+      "trackId": "28bko2C8s1cI3oOvXag2gZ",
+      "total": 2757055,
+      "daily": 2620
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Freak",
+      "trackId": "4w3dp65mVEKvTHeKZ7U2l8",
+      "total": 2669812,
+      "daily": 16990
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Piece Of Your Heart - WEISS Remix",
+      "trackId": "7G8QCXAxRV4S4jdFJadJXd",
+      "total": 2442897,
+      "daily": 198
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Seek Your Truth (A Vitória)",
+      "trackId": "4Naysy4HW10kgLxKsvmhMw",
+      "total": 2425285,
+      "daily": 3210
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Phone - VIP Mix",
+      "trackId": "34l1CKXUF74yC5qAIjbuHT",
+      "total": 2425203,
+      "daily": 1161
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Piece of Your Heart - DJ Phantasy Remix",
+      "trackId": "5fmMmOcTOzeci7F08wnZ5x",
+      "total": 2414758,
+      "daily": 151
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Tell It To My Heart (feat. Hozier) - Matador Remix",
+      "trackId": "24LGELLMikOarFOV9YnLLx",
+      "total": 2176613,
+      "daily": 826
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "I Got Nothing - Ferreck Dawn Mix",
+      "trackId": "0PFLwy2frAG1xxp6MzVuyQ",
+      "total": 2140449,
+      "daily": 1583
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Bad Memories - Korolova Remix",
+      "trackId": "2FsMSqzAWqRrYhAOnUJoVX",
+      "total": 2088536,
+      "daily": 948
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Tell Me Why - MEDUZA Extended Remix",
+      "trackId": "28z7B1ctsuTyspQFda3xEl",
+      "total": 2071419,
+      "daily": 1602
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Playground (from the series Arcane League of Legends) (MEDUZA Remix)",
+      "trackId": "0wvX3fz7agyyhmWhfg7IHW",
+      "total": 1937540,
+      "daily": 619
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Paradise - Piano Version",
+      "trackId": "550aWNppgjke6wF5lepBbG",
+      "total": 1905378,
+      "daily": 495
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Bad Memories - Andrea Oliva Remix",
+      "trackId": "2EH2GAYC9dBFsOk7tVs5dn",
+      "total": 1814328,
+      "daily": 247
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Il mio cuore è già tuo (feat. MEDUZA)",
+      "trackId": "1kinwus6UJa1gV7SVYh1NT",
+      "total": 1755117,
+      "daily": 5237
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Phone - Robin Schulz Remix",
+      "trackId": "6ZFguUi2MgarxGLHSFHX6P",
+      "total": 1661489,
+      "daily": 575
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Tell It To My Heart (feat. Hozier) - Ivan Gough & JYYE Remix",
+      "trackId": "29MSRInfMKlqvpayCQAaFC",
+      "total": 1627950,
+      "daily": 333
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Tell It To My Heart (feat. Hozier) - Chemical Surf Remix",
+      "trackId": "2pFD4psPVBvlRKBeFDFCgg",
+      "total": 1614858,
+      "daily": 213
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Phone - Trance Wax Remix",
+      "trackId": "2F5ssWRuQs5phliRWpecqd",
+      "total": 1563437,
+      "daily": 556
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Money (Can't Save Us)",
+      "trackId": "3MfFBWYQTYpCyus3wqzpm1",
+      "total": 1530929,
+      "daily": 418
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Obsession",
+      "trackId": "6RvWpDuPhpKFd5Z79PoFSY",
+      "total": 1390746,
+      "daily": 1304
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Pegasus - Extended Mix",
+      "trackId": "63Ql7mIPeQJwMeIW8vW7RS",
+      "total": 1379932,
+      "daily": 575
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Tell It To My Heart (feat. Hozier) - James Hype Remix",
+      "trackId": "0M5Gyp4F52rclZkFeLK10F",
+      "total": 1336797,
+      "daily": 474
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Another World - Nico de Andrea Remix",
+      "trackId": "3ZOrHLxVmoJ6qlF9QK4HI0",
+      "total": 1236321,
+      "daily": 2166
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Another World - Neil Amarey, Glauko, Breeze and The Sun Remix",
+      "trackId": "5tfvV3MjPEDEswgMSlWzpc",
+      "total": 1216731,
+      "daily": 5324
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "My Boy (Meduza Dance Edit)",
+      "trackId": "6clDNcc2Thnqs9HlAwd0Cl",
+      "total": 1208960,
+      "daily": 194
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Lose Control - Marcus Santoro Remix",
+      "trackId": "6k2nsvAIW77vHi4JsBRqwP",
+      "total": 1170828,
+      "daily": 408
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Phone - GENESI Remix",
+      "trackId": "0ZrTSNEbi72x7HsbocY5Qv",
+      "total": 1134786,
+      "daily": 513
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Back Again",
+      "trackId": "6IgPShNvRsuplV3C3XIx6N",
+      "total": 1128115,
+      "daily": 1136
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Around",
+      "trackId": "0qDYl6Bj6oTuaBLNKZfuHb",
+      "total": 1105247,
+      "daily": 7371
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Bad Memories - Meduza ODIZZEA Remix",
+      "trackId": "7zuO9i2ynhzOAlklB3L0Bb",
+      "total": 1099878,
+      "daily": 284
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Fire - Zerb Remix",
+      "trackId": "070icOlQoe80OQs83lcFlR",
+      "total": 1052093,
+      "daily": 2096
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Discopolis 2.0 - MEDUZA Extended Remix",
+      "trackId": "5vRdzo4tTRBSpGloaUf4ct",
+      "total": 1013137,
+      "daily": 200
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Paradise - Wh0 Remix",
+      "trackId": "3aAGMdU6mpe4z72gEPWeKF",
+      "total": 1004446,
+      "daily": 263
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Lose Control - Ben Pearce Remix",
+      "trackId": "3c6LW9p4PcbruOobBmmGs6",
+      "total": 953491,
+      "daily": 95
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Fire - Turno Remix",
+      "trackId": "5ChOkC0weu8chlxUgTJzai",
+      "total": 892538,
+      "daily": 321
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Piece Of Your Heart - Lee Foss Remix",
+      "trackId": "3RXkrjMuDmtqZTkwdU2O6J",
+      "total": 796473,
+      "daily": 47
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Paradise - Loco Dice Remix",
+      "trackId": "6Lf7UB0HT5RlEVOQq77Hmc",
+      "total": 796181,
+      "daily": 62
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Phone - Shadow Child Remix",
+      "trackId": "7EHO05hvQGsRXM8TzP3oz4",
+      "total": 788792,
+      "daily": 161
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Piece Of Your Heart - Kormak Remix",
+      "trackId": "5RkfmRvOpnhiOdSSO57fVt",
+      "total": 771784,
+      "daily": 21
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Lose Control - Mathame Remix",
+      "trackId": "150DSZdKiccWsVlUiYqfzo",
+      "total": 744497,
+      "daily": 71
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Bad Memories - HotLap Remix",
+      "trackId": "58RPgfowrP1FsONgGfF5EM",
+      "total": 712000,
+      "daily": 689
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Another World - Volaris Remix",
+      "trackId": "7bEl4z8zkQg3UC8FKEBzdl",
+      "total": 688558,
+      "daily": 1288
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Bad Memories - Tita Lau Remix",
+      "trackId": "63ISM9e81FyfH4UVs0E5tx",
+      "total": 678189,
+      "daily": 200
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Lose Control - Roberto Surace Remix",
+      "trackId": "2pXxE9WKQZUmnRtN9KWyPh",
+      "total": 649436,
+      "daily": 26
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Headrush (feat. Elroii) - Extended Mix",
+      "trackId": "2bBNDiqO2oErXmbjEcOhtb",
+      "total": 562353,
+      "daily": 100
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Lose Control - Nancie Remix",
+      "trackId": "6FQn6Yl8nzkhJti8xgeHMh",
+      "total": 540732,
+      "daily": 246
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Piece Of Your Heart - Chloe Wilson Remix",
+      "trackId": "0o0E3N3tkUxUd1oD8znhLL",
+      "total": 480886,
+      "daily": 12
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Piece Of Your Heart - Colour Castle Remix",
+      "trackId": "0mXrk2umEwp1KN8zSvgxyx",
+      "total": 470882,
+      "daily": 4
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Phone - Lili Chan Remix",
+      "trackId": "3RtgoyCSbcs5c89YzlmCN0",
+      "total": 470002,
+      "daily": 74
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Another World - Liva K Remix",
+      "trackId": "7xEzdkz0VDn3Lpsiztk177",
+      "total": 446177,
+      "daily": 572
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Piece Of Your Heart - Marcus Santoro Remix",
+      "trackId": "08CdDaYENNuLNU8axILWrw",
+      "total": 427856,
+      "daily": 15
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Paradise - Keees. Remix",
+      "trackId": "4ws8JuKWMJCD6Cb4JBrWKf",
+      "total": 415433,
+      "daily": 58
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Take It",
+      "trackId": "4eViMXso5BVAmPD1b3fHyw",
+      "total": 415254,
+      "daily": 1972
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Sparks - Extended Mix",
+      "trackId": "6xx0XSF6vHs1Olwfes6Nvl",
+      "total": 398247,
+      "daily": 156
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Run",
+      "trackId": "7rOyx4MPTdqU1N6itt3LfC",
+      "total": 341844,
+      "daily": 1488
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Discopolis 2.0 (Mixed) - MEDUZA Remix",
+      "trackId": "2HVK3XXyE5AvvwQ6bo0WYG",
+      "total": 294157,
+      "daily": 22
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Sparks - Mixed",
+      "trackId": "4vuX2UYPChki4ztzljfdvC",
+      "total": 286798,
+      "daily": 108
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Phone - VLTRA Remix",
+      "trackId": "2m4s3761CzsYyH5lYoF4qu",
+      "total": 280993,
+      "daily": 76
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Fire - Orchestral Version",
+      "trackId": "6Wi5MXZGkJaQO9o4vblnP1",
+      "total": 276299,
+      "daily": 466
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Skin and Bones (MEDUZA REMIX) (Extended)",
+      "trackId": "006KWixqelYomtgRN9dHcY",
+      "total": 225173,
+      "daily": 103
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Discopolis 2.0 (Mixed) - MEDUZA Remix",
+      "trackId": "5Lg959EuM4n9iEomcQVu9m",
+      "total": 209746,
+      "daily": 1553
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Fire - Volaris Remix",
+      "trackId": "1pdKq2RNMatQgrVMjKNyqT",
+      "total": 170953,
+      "daily": 329
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "In My Arms - Meduza Extended Remix",
+      "trackId": "6xTpnzGDpmOI3IjHLkPYqW",
+      "total": 162507,
+      "daily": 55
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Around - Extended Mix",
+      "trackId": "4fbBHkiBUA3Mj0972JgItx",
+      "total": 123253,
+      "daily": 1381
+    },
+    {
+      "artist": "MEDUZA",
+      "artistId": "0xRXCcSX89eobfrshSVdyu",
+      "trackName": "Fire - Valexus Remix",
+      "trackId": "2vXa6yhswEXZ65c4sj8obL",
+      "total": 107716,
+      "daily": 148
+    }
+  ]
+}

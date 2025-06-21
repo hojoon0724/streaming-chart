@@ -1,0 +1,22 @@
+{
+  "artist": "Diane Guerrero",
+  "artistId": "18MFcGBHtyW0mU3ufcm0X1",
+  "songs": [
+    {
+      "artist": "Diane Guerrero",
+      "artistId": "18MFcGBHtyW0mU3ufcm0X1",
+      "trackName": "We Don't Talk About Bruno",
+      "trackId": "52xJxFP6TqMuO4Yt0eOkMz",
+      "total": 567206789,
+      "daily": 143844
+    },
+    {
+      "artist": "Diane Guerrero",
+      "artistId": "18MFcGBHtyW0mU3ufcm0X1",
+      "trackName": "What Else Can I Do?",
+      "trackId": "3XoYqtiWHhsk59frZupImG",
+      "total": 214226111,
+      "daily": 65874
+    }
+  ]
+}

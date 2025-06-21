@@ -1,0 +1,1222 @@
+{
+  "artist": "Yuridia",
+  "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+  "songs": [
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Qué Agonía",
+      "trackId": "4H6o1bxKRGzmsE0vzo968m",
+      "total": 528900268,
+      "daily": 166307
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Ya Te Olvidé",
+      "trackId": "4FsVB8msXzmemjJdTKUoal",
+      "total": 316316102,
+      "daily": 178524
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Amigos No por Favor (Primera Fila) - En Vivo",
+      "trackId": "2hyAEExgoEfxrVJKUJTqZV",
+      "total": 240044220,
+      "daily": 77966
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "¿Y Qué Tal Si Funciona?",
+      "trackId": "3gHn8eZRKss5cD4r3k3jCA",
+      "total": 175161569,
+      "daily": 91101
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Te Equivocaste",
+      "trackId": "4QS7axg5vSSSbR7CA3z5QU",
+      "total": 121892615,
+      "daily": 56025
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Cobarde",
+      "trackId": "1Pk27SJFLKsyqMJDQrOe5B",
+      "total": 117431199,
+      "daily": 29485
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Me Hace Tanto Bien",
+      "trackId": "0J87ieRdbGPItHA6qc3KCr",
+      "total": 112793783,
+      "daily": 83973
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "¿Qué Nos Pasó? (with Yuridia)",
+      "trackId": "0X9BQL7VfVpZaiIgpJ0ZOw",
+      "total": 110144080,
+      "daily": 39896
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Ya Es Muy Tarde",
+      "trackId": "0gmVAogl6O1i2qBPBU09Ef",
+      "total": 96383163,
+      "daily": 37536
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Él Lo Tiene Todo",
+      "trackId": "5AV4sa9x9Qt3CYUIUbUadZ",
+      "total": 91180106,
+      "daily": 35389
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Lo Que Son las Cosas",
+      "trackId": "7GprMlRqZpBd6LYqar2hBv",
+      "total": 89988956,
+      "daily": 41916
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "¿Con Qué Se Pega un Corazón?",
+      "trackId": "2eSTnoRpEK2VXIccMbzXrE",
+      "total": 85394496,
+      "daily": 57452
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Como Yo Nadie Te Ha Amado (This Ain't a Love Song)",
+      "trackId": "3Fv1f20Go5eQ39mOkt2qM1",
+      "total": 69973362,
+      "daily": 28057
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Sin Llorar",
+      "trackId": "2KH3bdA7lQn2b86fCYUJFE",
+      "total": 67185948,
+      "daily": 84561
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Yo Te Prefiero a Ti",
+      "trackId": "0LuHppPzpqZ6lxdpmjmAz8",
+      "total": 65953755,
+      "daily": 13408
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Respóndeme Tú (Primera Fila) (feat. Pepe Aguilar) - En Vivo",
+      "trackId": "2nFcMS2GvgK1vZmtnnZ6d7",
+      "total": 61731133,
+      "daily": 12099
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "No la Beses - Sesión de Estudio",
+      "trackId": "4ulIv3JXcoNnHJplhMKb6C",
+      "total": 57146427,
+      "daily": 20294
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "La Duda (Primera fila) - En Vivo",
+      "trackId": "0ExDYdvqPj4KV7YA1mjGxH",
+      "total": 51426476,
+      "daily": 15648
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Llévate",
+      "trackId": "2AHzaIprICahqw378HVUoO",
+      "total": 44829544,
+      "daily": 44526
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "No Le Llames Amor",
+      "trackId": "5czRuLp5tTxJJOUOUNLGej",
+      "total": 44339226,
+      "daily": 8279
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Maldita Primavera",
+      "trackId": "2QUSJ27TXCd0Kiy7NmfwoH",
+      "total": 42912491,
+      "daily": 14864
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Yo Te Prefiero a Ti - Versión Banda",
+      "trackId": "6B0E8noHviN7SjXfOe5jwR",
+      "total": 41510892,
+      "daily": 5299
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Ángel (Angels)",
+      "trackId": "0oxpihgVSWeYrPoLVZ4udk",
+      "total": 40141900,
+      "daily": 20394
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
+      "trackId": "2rvDPgJnBxnkIRpYwVFrY2",
+      "total": 39632013,
+      "daily": 11232
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Y Tú, ¿Qué Ganas?",
+      "trackId": "1KYrci9yociotmNJ2sYHPF",
+      "total": 36988503,
+      "daily": 11701
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Yo por Él",
+      "trackId": "4Wf7GYRnkySl3s9h5uKlhd",
+      "total": 32448424,
+      "daily": 14622
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Señora",
+      "trackId": "7DpuFVTvhJyTTRBm7DzKRX",
+      "total": 29967434,
+      "daily": 16690
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Empieza a Preocuparte",
+      "trackId": "4a6nW42Enzj0cA2D9nBhZ5",
+      "total": 27799448,
+      "daily": 11850
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Mi Eterno Amor Secreto",
+      "trackId": "4D3llFOudwyOzJaiz0K2RW",
+      "total": 26013879,
+      "daily": 37095
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Felicítalo",
+      "trackId": "1kZjN1d6nevBogIxKkiYV7",
+      "total": 25629526,
+      "daily": 33548
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Te Dejo",
+      "trackId": "5N3lFRVdbmindAPgkEQwe4",
+      "total": 24974078,
+      "daily": 12697
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "En el Amor No Se Manda (with Yuridia)",
+      "trackId": "6yCVpMyXZZHhaBqB9xjAZV",
+      "total": 24103482,
+      "daily": 7389
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Cuento - Sesión de Estudio",
+      "trackId": "5d8wZd0qDKMAZVLmGZUhcn",
+      "total": 23924247,
+      "daily": 11640
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Irremediable",
+      "trackId": "3CxoLEKjZDJbss6DatyPok",
+      "total": 23812409,
+      "daily": 11080
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Te Equivocaste (Primera Fila) (feat. Malú) - En Vivo",
+      "trackId": "7wadwcnZoJEU2b3pgApUDv",
+      "total": 23656658,
+      "daily": 5728
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Qué Agonía - Remix",
+      "trackId": "6X7wUIz4tP7JcAauyU0h2j",
+      "total": 22741953,
+      "daily": 5831
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "En Su Lugar (Primera Fila) - En Vivo",
+      "trackId": "5yCR7tDXeMhHNAIhKr3VN6",
+      "total": 21240874,
+      "daily": 4278
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Malamente",
+      "trackId": "531zn1AxlkHj0aidD75L1w",
+      "total": 21219869,
+      "daily": 16540
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Si No Piensas Cambiar",
+      "trackId": "00TtkTraaGXv6LuGrzvw0c",
+      "total": 20633103,
+      "daily": 12656
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Me Olvidarás",
+      "trackId": "3702UGFpHLtMh25rZoSbVx",
+      "total": 20454975,
+      "daily": 7851
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Enamorada y Herida",
+      "trackId": "6HfYJQt9WHhfXKJT8bGdBM",
+      "total": 18584494,
+      "daily": 6460
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Déjame Volver Contigo",
+      "trackId": "1OMYZ5Qs0ih6cufVsAU5Ls",
+      "total": 18149489,
+      "daily": 7751
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Detrás de Mi Ventana",
+      "trackId": "2fU0vlCigzP7oAO8aAk2Hn",
+      "total": 17962494,
+      "daily": 3746
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Así Fue",
+      "trackId": "7xSLmRhD3zySGXlyO90LQn",
+      "total": 17644053,
+      "daily": 4491
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "En Su Lugar",
+      "trackId": "4w5F6hkJO5Gr1h0tDDPbg1",
+      "total": 17218199,
+      "daily": 10463
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Señora (Primera Fila) - En Vivo",
+      "trackId": "1yuYoDvZqsJdlM2UQQkPzr",
+      "total": 17143418,
+      "daily": 5362
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Noche De Copas",
+      "trackId": "3aujR2yY9i1Y2uFph0ULzb",
+      "total": 16519183,
+      "daily": 6911
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Quererte a Ti",
+      "trackId": "477GG0JLBi1bINyJRj0qOO",
+      "total": 16108027,
+      "daily": 4561
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Para Decir Adiós",
+      "trackId": "0jkDoFwOUjNpOQHFlZhTO6",
+      "total": 16033537,
+      "daily": 1612
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Alma Enamorada",
+      "trackId": "4gLc3SHtuu2svpOByuYQX7",
+      "total": 15544206,
+      "daily": 7968
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Ahora Entendi",
+      "trackId": "3ExYgqotmwh9sG0hs3Zjqw",
+      "total": 15440365,
+      "daily": 7079
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Por Salud Mental",
+      "trackId": "2fHKAwEiIp1ZuRdeAsYKex",
+      "total": 13287424,
+      "daily": 7158
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "No Sabía",
+      "trackId": "2psbvnq4lILPsHyrlqwo7g",
+      "total": 13184235,
+      "daily": 3202
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "A Dónde Va el Amor",
+      "trackId": "4IXOuSEG9SHehdBRwEdezg",
+      "total": 12113550,
+      "daily": 2880
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Para Que Seas Feliz",
+      "trackId": "40b9whrBbp6y5DTs1QGXr2",
+      "total": 11807011,
+      "daily": 22080
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Polos Opuestos / Noche de Copas (Primera Fila) - En Vivo",
+      "trackId": "38YaOFMuwa5EBaaVB4Y2LO",
+      "total": 11685031,
+      "daily": 1664
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Lo Siento Mi Amor",
+      "trackId": "3336v3uxCP78aPN2wetZjx",
+      "total": 11659189,
+      "daily": 5119
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Se Va a Terminar",
+      "trackId": "6VBekNWwlvgXHJiDeEYwwH",
+      "total": 11613079,
+      "daily": 3099
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Un Bendito Día",
+      "trackId": "12jZ2WSziAxeJqMwOmz6jV",
+      "total": 11069656,
+      "daily": 38398
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Irremediable (Primera Fila) - En Vivo",
+      "trackId": "0lzjQLN68XNnLBHMwKfzsi",
+      "total": 11030913,
+      "daily": 1254
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Cuando Es Amor",
+      "trackId": "0a849khB6JNELnjXVmKPmo",
+      "total": 10826715,
+      "daily": 1411
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Como Yo Te Amo",
+      "trackId": "7H561OZAeONWEskedqaDQa",
+      "total": 10771478,
+      "daily": 3976
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "No Soy",
+      "trackId": "4LxdzS32N9bH0W8poo5f52",
+      "total": 10448191,
+      "daily": 3180
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Cobarde (Primera Fila) - En Vivo",
+      "trackId": "2LeZjJdS8d8r7WZsCZd87c",
+      "total": 10322768,
+      "daily": 1567
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Te Estabas Tardando",
+      "trackId": "6qLYcClqCMwwPN8OnJ1Ct0",
+      "total": 10146195,
+      "daily": 4851
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Llévame (Primera Fila) - En Vivo",
+      "trackId": "40IAm3om8Ii0b4jpFkw99Q",
+      "total": 10140020,
+      "daily": 1482
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Si Quieres Verme Llorar (Primera Fila) - En Vivo",
+      "trackId": "29oVOBNg0Udn2Os3Po8G0X",
+      "total": 10110262,
+      "daily": 2466
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Ángel (Primera Fila) - En Vivo",
+      "trackId": "5NzjT5h4NYnU2iuFqVb2cj",
+      "total": 10083813,
+      "daily": 2407
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Amiga",
+      "trackId": "4nJbFAWUjAyeu6NsMBRlu1",
+      "total": 10041208,
+      "daily": 3294
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "No Son Horas",
+      "trackId": "5PSU3pS1gSfs62PPfxUmpx",
+      "total": 9878829,
+      "daily": 5675
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Brujería",
+      "trackId": "1PcwgVL81paHLsxatYSNR3",
+      "total": 9263993,
+      "daily": 5525
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Ahora Entendí (Primera Fila) - En Vivo",
+      "trackId": "30oJzIBdF9qQxCn1B1g4rJ",
+      "total": 9137301,
+      "daily": 1507
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Así Se Fue",
+      "trackId": "2tVQPVL3QazaEtyJU7uXFU",
+      "total": 9052624,
+      "daily": 1884
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Pensando Positivo",
+      "trackId": "7c8y7v1RLIn4YvEjSFcTwq",
+      "total": 8793103,
+      "daily": 8829
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Como Tú",
+      "trackId": "4uwQvY3meWjiwSjXbhydYA",
+      "total": 8507048,
+      "daily": 1443
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Mentira",
+      "trackId": "5YUtGXlzYJouYWrqmrNacY",
+      "total": 8496788,
+      "daily": 896
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Como Yo Nadie Te Ha Amado (Primera Fila) - En Vivo",
+      "trackId": "4S0E1ntddeLPTKnp7dOBuq",
+      "total": 8111803,
+      "daily": 2221
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "La Muerte del Palomo",
+      "trackId": "2DS9ddKznwPNgG5Dt4w2ph",
+      "total": 8079700,
+      "daily": 2501
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Con Sólo una Mirada",
+      "trackId": "0K6etbKyJzg2Cbwvoucm7F",
+      "total": 8058839,
+      "daily": 1508
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Sobreviviré",
+      "trackId": "3ER8elDbMT8UuUL9knUUX5",
+      "total": 8025379,
+      "daily": 1466
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Regresa a Mí (Unbreak My Heart)",
+      "trackId": "15XFJe7XsInX8leQOhRuhV",
+      "total": 7843833,
+      "daily": 2372
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Ya Te Olvidé (Primera Fila) - En Vivo",
+      "trackId": "1duUftRHNuwBiVwfBKyRjk",
+      "total": 7623794,
+      "daily": 2206
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Contigo",
+      "trackId": "2yBIvxOf6Frnb5KqgVropl",
+      "total": 7612770,
+      "daily": 1592
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Aquí Ya Nadie Te Extraña",
+      "trackId": "47lwcc0mcmD2Ro1u0ctGaR",
+      "total": 7560332,
+      "daily": 3352
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Si Quieres Verme Llorar",
+      "trackId": "3TzwnHlAIROn1tsdVjxACs",
+      "total": 7519261,
+      "daily": 4649
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Ya Es Muy Tarde - Sesión de Estudio",
+      "trackId": "6pJccjO6OTkcynXit7Ib6e",
+      "total": 7341157,
+      "daily": 739
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "El Hombre del Piano - Piano Man",
+      "trackId": "3g5I4DI5AgLRvipmNnsxh2",
+      "total": 7327236,
+      "daily": 1246
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Todo Lo Que Hago por Ti (Everything I Do [I Do It For You]) - Everything I Do [I Do It For You]",
+      "trackId": "3oNKt3oNaslHdPNRPBqsV1",
+      "total": 7147162,
+      "daily": 2141
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Pienso en Tí",
+      "trackId": "1xpRCAy37Gm7KHXONp5Hfw",
+      "total": 7068977,
+      "daily": 1229
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Lo Que Son las Cosas (Primera Fila) - En Vivo",
+      "trackId": "4qOVno82DVngQkNfrF4ObU",
+      "total": 7068695,
+      "daily": 1818
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Literal",
+      "trackId": "1hxxlc6kIxW3l1dMYAh56X",
+      "total": 7043540,
+      "daily": 7481
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Deja",
+      "trackId": "5ERHBY5RvJFbQKE20ffC0Q",
+      "total": 7004221,
+      "daily": 1151
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Alguna Vez",
+      "trackId": "6c7gjI0Q4kIs5KvpZNtM9Q",
+      "total": 6746541,
+      "daily": 1117
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Si No Te Hubieras Ido",
+      "trackId": "3nOwpVlMeTus4HZeTYK26d",
+      "total": 6220792,
+      "daily": 1295
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "No Me Preguntes Más",
+      "trackId": "7AV5Uh7QsSZuWa9MP4oy9k",
+      "total": 6106652,
+      "daily": 3414
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Habla el Corazón (Listen to Your Heart)",
+      "trackId": "39lvMsmJ0H8RPhIXg9ijwh",
+      "total": 5869864,
+      "daily": 596
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Quizás (feat. Yuridia)",
+      "trackId": "6NXrapjVHV32JkUHvJKbrP",
+      "total": 5586484,
+      "daily": 691
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Todas Las Noches (with Sonohra)",
+      "trackId": "3cniKE3ioOBPVvoClN2nGr",
+      "total": 5532193,
+      "daily": 925
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Siempre Te Amaré (Every Breath You Take)",
+      "trackId": "4shT9NEj5vPscunxGHwANS",
+      "total": 5408837,
+      "daily": 1104
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Que Nadie Se Entere (Primera Fila) (feat. Audri Nix) - En Vivo",
+      "trackId": "5flHJgt6mzdLgEIckg5dY4",
+      "total": 5156947,
+      "daily": 676
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Polos Opuestos",
+      "trackId": "4QLKS0HjCB0tJDq0g6PimR",
+      "total": 5004215,
+      "daily": 955
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Peligro",
+      "trackId": "7cSdCk3ZQD2sPDmzuntQRE",
+      "total": 4987336,
+      "daily": 1568
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Estar Junto a Ti (Angel)",
+      "trackId": "5IQtSOc48tbJhsJ3pZloTP",
+      "total": 4979053,
+      "daily": 1183
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Ámame",
+      "trackId": "2XBcN9fVvoacz7pS7o6fQA",
+      "total": 4699543,
+      "daily": 1503
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Cómo",
+      "trackId": "56qpKNaaqsRRbMtcPaYEKe",
+      "total": 4255892,
+      "daily": 837
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Yo Tuve un Amor",
+      "trackId": "0aURWMQhHqx8LdnLYvhn9G",
+      "total": 3907538,
+      "daily": 15004
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Nuestro Amor Se Ha Vuelto Ayer (feat. Yuridia) - Balad Version",
+      "trackId": "3wFnf3iWbZNsDgrXnsIkoZ",
+      "total": 3767725,
+      "daily": 1618
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Sin la Memoria",
+      "trackId": "4xHYeeMCSoNsnZdbtuVnmT",
+      "total": 3564880,
+      "daily": 589
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Se Me Va la Vida",
+      "trackId": "0e7lmrrBeSYHMiiCRAhAbY",
+      "total": 3484754,
+      "daily": 688
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Daría",
+      "trackId": "6AWkv7dL2B2b78V5xyRCDC",
+      "total": 3232728,
+      "daily": 774
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Otro Día Más (Just Another Day)",
+      "trackId": "0Xl7j2hPCwB8Adv5dmDK6x",
+      "total": 3179154,
+      "daily": 723
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Mentira",
+      "trackId": "4wzzBpRGqKDbEv1pR7NvTq",
+      "total": 3036230,
+      "daily": 1032
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Tú",
+      "trackId": "2Y0VYX0rDVRgZ7ypIzabLN",
+      "total": 2576599,
+      "daily": 705
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Sin Filtro",
+      "trackId": "48zbSViwZYXbXcEZqVRyGx",
+      "total": 2438731,
+      "daily": 9642
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Enamorada",
+      "trackId": "4KTQhYk79GwX6I6CNXxwMz",
+      "total": 2397239,
+      "daily": 621
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Evítame la Pena",
+      "trackId": "5iit5JfhTCIXmTcxDYk3kG",
+      "total": 2321117,
+      "daily": 10377
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Te Equivocaste - Sesión de Estudio",
+      "trackId": "1fpYlRbbt4k73yX3H7uD5h",
+      "total": 2215857,
+      "daily": 234
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Como La Marea",
+      "trackId": "3UUTWqfzHYpkzssEjJet5Y",
+      "total": 2191881,
+      "daily": 602
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Bailando Sin Salir De Casa",
+      "trackId": "1BuzNN1wHXaEuXB2x4A3vx",
+      "total": 2038070,
+      "daily": 663
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Llévame",
+      "trackId": "1DwPB3UjD2IccbsfWlDKIB",
+      "total": 1927291,
+      "daily": 590
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Angel - Sesión de Estudio",
+      "trackId": "7iz2xvAbH7vOQS5znRPsLY",
+      "total": 1896388,
+      "daily": 351
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Sin Ti",
+      "trackId": "1plaat81HURTTI0qHVfw7Z",
+      "total": 1849010,
+      "daily": 592
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Pena Ajena",
+      "trackId": "5hm1jMxZKDxFZU0FFsQqgD",
+      "total": 1748494,
+      "daily": 5805
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Ángel - Utilizar el código MXF011400502",
+      "trackId": "1Sgo6Ooo4spG8J5NxeawuS",
+      "total": 1747369,
+      "daily": 158
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Polos Opuestos - Sesión de Estudio",
+      "trackId": "1QWn1gn6mhUGyegXMpiJU7",
+      "total": 1671303,
+      "daily": 245
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "La Bienvenida",
+      "trackId": "4IDOQV0hxzxN1R0yAVZi9W",
+      "total": 1622355,
+      "daily": 5535
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Mi Forma de Ser",
+      "trackId": "7f7cGgZNxy4kMRwTmekc0W",
+      "total": 1458092,
+      "daily": 258
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Más de lo Que Pido",
+      "trackId": "7jTgvdktBLmjBGkZ4MnQP9",
+      "total": 1426643,
+      "daily": 144
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "No Ordinary Love - Sesión de Estudio",
+      "trackId": "4Avdc0BFhr002f7yv1xYho",
+      "total": 1394714,
+      "daily": 156
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "The Rose",
+      "trackId": "0Rl1jwlfBdkGuRGzVXpXmm",
+      "total": 1390504,
+      "daily": 376
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Ganas de Volar",
+      "trackId": "0NSt5yd2lgiT4ZNF7PcaWp",
+      "total": 1290868,
+      "daily": 180
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Se Mira Desde Marte",
+      "trackId": "4y8iygEYLLr92ksUxMRo8a",
+      "total": 1189795,
+      "daily": 3930
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Sin Miedo De Caer",
+      "trackId": "75Ft2T1aKrKi0GmkaS3XIL",
+      "total": 1018012,
+      "daily": 219
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Me Pierdo",
+      "trackId": "4PPAXGXGZbHvnYxE1QsgRI",
+      "total": 878037,
+      "daily": 150
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Colgada a Ti",
+      "trackId": "2c9ThUxyI6LozOkvuWnFgW",
+      "total": 845926,
+      "daily": 130
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Amor En Desamor",
+      "trackId": "62QZmfGhPs0CSzgVY9ba8h",
+      "total": 829689,
+      "daily": 106
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Me Faltas Tu",
+      "trackId": "1uKcKvFjJFABq6qD49LOiV",
+      "total": 804967,
+      "daily": 268
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Un Día Más",
+      "trackId": "357Jh74a9U5PRYOidj8wti",
+      "total": 800326,
+      "daily": 151
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Ya No",
+      "trackId": "2bx066m7IOz1YT3UxwBeg7",
+      "total": 765091,
+      "daily": 131
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Un Paso Mas",
+      "trackId": "4FWP67F8W0Y1sAOcq64kmu",
+      "total": 703606,
+      "daily": 113
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Sobrenatural",
+      "trackId": "3gODYekI1eIyi6IH5GVaoB",
+      "total": 493197,
+      "daily": 78
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Ahora Entendí (Rocasound Phunk Mix)",
+      "trackId": "1BMLGlF1mIZls2zsk7uMAC",
+      "total": 326120,
+      "daily": 15
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Eclipse Total del Amor (Total Eclipse of the Heart) - Rocasound Mix",
+      "trackId": "4w5OX8hRVQDlXdvoJySoRM",
+      "total": 303874,
+      "daily": 18
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Ángel (Rocasound Mix)",
+      "trackId": "5DTMJsySqxmMWbQlOSpqPB",
+      "total": 297586,
+      "daily": 16
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Maldita Primavera - Rocasound Bristol Dub",
+      "trackId": "367LGsm7f4EyEuuXDJMWUo",
+      "total": 270285,
+      "daily": 16
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Sin Llorar - En Vivo Desde la Plaza de Toros la México",
+      "trackId": "7FE2LlCUzMvqb2pJR57h9n",
+      "total": 265529,
+      "daily": 15981
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Como Yo Nadie Te Ha Amado (This Ain't a Love Song) - Rocasound Balearic Version",
+      "trackId": "3FXGWwVhosh9RdOoGUYiLk",
+      "total": 225026,
+      "daily": 21
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Yo por El - Rocasound Peaktime Dub",
+      "trackId": "5dZOE2tEwoC3VrpyciRmX9",
+      "total": 217374,
+      "daily": 14
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Se Me Va la Vida (Rocasound Mix)",
+      "trackId": "7AsqWnhnFZt02H9q5Oeujn",
+      "total": 217128,
+      "daily": 10
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Como Yo Nadie Te Ha Amado (This Ain't a Love Song) - L.E.X. Reaffirmation Edit",
+      "trackId": "4eU3NQeH22bBhX7gQmGbrj",
+      "total": 208161,
+      "daily": 9
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "En Su Lugar - Rocasound Electro Mix",
+      "trackId": "6RmVWdIGYI7VQZVdSD2adc",
+      "total": 198956,
+      "daily": 9
+    },
+    {
+      "artist": "Yuridia",
+      "artistId": "5B8ApeENp4bE4EE3LI8jK2",
+      "trackName": "Habla el Corazón ( Listen to Your Heart) - Rocasound Mix",
+      "trackId": "1MtfOcVpBDUyNzapPEiXtR",
+      "total": 192066,
+      "daily": 10
+    }
+  ]
+}

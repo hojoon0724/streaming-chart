@@ -1,0 +1,790 @@
+{
+  "artist": "Mau y Ricky",
+  "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+  "songs": [
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Desconocidos",
+      "trackId": "56f5qnyAlZdlz8wrUDA50h",
+      "total": 871703315,
+      "daily": 317383
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Ya No Tiene Novio",
+      "trackId": "5BbQJoyrMLVTqm5jAS2bGp",
+      "total": 473499281,
+      "daily": 112498
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "La Boca",
+      "trackId": "0UQwlF2pRkr1lMN6kNNUj3",
+      "total": 354764924,
+      "daily": 74252
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Llorar y Llorar - con Carin Leon",
+      "trackId": "4YF13O2n16dcTyGgVmiGvN",
+      "total": 263065943,
+      "daily": 78827
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "La Boca - Remix",
+      "trackId": "2EEmzqzM70CybVspgM7YRT",
+      "total": 237942954,
+      "daily": ""
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Mi Mala (feat. Becky G, Leslie Grace & Lali) - Remix",
+      "trackId": "27xFMBWh15wyYGGAVrEMuK",
+      "total": 175290886,
+      "daily": 22451
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Mal Acostumbrao - con Maria Becerra",
+      "trackId": "1wcE84DVQUF16xudVFzezL",
+      "total": 159738342,
+      "daily": 19094
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Qué Tienes Tú (feat. Jesús de Reik & Mau y Ricky)",
+      "trackId": "4txQPJDlvU72lC6EMhT7m9",
+      "total": 128556495,
+      "daily": 9033
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Mi Mala",
+      "trackId": "3OuRc4Wfy9jhJmDH2LPrcI",
+      "total": 92742221,
+      "daily": 10556
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Prende la Cámara RMX",
+      "trackId": "5A1vGSsqw0UQCBxHOyPOjG",
+      "total": 92488187,
+      "daily": 15744
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Recuerdo",
+      "trackId": "5cgXYVjt3tEaM8l3wZiSiV",
+      "total": 88952889,
+      "daily": 6664
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Perdóname",
+      "trackId": "4mivRZXyZbIDecPTiCtOjw",
+      "total": 76506038,
+      "daily": 6382
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Sigo Buscandote",
+      "trackId": "4z2c6wyTY9xgiPYUvznwUE",
+      "total": 75556983,
+      "daily": 5022
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "PAPÁS",
+      "trackId": "5k06NOShiGa9ZxXHtavS2p",
+      "total": 67969960,
+      "daily": 3986
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "La Boca Junta",
+      "trackId": "0rFD2VyCIu2ToXbkvlsKJv",
+      "total": 66547449,
+      "daily": 28166
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Me Enamora",
+      "trackId": "4zLNNFQwEH3cKkpLh38A57",
+      "total": 62998092,
+      "daily": 5746
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Bota Fuego",
+      "trackId": "7MYTacMEC5D7o30BkNnK7s",
+      "total": 61952211,
+      "daily": 3389
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "3 de la Mañana",
+      "trackId": "6hYTrJuMmgHFRC5Z9mHcGQ",
+      "total": 57995781,
+      "daily": 4829
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Sin Querer Queriendo (feat. Mau y Ricky)",
+      "trackId": "10sl9BkfEMMR4lkTzZoNLw",
+      "total": 56147097,
+      "daily": 4386
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Bota Fuego (feat. Dímelo Flow, Justin Quiles & Lenny Tavárez) - Remix",
+      "trackId": "4MxYiw28F30NGOaTZ1ySqd",
+      "total": 52273862,
+      "daily": 2494
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Amén",
+      "trackId": "4ImiVRynIiSHsfZwBQWSC5",
+      "total": 51746558,
+      "daily": 12440
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Besos en Cualquier Horario",
+      "trackId": "3jmcOU72m5T7B4DaUYALuf",
+      "total": 49277498,
+      "daily": 8949
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Cachito",
+      "trackId": "5S4rNAIyjLyUVdrGWy48Ub",
+      "total": 36032779,
+      "daily": 4484
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Rolex",
+      "trackId": "5hXlAWrc8L8hYhxUnXlqFf",
+      "total": 33777854,
+      "daily": 6665
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Hijos Contigo",
+      "trackId": "3m4nEtqr8vaHJCfc6yjasu",
+      "total": 30734684,
+      "daily": 5021
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Tan Buena",
+      "trackId": "6I1JuzUGxTAD0kDY65fg1s",
+      "total": 30022545,
+      "daily": 2341
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Japonesa",
+      "trackId": "66coDQwXDOvgKJQ6rqD5vu",
+      "total": 29850742,
+      "daily": 2144
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Una y Mil Veces",
+      "trackId": "7hLzXdYqvKACbnyGshVoIH",
+      "total": 29627606,
+      "daily": 2472
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Qué Dirías?",
+      "trackId": "0BayVJJEvf4KPuyoWTCGL5",
+      "total": 28947063,
+      "daily": 3132
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "La Grosera",
+      "trackId": "2FM5hCiv6FE8b7d0KIjABb",
+      "total": 28627268,
+      "daily": 1688
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Manos Frías",
+      "trackId": "7jT78cTeShKDIJID0auIgG",
+      "total": 27800630,
+      "daily": 10381
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Cariño Mío",
+      "trackId": "6Mq4WZPK1hYSVSlNMcdSMe",
+      "total": 25719940,
+      "daily": 2436
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Mal de la Cabeza",
+      "trackId": "62mmVqtsiY2dob1EMxC5W2",
+      "total": 23164892,
+      "daily": 1260
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "No Puede Ser",
+      "trackId": "3eK5YsNNfs592ZaQt1GebU",
+      "total": 22821750,
+      "daily": 2469
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Doctor",
+      "trackId": "2OWlM0rndaLjgtiLCHDIRM",
+      "total": 22600708,
+      "daily": 1682
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Ya No Tiene Novio - Remix",
+      "trackId": "7o3FMIu6KldnAwXaA8MO8x",
+      "total": 21517517,
+      "daily": 1046
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Dile la Verdad - Remix",
+      "trackId": "3gQGLy3mCqqEPEsPz75eqB",
+      "total": 20091603,
+      "daily": 855
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Ya Tú Me Conoces",
+      "trackId": "3ldgkMriNO5qTaIJ4zlNCL",
+      "total": 18731111,
+      "daily": 1123
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Empiezo a Caer",
+      "trackId": "15P95UWBRfUDrB9Ok8AKtu",
+      "total": 17485932,
+      "daily": 612
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "22",
+      "trackId": "4XGNBB72UcZ9rXIOFNzhwQ",
+      "total": 16422637,
+      "daily": 528
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Miami",
+      "trackId": "7g403qSRotCCt01wrDqW0s",
+      "total": 16326730,
+      "daily": 3680
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Despiértate",
+      "trackId": "5MFCVmW6tnQfYEKmXyvgfH",
+      "total": 15388313,
+      "daily": 1081
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Dolería",
+      "trackId": "4Qo19cJDhL3G4cJaAqmhk1",
+      "total": 13749633,
+      "daily": 2132
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Amén - Acústico",
+      "trackId": "3zdJo4ny9Q2AnACVtgBSe6",
+      "total": 12562521,
+      "daily": 1124
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "OUCH",
+      "trackId": "0mfBEZtTbXZY1o7zolRRun",
+      "total": 11565557,
+      "daily": 621
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Vas a Destrozarme",
+      "trackId": "3pGXsSv5CM4Xl4GATNfB9v",
+      "total": 11234187,
+      "daily": 3104
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Para Olvidarte",
+      "trackId": "0hcWdM4WIeBI7DNlTd2ssb",
+      "total": 10075815,
+      "daily": 591
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "ME ACOSTUMBRÉ",
+      "trackId": "65tCqCMNr7tGPSAWFVGvat",
+      "total": 10068863,
+      "daily": 1401
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "MENTE (with Tainy & Mau y Ricky)",
+      "trackId": "5OVYDbQP9pMKpF0ViSyMty",
+      "total": 9941065,
+      "daily": 423
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Hasta Olvidarte",
+      "trackId": "4Si5fSGdnlntioOKmpDnu8",
+      "total": 8714746,
+      "daily": 506
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Gran Día",
+      "trackId": "02F3ap4jOzK7Yhjv102C9B",
+      "total": 8691133,
+      "daily": 2836
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Borrachos",
+      "trackId": "4Atb7JMjADktnKGOXzUmeF",
+      "total": 8168691,
+      "daily": 369
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Pasado Mañana",
+      "trackId": "79vaLBBCDHmYvY8JUcnDj9",
+      "total": 8162689,
+      "daily": 3083
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Ex (con La Joaqui)",
+      "trackId": "4aHc6XvgDFIdey7Y7D8lH4",
+      "total": 7360932,
+      "daily": 577
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Juré",
+      "trackId": "6tYwCxwNeRXBPHF4Z2DaWu",
+      "total": 7042290,
+      "daily": 204
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "samaná",
+      "trackId": "3JkqRmM1gWmIZajzcz6lhW",
+      "total": 6133858,
+      "daily": 209069
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Toda para Mi",
+      "trackId": "0kAr97QQFJ2bzBSjIwCyPP",
+      "total": 5912607,
+      "daily": 517
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Fresh",
+      "trackId": "0fA6OOtT1uVcQblKjwJ6wm",
+      "total": 5885103,
+      "daily": 391
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Mal Acompañados",
+      "trackId": "2RIXpANfxOuaj5FssIA7LJ",
+      "total": 5730410,
+      "daily": 391
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Esto No Es Sincero (feat. Mau y Ricky)",
+      "trackId": "4p2vCuZbJ7ClJyGWHzzSCV",
+      "total": 4945041,
+      "daily": 539
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Home Alone",
+      "trackId": "7ogQ0MiP4rmNLiGvJzFmuH",
+      "total": 4484675,
+      "daily": 3597
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Una Canción Para el Despecho (feat. Mau y Ricky & Tainy)",
+      "trackId": "3pHCeLTd4vyMn29JY3JxZA",
+      "total": 4276879,
+      "daily": 159
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Vas a Destrozarme - Versión Eden Muñoz",
+      "trackId": "7IwfGFVmoBYKODOqGqKN3r",
+      "total": 4271278,
+      "daily": 2024
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Alcohol y Humo",
+      "trackId": "4wPW6mLVO2OLy9NMgkftMN",
+      "total": 3751431,
+      "daily": 360
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Darnos Un Tiempo",
+      "trackId": "1zaALt2FHgNUrOg5jzFF8J",
+      "total": 3604019,
+      "daily": 547
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Calmarme II",
+      "trackId": "49bwfMGoolJUoxWohblFQ6",
+      "total": 3516391,
+      "daily": 229
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Bilingües",
+      "trackId": "6euS235KVmpywN68iAVM9j",
+      "total": 3377431,
+      "daily": 2645
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Pizza",
+      "trackId": "5paqh5TS3YCvGG3JHNcPyk",
+      "total": 3148054,
+      "daily": 189
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "No Puedo Olvidarte",
+      "trackId": "7zjypMHkfebXAOQVO2fsFy",
+      "total": 3070197,
+      "daily": 820
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Canción 2",
+      "trackId": "04yUAvNYBJfOescfqT8UlS",
+      "total": 3041022,
+      "daily": 687
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Espectacular",
+      "trackId": "3GOkMzVUvW3ax2bDIe0U8C",
+      "total": 2991384,
+      "daily": 513
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Bigger Love - Remix",
+      "trackId": "5lBPTs70Ep45LLpWNlkipA",
+      "total": 2836327,
+      "daily": 122
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "No Es Normal (con Jay Wheeler)",
+      "trackId": "7Bav9vC5ctdkMythpKostV",
+      "total": 2636753,
+      "daily": 447
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Me Voy o No Me Voy",
+      "trackId": "7By9jq6VufRn1ARwjJsfI2",
+      "total": 2285464,
+      "daily": 88
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Arte",
+      "trackId": "17xP3d6HhSd0KLwPSfMkEB",
+      "total": 2280558,
+      "daily": 95
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Amén (with Kirk Franklin)",
+      "trackId": "45Ni3jzatASbwFJFBAHiM9",
+      "total": 1914704,
+      "daily": 169
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "No Hace Falta Que Lo Digas",
+      "trackId": "6gpj9k6a2SdPNDidycPQUB",
+      "total": 1854007,
+      "daily": 371
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Muriendo de Miedo",
+      "trackId": "2bT6v6frik0lLBlFNbv1uT",
+      "total": 1564797,
+      "daily": 861
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Dime",
+      "trackId": "4XYlzNajGoarznEKOhs7To",
+      "total": 1440718,
+      "daily": 122
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Wow",
+      "trackId": "60Y5s3JmVhfORq1ATJpfSS",
+      "total": 1409052,
+      "daily": 509
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Amarte Tanto",
+      "trackId": "0cnb2iNrenKOGosJzKKE1p",
+      "total": 1341737,
+      "daily": 530
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "La Moto",
+      "trackId": "1UBt22GcEFyXgJxJT4SVKT",
+      "total": 1310047,
+      "daily": 89
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Noche de Luna",
+      "trackId": "4JKmOu2ChCgrmP7aGQS48i",
+      "total": 1306251,
+      "daily": 2499
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Fetiche",
+      "trackId": "5bpaaNUGknnGSNsUmThj4K",
+      "total": 1294826,
+      "daily": 371
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Glock",
+      "trackId": "6sjnBVTDd1JYwb1mboxJy8",
+      "total": 1240502,
+      "daily": 399
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Fkn Mentiroso",
+      "trackId": "7KsWmc9QUJo8f9dQlOAqI0",
+      "total": 1237488,
+      "daily": 289
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "David Beckham",
+      "trackId": "4QnLpAWF55Hd9ReL4xpJND",
+      "total": 1201614,
+      "daily": 267
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Manera Linda de Morir",
+      "trackId": "1b7Sb8QcSOKzkqTRL2Fu1J",
+      "total": 1197504,
+      "daily": 526
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Karma",
+      "trackId": "1aD57u2jMh60hE9bhI7sTd",
+      "total": 1048335,
+      "daily": 216
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Vivir Sin Ti (con CNCO)",
+      "trackId": "4zKgBYhLafD8xszGCAiThg",
+      "total": 920920,
+      "daily": 251
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Libélulas",
+      "trackId": "4jjdUBRP6gc3SrjaA9QxJr",
+      "total": 751425,
+      "daily": 803
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Bonito",
+      "trackId": "6D0oLnRc8CqyFv4AiZMMOG",
+      "total": 748952,
+      "daily": 4551
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Mejor (con KHEA) - feat. Robbie Meza",
+      "trackId": "2T97nBalyN2CpbBn8GGlTX",
+      "total": 587322,
+      "daily": 268
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Salvaje (con Justin Quiles)",
+      "trackId": "6E7pz6npdhV2noiFqp0v3l",
+      "total": 582478,
+      "daily": 142
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Amigos (con Andry Kiddos)",
+      "trackId": "5w7KnO18gZntBOxIiubPOa",
+      "total": 387357,
+      "daily": 110
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Que Dios Me Perdone (con Dalex)",
+      "trackId": "38LNZa90iY7bkM7EFoYa1L",
+      "total": 365031,
+      "daily": 134
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "Antisociales (con Zion & Lennox)",
+      "trackId": "09SO3jDWXokqnfXmmGZame",
+      "total": 307990,
+      "daily": 84
+    },
+    {
+      "artist": "Mau y Ricky",
+      "artistId": "2wkoKEfS6dXwThbyTnZWFU",
+      "trackName": "spoiler: sale mal",
+      "trackId": "3gLJbBmpvQAIQV6Dh8Ft9W",
+      "total": 242808,
+      "daily": 1001
+    }
+  ]
+}

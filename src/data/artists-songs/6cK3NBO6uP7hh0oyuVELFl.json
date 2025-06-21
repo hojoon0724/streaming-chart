@@ -1,0 +1,854 @@
+{
+  "artist": "Saweetie",
+  "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+  "songs": [
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Best Friend (feat. Doja Cat)",
+      "trackId": "20BOju91NaEFK5Py4VJ2pp",
+      "total": 653581659,
+      "daily": 182365
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "OUT OUT (feat. Charli XCX & Saweetie)",
+      "trackId": "6Dy1jexKYriXAVG6evyUTJ",
+      "total": 580466864,
+      "daily": 184546
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "My Type",
+      "trackId": "5KBARWIxeMGkvUax9VtVC9",
+      "total": 459288706,
+      "daily": 137586
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Tap In",
+      "trackId": "4Hpib09wXgD84w4uwTPnYD",
+      "total": 260583059,
+      "daily": 61146
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "ICY GRL",
+      "trackId": "1sl1cpix9GnwNwaVt04BIu",
+      "total": 239430254,
+      "daily": 39082
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Back to the Streets (feat. Jhené Aiko)",
+      "trackId": "3MEruRteiUZXkStfTlZqRn",
+      "total": 128459144,
+      "daily": 17452
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "My Type (feat. City Girls & Jhené Aiko) - Remix",
+      "trackId": "5LTdRSQOg63EazLbKZbWn2",
+      "total": 93095951,
+      "daily": 32819
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Confetti (feat. Saweetie)",
+      "trackId": "4oXV7uPMrMNSZfLMYtiqIX",
+      "total": 89386781,
+      "daily": 12155
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Faking Love (feat. Saweetie)",
+      "trackId": "63IC8gaszSBCasV9THojiT",
+      "total": 81656517,
+      "daily": 9329
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Sway With Me (with GALXARA)",
+      "trackId": "5gqLY5H1ZyT3BScVr0nDMs",
+      "total": 81387890,
+      "daily": 19855
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "HIT IT (feat. Saweetie & Lele Pons)",
+      "trackId": "3F450ZpnsuW5G7YMmjMLmi",
+      "total": 63742494,
+      "daily": 11525
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "B*tch From Da Souf (Remix) (feat. Trina)",
+      "trackId": "39GH3B0XsTd4SsqT7DJijs",
+      "total": 63336681,
+      "daily": 9456
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Best Friend (feat. Doja Cat, Jamie & CHANMINA) [Remix]",
+      "trackId": "7L72EQGrKTteP3IjLHNdFJ",
+      "total": 43708191,
+      "daily": 8294
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Money Mouf",
+      "trackId": "2ab4xGVMBb14NpPrj4xDq5",
+      "total": 39183734,
+      "daily": 4397
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Closer (feat. H.E.R.)",
+      "trackId": "1dKe9VEGUSNfzn5MDvm6SJ",
+      "total": 38295062,
+      "daily": 6648
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "YUSO (feat. Lil Wayne & Saweetie)",
+      "trackId": "38Vjqr7xTeIzDpclKOkzli",
+      "total": 36092903,
+      "daily": 1853
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Talkin' Bout (feat. Saweetie)",
+      "trackId": "66vs64VphiHrtFcLR6Qeav",
+      "total": 35936891,
+      "daily": 5350
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Handstand (with Doja Cat feat. Saweetie)",
+      "trackId": "0JcgIOrlZ0CNUOPxyudnrK",
+      "total": 33540626,
+      "daily": 5135
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
+      "trackId": "5rB5mfeFCkUI3nkHQMMZ3K",
+      "total": 33215274,
+      "daily": 11351
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Up Now (feat. G-Eazy and Rich The Kid)",
+      "trackId": "01TreyTchXP0J1Mn6wcVHt",
+      "total": 32460214,
+      "daily": 1645
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "All Night (feat. Saweetie)",
+      "trackId": "1hkeifGMiDQjXlvAsIoDaa",
+      "total": 32224868,
+      "daily": 20897
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Khutti",
+      "trackId": "3Jd1yxcUQLdfBJcsxFtYzj",
+      "total": 31518671,
+      "daily": 11922
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Tip Toes (feat. Quavo)",
+      "trackId": "6001xXfECxjyKrrbbRF0Vl",
+      "total": 30962189,
+      "daily": 2799
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "NANi",
+      "trackId": "6utUO9goGEtilKe2tmfNJH",
+      "total": 18311183,
+      "daily": 13570
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Addiction - feat. Lil Wayne & Saweetie",
+      "trackId": "62TseHr3oK08tbDG5LgdUv",
+      "total": 17953190,
+      "daily": 1741
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "I Can't Stop Me",
+      "trackId": "1AVVv4FgNLxQlV64j7dfP1",
+      "total": 17003159,
+      "daily": 5125
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Hey, Mickey!",
+      "trackId": "0hRlBc3t1tjhgY6kRGr96U",
+      "total": 16468178,
+      "daily": 5144
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "High Maintenance",
+      "trackId": "3pxHcgYG8aKkclfWXBFSWv",
+      "total": 16332712,
+      "daily": 1724
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "My Girlfriends Are My Boyfriend (feat. Saweetie)",
+      "trackId": "3Ge1KFkRXKJgPz3keyQWaw",
+      "total": 14795298,
+      "daily": 1874
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "GIVE IT TO EM (feat. Saweetie)",
+      "trackId": "1kvt3N2KmoSAunaEJNrgNM",
+      "total": 14541333,
+      "daily": 1448
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Move (feat. Saweetie)",
+      "trackId": "0DcjZHcCkc8DlRnZI0hagv",
+      "total": 13663565,
+      "daily": 2489
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "I'm That Bitch (feat. Saweetie)",
+      "trackId": "0735VMYdVYbRsFQancYwnd",
+      "total": 13354905,
+      "daily": 1103
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "BO$$ CHICK",
+      "trackId": "0FAKS4dY2MADctcsPbmUvm",
+      "total": 13066111,
+      "daily": 3615
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Back Seat",
+      "trackId": "21aTMDYavtB0mi9Bkc8UrQ",
+      "total": 13054722,
+      "daily": 3015
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Emotional (feat. Quavo)",
+      "trackId": "4rrFGOdnreypzg6ux5mdPh",
+      "total": 12705111,
+      "daily": 975
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "OUT OUT (feat. Charli XCX & Saweetie) - Alok Remix",
+      "trackId": "467dsBV8ZGP7Lz1GMZjoaF",
+      "total": 12497241,
+      "daily": 7295
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Baby Boo",
+      "trackId": "36UY111WEuMBKpF189a6m1",
+      "total": 11865279,
+      "daily": 2044
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "My Type (feat. Becky G & Melii) - Latin Remix",
+      "trackId": "1jYD2WY38HzBzOiAJzl7uv",
+      "total": 11562201,
+      "daily": 1236
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Swan Song",
+      "trackId": "790TzR1UxBXVMFSGq8p7bv",
+      "total": 10841116,
+      "daily": 2138
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Baila Conmigo (feat. Saweetie, INNA & Jenn Morel)",
+      "trackId": "6TvWwc7nudIe9JznxdIEDA",
+      "total": 10722342,
+      "daily": 799
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "All She Wanna Do (with Saweetie)",
+      "trackId": "4dfotX3ZuHDqwbXFs6QBgy",
+      "total": 10449100,
+      "daily": 2066
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Come On (City Girls, Saweetie feat. DJ Durel)",
+      "trackId": "7o3aoh8XuZ6lvn8jQvw6So",
+      "total": 9199471,
+      "daily": 721
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "In My Face (with 2 Chainz, Saweetie feat. YG)",
+      "trackId": "7IfxYyZaO3S3PJf5agEEWS",
+      "total": 8705327,
+      "daily": 2559
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Que Calor (with J Balvin & El Alfa) - Saweetie Remix",
+      "trackId": "2Ue5fhuLTO2nP6YCB2PywV",
+      "total": 7781978,
+      "daily": 1365
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Dipped In Ice",
+      "trackId": "70Vc2mCfevAjiM6O1vfGXR",
+      "total": 7605855,
+      "daily": 748
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Good Good",
+      "trackId": "3KmUrUs6pqJaPqpswIKN6C",
+      "total": 7177347,
+      "daily": 447
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Risky (feat. Drakeo the Ruler)",
+      "trackId": "4Y0E52nss2ZybjhMpMHTT5",
+      "total": 7006758,
+      "daily": 1586
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "B.A.N.",
+      "trackId": "3vrrU6sZcWCzUddVNPUXHU",
+      "total": 6447389,
+      "daily": 250
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Seesaw (feat. Saweetie)",
+      "trackId": "7wuPMof1ksQI4W0qEgzpDD",
+      "total": 6391713,
+      "daily": 793
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "DON'T SAY NOTHIN'",
+      "trackId": "2uI3F7VUZruVvUEFslNFr9",
+      "total": 6314321,
+      "daily": 974
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "BIRTHDAY",
+      "trackId": "1upSmzMw8d6DfAYkgXSCQ5",
+      "total": 6148427,
+      "daily": 1645
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Best Friend (feat. Doja Cat & Stefflon Don) [Remix]",
+      "trackId": "4uiTLo6ME17pkjLwl4MMVZ",
+      "total": 5338075,
+      "daily": 1670
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "My Type - Dillon Francis Dance Remix",
+      "trackId": "5H1GyJhY0Heh19eB2DjHit",
+      "total": 4654006,
+      "daily": 1518
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "IDGAF (feat. Saweetie)",
+      "trackId": "443iB5qtwyFbTxnYpzcdWM",
+      "total": 4549273,
+      "daily": 1548
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Best Friend (feat. Doja Cat & Katja Krasavice) [Remix]",
+      "trackId": "2Ngn0Gs7308cfRst4FFtAb",
+      "total": 3791203,
+      "daily": 404
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Slow Clap (with Saweetie)",
+      "trackId": "0xLf1SbCnuFfBRbDNauT5b",
+      "total": 3780471,
+      "daily": 484
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Immaculate",
+      "trackId": "54DkEwCDLFB1wrBAD8bZbA",
+      "total": 3754997,
+      "daily": 8017
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "My Best",
+      "trackId": "3qAMlVUvNZVpxA85pFPxOT",
+      "total": 3583744,
+      "daily": 3003
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "OUT OUT (feat. Charli XCX & Saweetie) - Joel Corry VIP Mix",
+      "trackId": "4DCVcs0sQAP2KVWk4hsU22",
+      "total": 3558020,
+      "daily": 744
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Trick",
+      "trackId": "6TVYfpUgrhL06qWlljUW5L",
+      "total": 3556287,
+      "daily": 254
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "23",
+      "trackId": "2gXRNYnDxEOSMP1neokTg9",
+      "total": 3479288,
+      "daily": 158
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "One Night Ting (feat. Saweetie)",
+      "trackId": "79dKpfS3QxfaMZ0cwDzS8A",
+      "total": 3243556,
+      "daily": 475
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Best Friend (feat. Doja Cat, JessB & OKENYO) [Remix]",
+      "trackId": "1aVPXYYFyqjt6mt9yvATQA",
+      "total": 3148392,
+      "daily": 362
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Is It The Way",
+      "trackId": "7gg156a31K6Zl3TLZlDRzT",
+      "total": 3092845,
+      "daily": 5101
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "1 of 1",
+      "trackId": "0BxLEK5V6XsvRD0jpRkKCu",
+      "total": 2882250,
+      "daily": 218
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Too Many",
+      "trackId": "2iXLiWWCeqtntRCFcuaHKo",
+      "total": 2735672,
+      "daily": 110
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Pretty & Rich",
+      "trackId": "41z1jdRoERVUz1MPtfSl14",
+      "total": 2541060,
+      "daily": 609
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Hot Boy",
+      "trackId": "3aHoRWEKAfAaKA4ySeURII",
+      "total": 2496927,
+      "daily": 180
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "2002 - Saweetie & Ms Banks Remix",
+      "trackId": "2DbWt19V8ROufkjtOzXKCw",
+      "total": 2316235,
+      "daily": 247
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "rock your hips (feat. Saweetie)",
+      "trackId": "3iF9v3VZwkkpyz1JpW8klK",
+      "total": 2174475,
+      "daily": 1409
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Sweat Check",
+      "trackId": "3bJukUfMgeKQIKXL2ZySYX",
+      "total": 2133071,
+      "daily": 453
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Baby Mama Coochie (feat. Saweetie)",
+      "trackId": "2lHssEty0gcKrI0CXVJl4L",
+      "total": 1840794,
+      "daily": 273
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Respect",
+      "trackId": "4tMphqbDECmRVcJINgZhTV",
+      "total": 1806254,
+      "daily": 62
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Triggered - Dance Mix",
+      "trackId": "2SuoijtB0vkaXakZ0zgw6h",
+      "total": 1611308,
+      "daily": 152
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Proclivities (feat. Saweetie)",
+      "trackId": "7HRelVQHFYUIalNf6jDxqh",
+      "total": 1569027,
+      "daily": 1492
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Agua",
+      "trackId": "6G6tj5i11XdmaRmPqGIhdd",
+      "total": 1507359,
+      "daily": 60
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "All She Wanna Do (feat. Saweetie) [NIIKO X SWAE Remix]",
+      "trackId": "7y1sT9jbQ9IZy3g6b55Ptq",
+      "total": 1055896,
+      "daily": 131
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "My Type - Kat Nova Dance Remix",
+      "trackId": "0otKQCPRcuBqRLubKdgHpv",
+      "total": 978912,
+      "daily": 652
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, thủy & Ymtk)",
+      "trackId": "0gn5dQJPpRCJWKH6LAUZz7",
+      "total": 971026,
+      "daily": 742
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "P.U.S.S.Y. (Powerful, Utopia, Supreme, Sacred, Yummy)",
+      "trackId": "5gG8sYCZ22yJI8jBt0623H",
+      "total": 949631,
+      "daily": 229
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Best Friend (feat. Doja Cat) - Party Pupils Remix",
+      "trackId": "3MXTwqdVtcOmhjUqw6FnAZ",
+      "total": 833345,
+      "daily": 318
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "My Type (feat. French Montana, Wale & Tiwa Savage) - Remix",
+      "trackId": "1VgJhqARVRZCgRvZQOaVeC",
+      "total": 727199,
+      "daily": 94
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "SHE PRETTY - WITH SAWEETIE",
+      "trackId": "2F6VX9GusVq0sAI03qq29S",
+      "total": 663101,
+      "daily": 829
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Intro",
+      "trackId": "1WPBD8Vw0LrG4nSxHNolEu",
+      "total": 656931,
+      "daily": 19
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Confetti (feat. Saweetie) - Blinkie Remix",
+      "trackId": "3RfVGpp4o6pXxTPyEVx5pl",
+      "total": 615423,
+      "daily": 111
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "MEMORABLE",
+      "trackId": "2QX6OIugx0kV8YRcVUoycZ",
+      "total": 611497,
+      "daily": 159
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Immaculate - Club Shy VIP",
+      "trackId": "09zbCWxXiMJKnm5uaaCC0a",
+      "total": 584732,
+      "daily": 633
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Best Friend (feat. Doja Cat & VaVa) [Remix]",
+      "trackId": "5CCq4TYb1t56kc0keMvAFi",
+      "total": 562442,
+      "daily": 144
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "HANDLE MY TRUTH",
+      "trackId": "3zgBnJtjDRgGmkHjgUslEu",
+      "total": 527200,
+      "daily": 116
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Best Friend (feat. Doja Cat) - Kito Remix",
+      "trackId": "5MoGwHriwuxNMRGJfoZb4H",
+      "total": 524485,
+      "daily": 77
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "OUT OUT (feat. Charli XCX & Saweetie) - Tobtok Remix",
+      "trackId": "0lNUvwx1cRjuoUaNtr5wLR",
+      "total": 508481,
+      "daily": 69
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "That Girl (feat. Saweetie)",
+      "trackId": "0gYIDOQkA4DZQw3wboBiuP",
+      "total": 482717,
+      "daily": 7160
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Cuttin Up (feat. Saweetie)",
+      "trackId": "7D2d8Vaq1aWAmP1oR6maPH",
+      "total": 460754,
+      "daily": 807
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Baby Boo - Star.One Remix",
+      "trackId": "3aV9fRgmyEN1rhlWkdHsk1",
+      "total": 384708,
+      "daily": 72
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "NO RECEPTION",
+      "trackId": "1sfAZTmq1Uj21YJNv64SEb",
+      "total": 368504,
+      "daily": 90
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "OUT OUT (feat. Charli XCX & Saweetie) - Goodboys Remix",
+      "trackId": "4Z8sQD5xzLpnN5JdurJjJE",
+      "total": 367390,
+      "daily": 111
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Khutti - Slowed + Reverb",
+      "trackId": "6v2BPSrMoSvRdi1k2Pfj32",
+      "total": 322543,
+      "daily": 68
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "I Want You This Christmas",
+      "trackId": "1JHsB2E0FWEEBVdFV2W6w8",
+      "total": 312178,
+      "daily": 77
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Hey, Mickey! - Sped Up",
+      "trackId": "1RTjA8O5M0XWv80CdQytUB",
+      "total": 240439,
+      "daily": 79
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Confetti (feat. Saweetie) - Billen Ted Remix",
+      "trackId": "02Oj7On5gxp2aZDWIy4eT8",
+      "total": 236447,
+      "daily": 36
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Richtivities - Sped Up",
+      "trackId": "5kcc4yvAbPihMKmZODTade",
+      "total": 168823,
+      "daily": 77
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "NANi - Wuki Remix",
+      "trackId": "34PuDdbg7tocQSrvhwfqne",
+      "total": 154710,
+      "daily": 140
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Hey, Mickey! - Slowed Down",
+      "trackId": "12Mx0oTNPyvG23wlLQzQYk",
+      "total": 141870,
+      "daily": 24
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "NANi - Sped Up",
+      "trackId": "0mvzsyt2Dpw6wlP9tKiJp5",
+      "total": 124182,
+      "daily": 62
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "OUT OUT (feat. Charli XCX & Saweetie) - Xoro & Jack Kelly Remix",
+      "trackId": "2DW0yFkgaWyBRQyyEHhiHT",
+      "total": 110479,
+      "daily": 49
+    },
+    {
+      "artist": "Saweetie",
+      "artistId": "6cK3NBO6uP7hh0oyuVELFl",
+      "trackName": "Big Santa",
+      "trackId": "4QfEdziaiCi0h1soP5sOBs",
+      "total": 103781,
+      "daily": 51
+    }
+  ]
+}

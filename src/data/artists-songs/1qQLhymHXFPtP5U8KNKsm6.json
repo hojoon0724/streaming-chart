@@ -1,0 +1,606 @@
+{
+  "artist": "Apache 207",
+  "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+  "songs": [
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Roller",
+      "trackId": "6hw1Sy9wZ8UCxYGdpKrU6M",
+      "total": 445413411,
+      "daily": 94828
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Komet",
+      "trackId": "7oQepKHmXDaPC3rgeLRvQu",
+      "total": 270000309,
+      "daily": 92309
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "200 km/h",
+      "trackId": "2PGA1AsJal6cyMNmKyE56q",
+      "total": 218801904,
+      "daily": 60703
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "2002",
+      "trackId": "2u8AXJyk8pICzj2wyPBL0b",
+      "total": 189297976,
+      "daily": 44825
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Madonna",
+      "trackId": "6a3kNt1UlUOapDKmEr3JzZ",
+      "total": 160144366,
+      "daily": 44720
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Wunder",
+      "trackId": "4b3W0IbHDwHCvjSs708Tr4",
+      "total": 149178533,
+      "daily": 126238
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Bläulich",
+      "trackId": "2WRTnY0slmFgWcrmEr8dPj",
+      "total": 149057631,
+      "daily": 37113
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Wieso tust Du dir das an?",
+      "trackId": "6dNB3XdAzx7kTf5wa8Rg89",
+      "total": 146787762,
+      "daily": 31331
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Fame",
+      "trackId": "0QjjaCaXE45mvhCnV3C0TA",
+      "total": 145632082,
+      "daily": 30357
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Kein Problem",
+      "trackId": "3Zigq1lfHmFRlyoRrh9k2s",
+      "total": 136540435,
+      "daily": 27074
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Breaking your heart",
+      "trackId": "6fsbuVwtZHq8bCfUOfmkNL",
+      "total": 107094468,
+      "daily": 44731
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Doch in der Nacht",
+      "trackId": "3uhTOxvu2h2YEm0uPNF2vi",
+      "total": 104291461,
+      "daily": 15387
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Boot",
+      "trackId": "12KENAKQY5JvAsRURN7TzB",
+      "total": 87587412,
+      "daily": 12206
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Sex mit dir",
+      "trackId": "0PEwVF6TStGXMTnQMAk9kl",
+      "total": 80050580,
+      "daily": 12570
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Brot nach Hause",
+      "trackId": "5e0bzcsI1khimLSJhddHdS",
+      "total": 75716770,
+      "daily": 18071
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "2 Minuten",
+      "trackId": "1u5jYTx2WdptYWYpwqcE9n",
+      "total": 73922011,
+      "daily": 9257
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Angst",
+      "trackId": "5yUzqd3H7cmJ1no6B4uTzu",
+      "total": 73187141,
+      "daily": 11956
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Neunzig",
+      "trackId": "3caxdAr1m31mOuKS5g7LwQ",
+      "total": 69620343,
+      "daily": 20724
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Unterwegs",
+      "trackId": "7oJW8vNkosiWuKJtsq3mZs",
+      "total": 69222564,
+      "daily": 10620
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Fühlst du das auch",
+      "trackId": "2MYXbdNTkOmjOr9sVQ288m",
+      "total": 65232223,
+      "daily": 19563
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Sport",
+      "trackId": "5ewhpp17f3pUSx9xCwC6b1",
+      "total": 63815409,
+      "daily": 14357
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Matrix",
+      "trackId": "0CflhdVVA63j3oxaqNSUzC",
+      "total": 60702961,
+      "daily": 4998
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Sie ruft",
+      "trackId": "4CyCHkhRsDXUeP5K4Y3xjU",
+      "total": 59290900,
+      "daily": 8873
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Wenn das so bleibt",
+      "trackId": "5atei5eVpWKUJj5olSI32L",
+      "total": 58993074,
+      "daily": 14427
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Kleine Hure",
+      "trackId": "1hP9yo96nyLlMHqNWZaJH2",
+      "total": 57071515,
+      "daily": 7289
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Ferrari Testarossa",
+      "trackId": "7EvXO7pVGx0ZoV3anCS1s6",
+      "total": 54314546,
+      "daily": 9431
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Famous",
+      "trackId": "1QKnGqFTVwXeSLYYJfd8jT",
+      "total": 53932866,
+      "daily": 8365
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Vodka",
+      "trackId": "7etwHYuofD4c6XqBvT3V4R",
+      "total": 46333535,
+      "daily": 8740
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Beef",
+      "trackId": "1COyMUbpLCVDzRBKn4TQY4",
+      "total": 43797834,
+      "daily": 6002
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Loser",
+      "trackId": "5f3DCz8dOQdTLxzh8QQuvV",
+      "total": 38541716,
+      "daily": 24876
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Was weißt du schon",
+      "trackId": "07MQt3L6LsFS5rAgUSSrMO",
+      "total": 37318633,
+      "daily": 17050
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Miami",
+      "trackId": "5N1C1ii0IsKp1Ux3OXUM8C",
+      "total": 36830908,
+      "daily": 49441
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Nie mehr gehen",
+      "trackId": "3iBU3w9MbrqFdB9mOa2JeK",
+      "total": 36713586,
+      "daily": 11017
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Keine Fragen",
+      "trackId": "6jbzGtCG4O7GDWYB224h9C",
+      "total": 33141088,
+      "daily": 3622
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "2sad2disco",
+      "trackId": "6H7xEIfrVbEOPpxaxVBCmf",
+      "total": 32594831,
+      "daily": 7852
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Auf und Ab",
+      "trackId": "3EmCRdONSwuGJJJWPghRjd",
+      "total": 32470914,
+      "daily": 8248
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Nicht wie du",
+      "trackId": "4NpCP4YhNlThzn8QFyCceH",
+      "total": 31856719,
+      "daily": 2435
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Grey Goose",
+      "trackId": "3aOICrSrJP0LgjBGyq7P0R",
+      "total": 30237846,
+      "daily": 3036
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "28 Liter",
+      "trackId": "1Y8V7yhFFrFjzBQtOH4ap7",
+      "total": 28754816,
+      "daily": 5540
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Sag mir wer",
+      "trackId": "7zmPgmxFWEcsGJCsP7m9R6",
+      "total": 28457687,
+      "daily": 4973
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Nie verstehen",
+      "trackId": "6TL7b76AWgto4ulxoUB3qB",
+      "total": 28323000,
+      "daily": 6942
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Beifahrersitz",
+      "trackId": "0DRBQsCUcl3H3NTRPxXsU2",
+      "total": 25791404,
+      "daily": 7525
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "SIDECHICKZ",
+      "trackId": "08YLFpaGQTvvANJK6Ej2oI",
+      "total": 25285659,
+      "daily": 2171
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Coco Chanel",
+      "trackId": "1okGsbOJ9Sjd837GvN6F9S",
+      "total": 22529148,
+      "daily": 10409
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Durch die Straßen",
+      "trackId": "31hy4dmedytmgORgwP9jl7",
+      "total": 21949402,
+      "daily": 2778
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "No No",
+      "trackId": "5Y2UYJIZNnr59ip1Vmv8NM",
+      "total": 21071945,
+      "daily": 2277
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Lamborghini Doors",
+      "trackId": "089yJjEMeowH9udKtYG3bJ",
+      "total": 20602232,
+      "daily": 6052
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Thunfisch & Weinbrand",
+      "trackId": "1XfyzTI7FvG8kAVBSFlf60",
+      "total": 20349102,
+      "daily": 3647
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Nur noch einen Schluck",
+      "trackId": "2hkOwMb5AzWK8aW2wKQZ7t",
+      "total": 18895110,
+      "daily": 3385
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Ein letztes Mal",
+      "trackId": "77dJw4yOyJdwWKosfVdJaL",
+      "total": 17993782,
+      "daily": 7310
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Weißes Kleid",
+      "trackId": "0FhMTmNQsQZyXBkfHyOly5",
+      "total": 17771890,
+      "daily": 5767
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Gesegnet",
+      "trackId": "0fvFSGvEAPDDMfweKvDJVa",
+      "total": 16431341,
+      "daily": 34450
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Cold as Ice",
+      "trackId": "2E53s8cIrRuty1aZdAUqvQ",
+      "total": 15581532,
+      "daily": 44494
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Stimmen",
+      "trackId": "3VXJy5nUYOuOw4nXsAIHrH",
+      "total": 15054421,
+      "daily": 4608
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Rhythm of the Night",
+      "trackId": "6905RdMBzsnpsccr8UOdjj",
+      "total": 14948630,
+      "daily": 5155
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Schimmel in der Villa",
+      "trackId": "5j8Mb7TaTedrJzCpUKdfm7",
+      "total": 13173894,
+      "daily": 3185
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Vorstadt",
+      "trackId": "2VFnkvZhN9Bx2i58Tw8WAO",
+      "total": 12076122,
+      "daily": 3986
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Der Teufel weint",
+      "trackId": "0SKuzDgoITijEAxHF7tyBp",
+      "total": 11910992,
+      "daily": 2231
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Nebengasse",
+      "trackId": "72cpiSaMGgj9CV3XIUHeTA",
+      "total": 10915326,
+      "daily": 5093
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Kurz vor 4",
+      "trackId": "2LZhUe6QBAtqaeJf12roOg",
+      "total": 10363512,
+      "daily": 3256
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "So weit",
+      "trackId": "6rDEmOiI6RMhnp30TUIku8",
+      "total": 9991631,
+      "daily": 2346
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Schrei",
+      "trackId": "0lFyiZcpAZMIFHaJkLrnoR",
+      "total": 9855009,
+      "daily": 2027
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Capri Sonne",
+      "trackId": "5T2gpbg0FtAQL1eIoJNDnA",
+      "total": 8707388,
+      "daily": 3149
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Bei Nacht",
+      "trackId": "3DVjjnzWtCURhhGlswtymg",
+      "total": 8449413,
+      "daily": 20103
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Gefunden",
+      "trackId": "5JugT2GrfTdvKCAblOxAOv",
+      "total": 8075471,
+      "daily": 3085
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "An der Uhr gedreht",
+      "trackId": "5GYr5Y70MhfD17rjhVmuCt",
+      "total": 7994898,
+      "daily": 1535
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Tiefgaragen",
+      "trackId": "49xsSDb0cfQCIgISzaZ2eg",
+      "total": 6836790,
+      "daily": 16000
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Ohne Gnade",
+      "trackId": "6VqvjsOF1aRfCfJacsTLyw",
+      "total": 6805600,
+      "daily": 2379
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Yay",
+      "trackId": "51OiYIROicWw15V5Pcbj5g",
+      "total": 6800286,
+      "daily": 16021
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Morgen",
+      "trackId": "4YHB7lnoeFEHWtL0KtSklh",
+      "total": 6628278,
+      "daily": 157569
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Geblitzt",
+      "trackId": "4REyaz2hSuykTLTzk6dOTi",
+      "total": 5669444,
+      "daily": 2191
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Raus hier",
+      "trackId": "0Rnp3YXS9rROU7x6XW9hbF",
+      "total": 5292457,
+      "daily": 1970
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Lamborghini Doors - Piano Version",
+      "trackId": "4gyiwq4wZKc9ROGqku9iHk",
+      "total": 3563931,
+      "daily": 717
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "Skit Tiefgaragen",
+      "trackId": "7kgok3Ui6IF9QeFDce9wMm",
+      "total": 2408982,
+      "daily": 3774
+    },
+    {
+      "artist": "Apache 207",
+      "artistId": "1qQLhymHXFPtP5U8KNKsm6",
+      "trackName": "GWHF",
+      "trackId": "2Co26l5ypYisIadzB44Pcz",
+      "total": 925100,
+      "daily": ""
+    }
+  ]
+}

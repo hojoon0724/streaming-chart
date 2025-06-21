@@ -1,0 +1,806 @@
+{
+  "artist": "Lasso",
+  "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+  "songs": [
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Ojos Marrones",
+      "trackId": "2Ga1FnYssxRlMukIDI0f0y",
+      "total": 476777541,
+      "daily": 231427
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Ojos Marrones - Con Sebastián Yatra",
+      "trackId": "6Ec3FPbwfOCoICwSQrlPOz",
+      "total": 176422884,
+      "daily": 60211
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "En Otra Vida",
+      "trackId": "0EhmTBq33eARyOz3SIi4P2",
+      "total": 114757962,
+      "daily": 169482
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Un Millón Como Tú",
+      "trackId": "619zlIsV7csW2h2narAoPC",
+      "total": 108751578,
+      "daily": 37100
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Odio Que No Te Odio",
+      "trackId": "374Yj1kOLjGLYLOydbCO3i",
+      "total": 100287781,
+      "daily": 33600
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Subtítulos",
+      "trackId": "3GXLEtcY0SsmpRoiGWGuZM",
+      "total": 95592870,
+      "daily": 15847
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Hasta Ese Día",
+      "trackId": "1nbaJy4hbGV8r3DRqeeXF1",
+      "total": 60023219,
+      "daily": 27605
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Souvenir",
+      "trackId": "0trullS9QmJaJ9pWYS7TTK",
+      "total": 32143059,
+      "daily": 7330
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Te Veo",
+      "trackId": "7iG17BHNVVEUr5gIiJX2xX",
+      "total": 31311292,
+      "daily": 11244
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "De mí, de mí, de mí",
+      "trackId": "71O4eV3KvxjJ2mycKTBvwr",
+      "total": 30070654,
+      "daily": 21830
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Julia",
+      "trackId": "7ryxHPm6oNuVYiBLB2RuNX",
+      "total": 27969437,
+      "daily": 17440
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Ladrones",
+      "trackId": "23R6LNvr5YGUw4iJiPhXOb",
+      "total": 21636794,
+      "daily": 4801
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "En Otra Vida - Con Carin Leon",
+      "trackId": "7GDeMqjePrVZ9O6d3HqKZU",
+      "total": 21121954,
+      "daily": 57788
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "NI VIVO NI MUERTO",
+      "trackId": "5icFOuhDm1Fp0L2J216Weo",
+      "total": 19871066,
+      "daily": 5764
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Corriendo Con Tijeras",
+      "trackId": "4iD92GmrfOzcteNgs74CYe",
+      "total": 19154947,
+      "daily": 9342
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Ve y Diles V2 - Remix",
+      "trackId": "4mtk7XTBabuYo1ny739TEn",
+      "total": 14170846,
+      "daily": 18337
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Odiarte",
+      "trackId": "6XDKWUvyDTW2Erkysvrq9M",
+      "total": 12378818,
+      "daily": 2536
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Vamos A Mi Ritmo",
+      "trackId": "1drSVWIKe1lwtTZeuvbPBl",
+      "total": 10623565,
+      "daily": 2102
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "DIOS",
+      "trackId": "6ASsVXhMdgJf85xThcI3ys",
+      "total": 9634710,
+      "daily": 4006
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "No Pares De Bailar",
+      "trackId": "5vA7qQbd1b54O9crShMoYO",
+      "total": 9519605,
+      "daily": 4640
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Feliz Por Ti",
+      "trackId": "2e2dOJMIieLvAh2g7kN9dP",
+      "total": 8947134,
+      "daily": 7306
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Los Hombres Son Todos Iguales",
+      "trackId": "0Kh9NnwYyar9eM6uOphrPa",
+      "total": 8631016,
+      "daily": 4215
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Algodón",
+      "trackId": "47GpBZVopVgPZ2MynFdXPI",
+      "total": 8590293,
+      "daily": 1948
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Diferente",
+      "trackId": "4E1bxp3qlyB7caI7s2tX4Q",
+      "total": 8252194,
+      "daily": 2158
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "De Tú A Tú",
+      "trackId": "2DsBBIZsZDgE31cbveZy6J",
+      "total": 8017457,
+      "daily": 3284
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Me Arruinaste Netflix",
+      "trackId": "6nJOlg49X5al8TnM0W4Rxi",
+      "total": 7969937,
+      "daily": 1291
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Tenemos que Hablar",
+      "trackId": "621Kfm9pbSqbr0CPT7mU0L",
+      "total": 6686921,
+      "daily": 2325
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Rey Ahogado",
+      "trackId": "0BWsONI3gsZBsFZ000MIsI",
+      "total": 5971391,
+      "daily": 6480
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Siempre Llegas Tarde",
+      "trackId": "0v0FEykw2BenGpzJnt7kY0",
+      "total": 5730576,
+      "daily": 4009
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Si no fuera por ti",
+      "trackId": "4tgJisrpPVo6VUpz9gLrDK",
+      "total": 5575319,
+      "daily": 4928
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Plástico",
+      "trackId": "3vYqIJpzn0GF4P9I27YgQJ",
+      "total": 5480210,
+      "daily": 1229
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Quiero Que Vuelvas",
+      "trackId": "5WeHwQLig8Quii5iYxlZCk",
+      "total": 5305829,
+      "daily": 1894
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Sin Otro Sentido",
+      "trackId": "31JODuTYqJlBdNaKVTyePi",
+      "total": 5276596,
+      "daily": 2289
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Perdón Pero No Te Perdono",
+      "trackId": "20gj4z41mPGAIXKMN8jKzB",
+      "total": 5145322,
+      "daily": 2941
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Cinco Minutos Más",
+      "trackId": "1U6gcdaWujPBqQ01c4Wt6S",
+      "total": 5062660,
+      "daily": 19219
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Kamikaze",
+      "trackId": "06Xr0zyQMK6BNt7XQ0eaxn",
+      "total": 4814497,
+      "daily": 579
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "No Me Trates De Olvidar",
+      "trackId": "774LKwn7hrCjtVRh6cbBx7",
+      "total": 4732307,
+      "daily": 1020
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Ibuprofeno",
+      "trackId": "6YPvpcUcjot5d9iA9mFSN8",
+      "total": 4608185,
+      "daily": 1466
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Cómo Te Odio",
+      "trackId": "7fy1buwGHqx1KVeTEtnhsL",
+      "total": 3709871,
+      "daily": 1318
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "La Lotería",
+      "trackId": "5NYWbFWbZ9P75D2v98brQQ",
+      "total": 3517290,
+      "daily": 669
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Mmm",
+      "trackId": "34ZeFXv7ATBAWJNmYpE8Dg",
+      "total": 3470187,
+      "daily": 296
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Bilingües",
+      "trackId": "6MUUIuJAgulhbQRmYGlVWH",
+      "total": 3380468,
+      "daily": 2709
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Elefantes En La Barriga",
+      "trackId": "64CpZC6qfGFmwP3kxscRZH",
+      "total": 3278032,
+      "daily": 1074
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Quiero Que Me Quieras",
+      "trackId": "2RB7otBiwWW5simBHX7s8r",
+      "total": 3203533,
+      "daily": 652
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "No Escuches Esta Canción",
+      "trackId": "6qxWbcdtA291DLTqWtxngS",
+      "total": 3195590,
+      "daily": 2949
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Los Amigos no se Besan en la Boca",
+      "trackId": "2vFWc5YwJDOAAhStxkavHZ",
+      "total": 3144843,
+      "daily": 779
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Hoy Te Dejo Amar",
+      "trackId": "3VICUkIed71CSbjSLfWsdx",
+      "total": 3032123,
+      "daily": 576
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Mi Imaginación",
+      "trackId": "0y1bW2ojHXiAyNXrbopami",
+      "total": 2884349,
+      "daily": 876
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Eva",
+      "trackId": "3kof23H8ZheEzzhARBlf4o",
+      "total": 2543145,
+      "daily": 953
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Cuando Te Dejan De Querer",
+      "trackId": "2mWtH6oDhBg0tcM2joSVpj",
+      "total": 2332102,
+      "daily": 8589
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Yo-yo",
+      "trackId": "75JuS8coNVEeZTsOoy2TQH",
+      "total": 2248359,
+      "daily": 516
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Todo Regresa",
+      "trackId": "1jT9pbKiwKC2kEBtpSQ9Hf",
+      "total": 2203667,
+      "daily": 1309
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Mala Memoria",
+      "trackId": "36LMVXlrxph8ZjFqyvwCgM",
+      "total": 2010275,
+      "daily": 434
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Clavos",
+      "trackId": "1ZyqjQNO25bMMt6DTqsesE",
+      "total": 1991523,
+      "daily": 1429
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "No Es Sólo Un Juego - The Official Concacaf Gold Cup 2023[TM] Theme",
+      "trackId": "7CKoaV13hpfEtlWQyvIe4N",
+      "total": 1967631,
+      "daily": 913
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Rompecabezas",
+      "trackId": "4ado1IWTDNvYT7DEhND0aK",
+      "total": 1928620,
+      "daily": 383
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Cerebro",
+      "trackId": "6Lb1HwWfrTxkJpKUD2qPX6",
+      "total": 1877956,
+      "daily": 303
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Gracias",
+      "trackId": "5C6ma9zFR5gNOoxuinbeDU",
+      "total": 1875394,
+      "daily": 266
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Yo No Nací Para Amar",
+      "trackId": "6J1s5qrNbSwc5yVqexHwyP",
+      "total": 1616586,
+      "daily": 975
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "… pero no me dejes",
+      "trackId": "59taXBtcoOCkX1IAIEFmSz",
+      "total": 1491257,
+      "daily": 353
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Cero",
+      "trackId": "1iK0ktSqghQT302D4KAN39",
+      "total": 1422257,
+      "daily": 394
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Ese Final Ya Me Lo Sé",
+      "trackId": "1BW68Uq5e5wngzCvPfiD6l",
+      "total": 1412376,
+      "daily": 2926
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "QUEBRANTO",
+      "trackId": "1sgeAR6QD9GHihvaUVNPb1",
+      "total": 1403803,
+      "daily": 2231
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Quédate Con Él",
+      "trackId": "0Izcb9Fi0SttnpjldQEgvc",
+      "total": 1311838,
+      "daily": 549
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Yo Le Creo",
+      "trackId": "3irYBZ7XF5r7NvP3As4VnG",
+      "total": 1156896,
+      "daily": 223
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Fetiche",
+      "trackId": "0x1QQhfXdWPv8GizKQuEgm",
+      "total": 1070420,
+      "daily": 3226
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "La Mexicana",
+      "trackId": "09d92ol4KHLqTx0nu9vbxZ",
+      "total": 1041525,
+      "daily": 665
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Ojalá",
+      "trackId": "25wRs7FFIBjO7rqVBddO1b",
+      "total": 1021480,
+      "daily": 111
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Algo Más",
+      "trackId": "1nlSU8qaX8qsJPWYZiNNJK",
+      "total": 1013907,
+      "daily": 235
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Vamos Bien",
+      "trackId": "3GNFkjrtq9eorHWNekiiO7",
+      "total": 1008995,
+      "daily": 98
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "¿vienes o voy?",
+      "trackId": "48Lkl9u2AdatU1dA70hOAX",
+      "total": 946209,
+      "daily": 1727
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Azul",
+      "trackId": "5C3QKXB7RlbkzgRf77rx61",
+      "total": 892232,
+      "daily": 196
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "ctrl-z",
+      "trackId": "2if0tp2wHjVb8b9n5ReF2w",
+      "total": 878653,
+      "daily": 204
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Escalas Eternas",
+      "trackId": "4OevSvFhk6jqHzZU2jPWB2",
+      "total": 870418,
+      "daily": 137
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Libertad",
+      "trackId": "3tP38x4FWxD8vw2IuP5yoa",
+      "total": 725857,
+      "daily": 123
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Huyendo",
+      "trackId": "1SwrvLHm5OF5MJ5dXxaBCY",
+      "total": 694627,
+      "daily": 170
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Final Feliz",
+      "trackId": "0fzjpiwtYIS6pumgHYz1NH",
+      "total": 560697,
+      "daily": 129
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Nunca Seremos Amigos",
+      "trackId": "3RJXOnDKZpzDGQfjUQr4KV",
+      "total": 520793,
+      "daily": 3276
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Sin Mover Un Dedo",
+      "trackId": "0PQgWZP1t3ObZ0mnUUSN1N",
+      "total": 505526,
+      "daily": 99
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Es Lo Mejor (La Historia De Agatha Hall)",
+      "trackId": "118POg8MZwcBES7tXnrmUk",
+      "total": 498235,
+      "daily": 97
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Tiempo Fallo",
+      "trackId": "5nVqiUllsLIycn9M08HD5w",
+      "total": 479314,
+      "daily": 141
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "La Odisea",
+      "trackId": "15YtOe142DXFW6Xi5vtdGE",
+      "total": 468438,
+      "daily": 110
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Carolina",
+      "trackId": "2vZEs0M3mm6vPC1g1gNS0B",
+      "total": 467273,
+      "daily": 116
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Tiempo Pasará (La Historia De Saria)",
+      "trackId": "2Wo5W5Z68MZjmgSya4kfZV",
+      "total": 456256,
+      "daily": 90
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Me Muero",
+      "trackId": "1IOJuk252poUvJbwXzjYLB",
+      "total": 450955,
+      "daily": 90
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Ojos Marrones",
+      "trackId": "0YaNONtPoI54mhKsqz8UpT",
+      "total": 446817,
+      "daily": 280
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Mientras Mentías",
+      "trackId": "2XWF1IisBKxKb4U9pa07iq",
+      "total": 444359,
+      "daily": 103
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "50",
+      "trackId": "1vCWDjrb1QWyISICMHXCoU",
+      "total": 434492,
+      "daily": 94
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Pastillas Pa Dormir",
+      "trackId": "4q0nJgk3gCtBZInE3UNWuE",
+      "total": 385170,
+      "daily": 4057
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Lucifer",
+      "trackId": "5cCdL9H1dMu6sCLRSGVtg6",
+      "total": 361873,
+      "daily": 1546
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Fin Del Mundo",
+      "trackId": "2mUK5zkls3nUM2vT7L21ms",
+      "total": 306342,
+      "daily": 2026
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Odio Que No Te Odio - En Vivo Desde El Teatro Caupolicán, Santiago de Chile",
+      "trackId": "5Knmdir5AEdYpdwHq1PsYY",
+      "total": 279864,
+      "daily": 111
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Está Bien Estar Mal",
+      "trackId": "24RmC5eAlmGSNcaXkuCCmH",
+      "total": 274866,
+      "daily": 1760
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Calendario",
+      "trackId": "1a7x6MrpAyNaGQ9uyFmN7o",
+      "total": 245121,
+      "daily": 1858
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "DIOS - En Vivo Desde El Teatro Caupolicán, Santiago de Chile",
+      "trackId": "6rrRxLbURYrdzmpHwyKR1T",
+      "total": 155721,
+      "daily": 124
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Hasta Ese Día - En Vivo Desde El Teatro Caupolicán, Santiago de Chile",
+      "trackId": "5veCLqvkDAfif1bxNGSZDu",
+      "total": 119755,
+      "daily": 129
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Te Veo - En Vivo Desde El Teatro Caupolicán, Santiago de Chile",
+      "trackId": "1pVcTJddzJ13ikFlHlkGg5",
+      "total": 119621,
+      "daily": 106
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Souvenir - En Vivo Desde El Teatro Caupolicán, Santiago de Chile",
+      "trackId": "6LKsBR36vQnx8sHAOcafqq",
+      "total": 110420,
+      "daily": 93
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Yo-yo - En Vivo Desde El Teatro Caupolicán, Santiago de Chile",
+      "trackId": "5lb0D4glpfanYNOLDAzSTJ",
+      "total": 107228,
+      "daily": 71
+    },
+    {
+      "artist": "Lasso",
+      "artistId": "3SCOuAxngTC1yGjKMcIPEd",
+      "trackName": "Ojos Marrones - En Vivo Desde El Teatro Caupolicán, Santiago de Chile",
+      "trackId": "6vUb5lkCDWwc3OgzEBBPMO",
+      "total": 106815,
+      "daily": 85
+    }
+  ]
+}

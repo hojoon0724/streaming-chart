@@ -1,0 +1,806 @@
+{
+  "artist": "ChocQuibTown",
+  "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+  "songs": [
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Pa Olvidarte (feat. Manuel Turizo) - Remix",
+      "trackId": "3k2pw4IRZXUS5W64yd7uVX",
+      "total": 201720701,
+      "daily": 18038
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "DOSIS",
+      "trackId": "0AJKRuWjsVn6B43gm5HfjV",
+      "total": 81160877,
+      "daily": 5230
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "El Mar de Sus Ojos (feat. ChocQuibTown)",
+      "trackId": "0HRMIu0FgBAkY0r8XGzExe",
+      "total": 50357582,
+      "daily": 14629
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Que Me Baile",
+      "trackId": "6dZDBFRYElQx4DY1q62r30",
+      "total": 33028809,
+      "daily": 2737
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Pa Olvidarte",
+      "trackId": "46LzmjYg01134CX9vrOaOI",
+      "total": 32305111,
+      "daily": 2965
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Nada",
+      "trackId": "6YNLGiz7yNfRQ6XLVwkXf5",
+      "total": 30553870,
+      "daily": 3522
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Cuando Te Veo",
+      "trackId": "2GSATPFZXyHG28JCkq5gTM",
+      "total": 18267993,
+      "daily": 7772
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Invencible",
+      "trackId": "7JnFZ24rWPKVxFZd1xw6dm",
+      "total": 15738366,
+      "daily": 1638
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Desde el Día en Que Te Fuiste",
+      "trackId": "6lCI98Ditu09TwVLp2AszJ",
+      "total": 14220498,
+      "daily": 6564
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Salsa & Choke (feat. Ñejo)",
+      "trackId": "4OfK9MAPV8MvRWMxxPpU1m",
+      "total": 13495051,
+      "daily": 1948
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "De Ti Enamorado",
+      "trackId": "36oLmb8fDU15WLv8dijK3g",
+      "total": 11466770,
+      "daily": 529
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Nuqui (Te Quiero Para Mi)",
+      "trackId": "08QeHYIZWfw09FiKrD7gqA",
+      "total": 10717514,
+      "daily": 5372
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Hasta el Techo",
+      "trackId": "3hHIhcimLKF4tpq9JxiEsG",
+      "total": 10580168,
+      "daily": 4715
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Mi Mayor Fortuna (with ChocQuibTown)",
+      "trackId": "2ohQN4UOfgXGwtF2ISUkFb",
+      "total": 10490450,
+      "daily": 650
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Morena",
+      "trackId": "4oZaZ7tGQ8EXVlsd2wXWQ0",
+      "total": 9689005,
+      "daily": 2564
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
+      "trackId": "3LpiQriS6EIRTkx6Ooo9dZ",
+      "total": 9342136,
+      "daily": 1559
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "No Hay Nadie Más",
+      "trackId": "0LzO18oxrn394t6FqjrZsO",
+      "total": 7521141,
+      "daily": 2132
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "De Donde Vengo Yo",
+      "trackId": "5P2SlSw6Xfg6K6TaxqjhPg",
+      "total": 7202432,
+      "daily": 2713
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Qué Lástima",
+      "trackId": "0ojvxgSTugVPVlNWka3hOb",
+      "total": 6885941,
+      "daily": 668
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Midnight Boom - with ChocQuibTown & Afro B",
+      "trackId": "46mjoNCQ3EifsDnd6dwqRD",
+      "total": 6075937,
+      "daily": 798
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Sin Miedo",
+      "trackId": "0LsC0ALc9XkKR1ngyFt4pN",
+      "total": 5756051,
+      "daily": 611
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Fresa",
+      "trackId": "5W9Dbu9oS9gzObPkECEhSC",
+      "total": 5274934,
+      "daily": 489
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Uh la la",
+      "trackId": "5fLr061zAKBzbRmkybjK2H",
+      "total": 4660015,
+      "daily": 1246
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "90 Minutos (Futbol Mode) (feat. ChocQuibTown)",
+      "trackId": "0CuQ686S9l2fLgKdbD6oWR",
+      "total": 3906638,
+      "daily": 152
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Que Me Baile",
+      "trackId": "5CiUCk2Slbezd6FWUiYbOM",
+      "total": 3609558,
+      "daily": 305
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Vuelve",
+      "trackId": "5WGHknjgYatHVCFRTFB8QP",
+      "total": 3571901,
+      "daily": 358
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Somos Pacifico",
+      "trackId": "2LhP40MIDPtaGIUs1tU9TF",
+      "total": 3369684,
+      "daily": 1401
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Calentura (feat. Tego Calderón & Zully Murillo)",
+      "trackId": "5CHXt6kDVOiYXbTYvQ33YE",
+      "total": 3222553,
+      "daily": 677
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Pescao Envenenao",
+      "trackId": "3zxjnNA8ADskefljwzZJpY",
+      "total": 2706268,
+      "daily": 893
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Dónde Están",
+      "trackId": "4im0rQek6ndUW4eqMPa8Z2",
+      "total": 2592178,
+      "daily": 158
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Ritmo Violento (feat. Alexis Play)",
+      "trackId": "28IOnff81613MSj4JZxIfx",
+      "total": 2581141,
+      "daily": 453
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Amor Tóxico",
+      "trackId": "6Vajo5NIrDIy3KlO6q8ZVL",
+      "total": 2498973,
+      "daily": 230
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Fiesta Animal (feat. Notch)",
+      "trackId": "4r1RN3GNNfY8e1X3hcrHoZ",
+      "total": 2384813,
+      "daily": 202
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Contigo",
+      "trackId": "41yQcvx8a9KrCtEA5FgUxn",
+      "total": 2250663,
+      "daily": 235
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Somos los Prietos (feat. Alexis Play)",
+      "trackId": "5jHAD4oQJN0P4j5KIKTaYs",
+      "total": 1996887,
+      "daily": 322
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Ay Dios (feat. Carlos Vives)",
+      "trackId": "20NoYzyVXvnJLOMR0tsZBm",
+      "total": 1837147,
+      "daily": 249
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Por Ellas (feat. ChocQuibTown)",
+      "trackId": "6DgZMBBgGteIGY0NHNRg4B",
+      "total": 1816265,
+      "daily": 250
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Dinero No Hay (feat. Wisin)",
+      "trackId": "2ruxFsZ3gAsO664bR33Pig",
+      "total": 1791439,
+      "daily": 74
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "El Mar de Sus Ojos (feat. ChocQuibTown) - En Vivo Desde Santa Marta",
+      "trackId": "2BqjMkFP8Om3waku2jp0Jj",
+      "total": 1790551,
+      "daily": 260
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "La Noche",
+      "trackId": "1lwisbRtDuw9UVCi0YI1U5",
+      "total": 1638195,
+      "daily": 81
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "La Tierra del Olvido (feat. ChocQuibTown, Cholo Valderrama, Fanny Lu, Fonseca, Herencia de Timbiquí",
+      "trackId": "7gvk8hP53QxatycUWJQaRq",
+      "total": 1619502,
+      "daily": 308
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Bitcoin",
+      "trackId": "7edR9E5WUTG1DUN4K8bNgH",
+      "total": 1531086,
+      "daily": 161
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Alguien Como Tú - Estudio En Vivo",
+      "trackId": "6XOyWTU6Q35l7sZwl5lVes",
+      "total": 1457746,
+      "daily": 205
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Quisiera",
+      "trackId": "4ZzJYm533TMFG7srgVldO1",
+      "total": 1405118,
+      "daily": 116
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Montaña Solitaria",
+      "trackId": "6bKlJofLKJI0BNq8eIGWsG",
+      "total": 1335189,
+      "daily": 305
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Humano",
+      "trackId": "3JSulFt43yVuYl3TfV3vbg",
+      "total": 1331323,
+      "daily": 302
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "No Vuelvas a Mí",
+      "trackId": "0QtpKLa62AfLe5m0L2x3Gr",
+      "total": 1258545,
+      "daily": 119
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Tu canción",
+      "trackId": "4OAYn1obhdA225v4cQBSIV",
+      "total": 1038127,
+      "daily": 164
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "El Bombo - Estudio En Vivo",
+      "trackId": "1teBDZYlJVF3wWeMraRYy6",
+      "total": 1026624,
+      "daily": 159
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "El Mar de Sus Ojos (feat. ChocQuibTown) - En Vivo Desde el Estadio El Campín de Bogotá",
+      "trackId": "2ZWIDoi8qQZrtwqVgO1e1b",
+      "total": 936101,
+      "daily": 96
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Condoto - Estudio En Vivo",
+      "trackId": "0212vlB0PBIt3uQa1trUe2",
+      "total": 935097,
+      "daily": 119
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Eso Va",
+      "trackId": "1kF4VlGtGQdp9nuD15PTRl",
+      "total": 918036,
+      "daily": 59
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Pescao Envenenao - Estudio En Vivo",
+      "trackId": "57FsmYiWwltSf3cMaEn30g",
+      "total": 909726,
+      "daily": 133
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Maria",
+      "trackId": "33UTgzWoQmA8tJHoAt9pbX",
+      "total": 859466,
+      "daily": 63
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Iron Lion Zion (feat. ChocQuibTown & Elan Atias) - Live",
+      "trackId": "3Y5UOUH6PMMUUiLElorb5m",
+      "total": 835057,
+      "daily": 138
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Dónde Están Que No Los Veo",
+      "trackId": "0UeC8II2Wti3cGxPNzIiDM",
+      "total": 801126,
+      "daily": 595
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Si Supiera Que Iba Mal",
+      "trackId": "1B2D4bIfE72pYbS8j3XFYL",
+      "total": 783551,
+      "daily": 45
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "El Bombo (Toquemen El Bombo)",
+      "trackId": "6ZmJqwrAXThTUxrjt9zqV6",
+      "total": 758978,
+      "daily": 95
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Creo En América",
+      "trackId": "4V239llAQgxynAqOUfuueJ",
+      "total": 757840,
+      "daily": 132
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Cuando Te Veo - Salsa Version",
+      "trackId": "3P1I7yZQKx90T3PpMsKdeO",
+      "total": 747889,
+      "daily": 108
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Viernes",
+      "trackId": "1JSKZucBk0Q2N6pdjX1EpS",
+      "total": 747579,
+      "daily": 53
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "No Te Espero Más",
+      "trackId": "2mkkNEwFsLth8fZd7SwBwM",
+      "total": 651601,
+      "daily": 45
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "El Mismo",
+      "trackId": "1amNIDaJldul955dbX7Q6e",
+      "total": 648255,
+      "daily": 50
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Una Raza Llamada Sabor",
+      "trackId": "7hJDHQtY0W3TMdQj7rKIUP",
+      "total": 636403,
+      "daily": 62
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Sencillo",
+      "trackId": "5aorUoDcMIPz0zT7dUenWi",
+      "total": 606852,
+      "daily": 37
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Nadie Nos Quita lo Baila'o",
+      "trackId": "2ERI3eQlUzbSSrxm881jTA",
+      "total": 589567,
+      "daily": 59
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "ME GUSTA TODO DE TI",
+      "trackId": "2fqsJFZq0npLqLEpecQ7H4",
+      "total": 588457,
+      "daily": 682
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Tú",
+      "trackId": "26J8ZPSkV1s8eUhhT4u20H",
+      "total": 585025,
+      "daily": 54
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Levantense todos",
+      "trackId": "2FeiNHdlVma974hrK71S4U",
+      "total": 580548,
+      "daily": 77
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Nadie Dijo",
+      "trackId": "0iHRkN07f2sT6ZOO8rMLsb",
+      "total": 577932,
+      "daily": 46
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Hasta el Techo - Estudio En Vivo",
+      "trackId": "2wOg70Kawe3YmEsbpQvWo2",
+      "total": 569664,
+      "daily": 51
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Cuando Te Veo - Urban Version",
+      "trackId": "4zj1PAJNzV3ej7EgY7NBDk",
+      "total": 534881,
+      "daily": 65
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Angelito",
+      "trackId": "0aKrTdL68lgzE73Ngj9a3A",
+      "total": 533322,
+      "daily": 36
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "De Donde Vengo Yo - Estudio En Vivo",
+      "trackId": "5cxYO9giI7f4nTrRv1YhSY",
+      "total": 514723,
+      "daily": 83
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Rebelión",
+      "trackId": "2nHdy9s4b6qwJLFIJbltbA",
+      "total": 507128,
+      "daily": 69
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Dame Luz",
+      "trackId": "2nBQsvrhAs5nNeG72QGc1N",
+      "total": 506591,
+      "daily": 28
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Lindo cielo",
+      "trackId": "63m52VWPTbT3t3DtXxusA1",
+      "total": 503761,
+      "daily": 61
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Mango biche",
+      "trackId": "6LnrKzpo9d5oNoMenV1gXu",
+      "total": 486619,
+      "daily": 61
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "En el aire",
+      "trackId": "4pT3R5kdt7BoWFfTlsD79P",
+      "total": 466345,
+      "daily": 36
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Puro mani (feat. Luis Enrique)",
+      "trackId": "5lvK2ZGn4iUyjYsSxyX2TQ",
+      "total": 444814,
+      "daily": 55
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Somos Pacífico - Estudio En Vivo",
+      "trackId": "4Xj9tsfnWjjUtOGJnqN9dz",
+      "total": 438391,
+      "daily": 65
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Cuando Te Veo - Pop Version",
+      "trackId": "05qMGVC8W2T5IdOMWylb8P",
+      "total": 417410,
+      "daily": 50
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "El Arriendo",
+      "trackId": "6Q3gFZ3BKNTcKKMo9fSchg",
+      "total": 410282,
+      "daily": 33
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Pa Olvidarte - Panamá Remix",
+      "trackId": "7JDzerqsCFyBDjxGeWBfij",
+      "total": 408556,
+      "daily": 27
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "San Antonio",
+      "trackId": "1C3RFAoAHoTadMwdOR4KNL",
+      "total": 348428,
+      "daily": 65
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Calentura (feat. Zully Murillo) - Estudio En Vivo",
+      "trackId": "6OVNU4JlMuoUBXEz25GCeS",
+      "total": 324211,
+      "daily": 35
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Lo Que Quieras Tú",
+      "trackId": "5skI8kaq5FByLW96MyUZqN",
+      "total": 310087,
+      "daily": 62
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Robber",
+      "trackId": "10O2mNmC1BXHOsczeg47Zs",
+      "total": 299767,
+      "daily": 32
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Medley - Estudio En Vivo",
+      "trackId": "0PzxPiDHLxxqDoBCE0fkOe",
+      "total": 292856,
+      "daily": 15
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Jaguayuken",
+      "trackId": "30whhEwlqqMfmpF6sYDMpG",
+      "total": 273262,
+      "daily": 16
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Los del Vacile",
+      "trackId": "6zRfU66M8zO2pzXAo30cS9",
+      "total": 253726,
+      "daily": 27
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Lo Nuevo / Rumba Sin Pelea - Estudio En Vivo",
+      "trackId": "267xnrIsS30DpnjLRAZlrr",
+      "total": 224418,
+      "daily": 11
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Calentura (Skit) - Estudio En Vivo",
+      "trackId": "03f6o8YSim60abVUZxxbM3",
+      "total": 180881,
+      "daily": 8
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Lindo Cielo",
+      "trackId": "0gV5PvN5d3kpQvD7WZ47uJ",
+      "total": 142665,
+      "daily": 52
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Pescao Envenenao",
+      "trackId": "5uwQen9B5wJsUXn7Q8pO9x",
+      "total": 116388,
+      "daily": 12
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Move",
+      "trackId": "0LSOwh1WlVY7bSpeLFM8Fg",
+      "total": 114277,
+      "daily": 12
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Cuando Te Veo - Commentary",
+      "trackId": "7KcbrYTeL42A5Ergsck9D0",
+      "total": 111034,
+      "daily": 4
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Salsa & Choke (feat. Ñejo) - Commentary",
+      "trackId": "03b3at4pxh8VmansC3stgw",
+      "total": 105355,
+      "daily": 34
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Desde el Día en Que Te Fuiste - Commentary",
+      "trackId": "5x22k0bxpOaPjyBG2L0XA5",
+      "total": 103487,
+      "daily": 4
+    },
+    {
+      "artist": "ChocQuibTown",
+      "artistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "El Mismo - Commentary",
+      "trackId": "1uC2xGeWEXwbqZ8bgQ9Jj2",
+      "total": 101680,
+      "daily": 4
+    }
+  ]
+}

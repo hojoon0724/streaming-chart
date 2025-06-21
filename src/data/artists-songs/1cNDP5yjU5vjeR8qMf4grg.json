@@ -1,0 +1,878 @@
+{
+  "artist": "YNW Melly",
+  "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+  "songs": [
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Murder on My Mind",
+      "trackId": "7eBqSVxrzQZtK2mmgRG6lC",
+      "total": 1182947820,
+      "daily": 374224
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Suicidal",
+      "trackId": "1iSqfoUFnQwV0QW1EfUit8",
+      "total": 657963472,
+      "daily": 252432
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "223's (feat. 9lokknine)",
+      "trackId": "29ZXwWOOLz9t5fa3eT3i7T",
+      "total": 549614406,
+      "daily": 204797
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Suicidal (feat. Juice WRLD) - Remix",
+      "trackId": "4S2uhQE8L9V6p7rj7SiauJ",
+      "total": 473733643,
+      "daily": 145625
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Mixed Personalities (feat. Kanye West)",
+      "trackId": "6vWEAOUSxohKxhp0K1BsxL",
+      "total": 453325007,
+      "daily": 90317
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "772 Love",
+      "trackId": "230wNo1dnexltKYQbsW7oD",
+      "total": 375988651,
+      "daily": 115838
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Mama Cry",
+      "trackId": "2fSW54bA6x2iWePU7rpCiP",
+      "total": 342212484,
+      "daily": 138532
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Virtual (Blue Balenciagas)",
+      "trackId": "4dqkKnzOJ3fWduqKcHi374",
+      "total": 226083086,
+      "daily": 70273
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "6 Kiss (feat. Juice WRLD & YNW Melly)",
+      "trackId": "0Y3OJ2TBul2Xn1w8o2WXAy",
+      "total": 208526002,
+      "daily": 33989
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Freddy Krueger (feat. Tee Grizzley)",
+      "trackId": "0hwkukpHcBJfGcIUxi1tK2",
+      "total": 180253316,
+      "daily": 34612
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "City Girls",
+      "trackId": "5U3MWICGoIVVIR1N8CdCgd",
+      "total": 119283498,
+      "daily": 67664
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Young Grizzley World (feat. A Boogie Wit Da Hoodie & YNW Melly)",
+      "trackId": "2HsSzwrvvgiYSCdsYLiJWB",
+      "total": 116657190,
+      "daily": 22640
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Butter Pecan - Bonus Track",
+      "trackId": "4gVX26KwlsIh9Uh7hKIRjp",
+      "total": 116050181,
+      "daily": 40249
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "No Heart",
+      "trackId": "0rhxoXFMKRtm1dQJfi72Yh",
+      "total": 101922204,
+      "daily": 29676
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Catching Feelings",
+      "trackId": "0lP7O3Z3Xw4qBQONDumgyr",
+      "total": 84442853,
+      "daily": 21992
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Mind on My Murder",
+      "trackId": "2xBfOUdiRafSWGqTj4yToU",
+      "total": 84014628,
+      "daily": 22087
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Mind of Melvin (feat. Lil Uzi Vert)",
+      "trackId": "5xyLeb2q1lxDf7hXKYlC1H",
+      "total": 68700526,
+      "daily": 26452
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Legendary",
+      "trackId": "2TuG54cMutq4jDdjwFKzCF",
+      "total": 58254998,
+      "daily": 26803
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Slang That Iron",
+      "trackId": "2dMigpD6d166hY9yCvd5Hi",
+      "total": 54006461,
+      "daily": 14270
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Bang Bang",
+      "trackId": "66FltlEV09mPJYAyfYm8De",
+      "total": 52739831,
+      "daily": 5921
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Pull Up (feat. Lil Uzi Vert & YNW Melly)",
+      "trackId": "7nGJygXx3D1lsSt8aAxRcQ",
+      "total": 44548907,
+      "daily": 3094
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Wine For Me",
+      "trackId": "0hjyDFEpTFsSODk0Nv4Sbx",
+      "total": 38349792,
+      "daily": 11379
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Till The End (feat. Skooly)",
+      "trackId": "7bIwWyTMQcfpW2MwRNCfiV",
+      "total": 34563661,
+      "daily": 8768
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Best Friends 4L (feat. Lil Tjay)",
+      "trackId": "5zOm9ZAuAiJMb5G6uXGVlu",
+      "total": 26881149,
+      "daily": 7591
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Banana Split (with YNW Melly feat. Lil Durk)",
+      "trackId": "57Lw4YmOvpighLOnwqiuKr",
+      "total": 25495073,
+      "daily": 2150
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Melly the Menace",
+      "trackId": "4qcC5mkfxOC59mdhoUBrKX",
+      "total": 25359965,
+      "daily": 7270
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Take Kare (feat. Lil Baby & Lil Durk)",
+      "trackId": "3h4yWMqxCATDWuFy9q2Pt0",
+      "total": 21490655,
+      "daily": 7599
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Rolling Loud",
+      "trackId": "1wX1DO1MBKec6DeWpTe6fM",
+      "total": 21245620,
+      "daily": 5080
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Lost and Found (feat. YNW Melly)",
+      "trackId": "4b6JWEZfAz9UPQBQaFkCPQ",
+      "total": 20806613,
+      "daily": 3072
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Game (feat. Lil Durk, Tee Grizzley, Sada Baby & YNW Melly)",
+      "trackId": "2rmtuIBWYzZZb7P2QU0QO6",
+      "total": 20206516,
+      "daily": 6046
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Thugged Out (feat. Kodak Black)",
+      "trackId": "0uRsQ1Q3ZPuXTEkEeUXNNf",
+      "total": 19931520,
+      "daily": 4640
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Two Face",
+      "trackId": "5Jd3mfA4OCkaqgzRxa1CIl",
+      "total": 18711856,
+      "daily": 5677
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "RISK TAKER",
+      "trackId": "0C4e5m5HogFCgAc5GaYSBD",
+      "total": 18025033,
+      "daily": 3371
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Pieces (feat. Queen Naija)",
+      "trackId": "7qDb2aYT1RIxhKT83HzDQ7",
+      "total": 17873045,
+      "daily": 4638
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Free Jamell (feat. YNW Melly)",
+      "trackId": "4B2RYu2goRR4Wg62jaFR8n",
+      "total": 17495729,
+      "daily": 5513
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Rollin (feat. YNW Melly)",
+      "trackId": "5v4OvUHVi7LxQxIXzTPNww",
+      "total": 17392382,
+      "daily": 9832
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Slang That Iron",
+      "trackId": "5v5m7Mztg7uUwKbnBSTEgQ",
+      "total": 16517286,
+      "daily": 3625
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Ingredients (feat. Fredo Bang)",
+      "trackId": "5mmEDGjJlUe1IlxsWUyS9K",
+      "total": 16401447,
+      "daily": 2919
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "For Real",
+      "trackId": "0GHjcLEZ5ViUrj1zzZDkc9",
+      "total": 15409173,
+      "daily": 3609
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Adam Sandler",
+      "trackId": "5icdOB2Rd7bE0YZ1fAQx1P",
+      "total": 15292787,
+      "daily": 2426
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Killuminati (feat. Foreign Teck)",
+      "trackId": "4jrQ6PZoSYblXYlgXFkUYk",
+      "total": 14190935,
+      "daily": 2893
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Beat a N*gga Block",
+      "trackId": "0F7oaq4qpD7ijADV6gJBwe",
+      "total": 13915262,
+      "daily": 1625
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Dying for You",
+      "trackId": "2U4ScJrfHSksCbbN6VdbVp",
+      "total": 13881564,
+      "daily": 11597
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Na Na Na Boo Boo",
+      "trackId": "08nUsAXge9Kgqejhcqnr97",
+      "total": 13056946,
+      "daily": 4226
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Nobody's Around",
+      "trackId": "0Y42Np66Dz33VKgxIcUgOx",
+      "total": 13029233,
+      "daily": 2823
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "100 Shells (feat. YNW Melly)",
+      "trackId": "5I6KerEUkIIuCyU7oLEiTO",
+      "total": 12256265,
+      "daily": 992
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "772 Love Pt. 3 (Your Love)",
+      "trackId": "1WhOAj5teLoK2bML76DgXx",
+      "total": 12016776,
+      "daily": 14312
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "I AM YOU",
+      "trackId": "4NwKC8ltCTCTcsnFViTZ7z",
+      "total": 11998669,
+      "daily": 2868
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Gang",
+      "trackId": "5eWYhusHCbD6GQS9Ctac6I",
+      "total": 11587232,
+      "daily": 3385
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Whodie",
+      "trackId": "6zxOdvQ3YDPezZMqmTeEMK",
+      "total": 11030379,
+      "daily": 936
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "The Mob",
+      "trackId": "6NuGhdLQfrYvG5wBnaBnb1",
+      "total": 10935439,
+      "daily": 1655
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Medium Fries",
+      "trackId": "5hzee9MWDekpedgNpR8bZQ",
+      "total": 10561358,
+      "daily": 1601
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Brazy (with YNW Melly)",
+      "trackId": "6wVUIV8RvwlLJlK1DsgVdj",
+      "total": 10422681,
+      "daily": 3565
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Hold Up (Wait 1 Min)",
+      "trackId": "0hwRGzoOpW6CZPBbGcVzub",
+      "total": 9366411,
+      "daily": 2092
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Robbery",
+      "trackId": "2ZidyZ69c68J8lm0FGqsuc",
+      "total": 9145177,
+      "daily": 1800
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "No Holidays",
+      "trackId": "0CIJfnIVYj7CVQwgfSswx8",
+      "total": 9111057,
+      "daily": 1573
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "YNW Home Invasion (feat. Lil Uzi Vert)",
+      "trackId": "6IdY9Bc2TRygRcdfmbviTV",
+      "total": 8909512,
+      "daily": 1723
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Far Apart (feat. Kevin Gates)",
+      "trackId": "4S5bNy4OhDbCi47IfxaZpJ",
+      "total": 8669285,
+      "daily": 4817
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Mischief on My Mind",
+      "trackId": "3r8zXbAJfqt2NU8tdWWUtH",
+      "total": 8522346,
+      "daily": 1459
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "I Ain't Lying",
+      "trackId": "40QmDP485PDepnUOGJlbUP",
+      "total": 8438005,
+      "daily": 1254
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "100k",
+      "trackId": "1yZDkDwpNRk3iQ6YTKEsPH",
+      "total": 8408175,
+      "daily": 1321
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "No More",
+      "trackId": "2QTL50KC6sdHZqxwZvQBdg",
+      "total": 8328928,
+      "daily": 4194
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Why You Gotta Walk Like That???",
+      "trackId": "3f5JBEQT4cstLkHhtC6ZNI",
+      "total": 8306958,
+      "daily": 1071
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Florida Water (Feat. J Green)",
+      "trackId": "6RmnCtZRg5fLOTWhUk8aIp",
+      "total": 8232459,
+      "daily": 1645
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Billboard",
+      "trackId": "2biaamy4vq0hrDpYCHAYjb",
+      "total": 7988411,
+      "daily": 1462
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "My Slime",
+      "trackId": "7zg21FcHyzgMMo6OlXjtBC",
+      "total": 7639840,
+      "daily": 1119
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Freddy Krueger (feat. Future & Tee Grizzley) - Remix",
+      "trackId": "0rVEZ1IZYLVZNT7laPAMrr",
+      "total": 7417942,
+      "daily": 1984
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "In the Mourning",
+      "trackId": "2Tu0dSoVzuDGeaCFokhLxW",
+      "total": 7118773,
+      "daily": 1262
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Really Be Slime (feat. YNW Melly, Bslime & FN DaDealer)",
+      "trackId": "2ern4oL9Iy1RoKdG62vPpI",
+      "total": 7094566,
+      "daily": 1288
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Yung Nigga Shit (feat. YNW Gunna & Hotboii)",
+      "trackId": "0RCIuGY8FGKAYPub7yfzk2",
+      "total": 7069890,
+      "daily": 1337
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Control Me",
+      "trackId": "6ElZ8aGYWchN6vPmMZOiLx",
+      "total": 7040962,
+      "daily": 1249
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Freaky Girl",
+      "trackId": "4zjf7NALy3IokMqGpF1TJa",
+      "total": 6992120,
+      "daily": 1241
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Loving My Life",
+      "trackId": "427NviWuwOKwTOfSDzipo4",
+      "total": 6438498,
+      "daily": 2360
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "F*ck PNC Bank",
+      "trackId": "2mRbCWsFSYkTK6a6D1ghRn",
+      "total": 6306438,
+      "daily": 1025
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Legendary (Remix) (feat. John Wicks)",
+      "trackId": "69FuHvJ9jYOiLgKgdB2opm",
+      "total": 6306312,
+      "daily": 807
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Had a Dream",
+      "trackId": "7tKT0A1n0OYSb5Xa6XilOi",
+      "total": 6293605,
+      "daily": 1378
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "I'm a Star",
+      "trackId": "0XE59c5RaVj7FuoLYqIOWW",
+      "total": 6244868,
+      "daily": 1077
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Drop Top",
+      "trackId": "6D3pVOWuSHOZQrtImim8IU",
+      "total": 6220905,
+      "daily": 1357
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "First Day Out. First Day In.",
+      "trackId": "5sgHx2poYKZI3qVRjA8Azp",
+      "total": 5937967,
+      "daily": 649
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Air It Out",
+      "trackId": "31wCvStTXNksajUk62WdaS",
+      "total": 5726413,
+      "daily": 855
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Curtain (Burtains)",
+      "trackId": "7HNZfIoyf41es4GQEUl3ag",
+      "total": 5563692,
+      "daily": 1057
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Free Trell",
+      "trackId": "76g0a2SWBucEFXVZbl9rhS",
+      "total": 5329328,
+      "daily": 929
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "No Love",
+      "trackId": "2cXIpnlsBFDonjjJn4WCtM",
+      "total": 5293802,
+      "daily": 2874
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Alarm",
+      "trackId": "1OCIcUzUTS97xwHYqSBUAA",
+      "total": 5255880,
+      "daily": 884
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Caprisun Fun (feat. Young Thug)",
+      "trackId": "1ymCe0h8GJJCC2ftwHh4eS",
+      "total": 4804602,
+      "daily": 1488
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Stay Up",
+      "trackId": "2yvX9pGZNtPVDIUSNY0jML",
+      "total": 4716849,
+      "daily": 821
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Waitin on You (feat. Tonk Wit Tha Gift)",
+      "trackId": "7cUJXV41jwfkiDP8S7nNk1",
+      "total": 4489822,
+      "daily": 916
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "One Step (feat. YNW Melly)",
+      "trackId": "5qbzp1apP4XN1eeuJysq0Z",
+      "total": 4434859,
+      "daily": 519
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Save Me",
+      "trackId": "5ZSZBj6M5dHuXxnmbtq0P9",
+      "total": 3332039,
+      "daily": 3158
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Greensight",
+      "trackId": "5NM1UQj9VVw792aOg8xCUV",
+      "total": 2938343,
+      "daily": 804
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Purple Casanova",
+      "trackId": "59Iq4CE9XU9JQMB0o3y7ka",
+      "total": 2705780,
+      "daily": 557
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Slums",
+      "trackId": "71gCSQlGoGC2N9BOGAjbk5",
+      "total": 2612884,
+      "daily": 526
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Careless (feat. YNW Melly)",
+      "trackId": "1QnvVX29Ud2LcWP2gUteBs",
+      "total": 2566906,
+      "daily": 507
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Big Sticks",
+      "trackId": "64IxDfGpc1naSNMgWCAq7o",
+      "total": 2263455,
+      "daily": 218
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Like the 80's (feat. Lil B)",
+      "trackId": "2FSkBVkfST3VGuAEQG7xo7",
+      "total": 2115206,
+      "daily": 206
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Fix That",
+      "trackId": "2d4YfsQJw2NGoL4wfjuRDz",
+      "total": 1790064,
+      "daily": 2309
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "4 Real",
+      "trackId": "6Wy7nmowBRnHZdyJFsHjL3",
+      "total": 1682254,
+      "daily": 222
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Dedication",
+      "trackId": "1S1dMi5shxeH1LWnH16tQi",
+      "total": 1625831,
+      "daily": 1084
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Top Off",
+      "trackId": "0w7oXYKpDOkUY1TCWwiHNV",
+      "total": 1339644,
+      "daily": 2160
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Lovey Dovey",
+      "trackId": "6ZO66iBeyJBbpCh1cjnRHx",
+      "total": 1297454,
+      "daily": 1696
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Friendly",
+      "trackId": "5CZ8x6u3EmdMlH5TS0TT3n",
+      "total": 847049,
+      "daily": 1147
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Overdose",
+      "trackId": "6Vh4JhSWrW4xUpfd3sgp3L",
+      "total": 722086,
+      "daily": 499
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "3 Pointer",
+      "trackId": "1eZWo2sbHxAAhLegIvr9K2",
+      "total": 712033,
+      "daily": 987
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Chiefin",
+      "trackId": "6Iz3Kn3T7yd2ivTNgRuCFD",
+      "total": 709014,
+      "daily": 125
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "In The Benzy",
+      "trackId": "6sHMZJs83SAY7we1c1Xx7Y",
+      "total": 646469,
+      "daily": 972
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Unannounced",
+      "trackId": "2aej4ZzH6pCsKF36V8EWmP",
+      "total": 473924,
+      "daily": 712
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "Ville",
+      "trackId": "5jwueugThWdWyjURyp9DKa",
+      "total": 446006,
+      "daily": 718
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "No Belt",
+      "trackId": "4xWJhJVD2QSrbkcfOeArc2",
+      "total": 396461,
+      "daily": 131
+    },
+    {
+      "artist": "YNW Melly",
+      "artistId": "1cNDP5yjU5vjeR8qMf4grg",
+      "trackName": "BULLETPROOF - BONUS",
+      "trackId": "6q8fXwTlHsyhhognHwzy1A",
+      "total": 229425,
+      "daily": 1514
+    }
+  ]
+}

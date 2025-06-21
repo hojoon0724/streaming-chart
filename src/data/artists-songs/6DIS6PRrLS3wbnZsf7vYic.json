@@ -1,0 +1,822 @@
+{
+  "artist": "WALK THE MOON",
+  "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+  "songs": [
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Shut Up and Dance",
+      "trackId": "4kbj5MwxO1bq9wjT5g9HaA",
+      "total": 2095436094,
+      "daily": 787059
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Anna Sun",
+      "trackId": "3e0yTP5trHBBVvV32jwXqF",
+      "total": 168240285,
+      "daily": 26534
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "One Foot",
+      "trackId": "0iQ77tSa7ncj7zBPtVx6cU",
+      "total": 139740390,
+      "daily": 20550
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Lost In The Wild",
+      "trackId": "0M1A9wInEHilyWkh4I8tWo",
+      "total": 120976597,
+      "daily": 38089
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Work This Body",
+      "trackId": "76EeScTnI2sCjDY0SfEoSb",
+      "total": 96522077,
+      "daily": 16688
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Shut Up and Dance - Live Acoustic - 2015",
+      "trackId": "3Xzog9enTvbsc0G7G9M58D",
+      "total": 70305462,
+      "daily": 7362
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Back 2 U (feat. WALK THE MOON)",
+      "trackId": "5deDWZeDHWfYk9xaq9ynh4",
+      "total": 65286553,
+      "daily": 2479
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Tightrope",
+      "trackId": "44psOy0D0SP8rcIiUgKgBs",
+      "total": 54600074,
+      "daily": 4899
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Kamikaze",
+      "trackId": "3YQ96qkxiEwTLwgu2Izcmq",
+      "total": 51965986,
+      "daily": 5149
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Different Colors",
+      "trackId": "3RRRDZig4RNJhVGfwwOOFZ",
+      "total": 45347706,
+      "daily": 3423
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Avalanche",
+      "trackId": "3JxaZPq4UjkOaxnpyMUtAC",
+      "total": 41701219,
+      "daily": 5697
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Timebomb",
+      "trackId": "6GqRl2u7LIW93T8Vi5LnXU",
+      "total": 33895292,
+      "daily": 2520
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Ghostbusters",
+      "trackId": "4xTMKnLtz1PVfZRElleujx",
+      "total": 33719736,
+      "daily": 5324
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Jenny",
+      "trackId": "7eMpW9I1ZpVs6VQ90naDBh",
+      "total": 30823951,
+      "daily": 3921
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Portugal",
+      "trackId": "3MYWKl8ScgDu3sAvyneMCG",
+      "total": 25270542,
+      "daily": 2633
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Quesadilla",
+      "trackId": "2CdNHP8DJ5tfbRoIRdcTeE",
+      "total": 22289008,
+      "daily": 2938
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "All Night",
+      "trackId": "53Y3z7kPzelQbBnhysjzlw",
+      "total": 20613802,
+      "daily": 944
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Shiver Shiver",
+      "trackId": "4LgIcna8LRrR3DOomihYMY",
+      "total": 18592702,
+      "daily": 1328
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Aquaman",
+      "trackId": "71wT7aMCFPYfzutF66OLac",
+      "total": 18373503,
+      "daily": 1801
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Surrender",
+      "trackId": "5OzQuvOzXq1wzZ5NsbjUYV",
+      "total": 18099993,
+      "daily": 1797
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Next In Line",
+      "trackId": "2RSVYvx9kGLbyyJ4bmRMbc",
+      "total": 14068283,
+      "daily": 933
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Sidekick",
+      "trackId": "4is9iORYOEafLbo79ODEkO",
+      "total": 13771318,
+      "daily": 1050
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Up 2 U",
+      "trackId": "5OWZ4qbW7bYQTGIKRbSvxA",
+      "total": 13313105,
+      "daily": 764
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Can You Handle My Love??",
+      "trackId": "2wdVmZbRoJNNpY1vS0N8Lm",
+      "total": 12964435,
+      "daily": 2277
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Come Under the Covers",
+      "trackId": "3RBLfzw7SoyiAcOncA37De",
+      "total": 12100695,
+      "daily": 784
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Lisa Baby",
+      "trackId": "0obyZJdAvDvhtvudGsNjvS",
+      "total": 11369046,
+      "daily": 764
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "I Can Lift a Car",
+      "trackId": "6v6S5TvOsrPofUWst04BLF",
+      "total": 10560177,
+      "daily": 723
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "We Are the Kids",
+      "trackId": "24Rl1EUg5y9uym2rI3DL3r",
+      "total": 10229182,
+      "daily": 690
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Anna Sun - Live From Spotify NYC",
+      "trackId": "3Syg4GwsW6yFeTbZUqWvYS",
+      "total": 10186734,
+      "daily": 262
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Iscariot",
+      "trackId": "5urdl721ncXAFkuIwR9Mj5",
+      "total": 8878492,
+      "daily": 607
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Down In the Dumps",
+      "trackId": "40fCroW8wu8TdmW9A7k17z",
+      "total": 8511965,
+      "daily": 558
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Tiger Teeth",
+      "trackId": "4rEJbUBGO3NRePefpCq8ME",
+      "total": 8454381,
+      "daily": 869
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Headphones",
+      "trackId": "2fu85nhD3NadF1IIKYc3L0",
+      "total": 8361000,
+      "daily": 618
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Press Restart",
+      "trackId": "6qtJjCxvfv2GV10ZIEtUUo",
+      "total": 7393528,
+      "daily": 379
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Spend Your $$$",
+      "trackId": "4crempk25OrH2OZqarABqv",
+      "total": 7362921,
+      "daily": 451
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Fixin'",
+      "trackId": "5YJZgqCK7sgr07YZJOnfTY",
+      "total": 7242147,
+      "daily": 446
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Eat Your Heart Out",
+      "trackId": "2vh3fCzas7WUjEVkjBrGP4",
+      "total": 6280216,
+      "daily": 421
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "anywayican",
+      "trackId": "6NjClMuoIsIPZeN0ImPMJ5",
+      "total": 5568594,
+      "daily": 236
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Tête-À-Tête",
+      "trackId": "6ODCQb9d8HTeyx1nQDkEbb",
+      "total": 4728922,
+      "daily": 174
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Lose You Again",
+      "trackId": "2xzefshjUCbnclKWe6KStt",
+      "total": 4581240,
+      "daily": 238
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Win Anyway",
+      "trackId": "3ybYCEZBzVasEAHpix0ihF",
+      "total": 4542821,
+      "daily": 585
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Lions",
+      "trackId": "2gzDs0aRWhNdDVvFTL28gS",
+      "total": 4099189,
+      "daily": 171
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "One Foot - The Captain Cuts Remix",
+      "trackId": "2JDe8jKdOcOcQm8oM4bavF",
+      "total": 3756137,
+      "daily": 433
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Giants",
+      "trackId": "1hRjSRDp3yJUnOOPHSphps",
+      "total": 3412957,
+      "daily": 965
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Drunk In The Woods",
+      "trackId": "0n04Bb2J7hkJAx7yVvzKr4",
+      "total": 3281354,
+      "daily": 125
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "All I Want",
+      "trackId": "51AxhwqcWWR0j4dLwmXBBr",
+      "total": 3187923,
+      "daily": 220
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Burning Down The House - Live",
+      "trackId": "4pvZP3I6ENPO1XrAiCIRuS",
+      "total": 3056066,
+      "daily": 244
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Tightrope - Acoustic",
+      "trackId": "2fU6YNNwTByXS7Xg047Ida",
+      "total": 3016172,
+      "daily": 91
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Can't Sleep (Wolves)",
+      "trackId": "0So7xAwM75XaBb1hFBToKt",
+      "total": 2811483,
+      "daily": 241
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Boyfriend",
+      "trackId": "2sklhnjsjVnazMBaJZXVBY",
+      "total": 2725614,
+      "daily": 165
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Feels Good To Be High",
+      "trackId": "3axveE96XtFdp4t4h5ekYc",
+      "total": 2477677,
+      "daily": 192
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Best for Last (feat. Walk the Moon)",
+      "trackId": "6q5dZkmPJKaW0GXKHY9uoK",
+      "total": 2442407,
+      "daily": 162
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "In My Mind",
+      "trackId": "2xvevcMGVQahCGMicNErpi",
+      "total": 2439970,
+      "daily": 190
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "It's Your Thing",
+      "trackId": "6fFL6qliXSlF0sD87F3p93",
+      "total": 2179121,
+      "daily": 106
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Fire In Your House (feat. Johnny Clegg & Jesse Clegg)",
+      "trackId": "0hyYZ3KMTFGbf8kkXPnskG",
+      "total": 1963180,
+      "daily": 295
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Sound Of Awakening",
+      "trackId": "6B4OR1UtzO6SBr37AuXs4c",
+      "total": 1828439,
+      "daily": 116
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Heights",
+      "trackId": "1HrjvXRB48xSWgypsP3AYw",
+      "total": 1657398,
+      "daily": 373
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Shut Up and Dance - White Panda Remix",
+      "trackId": "5lj1iUylHh7F43dsnykCMY",
+      "total": 1619175,
+      "daily": 1027
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "I'm Good",
+      "trackId": "6N7vAunhAHNO2ozbLXSYnM",
+      "total": 1447428,
+      "daily": 272
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Rise Up",
+      "trackId": "0um5nKFjcnAgfKYYzS7xo0",
+      "total": 1374909,
+      "daily": 204
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Different Colors - Live Acoustic - 2015",
+      "trackId": "4rUzudRmiLHxC4cOQnyEKp",
+      "total": 1191884,
+      "daily": 81
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "DNA (The Keys)",
+      "trackId": "2nl62wgQMqLTcSH7u1zdD7",
+      "total": 1022759,
+      "daily": 261
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Tightrope - Live From Spotify NYC",
+      "trackId": "5C4MXy953cdZfppoil8X4X",
+      "total": 1021266,
+      "daily": 18
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Next In Line - Live From Spotify NYC",
+      "trackId": "4DEpGfnc0Py9TcECYFUVJV",
+      "total": 934194,
+      "daily": 13
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Holding On The Edge (feat. Walk The Moon)",
+      "trackId": "19yw5OMWuI9wLmMPsTLHxP",
+      "total": 911846,
+      "daily": 88
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "This Must Be the Place (Naive Melody) - Live at Sirius XM",
+      "trackId": "6p6A8sS1ZAxjpRr5r0IaxS",
+      "total": 889863,
+      "daily": 135
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "One Foot - The White Panda Remix",
+      "trackId": "7F4OivaU6T3lmQToI8jUin",
+      "total": 797051,
+      "daily": 119
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Work This Body - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "0wZVScfDLcDu31702JHpcw",
+      "total": 782407,
+      "daily": 43
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Shut Up and Dance - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "4G1O4k0opU06W4Zc3RKtCH",
+      "total": 657719,
+      "daily": 129
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Population of Two",
+      "trackId": "7sCKcFMnfawXcekVZyZrPN",
+      "total": 571224,
+      "daily": 203
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Jenny - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "6RRRTW28pl39TiK8U3xW4S",
+      "total": 540510,
+      "daily": 20
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Timebomb - Ryan Riback Remix",
+      "trackId": "5EUwIxAgPyfP3Eeqkq3d7O",
+      "total": 501532,
+      "daily": 37
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Avalanche - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "6zeWWdesEiL1L0kMUJ8p1n",
+      "total": 501292,
+      "daily": 31
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Spiraling Down - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "1EJVX0DWs8OajGlvGvTCik",
+      "total": 498223,
+      "daily": 13
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "home - Mansionair remix",
+      "trackId": "4W517gFMJKWYKc4rgpnXwC",
+      "total": 480564,
+      "daily": 29
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Mono No Aware",
+      "trackId": "0uXiUM49olUGEwgfFQpv1y",
+      "total": 473934,
+      "daily": 230
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Anna Sun - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "2KNJeL6rrqJmhVs5aX08oC",
+      "total": 470400,
+      "daily": 23
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "My Kids",
+      "trackId": "6ZK19abgB6M7B8IIsctuxX",
+      "total": 466567,
+      "daily": 132
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Portugal - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "1AP5dVMZEU5W13Y5kfUt2w",
+      "total": 463832,
+      "daily": 26
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Meditation <+> - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "6zlR5vOfBmhiaC3BB3RlnK",
+      "total": 459508,
+      "daily": 7
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Shut Up and Dance - Live at Sirius XM",
+      "trackId": "1WFq90G1XB15aRBlw9Cda1",
+      "total": 411862,
+      "daily": 46
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Different Colors x Pride",
+      "trackId": "3e4PEgzt24gisg06uU5nsb",
+      "total": 411433,
+      "daily": 65
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Aquaman - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "1EQ7ufQ0qSmC1VUbRXfP3k",
+      "total": 406971,
+      "daily": 23
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Sidekick - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "2aLgZXr8SEwjQTqOINaAzE",
+      "total": 403854,
+      "daily": 11
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Tightrope - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "2htX2bs5kv8y3p2fDmKa2I",
+      "total": 393789,
+      "daily": 23
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Different Colors - Lost Kings Remix",
+      "trackId": "2C9OwEteUiskA3a7QKnVKu",
+      "total": 392461,
+      "daily": 6
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Different Colors - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "5D13SwaI68aIfn1nhCRyJe",
+      "total": 378974,
+      "daily": 20
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Someone Else's Game",
+      "trackId": "0P4lpC7WwuYFd0iybjuVu7",
+      "total": 370725,
+      "daily": 103
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Don't Make Me",
+      "trackId": "2FH3RiFiGw5ZuNkMC3P99q",
+      "total": 322616,
+      "daily": 89
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Down In the Dumps - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "2wuXRqTnLTd15Em0DT1HlH",
+      "total": 320367,
+      "daily": 15
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Come Under the Covers - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "4XmFflRgMDvqqxoCaUuhqX",
+      "total": 309347,
+      "daily": 15
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "I Can Lift a Car - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "2DzfHST5gHmQhWdfMUZRtd",
+      "total": 303166,
+      "daily": 16
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Different Colors - The Griswolds Remix",
+      "trackId": "63Egpjjn43P8V5KeMUzLdx",
+      "total": 302916,
+      "daily": 9
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Up 2 U - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "20ud5DPCDrfE0AWmEO5a3t",
+      "total": 300330,
+      "daily": 16
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Lisa Baby - Live at the Greek Theater, Los Angeles, CA - October 2015",
+      "trackId": "1H9lVrsjNW6lRErgZP5h6B",
+      "total": 293087,
+      "daily": 18
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "What You Can't Look Up",
+      "trackId": "0wqfRyU27prjaSTvQ3Nrt1",
+      "total": 271448,
+      "daily": 69
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "The Liftaway",
+      "trackId": "4unqmxALbP4QlLFZmRlAA3",
+      "total": 243564,
+      "daily": 184
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Smoke Signals",
+      "trackId": "5scihacNX4YJecR7VNUS0q",
+      "total": 176440,
+      "daily": 153
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "On The Way Down - 20th Anniversary",
+      "trackId": "5tSWdH6naG4rfzeaBdi8ek",
+      "total": 157305,
+      "daily": 553
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "i want! i want! < i want! i want! >",
+      "trackId": "6xGBbQgEqO5q0cwCdwcAa8",
+      "total": 154708,
+      "daily": 109
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Blue Dress < i want! i want! >",
+      "trackId": "520KZSuiNiJSFDDU4D60Df",
+      "total": 131399,
+      "daily": 106
+    },
+    {
+      "artist": "WALK THE MOON",
+      "artistId": "6DIS6PRrLS3wbnZsf7vYic",
+      "trackName": "Me + All My Friends < i want! i want! >",
+      "trackId": "22JUPLgyqKj6sRlxayu1Ul",
+      "total": 122594,
+      "daily": 93
+    }
+  ]
+}

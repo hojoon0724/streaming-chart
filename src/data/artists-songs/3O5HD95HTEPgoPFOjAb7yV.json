@@ -1,0 +1,30 @@
+{
+  "artist": "DripReport",
+  "artistId": "3O5HD95HTEPgoPFOjAb7yV",
+  "songs": [
+    {
+      "artist": "DripReport",
+      "artistId": "3O5HD95HTEPgoPFOjAb7yV",
+      "trackName": "Skechers",
+      "trackId": "2alc8VZAzDgdAsL2QMk3hu",
+      "total": 426409850,
+      "daily": 57995
+    },
+    {
+      "artist": "DripReport",
+      "artistId": "3O5HD95HTEPgoPFOjAb7yV",
+      "trackName": "Skechers (feat. Tyga) - Remix",
+      "trackId": "4KppkflX7I3vJQk7urOJaS",
+      "total": 51795592,
+      "daily": 6571
+    },
+    {
+      "artist": "DripReport",
+      "artistId": "3O5HD95HTEPgoPFOjAb7yV",
+      "trackName": "Skechers (feat. Badshah)",
+      "trackId": "3sVNaAyatq9t7NwA675NPw",
+      "total": 14359167,
+      "daily": 1193
+    }
+  ]
+}

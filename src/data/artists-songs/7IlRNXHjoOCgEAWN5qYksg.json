@@ -1,0 +1,838 @@
+{
+  "artist": "Aya Nakamura",
+  "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+  "songs": [
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Djadja",
+      "trackId": "7AJ467yzt3qzhMNSOmh9Dl",
+      "total": 510261899,
+      "daily": 155099
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Copines",
+      "trackId": "5XmV0KTPDTjLFe8gOD5FHb",
+      "total": 464255423,
+      "daily": 221234
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Djadja (feat. Maluma) - Remix",
+      "trackId": "6AzKhCHOms83jvNVLsz0Bt",
+      "total": 375268642,
+      "daily": 50464
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Pookie",
+      "trackId": "6psTDQkoLqCvw9moOQ1b73",
+      "total": 222584633,
+      "daily": 60243
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Jolie nana",
+      "trackId": "65RWVU6N81CeH65nu52K1U",
+      "total": 162860079,
+      "daily": 46760
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Pookie (feat. Capo Plaza) - Remix",
+      "trackId": "5xKhHmrmbp2FHIl9rsvxlS",
+      "total": 102819004,
+      "daily": 11664
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "40%",
+      "trackId": "2Ua779DgDhmigJGp1Gw1YT",
+      "total": 101885766,
+      "daily": 31891
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Dégaine (feat. Damso)",
+      "trackId": "5cqLFudVQryezmVFmmyRJN",
+      "total": 90937126,
+      "daily": 39736
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Baby",
+      "trackId": "3xrZCGMyXIDqesVz4QwJOL",
+      "total": 89637586,
+      "daily": 22901
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Bobo",
+      "trackId": "6wL9pSXJ4roDSEoBpYyQy7",
+      "total": 84459587,
+      "daily": 29034
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "La dot",
+      "trackId": "4sTTYGVTIyCnUJgnIOMMtY",
+      "total": 82967398,
+      "daily": 20350
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Comportement",
+      "trackId": "2nOZaGwMYt07nXtIeYbEiu",
+      "total": 70169484,
+      "daily": 28150
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Plus Jamais (feat. Stormzy)",
+      "trackId": "7iZVBT6LV32t4l00p73VAw",
+      "total": 67393159,
+      "daily": 12128
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Doudou",
+      "trackId": "3V6NCwBywAwpAlAyGL7h0p",
+      "total": 60304008,
+      "daily": 36471
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Avec classe (feat. Aya Nakamura & Trinix)",
+      "trackId": "2RqZ8JUBXP4C0nzttGnTL1",
+      "total": 55575075,
+      "daily": 36982
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Sucette (feat. Niska)",
+      "trackId": "741G8WGGtBiNw138nPRTqP",
+      "total": 55543857,
+      "daily": 12259
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "T'as peur",
+      "trackId": "35XF6veSvhoPdWy89zaeaj",
+      "total": 49907556,
+      "daily": 10816
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Je M'en Tape",
+      "trackId": "4VMWKOG1q8nE4OHjqLHkZn",
+      "total": 44393960,
+      "daily": 6681
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Cadeau (feat. Tiakola)",
+      "trackId": "4serT1J6lu8eTsMMG9VhF8",
+      "total": 44324029,
+      "daily": 16445
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Dale x Love Therapy (feat. Aya Nakamura)",
+      "trackId": "0sMcHdKAjVSNuNnPchQu4S",
+      "total": 40236880,
+      "daily": 22960
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "C'est Cuit",
+      "trackId": "2FoYKMOfK4M8H9Am3GumqL",
+      "total": 39064965,
+      "daily": 10568
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Djadja (feat. Loredana) - Remix",
+      "trackId": "4QNO2BInmIAg8v3yUUQ0YX",
+      "total": 37169802,
+      "daily": 2272
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Pompom",
+      "trackId": "5G51xCpOZfgEZfsnFN2fgB",
+      "total": 34891116,
+      "daily": 6406
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "La machine",
+      "trackId": "4YcK0u6DgSg1jQqWYCXTBq",
+      "total": 32339276,
+      "daily": 8622
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Le passé",
+      "trackId": "3SPihKCBKsie7COadfPXKS",
+      "total": 32242050,
+      "daily": 6048
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Hypé",
+      "trackId": "0jlEtXM0sxuoSmO0adcZ3J",
+      "total": 32128449,
+      "daily": 11377
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Oula",
+      "trackId": "4KQprQ8RIUwp6b3P4SgzQe",
+      "total": 32119344,
+      "daily": 3941
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Pookie (feat. Lil Pump) - Remix",
+      "trackId": "1Tk4KVBLxD8CMAy6vJoDF3",
+      "total": 31855185,
+      "daily": 2703
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Soldat",
+      "trackId": "3k08qTRkNIRpB4lFGxQZCR",
+      "total": 30215171,
+      "daily": 4645
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Sans moi",
+      "trackId": "3dcazqIGAMdFgJqeQbCvhn",
+      "total": 30154061,
+      "daily": 8060
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "42",
+      "trackId": "1xHHbz3YLEbqAuQFkM9Zcg",
+      "total": 29648312,
+      "daily": 23043
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "SMS",
+      "trackId": "0jHBAPWVAZIwW67hg0XHnh",
+      "total": 27676695,
+      "daily": 7969
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Bad Boy (feat. Aya Nakamura)",
+      "trackId": "4FwHUD2B60DxYyhEBhhcWW",
+      "total": 27276290,
+      "daily": 11222
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Daddy",
+      "trackId": "43eoqH9CIZqy7VXLnwwMnu",
+      "total": 25843926,
+      "daily": 8884
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Brisé",
+      "trackId": "4r3PBuiceOZyVkirJzinBM",
+      "total": 25289783,
+      "daily": 25138
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Whine Up",
+      "trackId": "4LBidb5vG5URoh7BOhkl5a",
+      "total": 25078836,
+      "daily": 3712
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Doggy",
+      "trackId": "5S1ianZQLvtoL2A7rUETlq",
+      "total": 24414867,
+      "daily": 9174
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Ça fait mal",
+      "trackId": "62EDSs2y98b6h883WvCB5x",
+      "total": 24350536,
+      "daily": 2855
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Préféré (feat. OBOY)",
+      "trackId": "49IzWufYtbt3tgUN8ORNe0",
+      "total": 24264385,
+      "daily": 5433
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Soirée parisienne (feat. Jizo Djohn.P)",
+      "trackId": "77jfFVugaz41IwpWqoXsUh",
+      "total": 24011346,
+      "daily": 16257
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Chérie",
+      "trackId": "0GTO1m0ZbLNvsl6EAMXpj7",
+      "total": 23938785,
+      "daily": 8833
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Panama (feat. Aya Nakamura)",
+      "trackId": "2ijYyMdMODsg7Zdnyd3gju",
+      "total": 23116359,
+      "daily": 2835
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Hypé (feat. Ayra Starr)",
+      "trackId": "6oi6AAmRd2IbanRMQZC39J",
+      "total": 21705312,
+      "daily": 14843
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Fly",
+      "trackId": "5lK9Z8Olm5QKXt29LWDG6M",
+      "total": 21633956,
+      "daily": 9238
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Gangster",
+      "trackId": "59x4c2aXofoWzBSHm9Fst6",
+      "total": 19932553,
+      "daily": 2519
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "VIP",
+      "trackId": "6NCJTDAQsOErJGv7mhdvsB",
+      "total": 19289959,
+      "daily": 3664
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Chaleur",
+      "trackId": "7M2kX8C9YWgtHf6OO5wFxX",
+      "total": 19160336,
+      "daily": 16536
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Faya",
+      "trackId": "6pbA5axVSZG3Db1EMsIGca",
+      "total": 19137204,
+      "daily": 2710
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Problèmes (feat. MHD)",
+      "trackId": "1lqveconIDtlv7aCMyCUc5",
+      "total": 18624407,
+      "daily": 5662
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Djadja (feat. Afro B) - Remix",
+      "trackId": "6T2B2AhAZNOL6KjZAUmOwX",
+      "total": 18132315,
+      "daily": 1938
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "J'ai mal (Pt. 2)",
+      "trackId": "5j5zIg5kSsdwcQJPEmuQDC",
+      "total": 17891880,
+      "daily": 7188
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Méchante",
+      "trackId": "5k5duWxo5HqhetBe6ucgZJ",
+      "total": 17601668,
+      "daily": 2773
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Nirvana",
+      "trackId": "0SpWaGS2OVOqkZz5KDz4fW",
+      "total": 17309607,
+      "daily": 3098
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Contvct (feat. Aya Nakamura)",
+      "trackId": "501HL1AbddrEfEUfkMX82e",
+      "total": 17204032,
+      "daily": 8911
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Fuego (feat. Dadju)",
+      "trackId": "6a3WblrDK54b4Mgf2YEdCs",
+      "total": 17018797,
+      "daily": 2111
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Tous les jours",
+      "trackId": "3AcobHbeLi6HEnh3UNYgjV",
+      "total": 16570601,
+      "daily": 6566
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Djo",
+      "trackId": "35aGxbxkc0xeDxcJoyhPxX",
+      "total": 16376793,
+      "daily": 7252
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Gang (feat. Davido)",
+      "trackId": "1VxvUIP65y9SW6K40u2WPi",
+      "total": 15774701,
+      "daily": 1712
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Claqué",
+      "trackId": "60AYuPYXaKtkeqhXYkNo9z",
+      "total": 14050240,
+      "daily": 813
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Oumou Sangaré",
+      "trackId": "7tnDhHMCHWjwIsbVg7ex9S",
+      "total": 13320967,
+      "daily": 4428
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Moi je vérifie",
+      "trackId": "5YAuHu6WXGy9IqKo5KorCo",
+      "total": 13208314,
+      "daily": 3605
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Tchop",
+      "trackId": "3eS2Xx32pVsYj66a3TACh3",
+      "total": 12762225,
+      "daily": 1379
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Idiot",
+      "trackId": "5Imx5NEvuIEVLeP3giBMkH",
+      "total": 12658672,
+      "daily": 1350
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Si Si",
+      "trackId": "4uXwkB0JH4sbFXDdTIomxb",
+      "total": 12337043,
+      "daily": 9937
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Dans ma bulle",
+      "trackId": "5LaBHKRt0wjSecRmHSrMPH",
+      "total": 10667958,
+      "daily": 1043
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Hot",
+      "trackId": "656J3lgQWCiHkPmtGWnBsO",
+      "total": 10589846,
+      "daily": 2868
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Chimiyé",
+      "trackId": "6xaoSNgphFog6VMIqGteYZ",
+      "total": 10308838,
+      "daily": 40233
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "J'ai mal",
+      "trackId": "2XDA9Zt9QI6vV3E1d7v1XS",
+      "total": 10048331,
+      "daily": 2559
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Baddies",
+      "trackId": "7arCRGABaKdEFvGa3gCM9d",
+      "total": 9910294,
+      "daily": 185007
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Ça blesse",
+      "trackId": "0zOh7uYDYvifz6yx53SZsR",
+      "total": 9211489,
+      "daily": 2204
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Chacun (feat. Kim)",
+      "trackId": "3GyhxHaxCe3tPFMAHvMmoF",
+      "total": 9159489,
+      "daily": 2841
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Haut niveau",
+      "trackId": "2nXOUhAUyZQ0btHePjTzni",
+      "total": 8969249,
+      "daily": 3763
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Angela",
+      "trackId": "6L4RDIubtii4oSLJ1bfOkT",
+      "total": 8964019,
+      "daily": 1695
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Super héros (feat. Gradur)",
+      "trackId": "1iY78ruGT6iHtqubZlkpXi",
+      "total": 8743880,
+      "daily": 3514
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Oublier",
+      "trackId": "3ESrbpNWSVXaRZEdAIu4vv",
+      "total": 8303899,
+      "daily": 1083
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Sentiments grandissants",
+      "trackId": "3KQLmecwyKuzu8WTjNA0HQ",
+      "total": 8165064,
+      "daily": 1320
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Bisous",
+      "trackId": "7w2ZXVpgiCc7FCWbzbYDdj",
+      "total": 8122066,
+      "daily": 2759
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Drogué",
+      "trackId": "3LTQLJfIUVc5ia3NpkxGDf",
+      "total": 7991492,
+      "daily": 352
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Biff",
+      "trackId": "1kXziv0MwuuTrOYAT8JukL",
+      "total": 7504244,
+      "daily": 1077
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Beleck",
+      "trackId": "5bf3qVyRtIpk4Ym3JHalWk",
+      "total": 7166209,
+      "daily": 1959
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Je n'ai pas besoin de toi",
+      "trackId": "73W8J9unu2CEGALh9fZjyJ",
+      "total": 7052142,
+      "daily": 1321
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Love de moi",
+      "trackId": "0tkabB4UAJus9OhbXjIorg",
+      "total": 6884067,
+      "daily": 977
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Karma",
+      "trackId": "38I7kUjout62xJYJsa3dkr",
+      "total": 6212033,
+      "daily": 670
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Corazon",
+      "trackId": "4Uz9uTnqgM0xjZpY9wb8ym",
+      "total": 5954046,
+      "daily": 1428
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Le goût",
+      "trackId": "0mtOyObXYbHnXyJZ9TNdOm",
+      "total": 5747967,
+      "daily": 1771
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Orphelin (feat. Keblack)",
+      "trackId": "7ypQ1PtbClW0Aqe1ewS7h7",
+      "total": 5732328,
+      "daily": 525
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Sucette (feat. Niska) - Remix",
+      "trackId": "6EsOsv46camBZipBvaI3jF",
+      "total": 5716231,
+      "daily": 1345
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Mon chéri",
+      "trackId": "2ZDgStTJcE07tzB0x4M5cs",
+      "total": 5411447,
+      "daily": 798
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Mon Lossa (feat. Ms Banks)",
+      "trackId": "3Pks6NBLfyFP3GIrDKNh1C",
+      "total": 5396806,
+      "daily": 828
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Jalousie (feat. Lartiste)",
+      "trackId": "4fnImQF8UhoxlGejixtugQ",
+      "total": 5309698,
+      "daily": 588
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Nirvana - Steeve West Remix",
+      "trackId": "7ckdWwRicoQ9zxflneYOjp",
+      "total": 5279350,
+      "daily": 2148
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Ailleurs",
+      "trackId": "12GIBEbYnJnAwpyBZNP9Qd",
+      "total": 5021623,
+      "daily": 385
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Coller",
+      "trackId": "23Pyg6aIRZZCaruhriSxcv",
+      "total": 4332272,
+      "daily": 1460
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Bloqué",
+      "trackId": "2BiIJZjhzeabE9LUHVWT3l",
+      "total": 3909184,
+      "daily": 1271
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Moi",
+      "trackId": "0z8fheNkzUmPq77nP4kDFa",
+      "total": 3550740,
+      "daily": 542
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Si tu savais",
+      "trackId": "5FHobwZFxHLFMPl6fcVg9W",
+      "total": 3452591,
+      "daily": 1442
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Papys",
+      "trackId": "3jOLrSDqyZfmTuKb6RDe5K",
+      "total": 3367120,
+      "daily": 325
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Fin",
+      "trackId": "4io05FxXRuanznBkw2ht6q",
+      "total": 3286055,
+      "daily": 746
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Réponds",
+      "trackId": "2ffsmzPmhSoBpSSRVVdZXM",
+      "total": 3275859,
+      "daily": 893
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "C'est Cuit (Major Lazer VIP Remix)",
+      "trackId": "2FtR72IS4RAoYiZLHiJZJj",
+      "total": 3119840,
+      "daily": 271
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Come back",
+      "trackId": "4Fuux316p37H1uc2AX3cfQ",
+      "total": 3072614,
+      "daily": 1069
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Debout",
+      "trackId": "6VyW2Pj1IgFlwOZuQx0fZk",
+      "total": 2845286,
+      "daily": 897
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "Sorry (feat. Aya Nakamura)",
+      "trackId": "0xxAEfQLMU8HQcShItxx5g",
+      "total": 2476751,
+      "daily": 380
+    },
+    {
+      "artist": "Aya Nakamura",
+      "artistId": "7IlRNXHjoOCgEAWN5qYksg",
+      "trackName": "C'est Cuit (Diego Druck Radio Mix)",
+      "trackId": "6xxZqD6YkMCT5CJDuOF9w8",
+      "total": 159245,
+      "daily": 22
+    }
+  ]
+}

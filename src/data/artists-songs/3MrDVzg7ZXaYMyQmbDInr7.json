@@ -1,0 +1,774 @@
+{
+  "artist": "WIU",
+  "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+  "songs": [
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Vampiro",
+      "trackId": "6bTdZ7xfKp3NqqADJ8HLyj",
+      "total": 315477593,
+      "daily": 220444
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Coração de Gelo",
+      "trackId": "7nFvKgVumc9FcU97zGjjei",
+      "total": 273783577,
+      "daily": 76909
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Felina",
+      "trackId": "2orGm2E68ODFYOURjaES62",
+      "total": 264224980,
+      "daily": 72180
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Tenho Que Me Decidir",
+      "trackId": "697gwO5YoSGVAnlfREIZll",
+      "total": 158927835,
+      "daily": 62521
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Flow Espacial",
+      "trackId": "4qDT0BeJ7BjatrN9k8AvB4",
+      "total": 147326447,
+      "daily": 60199
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Horas Iguais",
+      "trackId": "4m8kG46clzxMxyrDuFo1Uq",
+      "total": 127553298,
+      "daily": 126423
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Brinca Demais",
+      "trackId": "1JzMOnuyabzpRuSudDD4Cq",
+      "total": 113175177,
+      "daily": 62008
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Problemas de um Milionário",
+      "trackId": "0VybBobSYSzliyEJ1VqwGR",
+      "total": 94200832,
+      "daily": 60978
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Mantém",
+      "trackId": "17rF54WvGGqPVxDheq8PP8",
+      "total": 87704577,
+      "daily": 38082
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Rainha da Finesse",
+      "trackId": "0w7vodPWFEcuEYvWpbNbOu",
+      "total": 77224121,
+      "daily": 89710
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Para de Mentir",
+      "trackId": "1bjvTcHiftBtqeK6Y2Mh8H",
+      "total": 67614248,
+      "daily": 63772
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Tenho que Me Decidir",
+      "trackId": "6BWWgcNJWXQ4qRuzY5LzBP",
+      "total": 65710449,
+      "daily": 22861
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Poesia Acústica 14",
+      "trackId": "4HloVfbDm0QArlqZh1U18D",
+      "total": 63676109,
+      "daily": 40721
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Lágrimas de Crocodilo",
+      "trackId": "3uz2TYNawZPRCFWrz5Gmzh",
+      "total": 59684757,
+      "daily": 13399
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Vidigal",
+      "trackId": "42XLOKRo2bv2Ne9lTOGSQA",
+      "total": 50821308,
+      "daily": 92033
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Vlife",
+      "trackId": "2evcFxT2aW4FZznh6DyEwK",
+      "total": 37789164,
+      "daily": 23247
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Pitbull",
+      "trackId": "4BbZUFzlbx4mVR1r0Z35x2",
+      "total": 29858203,
+      "daily": 12205
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Jovens do Reggae",
+      "trackId": "3HdEOUNuFuoWj06rXpQQ4o",
+      "total": 29068676,
+      "daily": 4031
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "ei mô",
+      "trackId": "089OwnVlTSgxistS3WXe6p",
+      "total": 28718733,
+      "daily": 23717
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Oração",
+      "trackId": "4cxApmpAxYi9UlB6AT2H8S",
+      "total": 28621329,
+      "daily": 9303
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Lealdade",
+      "trackId": "5opsWp8BUr8rs1YBF1vLYw",
+      "total": 26432910,
+      "daily": 18821
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Depois do Baile",
+      "trackId": "0XkH47qUbNA4YGdD4WEjAA",
+      "total": 25255775,
+      "daily": 32349
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Drip da Roça 2",
+      "trackId": "0i7o6zOHAjo39CqZ33O55P",
+      "total": 24971290,
+      "daily": 6781
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Olha oq ce fez comigo",
+      "trackId": "5SD6Hqq4oI64KSfAyEUrRV",
+      "total": 21743225,
+      "daily": 52651
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Rolê de Sempre",
+      "trackId": "1IA7U01tZDZmMarnf9QIa4",
+      "total": 21434648,
+      "daily": 80076
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Só de Mal",
+      "trackId": "4hWp2U1XNZkXK23iyyfWgh",
+      "total": 20250361,
+      "daily": 4002
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Sua Preferida",
+      "trackId": "0bREVcSAxXl3WgWsxzjJT1",
+      "total": 19778307,
+      "daily": 19899
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Angelina",
+      "trackId": "44OBpSw2bAwEiw26lQZDvy",
+      "total": 19452559,
+      "daily": 8301
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Esquece Pt. 2",
+      "trackId": "67Yg3W9tPKucbOGyEUKU81",
+      "total": 16920420,
+      "daily": 9496
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Ciumenta",
+      "trackId": "42wWf8vyEYFqXoe4msRScV",
+      "total": 14082317,
+      "daily": 4868
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Eu Não Ouço Mais Trap",
+      "trackId": "54mhCPc4XuWiv7aaFBqTAk",
+      "total": 13872472,
+      "daily": 21271
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "desgraçadagostosamaldita",
+      "trackId": "1Goev6cA7GPslY2CdxXzDG",
+      "total": 13832994,
+      "daily": 51508
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "ESPAÇONAVE",
+      "trackId": "0DFQWMMc8JxhdKm0JL9LBu",
+      "total": 13436785,
+      "daily": 33890
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Melhor Dia 13 - Era Uma Vez",
+      "trackId": "720TyN4DFBa7pyjPPQZ6YD",
+      "total": 13430318,
+      "daily": 4420
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Melhor Dia 7 - Sossego",
+      "trackId": "6P65f9BdtxqRaS39P8oIlW",
+      "total": 13265184,
+      "daily": 5221
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Limão",
+      "trackId": "199VZyR8ocDzCF7wKCtvkY",
+      "total": 12907274,
+      "daily": 7073
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Avisa Minha Mãe",
+      "trackId": "3ImhKE2Io4Em1iVpq7zw5D",
+      "total": 12729389,
+      "daily": 2751
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Maria do Olho Verde",
+      "trackId": "6c5AQO3llPWxeAK4b3cAut",
+      "total": 12381182,
+      "daily": 19397
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Frio",
+      "trackId": "71KMGcQc6UjptNlrKtFhmq",
+      "total": 12054629,
+      "daily": 4785
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Casa do Tio Wiu",
+      "trackId": "2umpEVeKbYxx1Qx2Dy1mcz",
+      "total": 11665752,
+      "daily": 28650
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Avião no Céu",
+      "trackId": "4thcFYt8XSL6WHd33MzZNm",
+      "total": 11302426,
+      "daily": 5095
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "MULHER SECRETA",
+      "trackId": "7IrWDPYP9rwNq1N4aUF3nG",
+      "total": 10859139,
+      "daily": 64282
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Última Coisa",
+      "trackId": "7LNOsASVhU3pO6WlmNjt26",
+      "total": 10720176,
+      "daily": 2970
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Amor de 1h",
+      "trackId": "688p6uyAS8MBxWSfExaXx5",
+      "total": 10630863,
+      "daily": 14543
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Medo de Quem?",
+      "trackId": "5EKCczncKlpSmDoP074cVF",
+      "total": 10537284,
+      "daily": 12822
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Não Me Liga 00:00",
+      "trackId": "3N8sn9QZsbwXrEQxqCGgAA",
+      "total": 10108073,
+      "daily": 9824
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Afrodite",
+      "trackId": "5zWLpdKW10P8TPkvy7jTBu",
+      "total": 9938653,
+      "daily": 7683
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "PRETTY LET GIRL",
+      "trackId": "5UBCGftdDXdaxomn1eloLC",
+      "total": 9571513,
+      "daily": 44869
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Amiga Talarica",
+      "trackId": "0pCCkETY2IGljqYFvFESZR",
+      "total": 9312947,
+      "daily": 4707
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Sucrilhos",
+      "trackId": "1nKklxNyHet9zYDrLsYufT",
+      "total": 8636939,
+      "daily": 1499
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "PUTO (feat. Alee)",
+      "trackId": "27O6RarI71YfAtChmCZkrF",
+      "total": 8462465,
+      "daily": 39905
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Teimosa",
+      "trackId": "3FcxqTlyvhCNH0j3gxWy8u",
+      "total": 7702405,
+      "daily": 11706
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Eu Fumei a Árvore de Natal",
+      "trackId": "52hZ6Mr4vJawAwSQucW67R",
+      "total": 7046557,
+      "daily": 5121
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Guala",
+      "trackId": "5emXCWhIK8qnUJeB2CCcIl",
+      "total": 6100633,
+      "daily": 8941
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Se eu ver sua mãe na rua",
+      "trackId": "2ifEk0oT5FYOLIsvjvdxIK",
+      "total": 6045791,
+      "daily": 10225
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Balanço de Rede",
+      "trackId": "0qaEgZu9Qq9D41zyiAiiro",
+      "total": 5449449,
+      "daily": 9621
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "RUAS DE FORTAL (feat. Brandão85)",
+      "trackId": "4BoPSeJljtxxowPR1hhRhr",
+      "total": 5407673,
+      "daily": 21293
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Eu sou O Cara",
+      "trackId": "10n0BfX5fkqS8ZKWyg35Dt",
+      "total": 5192820,
+      "daily": 2360
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "LOVE LOVE",
+      "trackId": "1pOELyz8t0Why9R1XtAO5r",
+      "total": 4656849,
+      "daily": 3807
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Jingle Bell Hype",
+      "trackId": "2liHTN02pSJPhSOViN3T5v",
+      "total": 4568587,
+      "daily": 2282
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "MUNDO DO WIU",
+      "trackId": "5TB2U6EAx85e62sfc6kTGb",
+      "total": 4270475,
+      "daily": 15739
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "POUQUINHO DA MINHA VIBE (feat. Japa)",
+      "trackId": "4nVLhvUvg7eiSgsBRS3tv8",
+      "total": 3903347,
+      "daily": 15553
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Sertão",
+      "trackId": "2mB2qZpLCkvNSrZDLKIf78",
+      "total": 3865058,
+      "daily": 940
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "FREESTYLE DE LUXO (feat. Yunk Vino)",
+      "trackId": "5tdqUcFyZECTMWPm1i3Oq4",
+      "total": 3812709,
+      "daily": 19925
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Natal Solteiro",
+      "trackId": "41FfJDG3FRnChcwlLRBgMp",
+      "total": 3688289,
+      "daily": 2132
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Vagabundo de Luxo",
+      "trackId": "1EzUCAScBPpwzh6dvwcRx8",
+      "total": 3458384,
+      "daily": 13125
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Só Olha - Ao Vivo",
+      "trackId": "58dmmNpYOpBz7sc69DIZqJ",
+      "total": 3435749,
+      "daily": 920
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Reinício",
+      "trackId": "002auGibzxn8sA6h5tu4OH",
+      "total": 3397659,
+      "daily": 5833
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Levemente",
+      "trackId": "5bAi0EzBh9deG7gZ6yeIb3",
+      "total": 3264264,
+      "daily": 1990
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "CHICK",
+      "trackId": "67Ry0xEnNBlfwzWo0y8NVh",
+      "total": 3114430,
+      "daily": 21502
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Sereia do Nordeste",
+      "trackId": "2EXNRYlgAJxsTAAu4Rbt89",
+      "total": 2828806,
+      "daily": 1685
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "OXIGÊNIO (feat. Lil Mosey)",
+      "trackId": "6G407n7vzxWWKjlb2evcgZ",
+      "total": 2731481,
+      "daily": 13925
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Sessão de Cria 2: Beroba Freestyle",
+      "trackId": "1Y8kuDt5jXMJWnswUbmBHh",
+      "total": 2466265,
+      "daily": 1054
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "LUÍSA SONZA",
+      "trackId": "2Y3TWwafKTqOTYucrqZih4",
+      "total": 2392109,
+      "daily": 9122
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Página 285: Nunca ame demais.",
+      "trackId": "04ZhaothotpGVPlau0hp47",
+      "total": 2358506,
+      "daily": 678
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Página 47: Pague na mesma moeda.",
+      "trackId": "4Lp52cUPsYaeQGq3rc5sSK",
+      "total": 2343884,
+      "daily": 734
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Carolina",
+      "trackId": "10f31lUtjFtbbOH01HT3ja",
+      "total": 2199930,
+      "daily": 1150
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Maceió até Jeri",
+      "trackId": "4v7kZiQYM0nt197CNGsbfZ",
+      "total": 2157590,
+      "daily": 948
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Página 119: Sai pra noite, vai!",
+      "trackId": "4Yd1DWr9MRpjGDYCISH19n",
+      "total": 2101617,
+      "daily": 649
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "EPÍLOGO",
+      "trackId": "6oOTrN5yY4N15A8nOYLItP",
+      "total": 2083973,
+      "daily": 563
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Drive-In",
+      "trackId": "337ctDJq6yBjGmHuN3AYCX",
+      "total": 2042278,
+      "daily": 75592
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "LINGERIE",
+      "trackId": "7BAu2493qreRH66gxk5YLY",
+      "total": 1919640,
+      "daily": 989
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "PREFÁCIO",
+      "trackId": "2T1exIgrsb1tM0S7oXCYgA",
+      "total": 1916939,
+      "daily": 599
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Memórias Sexuais (feat. Mc Rodrigo do CN)",
+      "trackId": "2HuoLn1XVy96eYDcTNwwOi",
+      "total": 1637270,
+      "daily": 47602
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Tóxico (with Ivandro & WIU)",
+      "trackId": "5PteYFiKV8sj9kKe2Qozfs",
+      "total": 1488952,
+      "daily": 5815
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Ponto Fraco",
+      "trackId": "1feSbfSjYHYMTts889lzXh",
+      "total": 1383310,
+      "daily": 1017
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Una Loca Enamorada",
+      "trackId": "30yrwMYz42QhcNJ9JKwB4s",
+      "total": 1201727,
+      "daily": 14074
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Entrou Na Mente - MTG",
+      "trackId": "65IQryFZeT6eTkAMqPiWjG",
+      "total": 1172247,
+      "daily": 1293
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Suiça",
+      "trackId": "7k64Ai8ccdFIto421PrILd",
+      "total": 964778,
+      "daily": 28640
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Ela é Tipo",
+      "trackId": "7xvS7CszxIOfK2FxQJ5LXb",
+      "total": 748613,
+      "daily": 1660
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Ponto Fraco",
+      "trackId": "2X4XiYdjD0vpUPfSRmi2ne",
+      "total": 609136,
+      "daily": 295
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Papel de Parede",
+      "trackId": "5cxRsPiltsPPuD1TWeKvIM",
+      "total": 547606,
+      "daily": 35573
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Zona Sul (feat. WIU)",
+      "trackId": "6dzqN4JdY5U7DXdPgGbXA1",
+      "total": 438319,
+      "daily": 1860
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Profundamente",
+      "trackId": "0dQaxEGl5a8vtFxIgqeoDd",
+      "total": 314874,
+      "daily": 439
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Tropa do Beroba (Sessão de Cria 2: Beroba Freestyle) - Remix",
+      "trackId": "1V3GPNFr3fLRtZUCuAs6xy",
+      "total": 212799,
+      "daily": 136
+    },
+    {
+      "artist": "WIU",
+      "artistId": "3MrDVzg7ZXaYMyQmbDInr7",
+      "trackName": "Último Dia",
+      "trackId": "75ZgdPrusqcmOKwYghngNQ",
+      "total": 127996,
+      "daily": 119
+    }
+  ]
+}

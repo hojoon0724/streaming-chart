@@ -1,0 +1,926 @@
+{
+  "artist": "Idina Menzel",
+  "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+  "songs": [
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "trackId": "0qcr5FMsEO85NAQjrlDRKo",
+      "total": 888958199,
+      "daily": 325496
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Into the Unknown",
+      "trackId": "3Z0oQ8r78OUaHvGPiDBR3W",
+      "total": 478272288,
+      "daily": 177941
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Show Yourself",
+      "trackId": "50WeOnXhM1H7AZEeIDoWfZ",
+      "total": 300709550,
+      "daily": 97861
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
+      "trackId": "70b5Sq3ePOu3Gqg0hjlOtR",
+      "total": 297092214,
+      "daily": 142174
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Baby It's Cold Outside (with Michael Bublé)",
+      "trackId": "0Ie5uiv54KgCr7P4sYDTHl",
+      "total": 243794489,
+      "daily": 4468
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Some Things Never Change",
+      "trackId": "4Xbotg4PCLJw9cDx2dtZLK",
+      "total": 197385695,
+      "daily": 66710
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Defying Gravity",
+      "trackId": "1fsBDvL77kDOixZ8Lw9cjZ",
+      "total": 187051486,
+      "daily": 58873
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "For the First Time in Forever (Reprise) - From \"Frozen\"/Soundtrack Version",
+      "trackId": "65GjU6KDPzF5IO143vvTgn",
+      "total": 134189398,
+      "daily": 45366
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Seasons of Love",
+      "trackId": "5gw8HNcrqliEw0X6pPrPvG",
+      "total": 126316885,
+      "daily": 79432
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "For Good",
+      "trackId": "0Mjasw7CGUJT6ByJa6pkbx",
+      "total": 68448837,
+      "daily": 70573
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "What Is This Feeling?",
+      "trackId": "44ZonTtw6QLy6MqIRxVT21",
+      "total": 58441444,
+      "daily": 19418
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Take Me or Leave Me",
+      "trackId": "0E1NL6gkv5aQKGNjJfBE3A",
+      "total": 56891351,
+      "daily": 19427
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "The Wizard And I",
+      "trackId": "0nkHQKAeFFviNCHCo2HErO",
+      "total": 41729428,
+      "daily": 14253
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "I'm Not That Girl",
+      "trackId": "6vPmS6H2WEooVIwPVH4DPq",
+      "total": 40161235,
+      "daily": 11245
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Dancing Through Life",
+      "trackId": "0TPBi68zps7uWQPgbSGZY2",
+      "total": 39273644,
+      "daily": 12208
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "No Good Deed",
+      "trackId": "6wpa7wxXfnzuzh21DdEGXC",
+      "total": 38822694,
+      "daily": 29294
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "One Short Day",
+      "trackId": "4jNerIJa2IOeL5gVDvMNLW",
+      "total": 35514006,
+      "daily": 50850
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "As Long As You're Mine",
+      "trackId": "2pHClPIG7C5v9Qhd1LHS2y",
+      "total": 33770163,
+      "daily": 18555
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "One Short Day",
+      "trackId": "2BfTccOl6H0otMZDSnOgux",
+      "total": 28479342,
+      "daily": 8900
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "When We're Together - From \"Olaf's Frozen Adventure\"/Soundtrack Version",
+      "trackId": "01ddYzvTL5N7yjo6NWoQKw",
+      "total": 25527640,
+      "daily": 4753
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Ring in the Season - From \"Olaf's Frozen Adventure\"/Soundtrack Version",
+      "trackId": "3tDoCqMOelg6QmEsqn6Rse",
+      "total": 23317408,
+      "daily": 3214
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Defying Gravity",
+      "trackId": "21P15WY3ilHW4zkIMoYze3",
+      "total": 22386052,
+      "daily": 6231
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Something Bad",
+      "trackId": "0yUzBgm7mVj5Cdeag9m9I1",
+      "total": 17307875,
+      "daily": 4738
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Poker Face (Glee Cast Version) (feat. Idina Menzel)",
+      "trackId": "1fwXPJRMhjc9QVdrzkDNVd",
+      "total": 17034791,
+      "daily": 1951
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Wonderful",
+      "trackId": "5E0VPcptF5vViuMYcQ42Dc",
+      "total": 16606742,
+      "daily": 7157
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "I Dreamed A Dream (Glee Cast Version) (feat. Idina Menzel)",
+      "trackId": "4QDo30WQZZJle0Up1mC8ez",
+      "total": 16341484,
+      "daily": 2898
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Making Today a Perfect Day - From \"Frozen Fever\"",
+      "trackId": "6JX1kY1y5qEcHcq7B9gcya",
+      "total": 15987989,
+      "daily": 3936
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Finale \"Wicked\"",
+      "trackId": "31eh2tzcB4VjsNUp8pvJR4",
+      "total": 15572493,
+      "daily": 7849
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "That Time of Year - From \"Olaf's Frozen Adventure\"/Soundtrack Version",
+      "trackId": "5wdVOCqXSvPqc0RlzrqXAw",
+      "total": 12788112,
+      "daily": 4211
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "A Hand For Mrs. Claus",
+      "trackId": "5GMaaILYpTiAo1SAhvvBKi",
+      "total": 9432841,
+      "daily": 385
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Goodbye Love",
+      "trackId": "5XfbSyRMdop6Te9znNL238",
+      "total": 9242211,
+      "daily": 1970
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Do You Hear What I Hear",
+      "trackId": "3fhAMD4hz0IgEukGrp5lZb",
+      "total": 9206024,
+      "daily": 166
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Small World",
+      "trackId": "2Cn7CSEFKSdZ6B1eoGmMPp",
+      "total": 8229245,
+      "daily": 858
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "La Vie Boheme B",
+      "trackId": "5WhrEpQFiuWDC5bwzTf6gP",
+      "total": 7065523,
+      "daily": 1416
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Let It Go - Multi Language Medley",
+      "trackId": "3jsAak7xxGmHPNrHLzXfGW",
+      "total": 6571350,
+      "daily": 3331
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Extraordinary",
+      "trackId": "4k6coksOg9LmP0ElqUFaYP",
+      "total": 5762425,
+      "daily": 330
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "I'm Every Woman",
+      "trackId": "5e7H5fHl3pXjJUg0006wsu",
+      "total": 5750104,
+      "daily": 112
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Over the Moon",
+      "trackId": "6vu2RSldhIHQ1K2VaZrqqx",
+      "total": 5043100,
+      "daily": 1205
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Holly Jolly Christmas",
+      "trackId": "4iDDS8bMyKuWPd3HAopsrK",
+      "total": 4603282,
+      "daily": 24
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Love Power (End Credit Version) - From \"Disenchanted\"/Soundtrack Version",
+      "trackId": "1Kbf3jLMs9QiDVBZXSpsJl",
+      "total": 3510224,
+      "daily": 883
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "River",
+      "trackId": "3uUB6PLfCTeYKb8ruGiiQa",
+      "total": 3337521,
+      "daily": 46
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Queen of Swords",
+      "trackId": "1KNkJyjv9gEQA8WLqG8pRp",
+      "total": 2508268,
+      "daily": 316
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "At This Table",
+      "trackId": "6shVktdU2kC3QlGK8KViTk",
+      "total": 2217077,
+      "daily": 81
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Brave",
+      "trackId": "4fRY3mvnQtDhTlupf9DFVN",
+      "total": 2181778,
+      "daily": 389
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "All I Want for Christmas Is You",
+      "trackId": "2iXxafXQ36rXa2w46wdr7I",
+      "total": 2177114,
+      "daily": 27
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Dream Girl - Nile Rodgers Remix",
+      "trackId": "5AeSP5QhD34yvr1DIg3tCC",
+      "total": 2145360,
+      "daily": 671
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Christmas Just Ain't Christmas",
+      "trackId": "0RZLwjRHjgGTvml5GGP4Oz",
+      "total": 2042141,
+      "daily": 316
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Defying Gravity - Dance Mix",
+      "trackId": "5jzxDXbLV4LhPoITuFSpG0",
+      "total": 1860042,
+      "daily": 816
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Sleigh Ride",
+      "trackId": "5AOs74DmCQ7ufunryKiyQA",
+      "total": 1840643,
+      "daily": 69
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Have Yourself a Merry Little Christmas",
+      "trackId": "0sK0y24gYQBbusvcG8nGKi",
+      "total": 1772014,
+      "daily": 18
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "I Got My Love To Keep Me Warm",
+      "trackId": "5nglKcNAb8j8hq3iNHNwir",
+      "total": 1761285,
+      "daily": 73
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Funny Girl (Glee Cast Version) (feat. Idina Menzel)",
+      "trackId": "2pHMMxd3Vkzeaq1W9NYTtM",
+      "total": 1750481,
+      "daily": 343
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "What Are You Doing New Year's Eve?",
+      "trackId": "33bWaJ1pGB7vjDQXIurCHi",
+      "total": 1725448,
+      "daily": 25
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "When You Wish Upon A Star - From \"Pinocchio\"",
+      "trackId": "5LdRoNeeEENQfmvVt8hhbM",
+      "total": 1644392,
+      "daily": 72
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Little Drummer Boy",
+      "trackId": "4ePrYBkedD3G3SXjpdbiTL",
+      "total": 1630155,
+      "daily": 56
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "The Christmas Song",
+      "trackId": "3EoUHL2Qt0sPzlJGlhDc9E",
+      "total": 1540538,
+      "daily": 18
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "White Christmas",
+      "trackId": "3D3KklOixVL9Katdn9HsVA",
+      "total": 1361069,
+      "daily": 24
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "We Wish You The Merriest",
+      "trackId": "7bAKFfjbniaMKGuvKPp7XP",
+      "total": 1275020,
+      "daily": 81
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "I Stand",
+      "trackId": "75jL2cUYep7UKgHZFthVop",
+      "total": 1260125,
+      "daily": 163
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Last Time",
+      "trackId": "2CslB3Yd6xP2pyE2IaIg2a",
+      "total": 1193740,
+      "daily": 98
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Silent Night",
+      "trackId": "1i1kMsa4BRKsS24v4lgGvW",
+      "total": 1158086,
+      "daily": 25
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "December Prayer",
+      "trackId": "6mlcFa2gF1Z7JwKtj0e5AT",
+      "total": 1105951,
+      "daily": 24
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "I See You",
+      "trackId": "3Yl8MqM0kyOIpvcJ0OvlHS",
+      "total": 1066609,
+      "daily": 69
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "I'll Be Home For Christmas/Estaré En Mi Casa Esta Navidad",
+      "trackId": "6tJHxBSHCzjKc7GDbLmLPp",
+      "total": 1059871,
+      "daily": 18
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Nothin' in This World",
+      "trackId": "6I1C9U8rSw0PejBN7IFQtV",
+      "total": 1046976,
+      "daily": 42
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Like Lightning",
+      "trackId": "2K82m4NONjFL9RAIWtutgb",
+      "total": 1042914,
+      "daily": 90
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "We Need A Little Christmas",
+      "trackId": "3jRyOnlDmpOdMJ5RQ1t0fH",
+      "total": 1027195,
+      "daily": 62
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "The Most Wonderful Time Of The Year",
+      "trackId": "52p8icuUaImRcQ4DYgiLts",
+      "total": 990436,
+      "daily": 39
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Perfect Story",
+      "trackId": "0v9zyXI0UpZ9cD4EKLdvJ8",
+      "total": 909126,
+      "daily": 65
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Love While You Can",
+      "trackId": "0rvJa1E4TcbJ9TuQl2dkdJ",
+      "total": 796814,
+      "daily": 102
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Winter Wonderland/Christmas (Baby Please Come Home) - Medley",
+      "trackId": "0bPVHSLWgguXJoSrAbJI4e",
+      "total": 764351,
+      "daily": 33
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Show Me",
+      "trackId": "7JJ7S5bgyGFf0OUU0ftSyt",
+      "total": 759616,
+      "daily": 92
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Seasons Of Love",
+      "trackId": "1lmUWvwkmVw9MFRJ5XBb6w",
+      "total": 736236,
+      "daily": 72
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "For Good - Live",
+      "trackId": "5QZpnWrDuSzmElp1EZHiUJ",
+      "total": 730151,
+      "daily": 590
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "No More Wasted Time",
+      "trackId": "56ZBhCCFQLuIs2qPnt0EVK",
+      "total": 693793,
+      "daily": 89
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Surprise",
+      "trackId": "5fRw4Fxzc5kHF9DgvMmDqp",
+      "total": 692246,
+      "daily": 51
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Move",
+      "trackId": "1mEen9l4C0Kq6gYBGARXoS",
+      "total": 689624,
+      "daily": 319
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "O Holy Night/Ave Maria - Medley",
+      "trackId": "6mdQnbitkqSi72d4u78GBN",
+      "total": 685363,
+      "daily": 26
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Ain't No Man Manhattan",
+      "trackId": "33rptrbpanCqQ8pUUssCcR",
+      "total": 649600,
+      "daily": 63
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Paradise (feat. Nile Rodgers)",
+      "trackId": "4XAcDBwWvD5ZxrZWlcVUq7",
+      "total": 598176,
+      "daily": 298
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Everybody Knows",
+      "trackId": "7KYMs4Y5WwhspkMLApgfCk",
+      "total": 583329,
+      "daily": 82
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "This Day / Walking by a Wedding",
+      "trackId": "4UTiSCXWyODkR0ScyIlnnj",
+      "total": 567540,
+      "daily": 47
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Let It Snow, Let It Snow, Let It Snow",
+      "trackId": "2EsVePRgtRrwT7JLRfJNZj",
+      "total": 561706,
+      "daily": 3
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Auld Lang Syne",
+      "trackId": "1BpEy8YaQ09KIZmJ2X4k2Z",
+      "total": 550799,
+      "daily": 9
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Ocho Kandelikas",
+      "trackId": "6YIgAkok2YBMlyheciDhS6",
+      "total": 548292,
+      "daily": 39
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "I'll Be Home For Christmas",
+      "trackId": "2K3pX2tjD7cPinf3b1wOSU",
+      "total": 509833,
+      "daily": 11
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Caroling, Caroling",
+      "trackId": "5vWRTwVWPO3izNIoSNWKN1",
+      "total": 497847,
+      "daily": 24
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Gorgeous",
+      "trackId": "4v4iJH8TUheqptXmGFIrwe",
+      "total": 478287,
+      "daily": 50
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "When I Fall In Love",
+      "trackId": "7GN0cCo2sXRKP01Y4DybSY",
+      "total": 455067,
+      "daily": 74
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Christmas Time Is Here",
+      "trackId": "75cezRHphmBkykYu3X3drB",
+      "total": 443556,
+      "daily": 10
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "I Feel Everything",
+      "trackId": "15WneEBq4pB99dcNLHs4Kh",
+      "total": 437126,
+      "daily": 41
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Beast",
+      "trackId": "3oW2oZPTc1AHOG1y0xCAIQ",
+      "total": 430761,
+      "daily": 238
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Dramatic",
+      "trackId": "1HmgWp6HhxeQTUp308gGch",
+      "total": 426206,
+      "daily": 120
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "My Own Worst Enemy",
+      "trackId": "0PZW4Y5EUXUfmAv83jNPXY",
+      "total": 409600,
+      "daily": 38
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "I Do",
+      "trackId": "4jWfTYHp13AK6qRMUuFBYx",
+      "total": 405299,
+      "daily": 50
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Cake",
+      "trackId": "49rid4FYimieqpNfPSu5S0",
+      "total": 399582,
+      "daily": 37
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Better to Have Loved",
+      "trackId": "5ooYDCTtR2pcPJNT6C7hBQ",
+      "total": 392591,
+      "daily": 46
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Where Do I Begin?",
+      "trackId": "1yFbbrIYqI8OjjEmrj5Hq9",
+      "total": 353342,
+      "daily": 36
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Don't Let Me Down",
+      "trackId": "09Ua5SGjcLH5qYGGK1o3ob",
+      "total": 264845,
+      "daily": 27
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Still",
+      "trackId": "4sJyJ0387BavoTuF2fpCgJ",
+      "total": 252343,
+      "daily": 2051
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "The Loud Mouse Song",
+      "trackId": "5WZJikNC4n12C5iQ11hn7X",
+      "total": 236030,
+      "daily": 87
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Brave - Acoustic",
+      "trackId": "402c80JmOMuuHne96Lv9Dr",
+      "total": 235134,
+      "daily": 21
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Perfume and Promises",
+      "trackId": "0N3mEOoYfYrouTyqCibuGW",
+      "total": 224153,
+      "daily": 28
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Falling Slowly (with Idina Menzel) - Live 2018",
+      "trackId": "0WPh12Flvdq9jsfmVnxmBs",
+      "total": 219722,
+      "daily": 110
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Bridge over Troubled Water",
+      "trackId": "5keRcRx17WP1a9UWkFByIp",
+      "total": 217218,
+      "daily": 41
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Forever",
+      "trackId": "0NL8FcdT6w3KJfVhMsjIzj",
+      "total": 214030,
+      "daily": 26
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Funny Kind of Lonely",
+      "trackId": "1q4yswssHy72Fqdp7omaWf",
+      "total": 213543,
+      "daily": 60
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Don't Rain on My Parade - Live",
+      "trackId": "6B2hVs5QYWYO0ACnznC7hb",
+      "total": 213116,
+      "daily": 30
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Seasons of Love - Live",
+      "trackId": "6QQF9BDHDX6N3mNlR9EUbz",
+      "total": 191003,
+      "daily": 27
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "In the Leaves",
+      "trackId": "31toOicR8pvIPocGV2Op0n",
+      "total": 185634,
+      "daily": 839
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Defying Gravity - Live",
+      "trackId": "5i4kWUdYDFBCAMpIIvN0ax",
+      "total": 184764,
+      "daily": 51
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "Let It Go - Live",
+      "trackId": "1O4jyuzD9Xa2bDtHI41Std",
+      "total": 168626,
+      "daily": 44
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "I'm Every Woman (short remake for International Women's Day)",
+      "trackId": "7aspmJrRMEFpdk853dUK0o",
+      "total": 151687,
+      "daily": 23
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "No Day but Today - Live",
+      "trackId": "5VcLf22qce9KOq4I7utypZ",
+      "total": 113271,
+      "daily": 46
+    },
+    {
+      "artist": "Idina Menzel",
+      "artistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "A Tree Of Life",
+      "trackId": "3QjZzsv9wccYoTWyB11eck",
+      "total": 110985,
+      "daily": 42
+    }
+  ]
+}

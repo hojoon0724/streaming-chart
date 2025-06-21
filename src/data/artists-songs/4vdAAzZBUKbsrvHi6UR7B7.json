@@ -1,0 +1,38 @@
+{
+  "artist": "Jessica Darrow",
+  "artistId": "4vdAAzZBUKbsrvHi6UR7B7",
+  "songs": [
+    {
+      "artist": "Jessica Darrow",
+      "artistId": "4vdAAzZBUKbsrvHi6UR7B7",
+      "trackName": "Surface Pressure - From \"Encanto\"/Soundtrack Version",
+      "trackId": "6K5ph5mq1qprHae3TrgTj5",
+      "total": 364015811,
+      "daily": 101204
+    },
+    {
+      "artist": "Jessica Darrow",
+      "artistId": "4vdAAzZBUKbsrvHi6UR7B7",
+      "trackName": "A Little More",
+      "trackId": "3iQyxNq8TnhYimIMrKbEwa",
+      "total": 5599955,
+      "daily": 744
+    },
+    {
+      "artist": "Jessica Darrow",
+      "artistId": "4vdAAzZBUKbsrvHi6UR7B7",
+      "trackName": "Surface Pressure - From \"Encanto\"/Alok Remix",
+      "trackId": "4Z6Lox6TdFyN3rGXr5v1An",
+      "total": 1945262,
+      "daily": 463
+    },
+    {
+      "artist": "Jessica Darrow",
+      "artistId": "4vdAAzZBUKbsrvHi6UR7B7",
+      "trackName": "Siempre A Mi Lado",
+      "trackId": "6h7rxUcbbsjD3ooBv0EIpQ",
+      "total": 512958,
+      "daily": 350
+    }
+  ]
+}

@@ -1,0 +1,854 @@
+{
+  "artist": "DDG",
+  "artistId": "0WK3H9OErSn5zKOkOV5egm",
+  "songs": [
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Moonwalking in Calabasas (feat. Blueface) - Remix",
+      "trackId": "73xjJ1TIE6WP3HNKczQE4F",
+      "total": 367887015,
+      "daily": 76077
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "I'm Geekin",
+      "trackId": "1Veqi3SYHPl8a1lsB5M1AY",
+      "total": 93966377,
+      "daily": 41468
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "ARGUMENTS",
+      "trackId": "3QOgwS9cSv0BITHR5edyp7",
+      "total": 63462077,
+      "daily": 3436
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Elon Musk (feat. Gunna)",
+      "trackId": "5BOJkxCXjmDaBDZxFLJ57e",
+      "total": 62163945,
+      "daily": 17030
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Moonwalking in Calabasas",
+      "trackId": "3U5eLgmyGEAFEGjDQBcHEh",
+      "total": 56207582,
+      "daily": 7121
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Astronaut In The Ocean (Remix) - feat. G-Eazy & DDG",
+      "trackId": "1NawUUW8GmiRbJ9UkaKGY4",
+      "total": 46206678,
+      "daily": 10016
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Hood Melody (feat. Youngboy Never Broke Again)",
+      "trackId": "3fUKv3kIexMFOmYsUYvbXJ",
+      "total": 45671410,
+      "daily": 8230
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Rule #1 (feat. Lil Yachty)",
+      "trackId": "2Lr9sAuH6FJooeT0fY1yXB",
+      "total": 39904833,
+      "daily": 5009
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "pink dreads",
+      "trackId": "0dbJg8aQkJ08TdO0HjzipR",
+      "total": 30223702,
+      "daily": 99170
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Impatient (feat. Coi Leray)",
+      "trackId": "5LE8xsgXORBCV70UKd7ywp",
+      "total": 27729667,
+      "daily": 4019
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "9 Lives (feat. Polo G & NLE Choppa)",
+      "trackId": "6DVJ7Aqbml1X3wGxxV5QH5",
+      "total": 21460705,
+      "daily": 4268
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "I'm Geekin - Slowed Down",
+      "trackId": "6H7rCn8MzM9tgVNvcDWeaw",
+      "total": 21325487,
+      "daily": 6056
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "HOLD UP (feat. Queen Naija)",
+      "trackId": "1HBSjsCvLt4Q0e3RsfMduh",
+      "total": 19923895,
+      "daily": 1307
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Givenchy",
+      "trackId": "1ZUSYGDxdzkK6inZJb8pMO",
+      "total": 18418443,
+      "daily": 592
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Bulletproof Maybach (feat. Offset)",
+      "trackId": "6rI8uFFmGyvS2N6sqDCdu3",
+      "total": 17496823,
+      "daily": 3488
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "I'm Geekin (feat. NLE Choppa & BIA) - Remix",
+      "trackId": "1g3YAaHxhtS1GaW3zSbzWM",
+      "total": 14054113,
+      "daily": 3855
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "RUN IT UP (feat. YBN Nahmir, G Herbo & Blac Youngsta)",
+      "trackId": "66yyYZxcK40EfVwE7IvA1A",
+      "total": 13692553,
+      "daily": 541
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Moonwalking in Calabasas - YG Remix",
+      "trackId": "0Ho6FZYMzklqIlRaa9LRR3",
+      "total": 13524948,
+      "daily": 1170
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "If I Want You",
+      "trackId": "0btR0bn9lQ9E7sw6dV58X8",
+      "total": 10751737,
+      "daily": 2349
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Money Long (feat. 42 Dugg)",
+      "trackId": "5VWqcogbzczoRqnmEkUCYI",
+      "total": 10575255,
+      "daily": 1049
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "I'm Geekin (feat. Luh Tyler)",
+      "trackId": "7BP1rZRffLdYnPbU9JzFw9",
+      "total": 10345755,
+      "daily": 2281
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Take Me Serious",
+      "trackId": "3LVTu10wGG0CUDtl1mUlSI",
+      "total": 6883515,
+      "daily": 224
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "HANDLING BUSINESS (with Tory Lanez)",
+      "trackId": "3miaStyl3Y5JrMf1fZAEY3",
+      "total": 6516908,
+      "daily": 13354
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "New Money",
+      "trackId": "1iu9sRjHaZwhBsFx2etGJ9",
+      "total": 6151160,
+      "daily": 371
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "LIL BABY",
+      "trackId": "0auamfcAIcTLlxJW37FWoU",
+      "total": 5814978,
+      "daily": 287
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "PUSH",
+      "trackId": "0otHgzhkaFOS5ueD70Rc8N",
+      "total": 5666236,
+      "daily": 173
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "motion",
+      "trackId": "4682TWkKeanG9CVOyBFwyQ",
+      "total": 5365142,
+      "daily": 40488
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "This Summer",
+      "trackId": "1n8iPnyLEqkGY0kGVjI6bp",
+      "total": 5159190,
+      "daily": 2017
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Treat Me Right",
+      "trackId": "1K7fLNnA0T0hotZlJDqr78",
+      "total": 4788158,
+      "daily": 1264
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Storyteller",
+      "trackId": "2XfiolE6eSF1KQrg1EaQfo",
+      "total": 4696519,
+      "daily": 669
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Hakuna Matata (feat. Tyla Yaweh)",
+      "trackId": "3SRxxTowBUeqlnhfBckoRe",
+      "total": 4041796,
+      "daily": 723
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Stay in My Circle",
+      "trackId": "0luAbShfPkoSm9yuam5wMy",
+      "total": 3974111,
+      "daily": 1714
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Honey Pack (feat. Lil Yachty & DDG) - Remix",
+      "trackId": "3oTuGuMKyTNpGvKj8juVKI",
+      "total": 3576701,
+      "daily": 517
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Love Myself (feat. Kevin Gates)",
+      "trackId": "7kUQTTXyfQehPumtGpQdLJ",
+      "total": 3495600,
+      "daily": 951
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Bank",
+      "trackId": "7dLf27EMmvXq8RDNKSRfZu",
+      "total": 3450641,
+      "daily": 114
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "LET YOU IN",
+      "trackId": "4rITSpNrB8F2mscl7Idu8q",
+      "total": 3102066,
+      "daily": 253
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "I Need Security",
+      "trackId": "11GW8Qvo9yfDFdDfX8iOUa",
+      "total": 2912083,
+      "daily": 496
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Let em Go (feat. 2KBABY)",
+      "trackId": "2VsfETBXRRnrVg30DYu6tm",
+      "total": 2778386,
+      "daily": 448
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "ALMOST",
+      "trackId": "4UJdEn1sYTNyerQei1fBSA",
+      "total": 2178540,
+      "daily": 80
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Going To The Top",
+      "trackId": "7278PBogcFyS3nWzOVvVbx",
+      "total": 2156589,
+      "daily": 3992
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Cabo (feat. DDG & KA$HDAMI) - Remix",
+      "trackId": "1sCXwNceJxrEVc3sSIaT23",
+      "total": 2065916,
+      "daily": 297
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Famous",
+      "trackId": "5GwRqgaU2hHhl7WPD22jUw",
+      "total": 2055929,
+      "daily": 1072
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "She Don't Play",
+      "trackId": "07DzN4K6A7nP9ObnBRQAcO",
+      "total": 1878066,
+      "daily": 731
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "WRAITH",
+      "trackId": "5AyGSQw6DnlOF9LS81FCRn",
+      "total": 1852701,
+      "daily": 102
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Moonwalking in Calabasas - Carnage Remix",
+      "trackId": "4tFzWf7xa298wcAV5QNUv3",
+      "total": 1851153,
+      "daily": 313
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Beethoven (feat. DDG)",
+      "trackId": "2kWlRM0TS0haYfZ4kr7M3P",
+      "total": 1847089,
+      "daily": 417
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Get What You Want (feat. PnB Rock)",
+      "trackId": "5ggVEuDcRLtHRno8hilkal",
+      "total": 1840983,
+      "daily": 274
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Donkey Kong",
+      "trackId": "2gEi5XBpu8StKoUVjvJXoU",
+      "total": 1742224,
+      "daily": 58
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Delulu",
+      "trackId": "1JOP1bO53WLdmu24GgPkO5",
+      "total": 1698120,
+      "daily": 3406
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "MEET ME IN THE LOBBY",
+      "trackId": "3i06akGHNTGcWhWvuEHTxd",
+      "total": 1676105,
+      "daily": 122
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Trynna Link",
+      "trackId": "2w40TmWBp36PK4njeHtJoh",
+      "total": 1662799,
+      "daily": 792
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Pontiac",
+      "trackId": "0oNkrnzi1jKflH9dKxHBP0",
+      "total": 1620962,
+      "daily": 78
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "The Method",
+      "trackId": "34d0q4ltS3Lx6JAEHHKPRn",
+      "total": 1577153,
+      "daily": 4625
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Way You Talk",
+      "trackId": "2dhm34aAwzfN8Sjwwp8XoX",
+      "total": 1544843,
+      "daily": 235
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "CLOUT CHASIN",
+      "trackId": "6mIezHtGHyWtsG3lFVvRzt",
+      "total": 1531760,
+      "daily": 83
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "WHY/ARGUMENTS PT. 2",
+      "trackId": "69Z7j7izVsJDQjXptIDBHy",
+      "total": 1501995,
+      "daily": 115
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "I'm Geekin - Sped Up",
+      "trackId": "0DYGIlr8hqkOGTSMG2a55B",
+      "total": 1496246,
+      "daily": 207
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "speed (feat. Ty Dolla $ign & Rich The Kid)",
+      "trackId": "6R9ur6yrjsP3xnJ0la11uX",
+      "total": 1480673,
+      "daily": 17026
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "pump 4",
+      "trackId": "7xjR3ttdZoAS1AlZC4Pe7t",
+      "total": 1404756,
+      "daily": 31265
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "man on a mission (feat. Kyle Richh & NLE Choppa)",
+      "trackId": "7weLJ3yz4za567PpQ9hNAl",
+      "total": 1371865,
+      "daily": 18533
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "The Clinic (feat. BabyFace Ray)",
+      "trackId": "7LSLOdTLhEUIR9F2wpPvHJ",
+      "total": 1335313,
+      "daily": 295
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Remember Me",
+      "trackId": "2kTQNrhAcEkXgQaT4z7rx3",
+      "total": 1166091,
+      "daily": 292
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "WHAT U BAD FOR (feat. Real Boston Richey)",
+      "trackId": "09iR6v8KUn1zoy6mZgs2op",
+      "total": 1142583,
+      "daily": 1930
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "fine shyt (feat. BIA)",
+      "trackId": "6XpoHMRgTntAML54Ok1Y5D",
+      "total": 1042460,
+      "daily": 11878
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Straight Outta Pontiac",
+      "trackId": "3Ks3Rj9tTzAaf3T5jSYtI7",
+      "total": 1036965,
+      "daily": 524
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "On the Low",
+      "trackId": "1g6x5KadEKoqUJWncxEXFD",
+      "total": 978354,
+      "daily": 43
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "SPENDIN AINT NOTHIN (feat. Young Nudy)",
+      "trackId": "6KGsT9Bf4ULwNpUN98zEMU",
+      "total": 962046,
+      "daily": 64
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "what i prefer",
+      "trackId": "5wjPhJGRfh9NWa7p9ikGkm",
+      "total": 951834,
+      "daily": 11126
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "CHOOSY (feat. DDG)",
+      "trackId": "5LkN4BHstBVFfAtA6prU1L",
+      "total": 945357,
+      "daily": 116
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "do what you want (feat. Offset)",
+      "trackId": "170yLcujNwGwgfvjicjPfF",
+      "total": 845856,
+      "daily": 7885
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "5 seater",
+      "trackId": "4sPrKPhOFAugXVoGjAoBy6",
+      "total": 808881,
+      "daily": 751
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "EARTHQUAKE",
+      "trackId": "7qAHkexzb0M0wx112Fgau9",
+      "total": 796642,
+      "daily": 37
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Not the Only One",
+      "trackId": "0V4Ep18OJLeGqW6uhkXNA8",
+      "total": 767870,
+      "daily": 209
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "POPSTAR LIVING",
+      "trackId": "5o48yNFcb1qENTSI0aQMZJ",
+      "total": 746968,
+      "daily": 45
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Hands On Me",
+      "trackId": "0iG4BkcrLaIvuSpYxBhQbw",
+      "total": 722761,
+      "daily": 655
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Hard On Myself",
+      "trackId": "6uqOEgi0zwpwKyykzMDoBn",
+      "total": 716940,
+      "daily": 467
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Rizz",
+      "trackId": "5U5JbBDLVnHIMWPfzF0O57",
+      "total": 699287,
+      "daily": 370
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "gta (feat. Skilla Baby)",
+      "trackId": "6VoWtLgFMPo5nGYcKEwCiO",
+      "total": 679412,
+      "daily": 7504
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "NOT CAPPIN",
+      "trackId": "1tWjRVT0jvnfobH58nCyCE",
+      "total": 661595,
+      "daily": 31
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Love For Sale",
+      "trackId": "0Ol9sIfk76fQ5vDfaRehoQ",
+      "total": 648319,
+      "daily": 428
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Big Knots",
+      "trackId": "1KNWtQHOoTCvK6IBWUtEGQ",
+      "total": 647110,
+      "daily": 226
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "more than a night (feat. Queen Naija, Rob49 & Shenseea)",
+      "trackId": "1s58LY5tdZeF8ie9LLFk2u",
+      "total": 646370,
+      "daily": 5812
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Handling Business Freestyle",
+      "trackId": "6wOMZoQ9mVjUcMBlTH3hLT",
+      "total": 645660,
+      "daily": 1209
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "pimpin",
+      "trackId": "2DD2MrGZJ76FkpCLrARyVN",
+      "total": 638530,
+      "daily": 7776
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "bankroll",
+      "trackId": "3Fb8BEOaOMMBLEjfSS3erv",
+      "total": 629094,
+      "daily": 9826
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "lemonade (feat. Wiz Khalifa)",
+      "trackId": "2VDvC7i6x0hHEiiLaHim1H",
+      "total": 614919,
+      "daily": 6414
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Y'ALL SEE IT",
+      "trackId": "0KRSnFfsae1FU2n05VzsKK",
+      "total": 606752,
+      "daily": 28
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "HOLD MY DRINK INTERLUDE",
+      "trackId": "2k6hr66J4KRWJ68xMwuThS",
+      "total": 603036,
+      "daily": 19
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "WHAT NOW",
+      "trackId": "2wXWCa2tGauMyWBPkjGZxh",
+      "total": 581565,
+      "daily": 32
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "WOOZY",
+      "trackId": "5QARhGKjVBhwwaoiDo1D0p",
+      "total": 565952,
+      "daily": 28
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Bottega Sweater",
+      "trackId": "0t9LIW53y7QMedvZV2mOqN",
+      "total": 536826,
+      "daily": 177
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Pioneer",
+      "trackId": "55BwCUPh1Ps4NVfXbgxypW",
+      "total": 528831,
+      "daily": 326
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "no help",
+      "trackId": "5llCeJtwnJfEpuT8ZuYIl0",
+      "total": 519920,
+      "daily": 8159
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "in my zone",
+      "trackId": "20znHQAJWZjMdqoK8S9xMS",
+      "total": 496485,
+      "daily": 5112
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Ouuhh!!",
+      "trackId": "6R5pp1Yant3DhEuHtJJGZl",
+      "total": 492752,
+      "daily": 84
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "copy my drip",
+      "trackId": "7bHIWlVy5WLS6RMRfwO0nv",
+      "total": 483736,
+      "daily": 535
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Nosey",
+      "trackId": "7aXyHLZlfVYtkSuSeYdbMB",
+      "total": 470549,
+      "daily": 1025
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Rich Bitch (feat. Lakeyah & Coi Leray)",
+      "trackId": "0KIxQnTtdBtQmLA3oXzFEB",
+      "total": 452947,
+      "daily": 139
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "she ain't leaving",
+      "trackId": "77C7L8ZhYt4aBKQ2ljewV2",
+      "total": 400782,
+      "daily": 526
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Relationship Issues",
+      "trackId": "2F3LeDl3lS1Zl0RbfXYdC5",
+      "total": 395209,
+      "daily": 168
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Make It Back",
+      "trackId": "7f8eTaqpRKNru66tu0rGdJ",
+      "total": 386964,
+      "daily": 160
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Winning",
+      "trackId": "1x8pykG3h9nSUaTmrIY81W",
+      "total": 359760,
+      "daily": 229
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Rambo",
+      "trackId": "1bd7jGZvILmpvIw3tY6SKv",
+      "total": 353969,
+      "daily": 178
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "I'm Geekin - Nightcore Version",
+      "trackId": "5XZCijnH0bpaiOBHk5hROw",
+      "total": 312538,
+      "daily": 137
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Shoot Up Your Block",
+      "trackId": "5MIjV91H1KZBlr7Pdr7Y5M",
+      "total": 268136,
+      "daily": 112
+    },
+    {
+      "artist": "DDG",
+      "artistId": "0WK3H9OErSn5zKOkOV5egm",
+      "trackName": "Play By The Rules (Six Invitational 2025 Anthem)",
+      "trackId": "0Cuo7Z0MnfzimAcRiW9plU",
+      "total": 237431,
+      "daily": 435
+    }
+  ]
+}

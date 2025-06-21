@@ -1,0 +1,934 @@
+{
+  "artist": "The Neighbourhood",
+  "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+  "songs": [
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Sweater Weather",
+      "trackId": "00xYOITpx6SEi1ntfdlA39",
+      "total": 3842131978,
+      "daily": 1950901
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Daddy Issues",
+      "trackId": "5E30LdtzQTGqRvNd7l6kG5",
+      "total": 1832109080,
+      "daily": 807841
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Softcore",
+      "trackId": "2K7xn816oNHJZ0aVqdQsha",
+      "total": 1332473259,
+      "daily": 848912
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "You Get Me So High",
+      "trackId": "7zwn1eykZtZ5LODrf7c0tS",
+      "total": 844449456,
+      "daily": 424299
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Reflections",
+      "trackId": "2xql0pid3EUwW38AsywxhV",
+      "total": 821883232,
+      "daily": 557438
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Afraid",
+      "trackId": "4G02VJ9QmjOPcLVIzeCqmJ",
+      "total": 532087904,
+      "daily": 240401
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "The Beach",
+      "trackId": "2u0CelO5c81XS7z3dGpHbS",
+      "total": 425105745,
+      "daily": 237774
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Cry Baby",
+      "trackId": "0EfsDEYaSjGYd66Pr881nq",
+      "total": 382538864,
+      "daily": 192100
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Pretty Boy",
+      "trackId": "7IL8PSVwLOJxqYne6azxQv",
+      "total": 339797740,
+      "daily": 261435
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Stargazing",
+      "trackId": "0VF7YLIxSQKyNiFL3X6MmN",
+      "total": 276182367,
+      "daily": 83656
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Nervous",
+      "trackId": "113xf7t4qNM7038YJvauik",
+      "total": 253468649,
+      "daily": 178513
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Wires",
+      "trackId": "3aeJ1b9ayxl5mqUMGh5zhq",
+      "total": 235971471,
+      "daily": 51939
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "R.I.P. 2 My Youth",
+      "trackId": "07VBqWH6NG8L2ad3l84UKk",
+      "total": 226634875,
+      "daily": 38065
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "A Little Death",
+      "trackId": "0pxPNTroZcxXA0w6IDgMQJ",
+      "total": 211157711,
+      "daily": 312052
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Flawless",
+      "trackId": "7G3lDrkwb0KxHAWd0D6pXR",
+      "total": 194474083,
+      "daily": 73605
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Daddy Issues (Remix) feat. Syd",
+      "trackId": "5Q6fh8OEhBYepJaORz9lxe",
+      "total": 193465766,
+      "daily": 92102
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Scary Love",
+      "trackId": "6TA5aymvVrtiPVbuAwmPIc",
+      "total": 176339767,
+      "daily": 37032
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Compass",
+      "trackId": "0YNtAadZvKBBEFARtfoCV8",
+      "total": 175446422,
+      "daily": 58201
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Baby Came Home 2 / Valentines",
+      "trackId": "40gvh6jP5qxMJuMmF9lG9A",
+      "total": 167222378,
+      "daily": 130126
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Unfair",
+      "trackId": "0xD23i0X1WjqMSYIxRfO80",
+      "total": 156101583,
+      "daily": 53543
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Devil's Advocate",
+      "trackId": "4XfI7M5gLwEY84gYiH4RDD",
+      "total": 148318371,
+      "daily": 51138
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Void",
+      "trackId": "2wXioTynVwrEWYRv6R6vEj",
+      "total": 145107060,
+      "daily": 61676
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "W.D.Y.W.F.M?",
+      "trackId": "4fhGY82iVNJRoREitkVvJs",
+      "total": 140329830,
+      "daily": 56578
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Prey",
+      "trackId": "38kjFXYgPvtuXCPbHPMGte",
+      "total": 136902690,
+      "daily": 35219
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Fallen Star",
+      "trackId": "60F6pgM6H6miNr5AmjxwjL",
+      "total": 121868482,
+      "daily": 84005
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Single",
+      "trackId": "5Ma3BlNVDtn3JiwMEafSaq",
+      "total": 118856449,
+      "daily": 18080
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Cherry Flavoured",
+      "trackId": "40iocOzytrqaRn5RbGPDNp",
+      "total": 117795879,
+      "daily": 48876
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Leaving Tonight",
+      "trackId": "3qoVMvagQJ9C2pXaA8lC8C",
+      "total": 108415210,
+      "daily": 66130
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "#icanteven (feat. French Montana)",
+      "trackId": "0xSfELjbi6QwmprLDu4Nrx",
+      "total": 108073477,
+      "daily": 31435
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Stuck with Me",
+      "trackId": "6eMeqiSoQYtM8u3vvfth21",
+      "total": 85974305,
+      "daily": 19433
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Female Robbery",
+      "trackId": "6nXg1MGz3OiK17xyYrea2Z",
+      "total": 84458664,
+      "daily": 20359
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Let It Go",
+      "trackId": "1r6FBaICvMLwah9jm75wWR",
+      "total": 75767288,
+      "daily": 14764
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Alleyways",
+      "trackId": "374bWkz1CrFhPk6tqAs9pI",
+      "total": 74136232,
+      "daily": 21349
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Sadderdaze",
+      "trackId": "7sIYHDxjteT6RY29gAGzP2",
+      "total": 68398242,
+      "daily": 12105
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Wiped Out!",
+      "trackId": "4Tp4gRuDo1sIMP6gH9LwuH",
+      "total": 62258683,
+      "daily": 14032
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Baby Came Home",
+      "trackId": "5bpQAHexN985BjIuHfIHug",
+      "total": 59909766,
+      "daily": 18578
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Jealou$y (feat. Casey Veggies & Kossisko)",
+      "trackId": "7ofaLUVPCwrPrKY6Rk6c0b",
+      "total": 57877164,
+      "daily": 42589
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "24/7",
+      "trackId": "4Cdb1dE3pfiWlqnAIcImyQ",
+      "total": 54020216,
+      "daily": 12711
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "West Coast",
+      "trackId": "4TaY35s44Bf6OQnRK4R8Y5",
+      "total": 53079473,
+      "daily": 8450
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Lost in Translation",
+      "trackId": "5TUZhrb8UaaA76NhzZax2Z",
+      "total": 52927444,
+      "daily": 15089
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Greetings from Califournia",
+      "trackId": "6PS9AdyOKTPwlDPfLzJ7Ow",
+      "total": 51962629,
+      "daily": 11258
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Everybody's Watching Me (Uh Oh)",
+      "trackId": "1xEeIDDLhWtW2emboZQVkp",
+      "total": 49996267,
+      "daily": 13871
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "How",
+      "trackId": "2VLlAsu9GPveQQAYZus6R2",
+      "total": 49013630,
+      "daily": 11049
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Sweater Weather - Sped Up",
+      "trackId": "5HzMZWEwP8baubqhmpjX75",
+      "total": 46335057,
+      "daily": 53142
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "$TING",
+      "trackId": "48YPDmhRIQRiusm5uCz5gX",
+      "total": 43247567,
+      "daily": 11238
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Staying Up",
+      "trackId": "0hTcjWsqlWGOJftU6oqaX0",
+      "total": 42618211,
+      "daily": 9817
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Lurk",
+      "trackId": "6NK6BSGwtmJ1HTOCYRWslQ",
+      "total": 42076813,
+      "daily": 11640
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Ferrari",
+      "trackId": "7xrwGUa11hnnxXWeTIzcHf",
+      "total": 41754370,
+      "daily": 11087
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Sweater Weather - Spotify Sessions Curated by Jim Eno",
+      "trackId": "7sDzAu7alAL1hWvL86tSGB",
+      "total": 41294612,
+      "daily": 1847
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Middle of Somewhere",
+      "trackId": "4e8zIDjctZ1DtUPZTraGzS",
+      "total": 40035100,
+      "daily": 6084
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Paradise",
+      "trackId": "75iJMOH4oBobiRiBJVdw2m",
+      "total": 38439712,
+      "daily": 11778
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Blue",
+      "trackId": "3BQbwXb8lMLLRBeLl6HTu8",
+      "total": 35985503,
+      "daily": 11751
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Float",
+      "trackId": "7wwAryWQXStWRitGA677n2",
+      "total": 34551374,
+      "daily": 9477
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "No Grey",
+      "trackId": "2NNzvsOFpztTUUzk6rcnPH",
+      "total": 32719083,
+      "daily": 6282
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Sweater Weather - Young Saab Remix",
+      "trackId": "5YCPqMoXNlPeUJ9fm1dlz3",
+      "total": 30944380,
+      "daily": 3354
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "The Shining",
+      "trackId": "3m3ylOXgB3v9xmDSIJyx9S",
+      "total": 30307933,
+      "daily": 12932
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Dangerous (feat. YG)",
+      "trackId": "2Dtn6xdm8SZcHPrto79eSK",
+      "total": 28455035,
+      "daily": 8855
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Heaven",
+      "trackId": "3dMPLD8cuzTtFLv8E7homA",
+      "total": 27128376,
+      "daily": 7550
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Silver Lining",
+      "trackId": "1iJsVkrrId99kTJSZBrwHJ",
+      "total": 26685716,
+      "daily": 10577
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Here We Go Again",
+      "trackId": "5SZ3LjDirzbQe3CqIgxRkA",
+      "total": 25492109,
+      "daily": 9039
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Yellow Box",
+      "trackId": "6IBCA5bu9eIBOsaoO0MqJj",
+      "total": 25083610,
+      "daily": 12256
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Tobacco Sunburst",
+      "trackId": "4pJEkzhZY84h8kmPkUhfwC",
+      "total": 22827833,
+      "daily": 7301
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Over the Influence",
+      "trackId": "5VoBizwMwcd2D68EfqxDbO",
+      "total": 22791712,
+      "daily": 10360
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Roll Call",
+      "trackId": "1zkXUXNHpYQTcXZAaZbeEp",
+      "total": 22618411,
+      "daily": 5205
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Flowers",
+      "trackId": "0f7T8FO4ZM9XHpmncSUWND",
+      "total": 22154385,
+      "daily": 5143
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "U&I",
+      "trackId": "26SzctPrO5Km59OHWst3rb",
+      "total": 22055921,
+      "daily": 8746
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Livin' In a Dream (feat. Nipsey Hussle)",
+      "trackId": "6wbbeA1FcbqXiJs7aIA8x7",
+      "total": 19573284,
+      "daily": 4229
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Noise",
+      "trackId": "2Wj1cS0hUzWrQPzYgZJj94",
+      "total": 19518286,
+      "daily": 5203
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Dust",
+      "trackId": "7inCfDM4S3xsVzgOUqSJOH",
+      "total": 19483099,
+      "daily": 4784
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Female Robbery",
+      "trackId": "7e8bQb1csn5WvpOc4b5PJg",
+      "total": 19050722,
+      "daily": 1775
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "warm (feat. Raury)",
+      "trackId": "3XdkoHjalwE7BYtR7nvdPm",
+      "total": 16414304,
+      "daily": 4446
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Kill Us All (feat. Denzel Curry)",
+      "trackId": "2DBxhQbwnuXDioUVdL33S2",
+      "total": 16289666,
+      "daily": 4655
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "A Moment of Silence",
+      "trackId": "57g9uWuZI1t822eLvEVQjn",
+      "total": 15101218,
+      "daily": 2697
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Sweater Weather - Slowed Down",
+      "trackId": "6jhzQyn6cwPHc85PE4qBp0",
+      "total": 13153326,
+      "daily": 21042
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Beat Take 1 (feat. Ghostface Killah)",
+      "trackId": "4ymD0FxX1fnWszSu9rMAtD",
+      "total": 12277792,
+      "daily": 3019
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "1 of those Weaks",
+      "trackId": "7BerVNuvBA1li04pN4XK7D",
+      "total": 11710596,
+      "daily": 2484
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Hell or High Water",
+      "trackId": "13H872rziuPMTOguuYYBtu",
+      "total": 11662980,
+      "daily": 3545
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "BooHoo",
+      "trackId": "5uidTQXrmYWTCwfJxPVW90",
+      "total": 11000105,
+      "daily": 3726
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Beautiful Oblivion (feat. IDK)",
+      "trackId": "0ruhQupkyGoUxmsExWXEoa",
+      "total": 10382446,
+      "daily": 2849
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "NO ESCAPE",
+      "trackId": "5Xg5bGbWHToIMSsqWxOsej",
+      "total": 9645897,
+      "daily": 8375
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Chip Chrome",
+      "trackId": "4Kt8Z1uo9Y0MXog8Y44ih9",
+      "total": 8646316,
+      "daily": 4045
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "The Mono-Tones",
+      "trackId": "2Qt8YTTXdgQva0Vv9VjBlS",
+      "total": 8226238,
+      "daily": 2323
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "To",
+      "trackId": "7N0XzHKFJVAg1sG3kXmLMm",
+      "total": 7525978,
+      "daily": 2744
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Silver",
+      "trackId": "24GW45u8aZYiFhLmnOma9u",
+      "total": 6667537,
+      "daily": 2722
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "T$RL",
+      "trackId": "6jZKQCKbwjBtKdE7uJRRCK",
+      "total": 5971001,
+      "daily": 1720
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "When I Get Back (feat. G-Eazy)",
+      "trackId": "62lRj72gtFyhovAyfbZGBu",
+      "total": 5939938,
+      "daily": 1633
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Afraid - Spotify Sessions Curated by Jim Eno",
+      "trackId": "2LEFfsq272ijpJPZuKen8Z",
+      "total": 5538918,
+      "daily": 487
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Rain",
+      "trackId": "1N2mbdnH9cLCSh1dv2c5pv",
+      "total": 4863101,
+      "daily": 1458
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "*NSTYNCT (feat. Skeme & OG Maco)",
+      "trackId": "4ZdnCqHD8I1xWsrq5XiIqx",
+      "total": 4594722,
+      "daily": 1368
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Givin & Takin (feat. Danny Seth & DeJ Loaf)",
+      "trackId": "25W35sn8lGaiTLQFR31gxO",
+      "total": 3472660,
+      "daily": 1164
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "YG call",
+      "trackId": "1ly6UkIkBikMmQhxmVpE8Y",
+      "total": 2253566,
+      "daily": 590
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Afraid - Sped Up",
+      "trackId": "2VXsR9xXRWfARSMPnqY4Qp",
+      "total": 2085911,
+      "daily": 1861
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Me & My Bitch",
+      "trackId": "6Uc9bkWjtKzhquBhu4pjdA",
+      "total": 1668795,
+      "daily": 283
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Flawless - Sped Up",
+      "trackId": "5xLQsQi2P8PJaw68qaK9R6",
+      "total": 1570486,
+      "daily": 603
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Afraid - Slowed Down",
+      "trackId": "5hVNoUOR1FBWyTS2Urv68s",
+      "total": 474758,
+      "daily": 1106
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "W.D.Y.W.F.M? - Sped Up",
+      "trackId": "2pdQqz3oJMBa7WVaDS5RKi",
+      "total": 448843,
+      "daily": 381
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Afraid - Chopped Not Slopped",
+      "trackId": "1RGkrLAsi1W6QZR3U7xi4A",
+      "total": 285591,
+      "daily": 134
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Alleyways - Sped Up",
+      "trackId": "4CLabRUdENNFJcVEL5kAQk",
+      "total": 234087,
+      "daily": 229
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Flawless - Slowed Down",
+      "trackId": "2wIhvlHyiFGT7XXDXgBDJF",
+      "total": 216877,
+      "daily": 254
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Female Robbery - Sped Up",
+      "trackId": "2nX1Zk2jxXkTo1kSz8xz5Q",
+      "total": 215762,
+      "daily": 241
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Let It Go - Sped Up",
+      "trackId": "3aQfO6wZ5gRNZ2uRwUd36S",
+      "total": 205497,
+      "daily": 181
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "W.D.Y.W.F.M? - Slowed Down",
+      "trackId": "3Nlz7XyJSnBkCPDNbpv6nC",
+      "total": 198206,
+      "daily": 343
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Everybody's Watching Me (Uh Oh) - Sped Up",
+      "trackId": "2SWENPetf1NPRVmxNgKm70",
+      "total": 196153,
+      "daily": 197
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "How - Sped Up",
+      "trackId": "19lQjFxUx3enQ5aPvHFv9H",
+      "total": 194981,
+      "daily": 221
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Staying Up - Sped Up",
+      "trackId": "4bUM6rVReuAWatNLH0wWg6",
+      "total": 183168,
+      "daily": 218
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Sweater Weather - Chopped Not Slopped",
+      "trackId": "5ombgXe6bzOYRFDLRX7K89",
+      "total": 181713,
+      "daily": 361
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "How - Slowed Down",
+      "trackId": "3OltGkhsrsLbTdb4u1I6iJ",
+      "total": 160425,
+      "daily": 187
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Float - Sped Up",
+      "trackId": "5KjWDBLjHnzYXk0qMcj8Ap",
+      "total": 153576,
+      "daily": 145
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Everybody's Watching Me (Uh Oh) - Slowed Down",
+      "trackId": "0ST2s1iJwdnNhYlj776go8",
+      "total": 143825,
+      "daily": 185
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Alleyways - Slowed Down",
+      "trackId": "6mdasWi8SB0FQs6vLqVNt0",
+      "total": 131108,
+      "daily": 153
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Let It Go - Slowed Down",
+      "trackId": "4fwb4Vmf9flRjgjvsVEKle",
+      "total": 129146,
+      "daily": 138
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Female Robbery - Slowed Down",
+      "trackId": "1Fcf9lUZJ6n18aYCFzykLh",
+      "total": 119705,
+      "daily": 119
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Staying Up - Slowed Down",
+      "trackId": "7IA4eQMEDlrhgC1nDZfn96",
+      "total": 109327,
+      "daily": 111
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Everybody's Watching Me (Uh Oh) - Chopped Not Slopped",
+      "trackId": "7HdqGCAYelQKaauhtIWDJR",
+      "total": 107648,
+      "daily": 138
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "How - Chopped Not Slopped",
+      "trackId": "75RnZfTMBgValWuyMV6h6a",
+      "total": 107456,
+      "daily": 125
+    },
+    {
+      "artist": "The Neighbourhood",
+      "artistId": "77SW9BnxLY8rJ0RciFqkHh",
+      "trackName": "Float - Slowed Down",
+      "trackId": "7N3tpCdAc9LdVnqdQVfeLe",
+      "total": 106129,
+      "daily": 119
+    }
+  ]
+}

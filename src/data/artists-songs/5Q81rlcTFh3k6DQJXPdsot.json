@@ -1,0 +1,822 @@
+{
+  "artist": "Mura Masa",
+  "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+  "songs": [
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Love$ick (feat. A$AP Rocky)",
+      "trackId": "3sTN90bIP2cJ1783ctHykO",
+      "total": 546881750,
+      "daily": 114575
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Firefly (feat. NAO)",
+      "trackId": "62BvDgepVjmPeYKl9Ru1zu",
+      "total": 140358772,
+      "daily": 16590
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "What If I Go? (feat. Bonzai)",
+      "trackId": "2tHfNQnj50VoMZga2rpfdA",
+      "total": 101868572,
+      "daily": 11587
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Doorman",
+      "trackId": "6bTAz3pg5ywBeZHCQoleJB",
+      "total": 77154581,
+      "daily": 13750
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Lovesick",
+      "trackId": "3GGg9FWBlAjrAvC16kazer",
+      "total": 52111575,
+      "daily": 4921
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "1 Night (feat. Charli XCX)",
+      "trackId": "06XuHBFQejxy9jhNBaHEwx",
+      "total": 44769083,
+      "daily": 5473
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "All Around The World (feat. Desiigner)",
+      "trackId": "4x8874idDYp8yxgKsyb4xG",
+      "total": 36490031,
+      "daily": 1584
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Complicated",
+      "trackId": "2mssuAa5xshIx2c06p1c2F",
+      "total": 32188638,
+      "daily": 2139
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Deal Wiv It (with slowthai)",
+      "trackId": "58FeZw9fdcWTMZnx5uUFZz",
+      "total": 29903835,
+      "daily": 4739
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
+      "trackId": "69IKYOFqrwpldC0ue4kGPk",
+      "total": 26009642,
+      "daily": 4800
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "blessing me (with Pa Salieu & Skillibeng)",
+      "trackId": "6EC5tQ5QBc35eRL06PYcOR",
+      "total": 24551043,
+      "daily": 9079
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "I Don’t Think I Can Do This Again (with Clairo)",
+      "trackId": "4ylq5OMQY6x7yEeZdmKOdD",
+      "total": 24034689,
+      "daily": 3095
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Lotus Eater",
+      "trackId": "18SDFwz5UNo3C7M3FzGCyN",
+      "total": 21434636,
+      "daily": 1304
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Nuggets (feat. Bonzai)",
+      "trackId": "1UKd207NfxFvKpOiuguKhe",
+      "total": 19872565,
+      "daily": 1398
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Messy Love",
+      "trackId": "5cRCEOCVmqUBRYW8XyFk0d",
+      "total": 15323036,
+      "daily": 1937
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "helpline (feat. Tom Tripp)",
+      "trackId": "3kTi265EwS95DCYL59hxyK",
+      "total": 14556207,
+      "daily": 3794
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Live Like We’re Dancing (with Georgia)",
+      "trackId": "1A58KC4dEQM53muqpaZoOT",
+      "total": 14032907,
+      "daily": 1311
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Are U There?",
+      "trackId": "2LAADRyMblXuDfKZ8dm8LR",
+      "total": 13583433,
+      "daily": 788
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Teenage Headache Dreams (with Ellie Rowsell)",
+      "trackId": "7zs9aoWKrINoC5ZXL7OvRm",
+      "total": 12042501,
+      "daily": 2202
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "When U Need Me",
+      "trackId": "5iGDHpBu0oAA4FHoEwYOE3",
+      "total": 10909307,
+      "daily": 935
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Low",
+      "trackId": "1DozKkvrqPPLYcXawVxIR2",
+      "total": 10398574,
+      "daily": 382
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "U Never Call Me",
+      "trackId": "0Dkb1WBAv5r8HeTXcdbPTr",
+      "total": 10389739,
+      "daily": 1238
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Miss You",
+      "trackId": "7u6Wl10noSzDOL2aiDJHNh",
+      "total": 9772369,
+      "daily": 575
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "2gether (with Gretel Hänlyn)",
+      "trackId": "1Wqd0R1X1tuVK9FySVyLpt",
+      "total": 9729654,
+      "daily": 1214
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Today (with Tirzah)",
+      "trackId": "7vqbA9MfCnSFMTT0cikF8b",
+      "total": 9388289,
+      "daily": 1671
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Sour Candy (with BLACKPINK) - Shygirl & Mura Masa Remix",
+      "trackId": "56kudbKiRjWCwiAS3FRHCL",
+      "total": 8904187,
+      "daily": 1869
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "I've Never Felt So Good",
+      "trackId": "4mXDPnhn0oEq3XrCHJ2pkP",
+      "total": 8532635,
+      "daily": 438
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Blu (feat. Damon Albarn)",
+      "trackId": "4WzIR5PJLp6dY09h5PWdxr",
+      "total": 8456829,
+      "daily": 515
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Walking Away - Mura Masa Remix",
+      "trackId": "6ixKGrFMIsF93AfjDyC0cE",
+      "total": 8032604,
+      "daily": 485
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "e-motions (with Erika de Casier)",
+      "trackId": "3FTtAV8d9qHyMjlvAGOPdu",
+      "total": 7676414,
+      "daily": 2648
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Second 2 None (feat. Christine And The Queens)",
+      "trackId": "6OdwhuZj85VSZG4bVPE87C",
+      "total": 7648160,
+      "daily": 562
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "...Girl",
+      "trackId": "2CJOCW4VWc0u6gKTvRkdXA",
+      "total": 6555634,
+      "daily": 502
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "NOTHING ELSE! (feat. Jamie Lidell)",
+      "trackId": "5bewkBDtMY5rrXCYBFspfF",
+      "total": 6340109,
+      "daily": 668
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "hollaback bitch (with Shygirl & Channel Tres)",
+      "trackId": "1phR7Gh1mymnCZvuHjgM0o",
+      "total": 5829918,
+      "daily": 1215
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Know Me Better",
+      "trackId": "5jwcfSApQrJnceLYm8awz9",
+      "total": 5388312,
+      "daily": 249
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Terrible Love",
+      "trackId": "3mAgdriwMRKVeIvWw0neZP",
+      "total": 5269420,
+      "daily": 210
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Keep It Lo",
+      "trackId": "3RBtnsOmltWgeRge3lQDjG",
+      "total": 5135026,
+      "daily": 1236
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Suicide Blades",
+      "trackId": "3EJht2HTniMJbQzi8O0L10",
+      "total": 5084834,
+      "daily": 266
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "No Hope Generation",
+      "trackId": "77Aiv6Wauf1C9BFMs29LjN",
+      "total": 4670084,
+      "daily": 317
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "give me The ground",
+      "trackId": "16MhfA6MG8jEdoJMBqubly",
+      "total": 4616155,
+      "daily": 342
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Who Is It Gonna B (feat. A. K. Paul)",
+      "trackId": "4P8ebswGFjPzUFFkoW597X",
+      "total": 4158737,
+      "daily": 382
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "MÁQUINA CULONA",
+      "trackId": "5tBNafAkXWrLDQa8SOeat9",
+      "total": 3602081,
+      "daily": 4314
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "We Are Making Out",
+      "trackId": "7vPKr68el3LIVzWCVmr89o",
+      "total": 3574152,
+      "daily": 5711
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "¥ (money)",
+      "trackId": "5lt7DisYMz8AzstCfMjT4e",
+      "total": 3447767,
+      "daily": 151
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Are You Bored Yet? (feat. Clairo) - Mura Masa Remix",
+      "trackId": "4jgAfg7f9Wf6p4sIWYeOi3",
+      "total": 3123028,
+      "daily": 290
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "blessing me (feat. Kali Uchis) (remix)",
+      "trackId": "2HGSNTGF7iHWe3jDVJFRtN",
+      "total": 3066655,
+      "daily": 716
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Your Bones (Intermission)",
+      "trackId": "62w0FwjHqlQ3JH7eI6d61k",
+      "total": 2650014,
+      "daily": 104
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Love Like This - Mura Masa Remix",
+      "trackId": "1wgYKTumhfVTlanuSQ67Jx",
+      "total": 2570454,
+      "daily": 783
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Hell",
+      "trackId": "7dQ847NQosTZ9gztaaBtn7",
+      "total": 2512089,
+      "daily": 128
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Bae",
+      "trackId": "3LlN0koSj1GH4W6sER5OCa",
+      "total": 2489563,
+      "daily": 91
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Shibuya",
+      "trackId": "7K8mjUFCOTBL8pWtCeDHTO",
+      "total": 2409474,
+      "daily": 144
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "U",
+      "trackId": "75g6AGXwNMoB1QVN1gUZnx",
+      "total": 2250673,
+      "daily": 113
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Till The World Falls - Franc Moody Remix",
+      "trackId": "3rImxaWc1BK04EcyZiCEyn",
+      "total": 2131208,
+      "daily": 650
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Intro?",
+      "trackId": "1Rdd86FXUBFhBwSQBG9nkm",
+      "total": 1999217,
+      "daily": 95
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "prada (i like it) (with LEILAH)",
+      "trackId": "601A8voGjkcqINtX6PFIts",
+      "total": 1983256,
+      "daily": 611
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Cloud Claps",
+      "trackId": "0XCZSl12v5sqeeyPixMbnv",
+      "total": 1981098,
+      "daily": 106
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "An Interlude",
+      "trackId": "1ARmW54wKilRiJm3znEmel",
+      "total": 1888988,
+      "daily": 114
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Drugs",
+      "trackId": "3yJCcclRnToRsrbp3hZI9P",
+      "total": 1845335,
+      "daily": 964
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "(nocturne for strings and a conversation)",
+      "trackId": "2lF5acSU8Vu9292cthQmc5",
+      "total": 1807344,
+      "daily": 257
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Whenever I Want",
+      "trackId": "5yg65H6nvaHbUnAXTdeb7x",
+      "total": 1724667,
+      "daily": 573
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "She Abunai",
+      "trackId": "5oHIr7slTYRKSuCO101EUL",
+      "total": 1709213,
+      "daily": 217
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Toast (Mura Masa Remix)",
+      "trackId": "7nSy4JHiPW10RZOV4FFwUZ",
+      "total": 1688931,
+      "daily": 193
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Raw Youth Collage",
+      "trackId": "3DIfB9MkaPqSgKHq75uHK1",
+      "total": 1687221,
+      "daily": 173
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Shuf (Adore U)",
+      "trackId": "3ylYRDRiGu5dI0ScsBijka",
+      "total": 1640317,
+      "daily": 977
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "up all week (with slowthai)",
+      "trackId": "1l73bwJECQdHrcep2LNwLG",
+      "total": 1541496,
+      "daily": 231
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Till The World Falls - 7” Version",
+      "trackId": "63PHIPWH8S1ZRcqCFrYD5d",
+      "total": 1530068,
+      "daily": 84
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "In My Mind",
+      "trackId": "4AaRR4TYXCnnw0dg54pgqe",
+      "total": 1454978,
+      "daily": 106
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "slomo (with Tohji & Midas The Jagaban)",
+      "trackId": "1siKLsvJLmVM8fBzJrpBNy",
+      "total": 1270647,
+      "daily": 385
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "MENINA - MURA MASA REMIX (feat. Mura Masa)",
+      "trackId": "46xcXrJUZFMYbxnCeKTt0D",
+      "total": 1241065,
+      "daily": 1444
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Burn The Hard Drive (feat. Mura Masa)",
+      "trackId": "2YK4w5AUbAyjgdokQuCzoj",
+      "total": 1197381,
+      "daily": 533
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "boomerang - Mura Masa Remix",
+      "trackId": "27cxDvv0bXjSKobNdSw7Wf",
+      "total": 1135294,
+      "daily": 561
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "a meeting at an oak tree (with Ned Green)",
+      "trackId": "78fRhxPoaOx1Dk1F7Kukm6",
+      "total": 1118753,
+      "daily": 105
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "FLY",
+      "trackId": "5boCLf0x3ieEVXBXIjRKQo",
+      "total": 1075617,
+      "daily": 782
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Till The World Falls",
+      "trackId": "6rkYnNRl54v9xuXCMQ3dUO",
+      "total": 1074507,
+      "daily": 172
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "vicarious living anthem",
+      "trackId": "5dyikrKsyzLtZ7n7tZuzIH",
+      "total": 1024555,
+      "daily": 69
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Still",
+      "trackId": "6c6LplYd7mFXxqJbriRQKP",
+      "total": 990253,
+      "daily": 384
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Wonderful Nothing - Mura Masa’s Do Ya Thing Tiger Mix",
+      "trackId": "6Ikuj3CQrJKRe2OeAoqMzs",
+      "total": 950418,
+      "daily": 731
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Honey - Mura Masa Chill Remix",
+      "trackId": "0ydBinpDYLjDL5fMxzROgR",
+      "total": 845823,
+      "daily": 732
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Throne (Mura Masa Remix)",
+      "trackId": "4PO3oSFGp8uVzkvY9gFWY1",
+      "total": 812708,
+      "daily": 49
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Love",
+      "trackId": "4hriybgE67pyiH6yz7J8R5",
+      "total": 788006,
+      "daily": 241
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "demon time (with BAYLI)",
+      "trackId": "4bLUlN1VbZvCksmFpjABwf",
+      "total": 771888,
+      "daily": 176
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "tonto (with Isabella Lovestory)",
+      "trackId": "1sVPpSat1VOl3H7AqRre9H",
+      "total": 753625,
+      "daily": 310
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "She Abunai - Baauer Remix",
+      "trackId": "6bdtFteO6bDHnISZXp6JTy",
+      "total": 684261,
+      "daily": 49
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Wiggle It (feat. Mura Masa & Big Freedia)",
+      "trackId": "2bBphkvCo6Z0xhvnJhpgva",
+      "total": 650337,
+      "daily": 190
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Kingpin (feat. Big Sean) - Mura Masa Remix",
+      "trackId": "2FPL8z6xSsS9KjuUnavUIl",
+      "total": 611410,
+      "daily": 26
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "blush (with LEILAH)",
+      "trackId": "3VvcICz9C22dgsHC0bQpc6",
+      "total": 605485,
+      "daily": 183
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Honey - Mura Masa Euphoria Remix",
+      "trackId": "2uBBncMf9l64aYffhK06Gn",
+      "total": 590941,
+      "daily": 421
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Bitch Don't Be Mad - Nao & Mura Masa Remix",
+      "trackId": "6BKwuZz4vBRieWeqgi69eE",
+      "total": 527523,
+      "daily": 124
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "JUMP",
+      "trackId": "4WejDFaJx72saURVWVgOB8",
+      "total": 515549,
+      "daily": 1331
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "rise",
+      "trackId": "6lPupLVOuRd3w31xqN8YxQ",
+      "total": 437435,
+      "daily": 111
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "It's Euphoric - Mura Masa Remix",
+      "trackId": "1xAGqmVj5Asg1g8nUhEoFs",
+      "total": 405828,
+      "daily": 41
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "gimme",
+      "trackId": "48TPDeEe9Cg7Edy5RcC0xr",
+      "total": 404158,
+      "daily": 303
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "SXC",
+      "trackId": "4VnLM64XulZGLQdWMkwxF0",
+      "total": 331616,
+      "daily": 635
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "U - Mura Masa Remix",
+      "trackId": "2bPLo7PvlUlZCYBPcNAgLc",
+      "total": 290411,
+      "daily": 211
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "All I Ever Am - Mura Masa Remix",
+      "trackId": "36H5mG7pK0cGhldOuqDIk5",
+      "total": 287579,
+      "daily": ""
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Forever",
+      "trackId": "5l5RdEPD51LhlbdkAiHIqs",
+      "total": 264198,
+      "daily": ""
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "FLY - Extended Mix",
+      "trackId": "18XKGUUzAcd1iC5lgx0i5V",
+      "total": 257856,
+      "daily": 254
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Honey - Mura Masa Wonder Remix",
+      "trackId": "3adnwcbWL7IPtFfFeIrTIA",
+      "total": 236410,
+      "daily": 110
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "giddyup",
+      "trackId": "1m3FJbYWxhWS8Lv8zzFHuE",
+      "total": 229724,
+      "daily": 414
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "Till The World Falls - CID Remix",
+      "trackId": "22aqxaExQmJrIiZwbBNLqt",
+      "total": 205696,
+      "daily": 18
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "rise - Special Request VIP",
+      "trackId": "0Y4XFhwGWZ2f0vWyrlXFNy",
+      "total": 203107,
+      "daily": 48
+    },
+    {
+      "artist": "Mura Masa",
+      "artistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "rep 4 me",
+      "trackId": "5LAPAmSLFxlLNWPdnwxEdg",
+      "total": 162170,
+      "daily": 141
+    }
+  ]
+}

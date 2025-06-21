@@ -1,0 +1,862 @@
+{
+  "artist": "Camila Cabello",
+  "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+  "songs": [
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Señorita",
+      "trackId": "3BVgrFWuH01GmCUy9Y2EE8",
+      "total": 3033658348,
+      "daily": 851553
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Havana (feat. Young Thug)",
+      "trackId": "1rfofaqEpACxVEHIZBJe6W",
+      "total": 2303168024,
+      "daily": 622198
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Bam Bam (feat. Ed Sheeran)",
+      "trackId": "2DB4DdfCFMw1iaR6JaR03a",
+      "total": 1023826552,
+      "daily": 325330
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Never Be the Same",
+      "trackId": "4eWQlBRaTjPPUlzacqEeoQ",
+      "total": 1015668522,
+      "daily": 473674
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "South of the Border (feat. Camila Cabello & Cardi B)",
+      "trackId": "4vUmTMuQqjdnvlZmAH61Qk",
+      "total": 821571638,
+      "daily": 170176
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Beautiful (feat. Camila Cabello)",
+      "trackId": "4VUwkH455At9kENOfzTqmF",
+      "total": 798010970,
+      "daily": 151085
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Shameless",
+      "trackId": "2ogKhhoMClkFXek7ZgxAhN",
+      "total": 791243602,
+      "daily": 686936
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "My Oh My (feat. DaBaby)",
+      "trackId": "3yOlyBJuViE2YSGn3nVE1K",
+      "total": 776904929,
+      "daily": 186836
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Bad Things (with Camila Cabello)",
+      "trackId": "1PSBzsahR2AKwLJgx8ehBj",
+      "total": 736752466,
+      "daily": 146369
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "I Know What You Did Last Summer",
+      "trackId": "2GyA33q5rti5IxkMQemRDH",
+      "total": 671887529,
+      "daily": 190596
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Crying in the Club",
+      "trackId": "1SJtlNRJDeYHioymcvsqev",
+      "total": 550628148,
+      "daily": 82206
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Don't Go Yet",
+      "trackId": "1qCHidBbWAgv3pn6UbZ4Lg",
+      "total": 538901711,
+      "daily": 101836
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Liar",
+      "trackId": "073ILU1C3APNRGF66VhtyA",
+      "total": 511654839,
+      "daily": 63238
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Know No Better",
+      "trackId": "70K44w5VWojdLaFmgpozHN",
+      "total": 462695776,
+      "daily": 84402
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Hey Ma (with Pitbull & J Balvin feat. Camila Cabello)",
+      "trackId": "2Vdub5mY4lad7w64bFPUez",
+      "total": 388938831,
+      "daily": 102851
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Havana - Remix",
+      "trackId": "3whrwq4DtvucphBPUogRuJ",
+      "total": 286046907,
+      "daily": 30819
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Find U Again (feat. Camila Cabello)",
+      "trackId": "1HpzOCZbNWzxvvXfSGtSrX",
+      "total": 238791434,
+      "daily": 15698
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Real Friends",
+      "trackId": "3iq9nhbI8fcnNamxMft1uv",
+      "total": 236183389,
+      "daily": 14774
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Consequences",
+      "trackId": "7sTtHHrD0zDpmzQzH3zegz",
+      "total": 231053260,
+      "daily": 21048
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "OMG (feat. Quavo)",
+      "trackId": "4xBjsLUSjcx2h7PcRikpQp",
+      "total": 230681674,
+      "daily": 19256
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Mi Persona Favorita",
+      "trackId": "3eB9M6owEHwk4nNrZRNUwd",
+      "total": 229415674,
+      "daily": 76006
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "She Loves Control",
+      "trackId": "5HwnezK198pJCEj1l2Adjy",
+      "total": 225925518,
+      "daily": 14543
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Easy",
+      "trackId": "7DoNtK2gVFRwJh0hkHe5wQ",
+      "total": 177957802,
+      "daily": 17760
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "I Have Questions",
+      "trackId": "3NgCzSW98SsqBdpYcnm4kv",
+      "total": 169460627,
+      "daily": 12231
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Consequences - orchestra",
+      "trackId": "1ArLnG0bHaHPXqf08sEKM0",
+      "total": 155757264,
+      "daily": 4423
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Real Friends",
+      "trackId": "5vnpANH92iEajvGwE2oQ6r",
+      "total": 153498111,
+      "daily": 5184
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "I LUV IT (feat. Playboi Carti)",
+      "trackId": "3WY21ibZasLGJE1U6Apmzj",
+      "total": 149863917,
+      "daily": 96842
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Something's Gotta Give",
+      "trackId": "7IL3UOlcJ6nmcCMwpnlfcA",
+      "total": 131219065,
+      "daily": 13892
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "All These Years",
+      "trackId": "4XLu3tTSZiPFVC9mmuR6Zp",
+      "total": 130523727,
+      "daily": 8473
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Move (feat. Camila Cabello & Malachiii)",
+      "trackId": "0scd3nh27AYTNXo0KHRmsG",
+      "total": 115985971,
+      "daily": 401988
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Sangria Wine",
+      "trackId": "6XlSyYFTU1nodeWwwzVgTV",
+      "total": 104150516,
+      "daily": 8176
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Cry for Me",
+      "trackId": "1Ff71LUQO0KBk5Slu3K6Vu",
+      "total": 103361293,
+      "daily": 11200
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Living Proof",
+      "trackId": "4jFD7byoPdGkEdjHLMduR9",
+      "total": 97572409,
+      "daily": 9010
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
+      "trackId": "19TOAlTFq0NDHvUPQR0tkr",
+      "total": 97212456,
+      "daily": 12464
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "First Man",
+      "trackId": "6TRt2bniIq0EIlrDlje7b8",
+      "total": 94238013,
+      "daily": 14708
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "psychofreak (feat. WILLOW)",
+      "trackId": "73cnVqsbZygieKi8xF10sO",
+      "total": 92966635,
+      "daily": 18311
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "KU LO SA (with Camila Cabello)",
+      "trackId": "0HihDC6qQ8MChAhjfW3gMU",
+      "total": 81688845,
+      "daily": 140023
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Hasta Los Dientes",
+      "trackId": "0sPtR2Z0fRbKOKc3OvBEdA",
+      "total": 80766000,
+      "daily": 30786
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Oh Na Na",
+      "trackId": "03NqHNdG3Ur6kciQWK6e8V",
+      "total": 76127739,
+      "daily": 8599
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "The Christmas Song (Shawn Mendes & Camila Cabello)",
+      "trackId": "53n0aLH9UZi5ACadlhDopt",
+      "total": 69913654,
+      "daily": 1337
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Know No Better (Bad Bunny Remix)",
+      "trackId": "55Bo5Dq3OsHH46O1puSy3k",
+      "total": 62016677,
+      "daily": 9039
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Into It",
+      "trackId": "2gxqozTaq2NYylvS8jd57G",
+      "total": 61603101,
+      "daily": 5226
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "In the Dark",
+      "trackId": "1GO9vCm5Cra5uWGSWQ5mGK",
+      "total": 61472280,
+      "daily": 6099
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Better Place (Family Harmony)",
+      "trackId": "7ELtAKka2YiZRclp70wZ6F",
+      "total": 58482828,
+      "daily": 29040
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "This Love",
+      "trackId": "7cHje4KLujM18aBSLvaySE",
+      "total": 57797947,
+      "daily": 11050
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Ambulancia",
+      "trackId": "5OPte07J5hRK1pTn0f7ldr",
+      "total": 54155482,
+      "daily": 21213
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Hey Ma (with J Balvin & Pitbull feat. Camila Cabello)",
+      "trackId": "44w99ojqUCx9s1NXBpx7VW",
+      "total": 50576518,
+      "daily": 9295
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Don't Go Yet - Major Lazer Remix",
+      "trackId": "5Ay8r4qxJ1OYLS91tWysRf",
+      "total": 47730543,
+      "daily": 9397
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Love Incredible",
+      "trackId": "0Xk9mNMhZU63W4Lk11XheW",
+      "total": 47640647,
+      "daily": 2267
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Crown (with Camila Cabello & Grey)",
+      "trackId": "7qrMWXNwE1aD1o1sBnyIAh",
+      "total": 46678947,
+      "daily": 3384
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Inside Out",
+      "trackId": "5xi2SXmF3A5AIsuGXiUIZu",
+      "total": 46512205,
+      "daily": 3320
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Should've Said It",
+      "trackId": "0sHc1EEeOnmgjP6QmsR7px",
+      "total": 45882062,
+      "daily": 7930
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Million To One - from the Amazon Original Movie \"Cinderella\"",
+      "trackId": "3lzYrD0WcgGFiAFKkB2shE",
+      "total": 44424723,
+      "daily": 9747
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "HE KNOWS (feat. Lil Nas X)",
+      "trackId": "5TdrCQVt3l1uEz3pFdTgXC",
+      "total": 40732153,
+      "daily": 25257
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "HOT UPTOWN (feat. Drake)",
+      "trackId": "4sFnOjqO3s7Iphbg2MPKDd",
+      "total": 40634436,
+      "daily": 37544
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Used to This",
+      "trackId": "3r73OmpBtQAwMgawxOmlg0",
+      "total": 39098373,
+      "daily": 7223
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Bad Kind of Butterflies",
+      "trackId": "0Q2kFlgnqusKAqCDpCKAIY",
+      "total": 38913969,
+      "daily": 5556
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Never Be the Same (feat. Kane Brown)",
+      "trackId": "0xk4woi8ENN8VWFDZTcF8h",
+      "total": 35265147,
+      "daily": 3715
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "South of the Border (feat. Camila Cabello) - Acoustic",
+      "trackId": "6Kzzkq9sFHm51RwhHswCVc",
+      "total": 33102466,
+      "daily": 2922
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Feel It Twice",
+      "trackId": "39jcp8zJH7nHWbB7Hr3sFJ",
+      "total": 29595234,
+      "daily": 3756
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Dream of You",
+      "trackId": "7jJ4y8hXMLMlGBu7Zm1XZj",
+      "total": 28955765,
+      "daily": 4426
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "It Takes Two",
+      "trackId": "21vLEEtCTBS6fxw1TuPJAy",
+      "total": 26998852,
+      "daily": 18167
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Mon amour (with Camila Cabello)",
+      "trackId": "1lLh3yUgjjt7GrtGgFdA11",
+      "total": 23072205,
+      "daily": 7890
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Celia",
+      "trackId": "79zmBXphx7xAlMydGKrc08",
+      "total": 17804363,
+      "daily": 3635
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "South of the Border (feat. Camila Cabello & Cardi B) - Sam Feldt Remix",
+      "trackId": "3vQhEd4lOg4mAV6CHCgoHW",
+      "total": 17802963,
+      "daily": 1331
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Family",
+      "trackId": "3uAPRSXcJo3kgdFWAQjy1R",
+      "total": 17760991,
+      "daily": 12989
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "June Gloom",
+      "trackId": "5fvPYln4Ke77apnrjbbvOo",
+      "total": 16607167,
+      "daily": 29396
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show",
+      "trackId": "0gWKtvF3IGZKZprlDEKZKo",
+      "total": 16083777,
+      "daily": 157
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Dade County Dreaming (feat. JT & Yung Miami)",
+      "trackId": "3Prg72TRbGsiJMHZ3D1nPR",
+      "total": 15819676,
+      "daily": 20593
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico)",
+      "trackId": "3dskm5fAe8OkBtM9E0VVWx",
+      "total": 15572968,
+      "daily": 823
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Chanel No.5",
+      "trackId": "5U1dGHnSbt9VaidRSaD46M",
+      "total": 13543269,
+      "daily": 12058
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "GODSPEED",
+      "trackId": "1HA5rqn1k4YQnJ9XxsnApd",
+      "total": 12387455,
+      "daily": 12185
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "No Doubt",
+      "trackId": "1ofmPNhFyHpfi74qGDJvdr",
+      "total": 12314981,
+      "daily": 3180
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "South of the Border (feat. Camila Cabello & Cardi B) - Andy Jarvis Remix",
+      "trackId": "1EJgymgJHcjSOGSHcYaxvW",
+      "total": 12238894,
+      "daily": 1067
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "B.O.A.T.",
+      "trackId": "6GmDlWihFTEnOiqCqH4TCw",
+      "total": 12236395,
+      "daily": 15934
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "La Buena Vida",
+      "trackId": "5H0z9wLjzJfEqBnOczVj7j",
+      "total": 11851741,
+      "daily": 2709
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "everyone at this party",
+      "trackId": "4hVD9IwOVPDe1YCrzUsBGa",
+      "total": 11739754,
+      "daily": 2161
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Know No Better (Doobious Remix)",
+      "trackId": "5x6Gjlg8FH2cYhhC9nxzCK",
+      "total": 11080256,
+      "daily": 615
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Quiet",
+      "trackId": "4lye49RJ7RwX2Navpt1O32",
+      "total": 10286127,
+      "daily": 2336
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "I'll Be Home For Christmas",
+      "trackId": "6SiKqI0vm3N5NBjdgM2V9m",
+      "total": 9799970,
+      "daily": 336
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "pretty when i cry",
+      "trackId": "1yoqQTEmyvLC0uGbHTYqUU",
+      "total": 8871288,
+      "daily": 13177
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Twentysomethings",
+      "trackId": "5Nf9yOpnskwYFRz7S4uwx0",
+      "total": 8121068,
+      "daily": 9493
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Lola (feat. Yotuel)",
+      "trackId": "3WTpHGu9RuOS9n0hUjY8Pp",
+      "total": 8066710,
+      "daily": 1932
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Boys Don't Cry",
+      "trackId": "5Vl33Mn7cfX5oPlaMknBx8",
+      "total": 7839970,
+      "daily": 1661
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "DREAM-GIRLS",
+      "trackId": "5oxnFpyGr1gQbaiKTzf6Dn",
+      "total": 7611340,
+      "daily": 8224
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Know No Better (Afrojack Remix)",
+      "trackId": "4k7f0sluJX8okKPjmvfRpa",
+      "total": 7233026,
+      "daily": 245
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "can friends kiss?",
+      "trackId": "6BnDiWXYwWuobJstDSMs23",
+      "total": 7051130,
+      "daily": 15193
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "My Oh My (feat. DaBaby & Gunna) - Remix",
+      "trackId": "2ONOyrMhqho3oajY2tpC2n",
+      "total": 6338796,
+      "daily": 995
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Find U Again - MK Remix",
+      "trackId": "1Yk6VWzkYzpDarxEVmrz7O",
+      "total": 6005214,
+      "daily": 411
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "baby pink (feat. Eem Triplin)",
+      "trackId": "3zJ9BAluAfcbZ4lZn5MXnw",
+      "total": 5863186,
+      "daily": 13672
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Oh Na Na - Extended Version",
+      "trackId": "3p7Xcy0kkecEFZoi0eah9j",
+      "total": 5804065,
+      "daily": 791
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Havana - Live",
+      "trackId": "6JPUEloc0qDkustwyWHEpN",
+      "total": 5524727,
+      "daily": 750
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "pink xoxo",
+      "trackId": "6Ked0B9YftOul9gFCVOo06",
+      "total": 5446345,
+      "daily": 7378
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "305tilidie",
+      "trackId": "1VXsVT86FJSgLYRDtcrSsN",
+      "total": 3179514,
+      "daily": 3127
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "koshi xoxo (feat. BLP Kosher)",
+      "trackId": "53z7uGPt9hZooPbIpenTuw",
+      "total": 3102367,
+      "daily": 2998
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Know No Better (SLANDER Remix)",
+      "trackId": "68lCqXHyA6fCPI0keum4rL",
+      "total": 2918865,
+      "daily": 152
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Come Show Me",
+      "trackId": "67gbSJuV000ZolZDcfGFA2",
+      "total": 2814325,
+      "daily": 6182
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Havana - No Rap Version",
+      "trackId": "4ptonNXwbPtpiPX062ruaM",
+      "total": 2532985,
+      "daily": 50
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "total": 1713566,
+      "daily": 101
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Know No Better (SUPER CRUEL Remix)",
+      "trackId": "5LKJV5CN3enTN0burYw5Qw",
+      "total": 1253371,
+      "daily": 304
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Know No Better (Laibert Remix)",
+      "trackId": "0k2EhHhgbMBg7gGiE8OvmC",
+      "total": 1009510,
+      "daily": 113
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Know No Better (La Fuente Remix)",
+      "trackId": "0PbQuIT21VozPf5S3jmzh5",
+      "total": 1006416,
+      "daily": 101
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Know No Better (DJ Zinc Remix)",
+      "trackId": "25f4Rm0S6kG7w01QL8k6Pf",
+      "total": 822250,
+      "daily": 68
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Don't Go Yet - Major Lazer Dub",
+      "trackId": "0cKTYKbf4ibkIHUVziUMcW",
+      "total": 786297,
+      "daily": 201
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Know No Better (BROHUG Remix)",
+      "trackId": "6QiuHgGd2dLcX06oe1cBka",
+      "total": 786091,
+      "daily": 91
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Mi Persona Favorita - En Directo En El Wanda Metropolitano / Madrid / 2019",
+      "trackId": "5c1VTyDypNXQe82L63jtku",
+      "total": 583518,
+      "daily": 246
+    },
+    {
+      "artist": "Camila Cabello",
+      "artistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Bam Bam (feat. Ed Sheeran) - Karaoke Version",
+      "trackId": "5guEbH6gVJSnji1vnPbYZa",
+      "total": 511202,
+      "daily": 79
+    }
+  ]
+}

@@ -1,0 +1,846 @@
+{
+  "artist": "Gabriel Diniz",
+  "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+  "songs": [
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Jenifer",
+      "trackId": "7wMAgaPiKzTNxpDWu2BPfk",
+      "total": 97759778,
+      "daily": 6725
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Acabou Acabou (Quando Eu Digo Que Acabou) - Live",
+      "trackId": "2rcljeLAiLgtPITecue6mh",
+      "total": 73242737,
+      "daily": 5835
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Paraquedas",
+      "trackId": "23eLpLRI1NZejKSQfxHGfw",
+      "total": 30922511,
+      "daily": 6616
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "A Casa Chora - Ao Vivo",
+      "trackId": "1zfYPcxNEOlzKjeR3e5CaX",
+      "total": 17644511,
+      "daily": 506
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Quem Chorava Hoje Ri - Ao Vivo",
+      "trackId": "5pq53ye1vL0Vq5yAQriZFg",
+      "total": 12984279,
+      "daily": 11739
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Pouca Roupa - Ao Vivo",
+      "trackId": "1MvWSGPY0FaKn1xqMriFeI",
+      "total": 12913106,
+      "daily": 10736
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Paraquedas - Live",
+      "trackId": "6MkT5mtPgLASGuVuzUpW1D",
+      "total": 12824683,
+      "daily": 5252
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Safadezinha",
+      "trackId": "2JBoMVDUqlthNpzRopd8NY",
+      "total": 10893004,
+      "daily": 902
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Beijinho de Brincadeira",
+      "trackId": "5BOj5Yy1dTjXwZpgYXnia2",
+      "total": 8552224,
+      "daily": 433
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Amor de Copo - Ao Vivo",
+      "trackId": "1aWuQlP3bsTJB7FaRdVDpH",
+      "total": 7440986,
+      "daily": 1419
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Aquilo Que Nunca Me Deu",
+      "trackId": "4jl7F0usuTqcquriMGmSXP",
+      "total": 7356955,
+      "daily": 423
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "7 Chaves",
+      "trackId": "0LV4Y8u3zRtqqOYYQrYQqX",
+      "total": 6605870,
+      "daily": 3049
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Erro Preferido (Imagina A Cena) - Ao Vivo",
+      "trackId": "1axVVxvYmCkYAmS6TC6C7A",
+      "total": 5591954,
+      "daily": 1586
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Reapaixonar",
+      "trackId": "1tObdXeK5QEnhKQw6t33ze",
+      "total": 5580207,
+      "daily": 2145
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "No Aquecimento - Ao Vivo",
+      "trackId": "0TcJxzLTUA3PQsOMbEOyf0",
+      "total": 4671131,
+      "daily": 143
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Quem Chorava Hoje Ri - Ao Vivo",
+      "trackId": "7ocPRyJCzH9HDxBZOirjTh",
+      "total": 4457950,
+      "daily": 1010
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Só Dá Nós Dois - Ao Vivo",
+      "trackId": "44Ij6zqy2tX0jAWswQVSrw",
+      "total": 4084919,
+      "daily": 1836
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Liga E Chora - Ao Vivo",
+      "trackId": "0se50cj7ZQ301ECOaX2Q7v",
+      "total": 3946504,
+      "daily": 584
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Foi O Amor",
+      "trackId": "5M2xtafLSB88W29ZEKhFU2",
+      "total": 3551605,
+      "daily": 539
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Hora de Dar Tchau",
+      "trackId": "0O1VQrTiZ0tB0KSU054ATC",
+      "total": 2927119,
+      "daily": 455
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Me Deixa Pra Cê Ver - Ao Vivo",
+      "trackId": "6k5heqDSWM2Ri6Zuwy5WjD",
+      "total": 2471497,
+      "daily": 395
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Coração Teimoso",
+      "trackId": "6rQrcrQY8ZO9Ay4lN7N6vA",
+      "total": 2458432,
+      "daily": 4475
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Jeito de Ser - Ao Vivo",
+      "trackId": "2Q2z4qK9pfsdeKATznQtx8",
+      "total": 2337463,
+      "daily": 712
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "100 Outonos",
+      "trackId": "24ZzCdXpQr2ph8on8bnG5p",
+      "total": 2244131,
+      "daily": 369
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Sou Dono - Ao Vivo",
+      "trackId": "5BQG7mLwwgf2wc7D2oPSro",
+      "total": 2145481,
+      "daily": 1374
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Janela de Vidro - Ao Vivo",
+      "trackId": "3MiSZKZ92a8cgYiLRfjBBR",
+      "total": 2104854,
+      "daily": 1181
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Farra do Vaqueiro",
+      "trackId": "3Fb1RNVMoOv7fw6zWOR1AI",
+      "total": 1807280,
+      "daily": 131
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Loucaça - Ao Vivo",
+      "trackId": "5u9YGbw0If0kp9vAaAAVgC",
+      "total": 1781992,
+      "daily": 113
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Vida de Solteiro",
+      "trackId": "6SraLg7l2Mv3uhE2m6c1XQ",
+      "total": 1763245,
+      "daily": 182
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Vai Brincando De Amar - Ao Vivo",
+      "trackId": "5dMw0ifjTy0Zm7P2ycQOH7",
+      "total": 1735831,
+      "daily": 169
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Vai Trair 100 - Ao Vivo",
+      "trackId": "5gcIkCSd5uzHzEv8IkzIyh",
+      "total": 1653667,
+      "daily": 283
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Cara de Preocupação - Ao Vivo",
+      "trackId": "2Ngt1OPAZcGsepfbOIQGrU",
+      "total": 1583254,
+      "daily": 779
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Boyzinho Da Roça",
+      "trackId": "4sZo1VMBdxfyRnEynsxggf",
+      "total": 1563694,
+      "daily": 137
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Só Dá Você",
+      "trackId": "0jMlseMG0LaLyDHKpzJ7Qw",
+      "total": 1534592,
+      "daily": 104
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Sabadão",
+      "trackId": "1Gr77u9rta7UAbfHENiQeu",
+      "total": 1516214,
+      "daily": 1291
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Impossível Te Odiar - Ao Vivo",
+      "trackId": "7awmED0lBOIKxD6fdpUufy",
+      "total": 1316250,
+      "daily": 441
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Tivesse Vindo Ontem - Ao Vivo",
+      "trackId": "5yLYJ4Fr34fnBrsZHQV9by",
+      "total": 1275998,
+      "daily": 168
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Anjo Sem Asas - Ao Vivo",
+      "trackId": "0VqtQYX6UPKkuLBm4TbRgE",
+      "total": 1260578,
+      "daily": 1401
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Pode Brigar Só - Ao Vivo",
+      "trackId": "5csYCVqRhKulZvoEy2VggY",
+      "total": 1231149,
+      "daily": 219
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Bumbum Metralhadora - Ao Vivo",
+      "trackId": "6q9L08WcCzYm27DAkGsDp1",
+      "total": 1227303,
+      "daily": 155
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Bebendo Mais e Amando Menos - Ao Vivo",
+      "trackId": "3TuHhHlzxJBIqkrqF4ctHy",
+      "total": 1129346,
+      "daily": 163
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Novena",
+      "trackId": "62vAhmIyIZqD9pJLwCL9QA",
+      "total": 1090674,
+      "daily": 72
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Sou Teu - Ao Vivo",
+      "trackId": "4qgryuIDEMu8noOpFmEVE9",
+      "total": 1041992,
+      "daily": 153
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "No Beat Que Ela Desce",
+      "trackId": "3fWdbCjPC3fJajB4fv72Je",
+      "total": 1024556,
+      "daily": 115
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Amor Sem Nexo",
+      "trackId": "24g8vIrLA1ISo4yD500Ed1",
+      "total": 1003692,
+      "daily": 137
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Revoltada",
+      "trackId": "7rPEOKBA9jLhj6XRFm9GVo",
+      "total": 972313,
+      "daily": 184
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Vida De Solteiro - Ao Vivo",
+      "trackId": "24xlA5kPopwcTAW2aVRhN3",
+      "total": 940659,
+      "daily": 241
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Olha Ela - Ao Vivo",
+      "trackId": "0PKZUdOcGz03O39C8aii7h",
+      "total": 923126,
+      "daily": 298
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Palmas para Mim - Ao Vivo",
+      "trackId": "1tviYrOgbWwzunzF0amU58",
+      "total": 892377,
+      "daily": 249
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Toca Aqui - Ao Vivo",
+      "trackId": "6nSfaqKke7PrDgPdL2hXjD",
+      "total": 889216,
+      "daily": 241
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Magrinho Delicioso - Ao Vivo",
+      "trackId": "13MRDSpVNFht47U3FqvLUx",
+      "total": 853972,
+      "daily": 399
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Hoje Eu Só Vim pra Dançar",
+      "trackId": "22ya0p9GFdkVQK4OAPUMKc",
+      "total": 845945,
+      "daily": 19
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Tô Solteiro e Tô Feliz",
+      "trackId": "13NFL3gzXB7c7ifC7Ut0Wf",
+      "total": 817685,
+      "daily": 127
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Paraquedas",
+      "trackId": "3X4qsaCc5ufyihOb8D8OxS",
+      "total": 814283,
+      "daily": 93
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Bate Que Agora Eu Aguento",
+      "trackId": "1dmTHaTsnPQZkENErxaZ27",
+      "total": 802508,
+      "daily": 210
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "De Frente Pro Mar De Costas Pro Mundo - Ao Vivo",
+      "trackId": "4MF6iqUTis9cXy3mg38W8f",
+      "total": 771605,
+      "daily": 182
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Bora Tomar Uma - Ao Vivo",
+      "trackId": "5ayeNkmlDQDsojh5f8CmNG",
+      "total": 706100,
+      "daily": 37
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Palmas para Mim",
+      "trackId": "3iJEikx8szKtfK0KpEcj1I",
+      "total": 697407,
+      "daily": 58
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Tango - Ao Vivo",
+      "trackId": "0XIp3Q9DCkw73NxFAjCJCK",
+      "total": 683143,
+      "daily": 107
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Desce Remexe - Ao Vivo",
+      "trackId": "3SCPWWfdwISgdq9XXo1mfx",
+      "total": 664360,
+      "daily": 55
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Era pra Ter Terminado Faz Tempo - Ao Vivo",
+      "trackId": "1v4P2SWxqwzwOIBbEiFkgK",
+      "total": 638485,
+      "daily": 155
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Melhor Assunto - Ao Vivo",
+      "trackId": "0KfKU9QFqB9FPIpEUG0mSc",
+      "total": 633709,
+      "daily": 273
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Hoje Eu Não Tô Valendo Nada - Ao Vivo",
+      "trackId": "6tSBz2rXhw0JB9vtWEA7TZ",
+      "total": 625218,
+      "daily": 86
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Disk Entrega - Ao Vivo",
+      "trackId": "4U9c8Qwq5TNCavfZeIxNEg",
+      "total": 572011,
+      "daily": 85
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Caixa de Conselho",
+      "trackId": "2urJX6VfMHB0MPbTg2S0IE",
+      "total": 512800,
+      "daily": 49
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Denuncia Aí - Ao Vivo",
+      "trackId": "0BYHRxmA7fa5BgfGII76fX",
+      "total": 507637,
+      "daily": 85
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Hoje Eu Só Vim pra Dançar",
+      "trackId": "1xUwfnGBqxzANbY7SGW8Em",
+      "total": 505698,
+      "daily": 3
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Dose Dobrada - Ao Vivo",
+      "trackId": "6mxp1S3aJJVHqHUg7hqV4w",
+      "total": 498417,
+      "daily": 222
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Tenho É Vergonha",
+      "trackId": "7fYMbQDCugDgobbPC3HsxC",
+      "total": 419341,
+      "daily": 27
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Arrocha Mexicano - Ao Vivo",
+      "trackId": "1cNd3kpQ9UKCnJOOdJYcZE",
+      "total": 405501,
+      "daily": 43
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Bate Palminha pra Ela",
+      "trackId": "1HWXovIGDnctwV4CqHF3nV",
+      "total": 399300,
+      "daily": 31
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Fígado de Aço",
+      "trackId": "4437PDnloewsLIssy8sFNl",
+      "total": 377350,
+      "daily": 100
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Chora Boy",
+      "trackId": "6X3T6bCNmtSIFxMJcwsVrj",
+      "total": 355129,
+      "daily": 121
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Eu Vou Fazer Gostoso - Ao Vivo",
+      "trackId": "0yyqRcQUfN64hmjF9sO5IW",
+      "total": 344573,
+      "daily": 42
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Pedir pro Mundo Girar - Ao Vivo",
+      "trackId": "64tyL7TIxMbBS1NCXyUPqL",
+      "total": 320722,
+      "daily": 80
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Sabe de Nada Inocente - Ao Vivo",
+      "trackId": "4DgOqeOJyRQZvcCiDMTOpJ",
+      "total": 320471,
+      "daily": 262
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Slowmotion",
+      "trackId": "6KggvjU1YaBTs6zgTKEKw4",
+      "total": 314264,
+      "daily": 14
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Matuto Inteligente",
+      "trackId": "7v3BKQs4Sgsn5zvIfdwMc4",
+      "total": 311726,
+      "daily": 46
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "MTG Jenifer",
+      "trackId": "2hmWW9fcw9DCarKZq4XiCF",
+      "total": 309942,
+      "daily": 64
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Tem Que Respeitar",
+      "trackId": "61G7zggqfK3DD7UIqnxasG",
+      "total": 298770,
+      "daily": 9
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Sabadão",
+      "trackId": "3GOLGun9880u6hAgE5DnvP",
+      "total": 295747,
+      "daily": 53
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Coração Teimoso",
+      "trackId": "3VqGNQ9nHKNZ0cduMCFJRK",
+      "total": 292600,
+      "daily": 43
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Pra Valer - Ao Vivo",
+      "trackId": "3bNGM3WPNdEk076xRMDWIK",
+      "total": 292358,
+      "daily": 73
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Vida de Solteiro (Feat. João Lima)",
+      "trackId": "4ovOxr8ykpIviDLX5TPuXa",
+      "total": 288033,
+      "daily": 124
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Pensa",
+      "trackId": "2bYF1KhYvyxLM8mUbA8Xln",
+      "total": 282373,
+      "daily": 83
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Na Mãozinha do Papai - Ao Vivo",
+      "trackId": "1hhZgEnZH50Y2s1ALg7DDP",
+      "total": 275179,
+      "daily": 40
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Eu Tenho É Vergonha",
+      "trackId": "0KGhZ1i2bCc14JQjGZ4Nu1",
+      "total": 264288,
+      "daily": 9
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Bumbum no Chão",
+      "trackId": "69qmR5714v8AkScqzUvVCz",
+      "total": 262370,
+      "daily": 34
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Abertura - Ao Vivo",
+      "trackId": "0uYEmGjH8vAhG3YOw9xoDr",
+      "total": 249673,
+      "daily": 104
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Já Cansei de Brigar",
+      "trackId": "7xzC77ntmGgoMPRQKLhKkQ",
+      "total": 236092,
+      "daily": 28
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Ibope - Ao Vivo",
+      "trackId": "4stNn0GWtEPMt9YUs0zMpM",
+      "total": 223378,
+      "daily": 33
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "É pra Tocar no Paredão - Ao Vivo",
+      "trackId": "4W9e5AF5oCHOaMB19ZFlZ4",
+      "total": 219520,
+      "daily": 29
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Taix Querendo",
+      "trackId": "7xZGi2xirYIqsRR8Kkhngs",
+      "total": 218689,
+      "daily": 27
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Olha Ela",
+      "trackId": "0ufcrXDmo9TflixazxPi6W",
+      "total": 206223,
+      "daily": 9
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Magrinho Delicioso",
+      "trackId": "6PVyzkXQ7jteWgSqxyfE8G",
+      "total": 204459,
+      "daily": 1
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Coração Teimoso (Quem Chorava Hoje Ri)",
+      "trackId": "04MR77RukdTk5CqB4PJYuV",
+      "total": 201413,
+      "daily": 110
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Tô Ruim - Ao Vivo",
+      "trackId": "7MAZ9wCLMX1pSy2dEQFo6v",
+      "total": 190518,
+      "daily": 22
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Todo Mundo Bebo",
+      "trackId": "6M2jIMk05xvAg02bsJmZli",
+      "total": 183102,
+      "daily": 26
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Deixa Ela Beber - Ao Vivo",
+      "trackId": "5L74U8VM3MbOlcxPAqSTgm",
+      "total": 168754,
+      "daily": 41
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Você Sabe o Que Eu Acho - Ao Vivo",
+      "trackId": "5aGUyAaJzOtg6Jc2KDyGVW",
+      "total": 168230,
+      "daily": 18
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Pensa",
+      "trackId": "4mYkZ6NVJcy9GDqwUW4bis",
+      "total": 165450,
+      "daily": 65
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Tem Que Respeitar - Ao Vivo",
+      "trackId": "49eJHaXXZhyeBR7mpv5nSU",
+      "total": 152515,
+      "daily": 21
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Taix Querendo",
+      "trackId": "5XF2lQgftWiRs3XnGq6021",
+      "total": 127298,
+      "daily": 5
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Novena - Ao Vivo",
+      "trackId": "6gjU0GJumK4xujxdzC70hk",
+      "total": 121574,
+      "daily": 25
+    },
+    {
+      "artist": "Gabriel Diniz",
+      "artistId": "3WQ1s2QFvL6crxBvrVhwzj",
+      "trackName": "Já Cansei de Brigar",
+      "trackId": "63N3CnbSLgZ0oTSzArBpMg",
+      "total": 100868,
+      "daily": ""
+    }
+  ]
+}

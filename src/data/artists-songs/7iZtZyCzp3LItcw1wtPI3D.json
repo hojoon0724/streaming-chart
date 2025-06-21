@@ -1,0 +1,782 @@
+{
+  "artist": "Rae Sremmurd",
+  "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+  "songs": [
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Black Beatles",
+      "trackId": "6fujklziTHa8uoM5OQSfIo",
+      "total": 1068913603,
+      "daily": 272947
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "This Could Be Us",
+      "trackId": "4jTiyLlOJVJj3mCr7yfPQD",
+      "total": 831186517,
+      "daily": 279296
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Swang",
+      "trackId": "6mapJIPnQ23RTAevUoE0DL",
+      "total": 719761020,
+      "daily": 163996
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Come Get Her",
+      "trackId": "1Ser4X0TKttOvo8bgdytTP",
+      "total": 688859232,
+      "daily": 167016
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "No Type",
+      "trackId": "4scpF6J5uMBvoh6sFB7EL1",
+      "total": 625374030,
+      "daily": 112811
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Powerglide (feat. Juicy J) - From SR3MM",
+      "trackId": "1BuZAIO8WZpavWVbbq3Lci",
+      "total": 417221841,
+      "daily": 37078
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Guatemala - From Swaecation",
+      "trackId": "0TCnOEVeLQMXOUrpPlM7uY",
+      "total": 290550364,
+      "daily": 37168
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Throw Sum Mo",
+      "trackId": "5uqphUYsR45kPYplrYSAQh",
+      "total": 255714681,
+      "daily": 48344
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Look Alive",
+      "trackId": "2IGr3q6ljcpLvHDFLtI0yW",
+      "total": 189470412,
+      "daily": 27150
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Perplexing Pegasus - From SR3MM",
+      "trackId": "1ung2kajpw24AaHjBtPY3j",
+      "total": 176164351,
+      "daily": 16526
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Perfect Pint (feat. Kendrick Lamar, Gucci Mane & Rae Sremmurd)",
+      "trackId": "3A2OHirUAlQp2x73BJlEDA",
+      "total": 142416305,
+      "daily": 7019
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "No Flex Zone",
+      "trackId": "2L8cFPItBljPNJgPjTnuIf",
+      "total": 141835295,
+      "daily": 16069
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Blasé (feat. Future & Rae Sremmurd)",
+      "trackId": "1UYLxZIL4IicS6TaPUZFTH",
+      "total": 141331215,
+      "daily": 22857
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Aries (YuGo) Part 2 (with Rae Sremmurd & Big Sean feat. Quavo & Pharrell)",
+      "trackId": "5NkfVQS8BkceRgoSQwcW6H",
+      "total": 140861789,
+      "daily": 10462
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "CLOSE (feat. Travis Scott) - From SR3MM",
+      "trackId": "1oUudyBYVGMIC8JXeIsFzq",
+      "total": 116320830,
+      "daily": 14065
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "My X",
+      "trackId": "1GLcGInllpE4JUTStzaCOM",
+      "total": 72464592,
+      "daily": 16433
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Blasé (feat. Future & Rae Sremmurd) - Louis the Child Remix",
+      "trackId": "2NAZcL9tLUkdMMb5v3xFVG",
+      "total": 66552925,
+      "daily": 13743
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "By Chance",
+      "trackId": "3eaZlarqKQ4oAceRwJHfF5",
+      "total": 64440145,
+      "daily": 3580
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Not So Bad (Leans Gone Cold)",
+      "trackId": "4qZLvqy5Wg4sgQ9gKusb1B",
+      "total": 57384669,
+      "daily": 34959
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Young Dumb & Broke REMIX (feat. Rae Sremmurd & Lil Yachty)",
+      "trackId": "6LxEtvMKSwmPdd5Fh1PCof",
+      "total": 55045802,
+      "daily": 4597
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Up Like Trump",
+      "trackId": "2RUuKIHFHjk41E7YsJ9HNP",
+      "total": 52770470,
+      "daily": 2339
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "One Touch",
+      "trackId": "4DIGP455NmYDIS663PEuUr",
+      "total": 52150998,
+      "daily": 6834
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Bedtime Stories (feat. The Weeknd) - From SR3MM",
+      "trackId": "6nI74KsH94IN0J2vp5shdT",
+      "total": 51241380,
+      "daily": 8015
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "T'd Up - From SR3MM",
+      "trackId": "7bddNsGZem9W4j4rzZBIXj",
+      "total": 43856107,
+      "daily": 2217
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Real Chill",
+      "trackId": "1pF3VcWYHeuVPflRwGBaWV",
+      "total": 43707149,
+      "daily": 2923
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Hurt To Look - From Swaecation",
+      "trackId": "58nmnN7nqT3D9LRl7BrLXH",
+      "total": 43459471,
+      "daily": 3654
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Sativa",
+      "trackId": "5oKxax66OjT1ZD8UTCy61h",
+      "total": 40650877,
+      "daily": 11994
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Hands On Me",
+      "trackId": "2GC8vo2NO9u28G7kBIuP0j",
+      "total": 34956622,
+      "daily": 2136
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Lit Like Bic",
+      "trackId": "5pQR7OLdUPZBvrp7H0Ol8h",
+      "total": 34829386,
+      "daily": 2587
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "No Flex Zone - Remix",
+      "trackId": "32a5eLrlrKiXrqb1D16CUY",
+      "total": 33896601,
+      "daily": 7485
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Set The Roof",
+      "trackId": "634enyZhLpXIvwqCPQr3Lt",
+      "total": 29297505,
+      "daily": 1992
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Burn Slow (feat. Rae Sremmurd)",
+      "trackId": "1otonPYqofxM6B8ejJHXjg",
+      "total": 25913259,
+      "daily": 1660
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Safe Sex Pay Checks",
+      "trackId": "41gjI27Qe5vzMHrLI7PpSS",
+      "total": 24297441,
+      "daily": 1595
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "YNO",
+      "trackId": "1UTdrjTrmIDKLADpcWnOWa",
+      "total": 22482491,
+      "daily": 1247
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Unlock The Swag",
+      "trackId": "4sAyDtswbHLWyFJgUMt8hu",
+      "total": 22229726,
+      "daily": 1438
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Brxnks Truck - From Jxmtro",
+      "trackId": "4Eg6Y5tciACpwMI5s8EqdY",
+      "total": 21601960,
+      "daily": 1310
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Look Alive - Remix",
+      "trackId": "7a9QBLlQOunA6KvPcVDIMt",
+      "total": 20828059,
+      "daily": 1268
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Now That I Know",
+      "trackId": "79fZYYQkY4U8rMiomn7xw5",
+      "total": 20599067,
+      "daily": 998
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Do Yoga",
+      "trackId": "0Ic9AMmXhdk7l53KmTqdFO",
+      "total": 20247937,
+      "daily": 1188
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Buckets (feat. Future) - From SR3MM",
+      "trackId": "2TtWdYXulGcHCeUJUWwZ4M",
+      "total": 19981083,
+      "daily": 1384
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Chanel (feat. Swae Lee & Pharrell) - From Jxmtro",
+      "trackId": "2W6JHG3KGGPv82Bi2hAnSz",
+      "total": 19469641,
+      "daily": 1411
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Just Like Us",
+      "trackId": "1A4sbcpfCNyGM88NtGkSqD",
+      "total": 18787496,
+      "daily": 1103
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Hard Way (feat. Rae Sremmurd)",
+      "trackId": "6B1d6DVcimUHrKwlqJj1pZ",
+      "total": 16728297,
+      "daily": 901
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Start A Party",
+      "trackId": "6vFpwoagZKaQveINvGrbFK",
+      "total": 16573445,
+      "daily": 908
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Tanisha (Pump That)",
+      "trackId": "0eeeK1ar71WxdsTKydG9yz",
+      "total": 15424266,
+      "daily": 5607
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Denial",
+      "trackId": "4MQnXVR8DJvsySuXYuzUtf",
+      "total": 14943560,
+      "daily": 2858
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Torpedo",
+      "trackId": "3hT2zPRGkrL9wutPeZtvKQ",
+      "total": 14699791,
+      "daily": 3319
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Shake It Fast",
+      "trackId": "10UJwHwGSXnljKk4Nw3qrf",
+      "total": 14548098,
+      "daily": 970
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Touchscreen Navigation - From Swaecation",
+      "trackId": "20NeQXq8WWCG89ul5nH4BP",
+      "total": 14193341,
+      "daily": 1578
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Up In My Cocina - From SR3MM",
+      "trackId": "4669wTPqp7Xwz2H7v4QKi1",
+      "total": 13866348,
+      "daily": 1266
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Take It Or Leave It",
+      "trackId": "6kRctUEvX9wU9Jp2rMrXgr",
+      "total": 12697871,
+      "daily": 1209
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Royal Flush (feat. Young Thug)",
+      "trackId": "6iN3ICXAJjrNuSAlWMzwz7",
+      "total": 12612604,
+      "daily": 5153
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Came A Long Way",
+      "trackId": "66XG9rHaNSXiOzDnpyePbL",
+      "total": 12305590,
+      "daily": 1110
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Rock N Roll Hall Of Fame - From SR3MM",
+      "trackId": "54inhxqvwEzNHd8KdjXKBm",
+      "total": 11951695,
+      "daily": 989
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Offshore (feat. Young Thug) - From Swaecation",
+      "trackId": "5J6D8QvlGZw9g5x38fAnjE",
+      "total": 11916661,
+      "daily": 1579
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Shine Hard (feat. Rae Sremmurd)",
+      "trackId": "48mT0UnkDbUChRUEQBxHM9",
+      "total": 11693947,
+      "daily": 657
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Watching Me (with Rae Sremmurd & Kodak Black)",
+      "trackId": "3ddFdBlBbu15hcJmEK0tLd",
+      "total": 11645080,
+      "daily": 1161
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Come Down (feat. Chief Keef & Rae Sremmurd)",
+      "trackId": "4hQhEDssi8nxX3J8yGg8W7",
+      "total": 10856935,
+      "daily": 597
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Red Wine - From Swaecation",
+      "trackId": "6exiH6TH874dCP0AelFi1U",
+      "total": 10708021,
+      "daily": 1302
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Heat Of The Moment - From Swaecation",
+      "trackId": "50FjIvCsiIPIfeFyXdh2hx",
+      "total": 10524981,
+      "daily": 1236
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Pere (feat. Rae Sremmurd & Young Thug)",
+      "trackId": "0RPAj4IIL5vmqC44fGQWfY",
+      "total": 10158146,
+      "daily": 1500
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Mississippi Slide",
+      "trackId": "4tiKQGqkoVmvshWNFDvFxG",
+      "total": 10137727,
+      "daily": 4280
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "\"42\" - From SR3MM",
+      "trackId": "5lf91lPnGKtIqsgmG1z8Ip",
+      "total": 9915689,
+      "daily": 643
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Lost Angels - From Swaecation",
+      "trackId": "3DrRtOEaOMZtPYnPCkUSIV",
+      "total": 9721642,
+      "daily": 1132
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "We",
+      "trackId": "0Eki3JBL9fNnVzwATiQpYK",
+      "total": 8924863,
+      "daily": 192
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Heartbreak In Encino Hills - From Swaecation",
+      "trackId": "5EPvaeFspQrXoL7Xlz1SmL",
+      "total": 8840874,
+      "daily": 952
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Flaunt It/Cheap",
+      "trackId": "7bxegQfGfIc9ybrQafVtf8",
+      "total": 8448002,
+      "daily": 6605
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Sucka Or Sum",
+      "trackId": "4vIBtcC2KzJY4Va98bvI8P",
+      "total": 8339791,
+      "daily": 1967
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Sober (feat. Rae Sremmurd & Stanaj)",
+      "trackId": "1sJ7vemhgnNGgh82JD8niJ",
+      "total": 8084521,
+      "daily": 458
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Changed Up - From Jxmtro",
+      "trackId": "3c9InZHP0GFFhvB2QR0uzc",
+      "total": 8084476,
+      "daily": 740
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Black Beatles - Madsonik Remix",
+      "trackId": "2nP8ocGldyxuc7L4v2NWfN",
+      "total": 7976127,
+      "daily": 1000
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Party Pack",
+      "trackId": "1G5XJTpRp9vckSIKlOf9ba",
+      "total": 7853303,
+      "daily": 1113
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Over Here",
+      "trackId": "6RnOIETETowFGyW39Zuil4",
+      "total": 7364653,
+      "daily": 463
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Cap (feat. Trouble) - From Jxmtro",
+      "trackId": "00Y9yFHumsN6Cg4cK3wXkM",
+      "total": 7127256,
+      "daily": 337
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Finger Food",
+      "trackId": "1gXOwyDr6zzIL6FHk5L9IJ",
+      "total": 7066901,
+      "daily": 1444
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "What's In Your Heart? - From Swaecation",
+      "trackId": "5rSBAP84pjS8sKuzghnsRR",
+      "total": 6456240,
+      "daily": 578
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Get Low (feat. Rae Sremmurd) - Remix",
+      "trackId": "20sN1fV0U0Fv8AkXyhaXGT",
+      "total": 6418911,
+      "daily": 263
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Christmas At Swae’s",
+      "trackId": "2uIJmDr8yFuq27JgZGAw7l",
+      "total": 4597318,
+      "daily": 171
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Anti-Social Smokers Club (feat. Zoë Kravitz) - From Jxmtro",
+      "trackId": "4PZl0QLHeqYouwy0iASyNF",
+      "total": 4545803,
+      "daily": 357
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Origami (Hotties)",
+      "trackId": "4euN0XE8wuVc5UHyhMU8uN",
+      "total": 4350149,
+      "daily": 2491
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Players Club - From Jxmtro",
+      "trackId": "5NhuU6acKHoJ77QbbCkQEy",
+      "total": 4271003,
+      "daily": 304
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Growed Up - From Jxmtro",
+      "trackId": "3d9XTk4jxEejqOU8MsLyiM",
+      "total": 3956455,
+      "daily": 330
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Activate (feat. Future)",
+      "trackId": "5PRdakfAVoACShGYP4zOsj",
+      "total": 3890540,
+      "daily": 1468
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Keep God First - From Jxmtro",
+      "trackId": "3jZP4hvNY4ZTPOgmdw9l8p",
+      "total": 3718293,
+      "daily": 292
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Sexy",
+      "trackId": "3lT6vg5wuON2nVf6C1FBi9",
+      "total": 3500074,
+      "daily": 2367
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Juggling Biddies (feat. Riff 3x) - From Jxmtro",
+      "trackId": "40ZQBmv6mvSM9y8SSVV4kS",
+      "total": 2944895,
+      "daily": 233
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "YMCA",
+      "trackId": "3BYYZeMwAiasw2J5zrI7n2",
+      "total": 2901221,
+      "daily": 2147
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Blasé (feat. Future & Rae Sremmurd) - Whethan Remix",
+      "trackId": "62e5NIqgHCGTJH998FZTOh",
+      "total": 2808082,
+      "daily": 115
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Bend Ya Knees",
+      "trackId": "0kvL0N0jZWOg98jE7FLzIn",
+      "total": 2399329,
+      "daily": 1100
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Something I'm Not",
+      "trackId": "2BSU3Sh8K5Jc9CwHkMTgGX",
+      "total": 1945807,
+      "daily": 1229
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Community D**k (feat. Flo Milli)",
+      "trackId": "5IVPl9SbDAe28LCRHBNpBa",
+      "total": 1803186,
+      "daily": 202
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "ADHD Anthem (2 Many Emotions)",
+      "trackId": "6aBW89SXxxnPnERmD8EiA5",
+      "total": 1389026,
+      "daily": 553
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Diamonds Dancing",
+      "trackId": "0R579llpeaia9jWaPqhm7u",
+      "total": 1332851,
+      "daily": 464
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Already (feat. Rae Sremmurd)",
+      "trackId": "1D34fnfQHYPmIK4nTYiqEr",
+      "total": 1262875,
+      "daily": 38
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Nothing For Christmas",
+      "trackId": "4sCmcmD9qGOnB1WpqTy5HJ",
+      "total": 810839,
+      "daily": 28
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Already (feat. Rae Sremmurd)",
+      "trackId": "7kNAfElOSojBq8CuTGxKp7",
+      "total": 273631,
+      "daily": 197
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "artistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Sober - Extended Mix",
+      "trackId": "3wuwpvgu4OOoocoAChvMlP",
+      "total": 193346,
+      "daily": 16
+    }
+  ]
+}

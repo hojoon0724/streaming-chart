@@ -1,0 +1,766 @@
+{
+  "artist": "Joey Montana",
+  "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+  "songs": [
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Suena El Dembow",
+      "trackId": "4WG1z3DsOmkByBsVfHN0JV",
+      "total": 373582272,
+      "daily": 44853
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Picky",
+      "trackId": "4tPL9PeVZY4c0jUPtSD5nx",
+      "total": 343975212,
+      "daily": 78396
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Las Locuras Mías",
+      "trackId": "78OElpvKKwUnCEoVVtqth5",
+      "total": 107878659,
+      "daily": 31598
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "La Melodía",
+      "trackId": "38Mw8jtjmVbuhSgD40BGmI",
+      "total": 75734493,
+      "daily": 61842
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "La Melodía",
+      "trackId": "2sH1DIngiSA8EQfkcQXpBq",
+      "total": 75675496,
+      "daily": ""
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Desesperado (Voy A Tomar)",
+      "trackId": "4tvtsvgrIksr7iqzPeADXB",
+      "total": 68036463,
+      "daily": 12516
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Hola",
+      "trackId": "4ou86Vd0SOT7GO4m6V6IAs",
+      "total": 40111506,
+      "daily": 1978
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Único",
+      "trackId": "4UOkt3Tj4znbFBylUUMrDq",
+      "total": 31883120,
+      "daily": 17623
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Moribundo",
+      "trackId": "3Yw4wGMr3EI2ur0v0DhSsR",
+      "total": 27716460,
+      "daily": 7290
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Rosas O Espinas - Remix",
+      "trackId": "12OAl7wsRXdSdsBdwSumVe",
+      "total": 24346895,
+      "daily": 1390
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Picky - Remix",
+      "trackId": "1T4yFuWR3UFXQ9Og8IKMmi",
+      "total": 22713573,
+      "daily": 1829
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Tus Ojos No Me Ven",
+      "trackId": "1CHOwJSXM5cmUuakYuizT8",
+      "total": 15789971,
+      "daily": 9231
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Ya No Más",
+      "trackId": "7vE3nlnirKZ21FRqhVDyxa",
+      "total": 12906320,
+      "daily": 822
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Corazón De Metal",
+      "trackId": "0jpOYcaDlWUD1c4IlI2DJX",
+      "total": 10693720,
+      "daily": 345
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Dale Hasta Abajo",
+      "trackId": "1VkMq1OLXsroWss6X36OTc",
+      "total": 9783648,
+      "daily": 283
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Love & Party",
+      "trackId": "0hqSJSUkddBWMC1fl6AbLs",
+      "total": 9173551,
+      "daily": 1426
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Tus Ojos No Me Ven - feat. Joewell y Randy",
+      "trackId": "09xnGXVrbniWV4mLTgGyD5",
+      "total": 8862408,
+      "daily": 1481
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Perdido (feat. Joey Montana)",
+      "trackId": "7ocUulljFf5IfZxAQST9qp",
+      "total": 7915289,
+      "daily": 253
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Viral Pisadinha",
+      "trackId": "1dp0zQcCzmPVgjwzXUTstR",
+      "total": 7536867,
+      "daily": 159
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Volvamos",
+      "trackId": "5iM7qu6ytCbEqixvzZKOSN",
+      "total": 7012192,
+      "daily": 421
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "No Te Va",
+      "trackId": "0jAmFCUARuTNDEXuXr8OXB",
+      "total": 6559228,
+      "daily": 198
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "La Movida",
+      "trackId": "6xxSQuS15kPQ0jpzGQfwhU",
+      "total": 6170745,
+      "daily": 115
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Everything",
+      "trackId": "0fx9L2QDi387TQQOVnm91O",
+      "total": 5268339,
+      "daily": 333
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Amor Del Bueno",
+      "trackId": "3qr2YaPQQ4Ueuxi0DXElUM",
+      "total": 5091834,
+      "daily": 1553
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Ni Una Lagrima",
+      "trackId": "5Sr7Aamtn3YKaIhugqFGFi",
+      "total": 4587135,
+      "daily": 636
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Una En Un Millon",
+      "trackId": "1EIen3TRRyTLFz5LKMqt5y",
+      "total": 4333267,
+      "daily": 811
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Suena El Dembow - Remix",
+      "trackId": "1yGjKb5nlQF6O5Fu5eMPuH",
+      "total": 3663609,
+      "daily": 173
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "En silencio - Remix",
+      "trackId": "7iHiYdBnpuR4gmh58S8Yhy",
+      "total": 3325427,
+      "daily": 2028
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Picky - RLS & 2Frenchguys",
+      "trackId": "5Cdl6WCaOgHNgCPDbYkqgk",
+      "total": 3312968,
+      "daily": 121
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Yo Te Llamo",
+      "trackId": "5O6wRTx3bXTPxkj0i9zzpU",
+      "total": 3286429,
+      "daily": 117
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Enamorarte (feat. Joey Montana)",
+      "trackId": "1c1r1qtK4eB2W61LRylkfx",
+      "total": 2995947,
+      "daily": 82
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Perdona",
+      "trackId": "0fcYHTRZPKwCxEoVsgPOxX",
+      "total": 2842977,
+      "daily": 93
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Si Muriera Manana",
+      "trackId": "5XxIY1WKPOyCAyc2aDA7Em",
+      "total": 2826143,
+      "daily": 735
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "No Es No",
+      "trackId": "2PLX2vZhyo3iKYmiWSTyhr",
+      "total": 2607528,
+      "daily": 174
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Abusas - Ao Vivo",
+      "trackId": "4LUISbI2LktAZT4ruSBtqF",
+      "total": 2587789,
+      "daily": 131
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Repítelo",
+      "trackId": "6xosEwrJFfb8hofhfrtEoX",
+      "total": 2521500,
+      "daily": 169
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "No Lo Vuelvo Hacer",
+      "trackId": "6nMwQPaXBb4XZ2o70VMPoL",
+      "total": 2268661,
+      "daily": 304
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "La Promesa",
+      "trackId": "3RufAbAx5pOHsoViOVvwED",
+      "total": 2205554,
+      "daily": 72
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Tua Raivinha",
+      "trackId": "0oaYQyWb756RUZgw8GZHUb",
+      "total": 2111787,
+      "daily": 50
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Cumbia y Cerveza",
+      "trackId": "29NOUJCryPob2OT7mvBAqY",
+      "total": 1695766,
+      "daily": 418
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Ainda Amo Você / Oi (Estou Te Amando) - Ao Vivo",
+      "trackId": "6rb02SerWoFIovpxAQTbQe",
+      "total": 1526373,
+      "daily": 325
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Tequila",
+      "trackId": "5x1LG9t7txKjWIz9N9dFWB",
+      "total": 1501562,
+      "daily": 114
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Del Amor Al Odio",
+      "trackId": "2XtyrQh475kfpzM64zDimW",
+      "total": 1450423,
+      "daily": 60
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "3 De La Mañana",
+      "trackId": "5ZO3clhoKVRugdz3r0JFNt",
+      "total": 1286962,
+      "daily": 50
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Winner (feat. Celebrity Marauders, Joey Montana & Pree)",
+      "trackId": "0Orwkf0vWoEnr03FbQDsnQ",
+      "total": 1126498,
+      "daily": 79
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "La Clave",
+      "trackId": "3TpQTIPeBjUdAjkRmMhpLq",
+      "total": 1062734,
+      "daily": 91
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Yo sin ti",
+      "trackId": "0G3WmpzhpNWNMlPuEaeAjJ",
+      "total": 1059113,
+      "daily": 531
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Que Dios Te Castique",
+      "trackId": "1MdB2frpq7kRExrBXEIPam",
+      "total": 1021715,
+      "daily": 482
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Suena El Dembow - Lafame Remix",
+      "trackId": "6BkPg8QXg9i3pl3Tkr3KFG",
+      "total": 1014372,
+      "daily": 125
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Mi Esposa",
+      "trackId": "2q5oMoYALHFkFJJ08JYnnc",
+      "total": 892689,
+      "daily": 75
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Mujer Que Se Respeta",
+      "trackId": "5nr4WPFfBKS0DeOKeE6GPh",
+      "total": 869365,
+      "daily": 39
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Como Hacer?",
+      "trackId": "5HewPADpT5tZmq46s5B0EE",
+      "total": 834544,
+      "daily": 49
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Con Un Beso",
+      "trackId": "5FS85fJR8PnEDnhV477KK1",
+      "total": 770192,
+      "daily": 79
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Es Mejor Terminar",
+      "trackId": "2IOrEprFPoGaWztzIJjywV",
+      "total": 746632,
+      "daily": 144
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Unico Amor",
+      "trackId": "39lOb1cR1Ypszb0xAJrX8h",
+      "total": 732173,
+      "daily": 69
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Suena El Dembow",
+      "trackId": "3l5WAJQOccIOVVDLghcvWn",
+      "total": 699423,
+      "daily": 59
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Porque Te Amo",
+      "trackId": "4LYwNkRbpPmX838ds7kO2p",
+      "total": 639870,
+      "daily": 36
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "El Cumbión",
+      "trackId": "5wVC0lHCCT0SV6leu8iOfJ",
+      "total": 608703,
+      "daily": 433
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Envidia",
+      "trackId": "2gfl2P76auxIIrNXHVqx84",
+      "total": 533381,
+      "daily": 26
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Aun Asi",
+      "trackId": "1Zl8kgSfMxRoUKacu3SaaT",
+      "total": 504620,
+      "daily": 39
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Dale un pull up",
+      "trackId": "5X4egEuLmBJJPcKpLIK0oi",
+      "total": 476356,
+      "daily": 109
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Tus Mentiras",
+      "trackId": "2g9FBhKSP6mM0WYaButfgA",
+      "total": 438068,
+      "daily": 264
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Fanatica",
+      "trackId": "3H6LMpHomyN6fpn9DKvHRP",
+      "total": 414380,
+      "daily": 11
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "24 7",
+      "trackId": "4gjUKkVGrutF0Mv2Z0XZZv",
+      "total": 397214,
+      "daily": 39
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Angelito",
+      "trackId": "4RjeEsC5GrxD4etJp4ayb0",
+      "total": 386726,
+      "daily": 388
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Revoadinha",
+      "trackId": "1L8sSIOGwBF1ylXbkqSCRT",
+      "total": 376631,
+      "daily": 23
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Ella Va Caer",
+      "trackId": "2vEvszeRzyZ18RyUW4Sovr",
+      "total": 368587,
+      "daily": 28
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Hablando Claro",
+      "trackId": "5cIWgXQ5NoJCXpEfUPe6M8",
+      "total": 343593,
+      "daily": 16
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Corazon Frio",
+      "trackId": "65Q2jdyrq5O398PAbK6oct",
+      "total": 340531,
+      "daily": 22
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Quinceañera - Fiesta Mix",
+      "trackId": "0kf41Zv7PiCBOmmZHizGgW",
+      "total": 334701,
+      "daily": 14
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "La Elegida",
+      "trackId": "2c5LwtWqquh9fVqlVbwxwe",
+      "total": 330864,
+      "daily": 1089
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Mi Debilidad",
+      "trackId": "0d0kIcLHOQ0TrXzbocwK4f",
+      "total": 314490,
+      "daily": 16
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Freaky",
+      "trackId": "5bnjUi7L16mw8NXxjQOzZo",
+      "total": 306766,
+      "daily": 28
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "A 110 (Spring Break)",
+      "trackId": "4wLoPS2MOtZamBrodIFnbf",
+      "total": 290240,
+      "daily": 10
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Bogotá",
+      "trackId": "0FMHlNThBPrSsRsPobvltJ",
+      "total": 288292,
+      "daily": 64
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Donde Es El Party?",
+      "trackId": "5YskerItlrNilIXennqJw8",
+      "total": 275582,
+      "daily": 10
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Dos Pedas",
+      "trackId": "2rpYKVYgMHpBfr3RBPbjGW",
+      "total": 256517,
+      "daily": 75
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Nena",
+      "trackId": "2PVXLoik1ZVyo7Xa6FJc2n",
+      "total": 250242,
+      "daily": 23
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Soy Como Soy",
+      "trackId": "7BJAmvdD5AK0C88Ouw9ETe",
+      "total": 241820,
+      "daily": 12
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Guaro & Dancehall",
+      "trackId": "6rG6185kw4K4QX5mjO1T5s",
+      "total": 217331,
+      "daily": 232
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Redondo - Remix",
+      "trackId": "1fOJvtIEXsEXkqTuCFSeGz",
+      "total": 215581,
+      "daily": 120
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Mi Ex",
+      "trackId": "61uRMqs8JxBICM62pksIAs",
+      "total": 210046,
+      "daily": 9
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Si Te Vas",
+      "trackId": "1mvjB5yJzFdRSTne4kYsMX",
+      "total": 206065,
+      "daily": 15
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Canelita",
+      "trackId": "4FRi4Rxk91nQjZYtHTuVOb",
+      "total": 194031,
+      "daily": 24
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "No Me Voy",
+      "trackId": "19MwHI1sQsxQ77pfiYBEKu",
+      "total": 190255,
+      "daily": 291
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "FKN SOLO EN NAVIDAD",
+      "trackId": "37zqPBUfKfuviNkWRuzHLE",
+      "total": 189343,
+      "daily": 41
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Procurando Amor",
+      "trackId": "3pjy8hxCpTOIzJYU0CgNHm",
+      "total": 183886,
+      "daily": 39
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Oh Daddy",
+      "trackId": "5qbXWAPYYAy7LVY7lVy9Ri",
+      "total": 172553,
+      "daily": 22
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "De Reversa",
+      "trackId": "6Ca0lKHei0KqsNOK8GabFM",
+      "total": 162089,
+      "daily": 3
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Esta es la Mio",
+      "trackId": "0IekInaP4vRIDuMOyh4hbJ",
+      "total": 127642,
+      "daily": 2
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Que Dios Te Castique - Remix",
+      "trackId": "3p4UG0qERd2KqqM8M07xPA",
+      "total": 123348,
+      "daily": 12
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Ladies Night",
+      "trackId": "1bdLDzkvpM5L3hDqMFYdeo",
+      "total": 114702,
+      "daily": 3
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Cero A La Izquierda",
+      "trackId": "6DaozkEkcv8RDhJX0QiOpr",
+      "total": 113486,
+      "daily": 19
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Acompanha o Grave",
+      "trackId": "56LzEj2vjrdGWHShjIurEI",
+      "total": 111842,
+      "daily": 66
+    },
+    {
+      "artist": "Joey Montana",
+      "artistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Watermelon (Something)",
+      "trackId": "1GOJlfelKEJWRPLoXFqoSD",
+      "total": 107320,
+      "daily": 492
+    }
+  ]
+}

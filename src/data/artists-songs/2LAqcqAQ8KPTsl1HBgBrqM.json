@@ -1,0 +1,30 @@
+{
+  "artist": "Michelle Williams",
+  "artistId": "2LAqcqAQ8KPTsl1HBgBrqM",
+  "songs": [
+    {
+      "artist": "Michelle Williams",
+      "artistId": "2LAqcqAQ8KPTsl1HBgBrqM",
+      "trackName": "A Million Dreams",
+      "trackId": "0RoA7ObU6phWpqhlC9zH4Z",
+      "total": 631923023,
+      "daily": 221915
+    },
+    {
+      "artist": "Michelle Williams",
+      "artistId": "2LAqcqAQ8KPTsl1HBgBrqM",
+      "trackName": "Tightrope",
+      "trackId": "0GVuLQtPXFaL18ijEOqoAa",
+      "total": 294177095,
+      "daily": 105549
+    },
+    {
+      "artist": "Michelle Williams",
+      "artistId": "2LAqcqAQ8KPTsl1HBgBrqM",
+      "trackName": "Razzle Dazzle",
+      "trackId": "7mbU4DQFcjK7RQgZpqUgyL",
+      "total": 502968,
+      "daily": 83
+    }
+  ]
+}

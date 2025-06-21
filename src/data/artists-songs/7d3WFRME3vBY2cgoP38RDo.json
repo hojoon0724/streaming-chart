@@ -1,0 +1,806 @@
+{
+  "artist": "Lil Skies",
+  "artistId": "7d3WFRME3vBY2cgoP38RDo",
+  "songs": [
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Lust",
+      "trackId": "7oJrVhiTPZGBXWPwhxjy9S",
+      "total": 633475792,
+      "daily": 170732
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Nowadays (feat. Landon Cube)",
+      "trackId": "2u7mxWSeoqTXndK5e08jMp",
+      "total": 527013482,
+      "daily": 61408
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Red Roses (feat. Landon Cube)",
+      "trackId": "3ZhTT6yjZwpPph5MIJ53XY",
+      "total": 467634480,
+      "daily": 68600
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "I",
+      "trackId": "4ZT9FnbFu1PaBfV3itxiqT",
+      "total": 433896049,
+      "daily": 74474
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Creeping (feat. Rich the Kid)",
+      "trackId": "7ms3VzLTfr7fXNOqA4Mkx9",
+      "total": 254604953,
+      "daily": 21630
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Welcome to the Rodeo",
+      "trackId": "5GpAhJpbHvUi6gY6RG15Ze",
+      "total": 200542722,
+      "daily": 37347
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Magic",
+      "trackId": "5NqOsPI4rA9Bl6LcCftzI2",
+      "total": 192303860,
+      "daily": 35139
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Fr Fr (feat. Lil Skies)",
+      "trackId": "1RagpNpkD3KcjXMLGMe99V",
+      "total": 147519976,
+      "daily": 17435
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Havin My Way (feat. Lil Durk)",
+      "trackId": "3TcKJZF01kCz0yyadk3gsI",
+      "total": 139002179,
+      "daily": 21675
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "I Like Girls (feat. Lil Skies)",
+      "trackId": "7cWh3ScxjhvasLI0CBRoZk",
+      "total": 132967812,
+      "daily": 8887
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Cloudy Skies",
+      "trackId": "3Ul6f7ip8dmZ8VuwfB9Xq5",
+      "total": 98178494,
+      "daily": 11859
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Lies (feat. Lil Skies)",
+      "trackId": "1hOoLI7psTWFbQ0oCNfcSF",
+      "total": 87196882,
+      "daily": 5532
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Name in the Sand",
+      "trackId": "11p2ty4w5GpoFL4vcK0Cru",
+      "total": 83365997,
+      "daily": 13735
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Riot",
+      "trackId": "16U1C1VQYroAaCvqZq2oO8",
+      "total": 78899298,
+      "daily": 10159
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Death Note (feat. Lil Skies & Craig Xen)",
+      "trackId": "0jGQKaSR9BPVVnSXscqUuu",
+      "total": 77209996,
+      "daily": 5402
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Signs of Jealousy",
+      "trackId": "5EIIvtMRH9qyf5wIyEfT8l",
+      "total": 62774141,
+      "daily": 5677
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Bad Girls (feat. Gucci Mane)",
+      "trackId": "0hCHNYL8ApQCGNwJrYN1FY",
+      "total": 60506528,
+      "daily": 4229
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Big Money",
+      "trackId": "3i5h463CsDCWV13a25RgEO",
+      "total": 57754554,
+      "daily": 3790
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "The Clique",
+      "trackId": "4n6TxUxKF7VBXZSRLGivAC",
+      "total": 56941051,
+      "daily": 7791
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Lettuce Sandwich",
+      "trackId": "4hnPw0BbVyoI1abKJZPSaS",
+      "total": 48631707,
+      "daily": 3083
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Lost Me (feat. Lil Mosey)",
+      "trackId": "4iF24IjbsCVkCfOMCIEipi",
+      "total": 47209161,
+      "daily": 7076
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Burning Memories (feat. Lil Skies)",
+      "trackId": "1xGxSCtX96DB7inpF2wKIS",
+      "total": 39915599,
+      "daily": 7789
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Strictly Business",
+      "trackId": "1HzE0tqP7fGwS8LWpAVRN6",
+      "total": 39440346,
+      "daily": 4649
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Kill4u",
+      "trackId": "5tnGoXhKnh5WpMX4BfMCiR",
+      "total": 36553187,
+      "daily": 3244
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Dirty Dirty (feat. Lil Skies)",
+      "trackId": "2tx5J8y4NlxHu6DukZEucR",
+      "total": 35883710,
+      "daily": 1832
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Nowadays Pt. 2 (feat. Landon Cube)",
+      "trackId": "0Goo25lbtpwor5vb0K2r21",
+      "total": 35821813,
+      "daily": 3590
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Breathe",
+      "trackId": "6NGeKy2lLt86dxDjJAtBFk",
+      "total": 34748639,
+      "daily": 3828
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Stop the Madness (feat. Gunna)",
+      "trackId": "6PXhPHhZy1MpxuTNA1Ad4L",
+      "total": 34086185,
+      "daily": 2320
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Off The Gas (feat. Lil Skies)",
+      "trackId": "3IzrrsRBpu23x95jJo7d5S",
+      "total": 33435746,
+      "daily": 2118
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Let Me See (feat. Kevin Gates & Lil Skies)",
+      "trackId": "2BaykZ7vUYBDqseFexHhtQ",
+      "total": 31584592,
+      "daily": 1857
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Ok 4 Now",
+      "trackId": "0k7Qyc2J6cUryNNhf0pPEL",
+      "total": 31009989,
+      "daily": 5921
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Deep End (feat. Lil Skies)",
+      "trackId": "0Ls2AaWYmU2LRzWAmFdlkc",
+      "total": 29563402,
+      "daily": 11383
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Drop Top Benz (feat. Lil Skies)",
+      "trackId": "0K40xwCeJDZ5gBLsyS0F76",
+      "total": 29464751,
+      "daily": 1253
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Flooded",
+      "trackId": "6Ur6u4Ici7NYBiuGEEkNMP",
+      "total": 26706916,
+      "daily": 2123
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Blue Strips",
+      "trackId": "0AKwYorDdgm3NtusTmPlkn",
+      "total": 26198256,
+      "daily": 2540
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Tell My Haters",
+      "trackId": "6cwXbtVSraasT8kpIKDnJH",
+      "total": 25769195,
+      "daily": 2322
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Boss Up",
+      "trackId": "2J7IDapWgrILBNqwnv0Vr0",
+      "total": 25238325,
+      "daily": 2087
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Think Twice (feat. Lil Skies)",
+      "trackId": "4uWt8UP9SnsOXCEE1hhDtJ",
+      "total": 22894963,
+      "daily": 932
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "When I'm Wasted",
+      "trackId": "2pzlvIwI67SEfjLwkZISh8",
+      "total": 22584011,
+      "daily": 2099
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Garden",
+      "trackId": "3nnfZsKguDexxLNInB4rDR",
+      "total": 19884914,
+      "daily": 1586
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Dead Broke",
+      "trackId": "6CwjgmFdMX6FKzmV2oB7SY",
+      "total": 19876736,
+      "daily": 3293
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
+      "trackId": "5CT3zRd2FKM7F81KEacXIP",
+      "total": 19375839,
+      "daily": 16980
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Through the Motions",
+      "trackId": "3XVT8VNy0vpvTbFPQaBSZN",
+      "total": 18821425,
+      "daily": 1698
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "GRAVE (feat. Lil Skies)",
+      "trackId": "0h6fiGIpPpUpofK7OFT4hE",
+      "total": 18720444,
+      "daily": 893
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "On Sight",
+      "trackId": "5EHYAbxw3NGUkEwAQDC3GS",
+      "total": 18710594,
+      "daily": 2621
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "17",
+      "trackId": "0rFDIIprLl60EJGNiICPDq",
+      "total": 18091067,
+      "daily": 2063
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "No Rainy Days",
+      "trackId": "2BTH9RKzclcO36gS09cLjy",
+      "total": 17049140,
+      "daily": 1551
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Mad Russian (feat. Lil Skies)",
+      "trackId": "764OUqC5YJuYJ9wazz9LtP",
+      "total": 16891798,
+      "daily": 1228
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Highs and Lows",
+      "trackId": "0ZxY3V9miXeKIeKS3hgjCI",
+      "total": 15688882,
+      "daily": 1389
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Mansion",
+      "trackId": "49ImM4CYsEL5KG1hzUaCzq",
+      "total": 15588602,
+      "daily": 1272
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Broken (with Lil Skies & Noah Cyrus)",
+      "trackId": "14ca1ksf8GSu1RgeJaFZDF",
+      "total": 15017077,
+      "daily": 2995
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Take 5",
+      "trackId": "1FZfhckQXrlIEUluO2wf9w",
+      "total": 14661815,
+      "daily": 2369
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Play This At My Funeral (feat. Landon Cube)",
+      "trackId": "6iKwtznICou14DzcTcXB2w",
+      "total": 13074306,
+      "daily": 2837
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Ice Water (feat. Trippie Redd)",
+      "trackId": "2RTkEYOLYDQtjWFGNZtvpT",
+      "total": 12884028,
+      "daily": 1548
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Rockstar (feat. Lil Skies)",
+      "trackId": "0uN6sKt2XSzSczCbVH898Q",
+      "total": 12495900,
+      "daily": 984
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "My Baby (feat. Zhavia Ward)",
+      "trackId": "4CVJokJ8nIgbh66nN13OC6",
+      "total": 12200161,
+      "daily": 1420
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Ok",
+      "trackId": "5B374BLEmmEn7efhLVHzny",
+      "total": 12044731,
+      "daily": 1597
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Fade Away",
+      "trackId": "00A2eswFtbxNLzLnElx7q5",
+      "total": 8426259,
+      "daily": 1163
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "RAGE!",
+      "trackId": "2vlHDzwGvAMvmedECnh9b7",
+      "total": 6357172,
+      "daily": 2097
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Make A Toast",
+      "trackId": "3gTjshoPnzDg9apd21EDRi",
+      "total": 6152791,
+      "daily": 1335
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Red Wine & Jodeci",
+      "trackId": "58WMhWZBZnBuCBJUIX0bEN",
+      "total": 5954835,
+      "daily": 959
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Not the Same (feat. Lil Skies)",
+      "trackId": "2oAfgi0XnHUFLvkBLIYqkl",
+      "total": 5770990,
+      "daily": 525
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Excite Me (feat. Wiz Khalifa)",
+      "trackId": "0vpnNFu78EAir6X8TmI975",
+      "total": 5697637,
+      "daily": 748
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Trust Nobody",
+      "trackId": "09tC3GGLoPmvUgCylSenSA",
+      "total": 5695112,
+      "daily": 1026
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "IOD (feat. Lil Skies)",
+      "trackId": "1o0TdI7qiBqTZvD7PvEDyD",
+      "total": 5686726,
+      "daily": 782
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Think Deep Don't Sink",
+      "trackId": "6wuc0Bx60FTTpglf1vjn8B",
+      "total": 4870266,
+      "daily": 736
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Locked Up",
+      "trackId": "45dBsRwloKBNBSFWkgwhZo",
+      "total": 4839198,
+      "daily": 610
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "How You Feel",
+      "trackId": "684JqaJLCfov83a5xD8Qps",
+      "total": 4783088,
+      "daily": 1114
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Sky High",
+      "trackId": "469u8DQfif4ZeTAZHSmXyV",
+      "total": 4773433,
+      "daily": 649
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Mhmmm",
+      "trackId": "78HLLLzSybXbDIkOtdBKY9",
+      "total": 4629381,
+      "daily": 642
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "BASE",
+      "trackId": "4MODrNdQupGkrWScijvQvU",
+      "total": 4239578,
+      "daily": 1384
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "How Things Go",
+      "trackId": "43eFhR58E5V6tykPRXjt56",
+      "total": 4124934,
+      "daily": 1573
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Wake Up",
+      "trackId": "2Yi8ZEVOJavmqB25X9S39g",
+      "total": 3120369,
+      "daily": 1151
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "THOUSANDS",
+      "trackId": "6gFnRYDpYCWNO299w4CRUl",
+      "total": 2892059,
+      "daily": 1558
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Bloody Emotions",
+      "trackId": "4Zljd2Vmt6BTdoF7P0W1OV",
+      "total": 2527963,
+      "daily": 366
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Perfect Groove",
+      "trackId": "6QbahvLSr31EyuVklRyPAW",
+      "total": 2208730,
+      "daily": 347
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Backup",
+      "trackId": "0pgXEVftpufNRJs3X5tKkC",
+      "total": 2155431,
+      "daily": 347
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Celebrate (feat. Lil Skies)",
+      "trackId": "4dFTqpSFcKVFm9GJ1MwDBl",
+      "total": 2068868,
+      "daily": 111
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Posse (feat. Drakeo the Ruler)",
+      "trackId": "4zGc4gvgKLwfNJ5aKkx9Xo",
+      "total": 1902698,
+      "daily": 327
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Out My WAY!",
+      "trackId": "0H2ByJkWzjrv2SD5o81d9u",
+      "total": 1561146,
+      "daily": 680
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "PAIN",
+      "trackId": "0hQrQlEz0Q09MA1RJjQ6iO",
+      "total": 1167473,
+      "daily": 771
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "CALL ME",
+      "trackId": "2cTWEz74OBtAnVLuPcoldp",
+      "total": 1102173,
+      "daily": 703
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "M.O.M!",
+      "trackId": "4NU3DxaZ0rR4q0SclYQFFc",
+      "total": 1095705,
+      "daily": 386
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "DEATH",
+      "trackId": "6lAKvfqPQgZZDdDyDmlsQc",
+      "total": 1072948,
+      "daily": 551
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "High Maintenance",
+      "trackId": "1O7Pn01hGb7jVQy3QoDxSs",
+      "total": 1060086,
+      "daily": 1885
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Halo (feat. Lil Skies)",
+      "trackId": "21mI6mXka9so60GE7stbob",
+      "total": 906459,
+      "daily": 2587
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "DRANK TALK",
+      "trackId": "7JBu79T29wsIkNGk2ubWxr",
+      "total": 896717,
+      "daily": 658
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Pull The Trigger",
+      "trackId": "7tjUniE32n551Jr9Ok5Pxq",
+      "total": 763451,
+      "daily": 658
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Counter-Strike (feat. Lil Skies)",
+      "trackId": "4LR92pDEKKLDx9zdcckUWI",
+      "total": 636318,
+      "daily": 405
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "2Much 2Fast (feat. Landon Cube)",
+      "trackId": "7xuuS4WdUXPgn8WT1ncyUw",
+      "total": 627124,
+      "daily": 1820
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "MISUNDERSTOOD",
+      "trackId": "25wiGiF2DgTCPgfH4SYdxd",
+      "total": 615158,
+      "daily": 407
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "RUNNIN THROUGH THE FIRE",
+      "trackId": "1A27nQHAqFl62QLUjRWvHL",
+      "total": 598883,
+      "daily": 349
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Falling Backwards",
+      "trackId": "2ISiZ1j7Q5ilEgrxwJsAuL",
+      "total": 498557,
+      "daily": 3266
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "PIVOT",
+      "trackId": "3GmsGg0w9bWDIHTw2y9tlU",
+      "total": 493223,
+      "daily": 380
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Givenchy (feat. Lil Skies)",
+      "trackId": "7EVxb3nwuFZQBZLQT91nrZ",
+      "total": 441718,
+      "daily": 232
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "GB Pre$$i",
+      "trackId": "68PVbxoukKhty5jTyO0ggC",
+      "total": 405110,
+      "daily": 108
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Runnin Out Of Time",
+      "trackId": "2zthTpUG0c2VBckCowNbRk",
+      "total": 368411,
+      "daily": 276
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "CHANGE ON ME",
+      "trackId": "5uF5bfUVNY22NISq5fJ5qb",
+      "total": 300136,
+      "daily": 219
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Play This At My Funeral (feat. Landon Cube)",
+      "trackId": "2e1xZxNKzdjJLQAeA5polc",
+      "total": 261339,
+      "daily": 66
+    },
+    {
+      "artist": "Lil Skies",
+      "artistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Mansion",
+      "trackId": "7pf618F8avK1n60GMkFBSB",
+      "total": 227760,
+      "daily": 14
+    }
+  ]
+}

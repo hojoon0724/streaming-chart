@@ -1,0 +1,574 @@
+{
+  "artist": "Adele",
+  "artistId": "4dpARuHxo51G3z768sgnrY",
+  "songs": [
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Someone Like You",
+      "trackId": "1zwMYTA5nlNjZxYrvBB2pV",
+      "total": 2324054039,
+      "daily": 897171
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Easy On Me",
+      "trackId": "46IZ0fSY2mpAiktS3KOqds",
+      "total": 2176079990,
+      "daily": 949162
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Rolling in the Deep",
+      "trackId": "1c8gk2PeTE04A1pIDH9YMk",
+      "total": 2146352253,
+      "daily": 731189
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Set Fire to the Rain",
+      "trackId": "73CMRj62VK8nUS4ezD2wvi",
+      "total": 2021430504,
+      "daily": 921880
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Hello",
+      "trackId": "1Yk0cQdMLx5RzzFTYwmuld",
+      "total": 1702091838,
+      "daily": 387695
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "When We Were Young",
+      "trackId": "6O5TrlFWTYvznd9fMC0VvU",
+      "total": 1495125137,
+      "daily": 498937
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Make You Feel My Love",
+      "trackId": "273QnyCvJB65rScHJ1nPZb",
+      "total": 1268695880,
+      "daily": 320449
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Send My Love (To Your New Lover)",
+      "trackId": "563SfWAHJs4FBZMkRN0IFN",
+      "total": 1205621464,
+      "daily": 281314
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Skyfall",
+      "trackId": "6VObnIkLVruX4UVyxWhlqm",
+      "total": 1058703762,
+      "daily": 748634
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Love In The Dark",
+      "trackId": "0DuWDLjriRPjDRoPgaCslY",
+      "total": 1007744530,
+      "daily": 668706
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Chasing Pavements",
+      "trackId": "0Z5ok0QLLttAKsujOZYOXf",
+      "total": 770161159,
+      "daily": 394072
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "All I Ask",
+      "trackId": "6DEMMeWXfmFAXgDUMMzeg6",
+      "total": 752400460,
+      "daily": 267582
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Water Under the Bridge",
+      "trackId": "2DRMuw0U0QbkVQxWxdJV3M",
+      "total": 739383397,
+      "daily": 194675
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Oh My God",
+      "trackId": "3Kkjo3cT83cw09VJyrLNwX",
+      "total": 631627608,
+      "daily": 133792
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Turning Tables",
+      "trackId": "4oy98QoABnGKpvapDkI525",
+      "total": 454774943,
+      "daily": 108838
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Rumour Has It",
+      "trackId": "2A73XBDBQgmdXO8VsXPWIs",
+      "total": 391727904,
+      "daily": 110433
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Don't You Remember",
+      "trackId": "4RyjMERDcCJHTkFpXzgUw4",
+      "total": 337708068,
+      "daily": 234013
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Hometown Glory",
+      "trackId": "4zFHwVj4A8s0G5f7aOlpKo",
+      "total": 335911680,
+      "daily": 405956
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "One And Only",
+      "trackId": "43dcCpx19I0R4zLr4KH1UC",
+      "total": 319442541,
+      "daily": 101003
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "I Drink Wine",
+      "trackId": "6v0UJD4a2FtleHeSYVX02A",
+      "total": 312917844,
+      "daily": 116646
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Remedy",
+      "trackId": "1zZh6zTXcDgvN0C6S1G4gU",
+      "total": 276552624,
+      "daily": 55469
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Million Years Ago",
+      "trackId": "2qBmtZnPSQouvADmqaHKxk",
+      "total": 242518909,
+      "daily": 85845
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Can I Get It",
+      "trackId": "6w8ZPYdnGajyfPddTWdthN",
+      "total": 229289514,
+      "daily": 51053
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Lovesong",
+      "trackId": "7nm6DlSzzJTH1rk2e6EgJz",
+      "total": 179682274,
+      "daily": 68419
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "I Miss You",
+      "trackId": "6NdG17SJBXKJeYS67f7E74",
+      "total": 165254198,
+      "daily": 38376
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Daydreamer",
+      "trackId": "3FYqKyAKIB4mCygIFc1IYn",
+      "total": 159733844,
+      "daily": 33179
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "My Little Love",
+      "trackId": "2DuPBbS5mIldXnh7Wum8Cy",
+      "total": 147221980,
+      "daily": 37268
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "To Be Loved",
+      "trackId": "10ImcQk9tihY1EKMDIbvXJ",
+      "total": 135752982,
+      "daily": 39303
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "River Lea",
+      "trackId": "0bqC0AqaBZKBZsjhI3y2OW",
+      "total": 135651813,
+      "daily": 30381
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "He Won't Go",
+      "trackId": "3uVsdnIglL7aTjm8X08J0M",
+      "total": 121295462,
+      "daily": 29026
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "All Night Parking (with Erroll Garner) Interlude",
+      "trackId": "496vIKS2INz840xZaKncvR",
+      "total": 113838012,
+      "daily": 29096
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Crazy For You",
+      "trackId": "2L1zGWSV5udDZlW668nRtA",
+      "total": 112079305,
+      "daily": 19592
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Take It All",
+      "trackId": "08YJEcxGtYXwCGqXMZDiyQ",
+      "total": 106778975,
+      "daily": 20522
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Melt My Heart to Stone",
+      "trackId": "2VFjUd6M9Ka7STuuCrMCcz",
+      "total": 104785912,
+      "daily": 18647
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Hold On",
+      "trackId": "6bGMSP3H9YqkmaLnaJTIoF",
+      "total": 104208685,
+      "daily": 28255
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Cry Your Heart Out",
+      "trackId": "09u787BYeYIGd2mFIJ505t",
+      "total": 98064956,
+      "daily": 24024
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Love Is A Game",
+      "trackId": "2j3GxEsbNYNeEzz86wDY4J",
+      "total": 96850570,
+      "daily": 29442
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Strangers By Nature",
+      "trackId": "13CVSGLSFl4UxpDVR6u3dq",
+      "total": 94324047,
+      "daily": 20239
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "I'll Be Waiting",
+      "trackId": "5AKAyMEL5LqCkafztPdBSI",
+      "total": 85132716,
+      "daily": 17748
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Woman Like Me",
+      "trackId": "2c6xRsQBv7pynuhYhWoHxo",
+      "total": 82055860,
+      "daily": 20028
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Sweetest Devotion",
+      "trackId": "2Eb7QQ5soJQBEYTfSb5BS6",
+      "total": 81549433,
+      "daily": 17214
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Cold Shoulder",
+      "trackId": "2BuTotNunmHqGDB1pc7ROX",
+      "total": 80246266,
+      "daily": 18907
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Right As Rain",
+      "trackId": "6OLudcGaT6HQ5bXH54kI8i",
+      "total": 75651682,
+      "daily": 21327
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Hometown Glory",
+      "trackId": "5UrwEPYUW7zLUcHdSaD4zT",
+      "total": 57338177,
+      "daily": 125927
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Hometown Glory - High Contrast Remix",
+      "trackId": "1ESvthpg6hWmjlNJdpTrbH",
+      "total": 56244634,
+      "daily": 17876
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "First Love",
+      "trackId": "0bSutNd0MDvEr2mZPTlEhF",
+      "total": 54869019,
+      "daily": 6482
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Water And A Flame",
+      "trackId": "1ea9xy6m7jhV3sqSzKg9ZB",
+      "total": 54861954,
+      "daily": 17309
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Chasing Pavements - Live at Hotel Cafe",
+      "trackId": "33rmlXHHEN5K8m5PINMEbb",
+      "total": 54760246,
+      "daily": 4058
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Best for Last",
+      "trackId": "6c7aD7V8hDjJ05vs77dlJk",
+      "total": 51909519,
+      "daily": 6653
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "My Same",
+      "trackId": "6McbSHjAKqf0fjsLDRzgr5",
+      "total": 49182483,
+      "daily": 6170
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Tired",
+      "trackId": "1L91NeuzKQfcCchDI8SVii",
+      "total": 42864968,
+      "daily": 6165
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Many Shades Of Black - Performed by The Raconteurs and Adele",
+      "trackId": "6hRSA7yZ3TZCCd8W77UmBB",
+      "total": 34705702,
+      "daily": 5479
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Set Fire to the Rain - Moto Blanco Edit",
+      "trackId": "1j3mmliElKSkjDacyGMg8V",
+      "total": 20749914,
+      "daily": 1104
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Make You Feel My Love - Live at Hotel Cafe",
+      "trackId": "3I7sFjGE02t7zNiMz6ILRe",
+      "total": 19725361,
+      "daily": 2079
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Hometown Glory - Live at Hotel Cafe",
+      "trackId": "3V79Erdk3uUkrKvohOzbNP",
+      "total": 14041166,
+      "daily": 2163
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "That's It, I Quit, I'm Movin' On - Live at Hotel Cafe",
+      "trackId": "2sYK3yPdKL0YLHl6TdrYFn",
+      "total": 13769354,
+      "daily": 1441
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Rolling in the Deep - Acapella",
+      "trackId": "2ux2dwUgqfj1EKRp963HEW",
+      "total": 12167423,
+      "daily": 2830
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Daydreamer - Live at Hotel Cafe",
+      "trackId": "4fLzX4LHtNfboqXVKdgUSf",
+      "total": 12127441,
+      "daily": 1171
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Melt My Heart to Stone - Live at Hotel Cafe",
+      "trackId": "6uzHbGJs6nrQnHfAkADWoT",
+      "total": 11759144,
+      "daily": 1133
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Crazy For You - Live at Hotel Cafe",
+      "trackId": "0zbKhsL2me1OhTqPOhnkaA",
+      "total": 11693249,
+      "daily": 1091
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Set Fire to the Rain - Thomas Gold Remix",
+      "trackId": "2s6PXWDwlUPXfHzzc391S5",
+      "total": 11443752,
+      "daily": 506
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Right As Rain - Live at Hotel Cafe",
+      "trackId": "1qMsnFyutQSZQheQcp3uAl",
+      "total": 10547657,
+      "daily": 1071
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "My Same - Live at Hotel Cafe",
+      "trackId": "6VIrWBZfcY7iJDYk7CeZNP",
+      "total": 9799774,
+      "daily": 888
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Set Fire to the Rain - Moto Blanco Remix",
+      "trackId": "5bRSrOafTcsqIjMzs7sak0",
+      "total": 4116484,
+      "daily": 424
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Cold Shoulder - Basement Jaxx Classic Remix",
+      "trackId": "4ziAyc6lixYlNaeIHnfWZa",
+      "total": 3589588,
+      "daily": 360
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Hometown Glory - High Contrast Remix Instrumental",
+      "trackId": "6H8M8zVbFjejsqwJbEOsTf",
+      "total": 3172599,
+      "daily": 542
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Set Fire to the Rain - Thomas Gold Dub",
+      "trackId": "53JPo2A2abiAjK2pngHycT",
+      "total": 2975355,
+      "daily": 197
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Cold Shoulder - Rusko Remix",
+      "trackId": "7kamdS7QerS3V1MlkVybhk",
+      "total": 2840962,
+      "daily": 224
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Cold Shoulder - Basement Jaxx DUBB",
+      "trackId": "33DTThl2hIsQ6RfSeimGZl",
+      "total": 2735721,
+      "daily": 245
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Rolling in the Deep - Jamie xx Shuffle",
+      "trackId": "5XNsXzRZqJJ0ctba3sS8lT",
+      "total": 1409773,
+      "daily": 751
+    },
+    {
+      "artist": "Adele",
+      "artistId": "4dpARuHxo51G3z768sgnrY",
+      "trackName": "Water And A Flame (feat. Adele) - Buzz Junkies Club Mix",
+      "trackId": "6BVBoLWh78DiUvmMJynzDM",
+      "total": 288372,
+      "daily": 14
+    }
+  ]
+}

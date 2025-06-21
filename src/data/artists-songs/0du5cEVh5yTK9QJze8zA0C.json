@@ -1,0 +1,854 @@
+{
+  "artist": "Bruno Mars",
+  "artistId": "0du5cEVh5yTK9QJze8zA0C",
+  "songs": [
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Just the Way You Are",
+      "trackId": "7BqBn9nzAq8spo5e7cZ0dJ",
+      "total": 2789922342,
+      "daily": 1313109
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Locked out of Heaven",
+      "trackId": "3w3y8KPTfNeOKPiqUTakBh",
+      "total": 2695263910,
+      "daily": 1166151
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "When I Was Your Man",
+      "trackId": "0nJW01T7XtvILxQgC5J7Wh",
+      "total": 2678586986,
+      "daily": 1036931
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "That's What I Like",
+      "trackId": "0KKkJNfGyhkQ5aFogxQAPU",
+      "total": 2670192502,
+      "daily": 988749
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Die With A Smile",
+      "trackId": "7so0lgd0zP2Sbgs2d7a1SZ",
+      "total": 2635972752,
+      "daily": 4327850
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Uptown Funk (feat. Bruno Mars)",
+      "trackId": "32OlwWuMpZ6b0aN2RZOeMS",
+      "total": 2352271507,
+      "daily": 956924
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Talking to the Moon",
+      "trackId": "161DnLWsx1i3u1JT05lzqU",
+      "total": 1772201800,
+      "daily": 744442
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "APT.",
+      "trackId": "4wJ5Qq0jBN4ajy7ouZIV1c",
+      "total": 1756289132,
+      "daily": 3166449
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "24K Magic",
+      "trackId": "6b8Be6ljOzmkOmFslEb23P",
+      "total": 1685872413,
+      "daily": 546795
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Grenade",
+      "trackId": "2tJulUYLDKOg9XrtVkMgcJ",
+      "total": 1655806086,
+      "daily": 614393
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Young, Wild & Free (feta. Bruno Mars)",
+      "trackId": "5BJ6DbYGmZ8WjhxTMQaWU0",
+      "total": 1640483753,
+      "daily": 566592
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Leave The Door Open",
+      "trackId": "02VBYrHfVwfEWXk5DXyf0T",
+      "total": 1516584824,
+      "daily": 488874
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Marry You",
+      "trackId": "22PMfvdz35fFKYnJyMn077",
+      "total": 1320188808,
+      "daily": 668502
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "It Will Rain",
+      "trackId": "0RUGuh2uSNFJpGMSsD1F5C",
+      "total": 1222133503,
+      "daily": 820232
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Treasure",
+      "trackId": "55h7vJchibLdUkxdlX3fK7",
+      "total": 1212513480,
+      "daily": 368522
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "The Lazy Song",
+      "trackId": "1ExfPZEiahqhLyajhybFeS",
+      "total": 1178865221,
+      "daily": 578419
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Wake Up in the Sky",
+      "trackId": "139stMp9MHckiddNwrVfTr",
+      "total": 1160755339,
+      "daily": 354756
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Versace on the Floor",
+      "trackId": "0kN8xEmgMW9mh7UmDYHlJP",
+      "total": 971530204,
+      "daily": 385580
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Finesse - Remix; feat. Cardi B",
+      "trackId": "3Vo4wInECJQuz9BIBMOu8i",
+      "total": 895262380,
+      "daily": 242790
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Billionaire (feat. Bruno Mars)",
+      "trackId": "2UGzkCY21PrDcwbmFS1lip",
+      "total": 818854975,
+      "daily": 392312
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Nothin’ on You (feat. Bruno Mars)",
+      "trackId": "7kFu9hGD3an96iOSoPdIi1",
+      "total": 781242296,
+      "daily": 585926
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Count on Me",
+      "trackId": "7l1qvxWjxcKpB9PCtBuTbU",
+      "total": 775426113,
+      "daily": 296584
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Please Me",
+      "trackId": "6XBNIjbuX52acC63fB2ohB",
+      "total": 693404768,
+      "daily": 428283
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Mirror",
+      "trackId": "5hUYsaOyMY32yjRXeuQwGj",
+      "total": 628053336,
+      "daily": 299794
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Runaway Baby",
+      "trackId": "5MMLS3xm12D7N26xlfFApr",
+      "total": 573187639,
+      "daily": 285302
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Smokin Out The Window",
+      "trackId": "3xVZYkcuWalGudeKl861wb",
+      "total": 543758623,
+      "daily": 177073
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Chunky",
+      "trackId": "0mBKv9DkYfQHjdMcw2jdyI",
+      "total": 360224282,
+      "daily": 102348
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Finesse",
+      "trackId": "5XMkENs3GfeRza8MfVAhjK",
+      "total": 322165018,
+      "daily": 143151
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Nothing on You",
+      "trackId": "2A5YAFeEwGi7KlGMYRf5dX",
+      "total": 321623919,
+      "daily": 70022
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "After Last Night (with Thundercat & Bootsy Collins)",
+      "trackId": "3jiKUMXqwEodB7gVv1RMZU",
+      "total": 307760312,
+      "daily": 173229
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Skate",
+      "trackId": "7jvCeWOSnJs2N3spqobWnO",
+      "total": 296878295,
+      "daily": 131498
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Lighters",
+      "trackId": "6h5hNqTZRLlcRcFWsK6XhW",
+      "total": 293569076,
+      "daily": 115970
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Young Girls",
+      "trackId": "3G5iN5QBqMeXx3uZPy8tgB",
+      "total": 258174798,
+      "daily": 65836
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Gorilla",
+      "trackId": "2ih2U8ttFzCjnQ5njF3SrR",
+      "total": 257903346,
+      "daily": 56890
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Too Good to Say Goodbye",
+      "trackId": "0B0tYbVp7pDQAqKDhgMeaL",
+      "total": 232303792,
+      "daily": 161638
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Perm",
+      "trackId": "1I6pKIyaBp4OebTGLJpCCC",
+      "total": 211689058,
+      "daily": 42026
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "BLOW (with Chris Stapleton & Bruno Mars)",
+      "trackId": "6EbduYTr62sSzvl36wWiFM",
+      "total": 186680360,
+      "daily": 56092
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Straight up & Down",
+      "trackId": "2mrZYZGmPFV3QOyYPZ1zsn",
+      "total": 181830526,
+      "daily": 46750
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "If I Knew",
+      "trackId": "7lXOqE38eCr979gp27O5wr",
+      "total": 180587131,
+      "daily": 70872
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Liquor Store Blues (feat. Damian Marley)",
+      "trackId": "4KykoaJQ5UxjCpp3lYkvTE",
+      "total": 177812860,
+      "daily": 53106
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Calling All My Lovelies",
+      "trackId": "6ObpR8ek44tvWefQRcSo8K",
+      "total": 153682800,
+      "daily": 35955
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Love's Train",
+      "trackId": "2JUQ7mV1AHk2owXLydmN4Z",
+      "total": 133527560,
+      "daily": 67705
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Versace on the Floor (Bruno Mars vs. David Guetta)",
+      "trackId": "5UJshy5HDHdNEVqlJwzsQB",
+      "total": 115109048,
+      "daily": 15627
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Grenade - Acoustic",
+      "trackId": "7Cj2tT0m2SBeIO1PsGfk8A",
+      "total": 112608527,
+      "daily": 30508
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Fly As Me",
+      "trackId": "3a6FcTyvSf0ED3VXeH3PJ5",
+      "total": 109095710,
+      "daily": 50528
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Natalie",
+      "trackId": "0inMKhbKWOTDA9UBUAKoU6",
+      "total": 104073514,
+      "daily": 25756
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "That's What I Like - Alan Walker Remix",
+      "trackId": "1KtU0WCq472KzqCXgMOxkS",
+      "total": 98295752,
+      "daily": 23278
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Show Me",
+      "trackId": "2tCPIp83mRXvVTytTAf1W4",
+      "total": 91984145,
+      "daily": 40239
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Fat Juicy & Wet",
+      "trackId": "5M2lX0ZAYSAzCs1xPPi9BX",
+      "total": 89626586,
+      "daily": 168522
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Moonshine",
+      "trackId": "30raivfq7rSt5nKltiHfzG",
+      "total": 85162030,
+      "daily": 23175
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Blast Off",
+      "trackId": "2kpoReN3MY7I0tSF902n0z",
+      "total": 84735532,
+      "daily": 23331
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "The Other Side (feat. CeeLo Green and B.o.B)",
+      "trackId": "0HasfWMrNxTjycDy9TkRtA",
+      "total": 82232768,
+      "daily": 25329
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Our First Time",
+      "trackId": "5BmKRyAjCnvkko7Ms00YtA",
+      "total": 80543373,
+      "daily": 25349
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Silk Sonic Intro",
+      "trackId": "7LK0IWXe2Yd0JGgSjJThex",
+      "total": 77663445,
+      "daily": 37066
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Put On A Smile",
+      "trackId": "5f7UJCMrA1VRLvbPrq1h0G",
+      "total": 76513544,
+      "daily": 32576
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "777",
+      "trackId": "67BOjO8BESXYNU5E6qDcUv",
+      "total": 73190415,
+      "daily": 29282
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Leave The Door Open - Live",
+      "trackId": "1Ffw1qFqCw2IaozOJ5mL2O",
+      "total": 62188824,
+      "daily": 23443
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Talking to the Moon - Acoustic Piano",
+      "trackId": "6YKT5HoPwjTwhHiCNQsBMK",
+      "total": 61317287,
+      "daily": 14616
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Bubble Butt",
+      "trackId": "2nZ3DQaL3Q9AB4UcQCE36b",
+      "total": 59420747,
+      "daily": 8011
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "24K Magic - R3hab Remix",
+      "trackId": "1nSzCAvAvzJj5oIt7m90G0",
+      "total": 58513306,
+      "daily": 16152
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "That's What I Like (feat. Gucci Mane)",
+      "trackId": "1BEMASUZQDqN5UGxMb1m6A",
+      "total": 57551477,
+      "daily": 5688
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Money Make Her Smile",
+      "trackId": "6FPQabaldvKE5cjqRfY9Os",
+      "total": 56677844,
+      "daily": 12490
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Somewhere in Brooklyn",
+      "trackId": "3P4v70V3Zt804r2c9dZivK",
+      "total": 50057249,
+      "daily": 22725
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Treasure - Cash Cash Radio Mix",
+      "trackId": "7dQGDSVjt1vS6BsDURjYhS",
+      "total": 49721545,
+      "daily": 8341
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
+      "trackId": "5MpKzeXvOBFiZpQWV9iP5O",
+      "total": 46928416,
+      "daily": 4416
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "That's What I Like - PARTYNEXTDOOR Remix",
+      "trackId": "64TkpV7m7f09JY7K436pju",
+      "total": 40273286,
+      "daily": 5173
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Locked out of Heaven - The M Machine Remix",
+      "trackId": "5WlVx0a6VedSJ60JFYpRBp",
+      "total": 33209225,
+      "daily": 1859
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Catch a Grenade - The Hooligans Remix",
+      "trackId": "1EOWf8bsePF6QtiDUAclrJ",
+      "total": 32827598,
+      "daily": 23459
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Bubble Butt - Remix",
+      "trackId": "4Vq4kXmD7uSVazlmkMrs1W",
+      "total": 31900414,
+      "daily": 2539
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Grenade - Passion Pit Remix",
+      "trackId": "7HjK2whApIuUgRVP8akqjk",
+      "total": 30785120,
+      "daily": 4131
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "That's What I Like - BLVK JVCK Remix",
+      "trackId": "4YS0JF9kSLe15ggwOQqQit",
+      "total": 29579552,
+      "daily": 1527
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Die With A Smile - Acoustic",
+      "trackId": "6gSkYEONe1fCvrOUgmXZTy",
+      "total": 18008568,
+      "daily": 98891
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Finesse - Pink Panda Remix; feat. Cardi B",
+      "trackId": "5LgFeUn0Jx8UVkPlrMbTOc",
+      "total": 16054697,
+      "daily": 2996
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Gorilla (feat. R. Kelly and Pharrell) - G-Mix",
+      "trackId": "7uVKvaDWDpss7Ldj9kypLX",
+      "total": 13816610,
+      "daily": 3940
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Locked out of Heaven - Sultan and Ned Shepard Remix",
+      "trackId": "6AIxmLiDNHFQgZstB4lzDB",
+      "total": 13475605,
+      "daily": 2029
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Finesse - James Hype Remix; feat. Cardi B",
+      "trackId": "04OERuULAbFq54j25v5dZ4",
+      "total": 8733140,
+      "daily": 931
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Uptown Funk (feat. Bruno Mars) - Trinidad James Remix",
+      "trackId": "6YhtdyvzbVL3mxrCdMtSxA",
+      "total": 7798981,
+      "daily": 1892
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Treasure - Sharam Radio Remix",
+      "trackId": "5k58Fbi1th2ITcaweRSbVq",
+      "total": 6721622,
+      "daily": 1536
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Treasure - Audien Radio Edit",
+      "trackId": "1vvK3Ey7LxgAFidEmU3QvC",
+      "total": 5844352,
+      "daily": 519
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Uptown Funk (feat. Bruno Mars) - Wideboys VIP Remix",
+      "trackId": "5U84vBvWfmZZuT2uqupmmB",
+      "total": 5551887,
+      "daily": 399
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Locked out of Heaven - CAZZETTE's Answering Machine Mix",
+      "trackId": "7G0by64JaYIEnkFqDb1cZ6",
+      "total": 5424529,
+      "daily": 391
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Locked out of Heaven - Paul Oakenfold Remix",
+      "trackId": "03BpMAiFJ0b9c47Ntt8MRf",
+      "total": 4975867,
+      "daily": 372
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Uptown Funk (feat. Bruno Mars) - Dave Audé Remix",
+      "trackId": "2CcVo0K7SpJdkk73YnSIOc",
+      "total": 4880584,
+      "daily": 863
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Just the Way You Are - Simon Steur Club Mix",
+      "trackId": "30nRBCh0wGhKiTLNWN3k3L",
+      "total": 4834048,
+      "daily": 1885
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Treasure - Bailey Smalls Radio Edit",
+      "trackId": "7cHZIHlewdmRCBmuOn4ssV",
+      "total": 4690567,
+      "daily": 1502
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Billionaire (feat. Bruno Mars) - Radio Edit",
+      "trackId": "4qM200zmXHM8COYmdbRqKK",
+      "total": 4392302,
+      "daily": 2938
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Treasure - Robert DeLong Radio Edit",
+      "trackId": "3SReOm0IHFtzUGNEfpWH1V",
+      "total": 4006140,
+      "daily": 1273
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Just the Way You Are - Skrillex BatBoi Remix",
+      "trackId": "4vy0kVo1ygAIKTZU3F5OoT",
+      "total": 3570827,
+      "daily": 511
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Die With A Smile - Live in Las Vegas",
+      "trackId": "3Tjupe9BJ6gfGbQIgtmrMX",
+      "total": 3292017,
+      "daily": 11457
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Just the Way You Are - Steve Smart & Westfunk Club Mix",
+      "trackId": "2GdcDOXu8HLFAP9hxANXb7",
+      "total": 2230733,
+      "daily": 772
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "3D",
+      "trackId": "08RvcLNc26GX3vHgOzv4wV",
+      "total": 1822745,
+      "daily": 763
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Die With A Smile - Instrumental",
+      "trackId": "3MJdKvdoEFwKyrD4rznLAI",
+      "total": 1752856,
+      "daily": 4598
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Just the Way You Are - Carl Louis & Martin Danielle Classic Mix",
+      "trackId": "3dkuTvO5013XHxiofIW9Qg",
+      "total": 1711351,
+      "daily": 1257
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Just the Way You Are - Carl Louis & Martin Danielle Club Mix",
+      "trackId": "7Hg27Pwfh9iTgHUdGS5rTx",
+      "total": 1515500,
+      "daily": 338
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Just the Way You Are - Manufactured Superstars and Jquintal Remix",
+      "trackId": "04T47lGsiQU6x1cV9GhgDN",
+      "total": 1505060,
+      "daily": 305
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Nothin' on You (feat. Bruno Mars) - Acappella",
+      "trackId": "5TKnYcvyiI8RrE92N6hBiq",
+      "total": 1020418,
+      "daily": 1662
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Bubble Butt (feat. feat. Bruno Mars, 2 Chainz & Tyga) - Black M Remix",
+      "trackId": "0p4E9QtDuUo2aHSOfCV0dF",
+      "total": 721435,
+      "daily": 18
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Old & Crazy (feat. Esperanza Spalding)",
+      "trackId": "3zRfP7U300ogttIfwqB5HD",
+      "total": 346039,
+      "daily": 55
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Young Girls - Demo",
+      "trackId": "2OTH8T7TqMYt51baDvVEHQ",
+      "total": 261622,
+      "daily": 59
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Grenade - Michael Meds Mix",
+      "trackId": "01sdh37jvLGU1t2O6uxJbn",
+      "total": 235483,
+      "daily": 259
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Locked out of Heaven - Major Lazer Remix",
+      "trackId": "1uQ8qCbeeA39xd1gIcaxgM",
+      "total": 220797,
+      "daily": 52
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Gorilla - Demo",
+      "trackId": "1Yl0H4Mn4xDVAFSJ0IM5t3",
+      "total": 213917,
+      "daily": 44
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Moonshine - The Futuristics Remix",
+      "trackId": "03wqOqPhG7W8T83L7hOt4j",
+      "total": 211756,
+      "daily": 40
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Grenade - John de Sohn Mix",
+      "trackId": "4Poz3qJ8a4NJWDGWDS3a94",
+      "total": 203052,
+      "daily": 207
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Nothin' on You (feat. Bruno Mars) - TC's Switch-Up Extended Version",
+      "trackId": "3feqHjiCB8vhCiJXkZgddZ",
+      "total": 159717,
+      "daily": 19
+    },
+    {
+      "artist": "Bruno Mars",
+      "artistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Nothin' on You (feat. Bruno Mars) - TC's Switch-Up Remix",
+      "trackId": "5p1gFfjhob2TJD03KQlZPG",
+      "total": 127678,
+      "daily": 41
+    }
+  ]
+}

@@ -1,0 +1,2382 @@
+{
+  "artist": "Gera MX",
+  "artistId": "2hejA1Dkf8v8R0koF44FvW",
+  "songs": [
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Botella Tras Botella",
+      "trackId": "2MnLkFqY9Rpg9s3Zv6ZJdK",
+      "total": 743962967,
+      "daily": 190582
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Nunca Te Pude Alcanzar",
+      "trackId": "7fdGqeuvSLVNMwFb6mDbXp",
+      "total": 221568123,
+      "daily": 130349
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Se Me Olvidó",
+      "trackId": "6mDaKsBN1KHIBfeNXJwhZk",
+      "total": 188239431,
+      "daily": 65668
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Nada Me Va A Importar",
+      "trackId": "7jd9nQ7JYbcAtB3k3HG7ao",
+      "total": 150409264,
+      "daily": 74951
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Ojos Tumbados",
+      "trackId": "7uYFOLEhhmojSLTyVZ8r4O",
+      "total": 133481850,
+      "daily": 63862
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Huracán",
+      "trackId": "5sbj4M33WaHilEaJAhRPp8",
+      "total": 128861524,
+      "daily": 71790
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Cypher",
+      "trackId": "0M8HCM6ztBgsF150J7oCBt",
+      "total": 105011978,
+      "daily": 30646
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Los No Tan Tristes",
+      "trackId": "4soIDKXJbxGnSMmADYnANT",
+      "total": 94759865,
+      "daily": 39837
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Me Toca Perder",
+      "trackId": "4lIaBc1VDBltVVi1Wd2iOZ",
+      "total": 80867325,
+      "daily": 72593
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "No Llegaré (Remix)",
+      "trackId": "5Fhf4Iwal5MMHXH4TiOiEQ",
+      "total": 79972262,
+      "daily": 25647
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "El Catrín (feat. Santa Fe Klan)",
+      "trackId": "1N9fhsSQ5uiiFJWiEPpK6R",
+      "total": 79885376,
+      "daily": 19263
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Complicado",
+      "trackId": "3eGpyKNSwZH2E738CjK9w1",
+      "total": 79756973,
+      "daily": 37904
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Peña)",
+      "trackId": "0w1C8mth2DlHIdwMAIxtrl",
+      "total": 77120727,
+      "daily": 16681
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Y Ahora Quien",
+      "trackId": "2sd6fpR9vfyC9kIbaz9LJ2",
+      "total": 77096404,
+      "daily": 57887
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "La Última",
+      "trackId": "3Zuh5YCdc1DnQz3UeB8VnG",
+      "total": 75903754,
+      "daily": 24721
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Invisibles",
+      "trackId": "6QY5zaoulgveKCr7XE0vs9",
+      "total": 69016831,
+      "daily": 66712
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Los Niños Grandes No Juegan",
+      "trackId": "2exWbaQYhLEveLV8Nf01EF",
+      "total": 64679231,
+      "daily": 48220
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Bye Bye",
+      "trackId": "7qJ2Ir5a0Mnv5vYxMCtFQD",
+      "total": 62769097,
+      "daily": 40609
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Café",
+      "trackId": "7uQOMsqi4Hnpuoa3o7gZEB",
+      "total": 53466471,
+      "daily": 21180
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Yo No Me Quiero Morir",
+      "trackId": "5xXaJHNtyBghk2F6AnP2PI",
+      "total": 53382011,
+      "daily": 31088
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "No Me Arrepiento (feat. Gera MX, Neto Peña, Santa Fe Klan)",
+      "trackId": "6TVKrzgEE5b0TP5oVLeZLh",
+      "total": 48527527,
+      "daily": 20081
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "One Love",
+      "trackId": "2SfnV0AOAn3e5id2Yg5qJz",
+      "total": 48433474,
+      "daily": 22767
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Rumores",
+      "trackId": "3OUkQJY3YQ00HwD5GPuk7A",
+      "total": 47835187,
+      "daily": 17161
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Maldito Romántico",
+      "trackId": "00Lz6oOMNjlCthAaiQLsfr",
+      "total": 47487298,
+      "daily": 24371
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Borracho Gacho (feat. Dharius)",
+      "trackId": "2f552XXwU9KIdxmXQQ4AqN",
+      "total": 43461809,
+      "daily": 6802
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Sirve Mi Café Temprano",
+      "trackId": "7j4P6of6eyZDe49HUYSU2h",
+      "total": 42691158,
+      "daily": 17797
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Penitencia",
+      "trackId": "7aHkSmt0l7xTgCaAYvSZ9L",
+      "total": 42548508,
+      "daily": 15570
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Si Preguntan por Mí",
+      "trackId": "4BHysBnR9QD9cSDlx0hC5s",
+      "total": 42526963,
+      "daily": 9707
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Un Vato Como Yo",
+      "trackId": "33rsnrH0JDKiKBQ2SUxcmz",
+      "total": 42050928,
+      "daily": 25349
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Como Pacman",
+      "trackId": "5z9OwCciXDZyvlZ001pJN8",
+      "total": 41624282,
+      "daily": 84003
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Déjame en Paz",
+      "trackId": "7y16XmtzjTGe8QxTmExwSX",
+      "total": 41611882,
+      "daily": 17856
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Socios",
+      "trackId": "3NReGrUkU0NQzLqGVVwRu8",
+      "total": 40810653,
+      "daily": 5816
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Si Aquí Estuvieras",
+      "trackId": "2uH7BbKKG9bzVBuHdL5TB2",
+      "total": 39400128,
+      "daily": 9312
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Veneno",
+      "trackId": "1CnXQvOAbg0YPFKdNr26ST",
+      "total": 38765262,
+      "daily": 31332
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "El Humo Llama",
+      "trackId": "35FaiHAxYcrMmGzRDnmjWo",
+      "total": 38739664,
+      "daily": 15629
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Si Nos Quieren Bien! (feat. Santa Fe Klan)",
+      "trackId": "3RrstqNjIHoissbZpE9EKV",
+      "total": 37794778,
+      "daily": 3088
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "La Primera Vez",
+      "trackId": "1fYklg2kEJ9Uxnr2fxtX78",
+      "total": 36170040,
+      "daily": 35692
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Lo Nuestro Se Murió (feat. Samantha Barrón)",
+      "trackId": "7pYUaxG7vUU5UcpQKa3cQw",
+      "total": 35154960,
+      "daily": 15360
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Prohibida",
+      "trackId": "7bbo8bW8isBHUSrd2pVF7z",
+      "total": 34603819,
+      "daily": 29278
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Despido a Cupido (feat. Jay Romero)",
+      "trackId": "26x1GPQ9ytAppUVq8YD85w",
+      "total": 34444644,
+      "daily": 7549
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Fuck Todas Menos la Mía",
+      "trackId": "0dAYFcm8UEWrlryy3ivfFn",
+      "total": 34136285,
+      "daily": 5796
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Afuera Que Tengan Miedo",
+      "trackId": "3oeSFfnALGnx4nrYiOixxD",
+      "total": 34075824,
+      "daily": 12496
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Ahora Preguntan",
+      "trackId": "4h4aLuUdPJQehnMCGyefCu",
+      "total": 33164198,
+      "daily": 11927
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Hace Tanto Tiempo",
+      "trackId": "4gOkQHYJ1ImPzNQJORg1nD",
+      "total": 33099991,
+      "daily": 20873
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Otro Día",
+      "trackId": "5V7SoTP9FWFeXblR9sRTFP",
+      "total": 32940568,
+      "daily": 17602
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Culpable Soy Yo",
+      "trackId": "23iwhpEiVdcrgzrB0BgBx1",
+      "total": 31754692,
+      "daily": 11239
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Abran Paso",
+      "trackId": "1Swd8UbwQki9BK5zDFhflv",
+      "total": 29938791,
+      "daily": 51988
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Feria en el Sobre",
+      "trackId": "65C6XLTjQ1sbmldzcUVNi1",
+      "total": 29938716,
+      "daily": 18263
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "La Calle Que Me Gusta",
+      "trackId": "3pF39YbSMSvJsvot02nvXI",
+      "total": 27780902,
+      "daily": 25656
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Carita de Ángel",
+      "trackId": "01hgvJRWaAVi9kAfKOa4TC",
+      "total": 27067557,
+      "daily": 11597
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "La Cone",
+      "trackId": "4QV1UDysVcpkHOGh2va5nt",
+      "total": 26669555,
+      "daily": 13189
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Suelo Soñar, Correr y Tropezarme",
+      "trackId": "2sjGRnXlrjd6Nxi44X8f10",
+      "total": 26139992,
+      "daily": 14135
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "El Otro",
+      "trackId": "1pOXQUwrn9JBAvHERp9d3U",
+      "total": 25556366,
+      "daily": 8986
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Fotos y Recuerdos",
+      "trackId": "1kW9YAt1Tl5xp1fZZZQ4KL",
+      "total": 25028176,
+      "daily": 8266
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Diamantes",
+      "trackId": "5tsaIE9YwWkgnSzKbAkcr5",
+      "total": 23910344,
+      "daily": 6624
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Shelby",
+      "trackId": "60av63OprW6lhIjmxC387W",
+      "total": 23690694,
+      "daily": 8607
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Nadie Te Podrá Olvidar",
+      "trackId": "7rSBTWgcgaTFni5aHc1OKx",
+      "total": 23341407,
+      "daily": 2998
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Volverás",
+      "trackId": "7umPXCzENEpSxq9RJjCrqg",
+      "total": 22943231,
+      "daily": 8871
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "A 120",
+      "trackId": "5UaxYPAJvLc5uuV9sbTZjP",
+      "total": 22775066,
+      "daily": 11705
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Con Cuantos Voy a Contar",
+      "trackId": "2HYoYZOIy4OYXEv55LCOOZ",
+      "total": 22523623,
+      "daily": 8649
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Tardes",
+      "trackId": "3Y5jrneE5ErAfidBuofcKJ",
+      "total": 22059918,
+      "daily": 8875
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "No Lo Ven",
+      "trackId": "6USiHWlsqAipGpMmNDs6sB",
+      "total": 21542525,
+      "daily": 7732
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Bingo",
+      "trackId": "5elyQNOn74xYkuyXpyRotm",
+      "total": 21330195,
+      "daily": 8639
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "A Lo Mexicano",
+      "trackId": "5f6naStammfYxdWW9FLPgq",
+      "total": 21141648,
+      "daily": 5763
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Te Escondes",
+      "trackId": "7qpV9Ot7eEtfKky1FI2yNY",
+      "total": 20891036,
+      "daily": 5123
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Ahí Les Va (feat. Grupo Codiciado)",
+      "trackId": "1vSu27UIKleHNyYqk8OxV9",
+      "total": 20731139,
+      "daily": 2306
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Siempre High",
+      "trackId": "2mimHhtQ7lK2JI2Bl4GKow",
+      "total": 20533589,
+      "daily": 3310
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Lejos de Ti",
+      "trackId": "1WCzmR5xwEmusEPREfyLLu",
+      "total": 20285350,
+      "daily": 14420
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "No Te Lo Voy a Negar (feat. HERNAN TREJO)",
+      "trackId": "1PYasLFmnJN47f1PFzne53",
+      "total": 20283084,
+      "daily": 6082
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Qué Chula Mi Ciudad (feat. Celso Piña)",
+      "trackId": "4SGSmlO6khOtjZtMBw67Da",
+      "total": 19846751,
+      "daily": 4272
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Flaco Pesado (Remix)",
+      "trackId": "70ZMJoLYis23b3YFWEQRI0",
+      "total": 19832325,
+      "daily": 11912
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Papá",
+      "trackId": "6LqI79HurtSLxv8ulJohvG",
+      "total": 19583110,
+      "daily": 16415
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Esta Vida",
+      "trackId": "6ViTFpSkkCl9JYdzNNtMHl",
+      "total": 18964439,
+      "daily": 11045
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Gran Pez",
+      "trackId": "7yOtPyF3XO1P67YuZfLO5N",
+      "total": 18153939,
+      "daily": 5768
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Sin Tí",
+      "trackId": "1CVFoZce14kgdDQgWxW2BP",
+      "total": 17720542,
+      "daily": 11551
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Ya No Te Pude Ver",
+      "trackId": "4qSqnCaVelsI9bvwrxJjty",
+      "total": 17719089,
+      "daily": 3944
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Problemático",
+      "trackId": "2UqRs7iGN674apUGrgcJE3",
+      "total": 17673798,
+      "daily": 2050
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "La Calle Sonríe",
+      "trackId": "7CCU21aek1XeUYyv28ANSR",
+      "total": 17404320,
+      "daily": 5267
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Último Adiós",
+      "trackId": "62NGexdWmThjmnnlobPev4",
+      "total": 17254200,
+      "daily": 4134
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Baby Vegas",
+      "trackId": "5oO51KGOghC1cHEkxwnA2g",
+      "total": 17076868,
+      "daily": 6392
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Mi Templo",
+      "trackId": "45Z5pbWXummGFREUth3IwR",
+      "total": 16792407,
+      "daily": 3480
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Con Mi Fe (feat. King Lil G)",
+      "trackId": "4FMrJDVJzNfWExDvuhKlj0",
+      "total": 16312568,
+      "daily": 3504
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Ríe, Mala Suerte",
+      "trackId": "0yh3AgrBccqmECziKNbXXy",
+      "total": 16150560,
+      "daily": 8171
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Mundo de Viboras",
+      "trackId": "5xwvUk32k4rPScnPptvdSJ",
+      "total": 16109014,
+      "daily": 8213
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Que Me Dejen Tranquilo",
+      "trackId": "1AVK4362BVBgNhGzKZSl3g",
+      "total": 15735678,
+      "daily": 9936
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Independiente",
+      "trackId": "03LrV2F4RWe8sViFjSLXkI",
+      "total": 15547610,
+      "daily": 11617
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Extrañándote",
+      "trackId": "0eE9QHMoSOqmSRMOixRnsk",
+      "total": 15532528,
+      "daily": 12486
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Cuervos (feat. Bipo Montana)",
+      "trackId": "1WVmQtdmHTlWwaQiULZcNh",
+      "total": 15148759,
+      "daily": 3024
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "La Conocí",
+      "trackId": "22aV2kIS086pG6vVOsAI2s",
+      "total": 15043738,
+      "daily": 7201
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Jugando a Perder",
+      "trackId": "2HCBHEC5GOevDnWTIP7OH3",
+      "total": 14917702,
+      "daily": 17972
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Guadalajara",
+      "trackId": "3GtG0XwENlN6axQI33FjsR",
+      "total": 14736313,
+      "daily": 4324
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Let Me Roll - Bonus Track",
+      "trackId": "0zldluFZE41FiBaHF9Hni3",
+      "total": 14465717,
+      "daily": 5482
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Panteones y Calacas (feat. Dj Lico)",
+      "trackId": "4AwA5zkzr2K2TLxgOWe3rD",
+      "total": 13798845,
+      "daily": 2254
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Rumores",
+      "trackId": "21fKWx7DsK6vd16j8QoaJe",
+      "total": 13703828,
+      "daily": 4618
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Ilegal",
+      "trackId": "0cTwOl6O8Vp9bcCqiXryum",
+      "total": 13688334,
+      "daily": 4655
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Un Arma en el Cajón (feat. Samantha Barrón)",
+      "trackId": "1VLxwDrWdup9WYIauF2gDi",
+      "total": 13461486,
+      "daily": 4419
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Plásticos",
+      "trackId": "7e6IQbK5myMtoXkAJh4vYZ",
+      "total": 13357272,
+      "daily": 4360
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Perdido Más No Muerto",
+      "trackId": "2IwpV2UAbLErksGyl6YGXz",
+      "total": 13347836,
+      "daily": 3063
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "La Guapa del Baile",
+      "trackId": "57RHQPAlVEA0UvRtkJzSJh",
+      "total": 13332966,
+      "daily": 3020
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Todo x Nada",
+      "trackId": "2VHgL82Mtbso1VoMikWkS7",
+      "total": 13326239,
+      "daily": 8671
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "MILAMORES",
+      "trackId": "3BwpikW22EuUKHZcLUrVPa",
+      "total": 12985415,
+      "daily": 3052
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Close Friends (feat. Cozy Cuz)",
+      "trackId": "60hXYwPxHvSF4U5Yzalxtt",
+      "total": 12899081,
+      "daily": 18719
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Seasson 1: Gera Mx (Cap. 9)",
+      "trackId": "6O3LP159BROUGorcXZzKDi",
+      "total": 12759552,
+      "daily": 4242
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "No Se Sobrepase",
+      "trackId": "0mj2pvcThmx2CPb798jm84",
+      "total": 12362609,
+      "daily": 4472
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Siempre Es Lo Mismo",
+      "trackId": "2Sg6GmnyCyoYkvNezFp98e",
+      "total": 12086809,
+      "daily": 7488
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "¿Que Puede Pasar?",
+      "trackId": "1DHUU7PHnIT7Zyw6oDL2zj",
+      "total": 11676475,
+      "daily": 6419
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Buenos Tiempos",
+      "trackId": "6IW4wYSeavDeFzfVaXf9od",
+      "total": 11464196,
+      "daily": 2252
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Pupilas",
+      "trackId": "1OlSoRXEYPQOT4MnxYGeTw",
+      "total": 11030696,
+      "daily": 12111
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Dos Caras",
+      "trackId": "3Fy8eG3j2aPZ47bOlUtYhM",
+      "total": 11029338,
+      "daily": 3017
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "444 Paradise",
+      "trackId": "5mQWoOKtC2QUrdwoUQOKGX",
+      "total": 10768088,
+      "daily": 3366
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "No Me Llames",
+      "trackId": "7rJt0rCOc1Gdp1TuRUyvtO",
+      "total": 10750058,
+      "daily": 3593
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Gitana",
+      "trackId": "7yKNL9MaUeInxPZlw8DeUv",
+      "total": 10690664,
+      "daily": 4477
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Sin Perder el Tiempo (feat. Gera MX)",
+      "trackId": "48L0ggJequRCAMDwQZySS7",
+      "total": 10607568,
+      "daily": 2697
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Todo el Brillo Que Decias",
+      "trackId": "3FzMuHVBeUwq82LNUfQbCn",
+      "total": 10488521,
+      "daily": 3609
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Wiken",
+      "trackId": "3wiQHn5XtL4jSnIetSCGA8",
+      "total": 10462084,
+      "daily": 2644
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Pedrito",
+      "trackId": "3Wr5jti1jcgeh5XY8e3q4q",
+      "total": 10437444,
+      "daily": 1875
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "No Le Meten",
+      "trackId": "3QUPrGLLN05Nn53vhyegeF",
+      "total": 10427014,
+      "daily": 1848
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Paisajes",
+      "trackId": "7jootLrnGZWnVzHv6qjHqy",
+      "total": 10350557,
+      "daily": 17402
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Mienten",
+      "trackId": "2y07S4H5qH1oc3aFhdx4Ep",
+      "total": 10298478,
+      "daily": 5933
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Llámame - Remix",
+      "trackId": "42hgRwPlyf7LAl23MAXOfM",
+      "total": 10055166,
+      "daily": 2183
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Toca Olvidarte",
+      "trackId": "5SsAclJlWnEK9lLaUL1mII",
+      "total": 10031391,
+      "daily": 10724
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Brillo",
+      "trackId": "1T9EpmrDvircybX20ARQT5",
+      "total": 9895301,
+      "daily": 3943
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Traición",
+      "trackId": "4BflgJLizU9pNVTjhGrOHD",
+      "total": 9892861,
+      "daily": 7854
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "100 por Hora",
+      "trackId": "6WfCalNd1PLqKf2vqEksvr",
+      "total": 9839850,
+      "daily": 2906
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Shhh...",
+      "trackId": "3DVnbcHYIQNv6EiPnOioaC",
+      "total": 9811629,
+      "daily": 4533
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Atrapado en un Sueño",
+      "trackId": "4c7nGM9irzliRPB9wiNq9l",
+      "total": 9673846,
+      "daily": 7999
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Envidia",
+      "trackId": "6rQ9I72iuHumSF1zBCGrPA",
+      "total": 9590126,
+      "daily": 2330
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Te Lo Ruego por Ellos",
+      "trackId": "2CmaUI6Z2D1rjYpRjgyBIK",
+      "total": 9439391,
+      "daily": 1876
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Triste Bolero",
+      "trackId": "1Qbhtpok8K6m8FJDiRNgVJ",
+      "total": 9090085,
+      "daily": 7146
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Mustang 65'",
+      "trackId": "3vVnKrR31NraqoVTMIm0Cp",
+      "total": 9049837,
+      "daily": 4783
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "No Se Escucha por Ahí",
+      "trackId": "0svTtIuc9dXDvFC5sXxyco",
+      "total": 8934578,
+      "daily": 1299
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Historial",
+      "trackId": "1pIoUbilTxqAOlSaGXsN5B",
+      "total": 8638247,
+      "daily": 6711
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Sin Darme Cuenta",
+      "trackId": "3Hc3mDWBZF13GIA6XLDion",
+      "total": 8603784,
+      "daily": 2520
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Líberanos del Mal",
+      "trackId": "50HdHLFgOWqVhADnXU676A",
+      "total": 8557086,
+      "daily": 1967
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Piso 64",
+      "trackId": "5Ki8X8qHUwax4YK3WUORqC",
+      "total": 8495059,
+      "daily": 13898
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Cuarto de Hotel",
+      "trackId": "3eWuNFgikrnxJF06SnjL8g",
+      "total": 8401752,
+      "daily": 1698
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Tu Héroe",
+      "trackId": "5AKWFDSXV2edVPHPlaO9qL",
+      "total": 8318427,
+      "daily": 18923
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Dicen",
+      "trackId": "5Pnoxz9n1PCb5a4aYB0hic",
+      "total": 8227846,
+      "daily": 1720
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Bien Puesto",
+      "trackId": "4Md5FT8xVEpn115fQPi8aM",
+      "total": 8039953,
+      "daily": 1941
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "250K",
+      "trackId": "3N9oVmLefspH8zUVMLnEFd",
+      "total": 7982204,
+      "daily": 15571
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Estoy Buscando Mi Nombre",
+      "trackId": "1ZZWVxFQ0OFNNLmdbhVPii",
+      "total": 7929904,
+      "daily": 1886
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "La Flaca",
+      "trackId": "66ANMTDkHP390fAYlDbfSJ",
+      "total": 7814702,
+      "daily": 7427
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Diana",
+      "trackId": "75e2FoLDDTQdOtEpoN26cA",
+      "total": 7772165,
+      "daily": 3538
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Las Que Te Escribí y Nunca Te Canté",
+      "trackId": "732GMI5IiqyZ9OYZXEzA4N",
+      "total": 7729105,
+      "daily": 6725
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Agarrando Vuelo",
+      "trackId": "6d7eQwWvYTIw1TRCvyv3Af",
+      "total": 7605947,
+      "daily": 1384
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Misterio",
+      "trackId": "4XhMqjbmp5itrPFNaCrHdF",
+      "total": 7526286,
+      "daily": 3146
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Mi Realidad",
+      "trackId": "1NRb8WmYxy84I5TB3Ltcdj",
+      "total": 7487492,
+      "daily": 4546
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Parece Que Fue Ayer",
+      "trackId": "2LiEnQBBQUovjPBF3NTNTw",
+      "total": 7439645,
+      "daily": 1657
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Voy Solo",
+      "trackId": "2cne5V4dtjHazzvpw1yW7P",
+      "total": 7420591,
+      "daily": 1936
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Cállese",
+      "trackId": "360mOrU0yolwXKY8z2uEaE",
+      "total": 7270893,
+      "daily": 1464
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Querida",
+      "trackId": "5RyOeJHSAHUVZi2nAR2qlf",
+      "total": 7240159,
+      "daily": 3058
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Llegue Pa Hacer Billetes",
+      "trackId": "13U5kHiHh7K4UDQ2P30oIT",
+      "total": 7218162,
+      "daily": 1867
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "On My Mind",
+      "trackId": "3Nb1HMWhunuQBKfQbtY5oA",
+      "total": 7172816,
+      "daily": 3401
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "90S Kid",
+      "trackId": "5LrPy9LvwsrI5IM536D0As",
+      "total": 7144796,
+      "daily": 7209
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "El Reloj del Corazón",
+      "trackId": "5q20ChVvFID1D8wL6TSxjm",
+      "total": 7064858,
+      "daily": 6383
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Futuro / Luz y Sombra",
+      "trackId": "6YsgsJvLwIimIzJ0HzHieZ",
+      "total": 7056455,
+      "daily": 3622
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Pa'l After (Y le Fumo)",
+      "trackId": "1WUtpUQJTziUErqdke3eac",
+      "total": 6854623,
+      "daily": 11066
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Globos de Helio",
+      "trackId": "6X9qDahZ1xO7vQfW7MqaGE",
+      "total": 6840966,
+      "daily": 2391
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Clásico",
+      "trackId": "0ekpP0eZGFA2g9lD2YgL7B",
+      "total": 6823921,
+      "daily": 2685
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Te Encontré",
+      "trackId": "5wLCbB3gPh2h5O8aLQpj3C",
+      "total": 6805135,
+      "daily": 11349
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Ahora Tengo Todo",
+      "trackId": "6mjE9mvcfRix7rTXQKWfBT",
+      "total": 6795104,
+      "daily": 3935
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Cuatro 44",
+      "trackId": "5PcxOKZC1CjKX9WLLLXjT7",
+      "total": 6778481,
+      "daily": 4528
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Por Un Beso",
+      "trackId": "390hl8efmjrNQKiCgP2sU0",
+      "total": 6744279,
+      "daily": 7444
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Carta al Cielo (feat. Martina La Peligrosa)",
+      "trackId": "5EtitrzH1y3V5r9RAPR3mv",
+      "total": 6701754,
+      "daily": 2514
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Aprendiz",
+      "trackId": "7AnB56ku5qF4CTnORK0aJf",
+      "total": 6694737,
+      "daily": 2531
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Flor",
+      "trackId": "1VL45GP8n9J7NiwYTyWCHf",
+      "total": 6623418,
+      "daily": 2661
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Papa",
+      "trackId": "58FxMl4orEL7loa9QUEmsc",
+      "total": 6581021,
+      "daily": 1951
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Virtud",
+      "trackId": "5FG9dzfDRsJLVs3YwltsYK",
+      "total": 6542119,
+      "daily": 1932
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Sonrisa Grande, Ojos Tristes",
+      "trackId": "0lBgg4RBEbDroO3SxeG5G9",
+      "total": 6526036,
+      "daily": 1814
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "El Mero Mero",
+      "trackId": "2AqmW4ZvuuEvHNxTC5NuIp",
+      "total": 6522349,
+      "daily": 2250
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Las Calles Hablan",
+      "trackId": "3St6Cmnu7aSFz61Qo6Vult",
+      "total": 6339349,
+      "daily": 1847
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Bendecido",
+      "trackId": "50PEoLvQw5Wr5KxEAIzN3u",
+      "total": 6227720,
+      "daily": 5227
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Bendición",
+      "trackId": "1LSQFOhuhJUZM1wEX7OCAX",
+      "total": 6188981,
+      "daily": 6673
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Estaba Sola",
+      "trackId": "7aIThRKpe9ZpsEbLqE2GMg",
+      "total": 6160287,
+      "daily": 4532
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Dinero Sobre Amor",
+      "trackId": "5TZyQ3eHWw5uBesFJ9irEQ",
+      "total": 6097525,
+      "daily": 1749
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Te Estaba Pensando",
+      "trackId": "0zDShO01tPtc9UzORBXbiX",
+      "total": 6088953,
+      "daily": 2534
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Yo Crecí",
+      "trackId": "1CKsvJhNsyr1CYKSDBsNg2",
+      "total": 5883556,
+      "daily": 1130
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Nuestra Herencia",
+      "trackId": "2YLR1NbFdvx38nrF9STjl9",
+      "total": 5841098,
+      "daily": 4455
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "A Mis Amigos",
+      "trackId": "0P1jtpKEKXEXfTJde4XBzr",
+      "total": 5821278,
+      "daily": 3459
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Diamantes y Rosas",
+      "trackId": "68pq7PUpfdBlU3x0ChRkOw",
+      "total": 5807840,
+      "daily": 3519
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Otro Texto",
+      "trackId": "0PjNLgBis0ocir4jVgFQY1",
+      "total": 5758969,
+      "daily": 1295
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Nunca Sabrás Cuánto",
+      "trackId": "7bRhkyeYBACx1hMvUTahTg",
+      "total": 5753396,
+      "daily": 704
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Difícil de Entender",
+      "trackId": "0vC0VgobTJrosZtPWqBqIc",
+      "total": 5744840,
+      "daily": 1129
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Run",
+      "trackId": "3tTJkSgyRkQfKvf5CblNPZ",
+      "total": 5661485,
+      "daily": 4755
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Normal",
+      "trackId": "5I0Fn1z4QFVEYiTeX95X5i",
+      "total": 5532484,
+      "daily": 1992
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Santo Grial",
+      "trackId": "2Yf1mFq3vuZKGKwolRVqsJ",
+      "total": 5295436,
+      "daily": 1789
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Piedras al Cielo",
+      "trackId": "1kpzO0oKQlOMdV8tKEgDoo",
+      "total": 5263353,
+      "daily": 724
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Freestyle",
+      "trackId": "0hxg79IfaTi5ps0M52cdxw",
+      "total": 5259841,
+      "daily": 2520
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Sin Miedo",
+      "trackId": "78yMGZzoo4E76rifQnCEiL",
+      "total": 5218666,
+      "daily": 3117
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Cabo Girl",
+      "trackId": "7w6t2xkwXgb8uBJQJ3Kk9N",
+      "total": 5206951,
+      "daily": 8860
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Solo Respiro",
+      "trackId": "0CMXGgztx6senGLfRQanET",
+      "total": 5180642,
+      "daily": 2882
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Hagan Ruido",
+      "trackId": "2y7e8XX4yosnlS8XXe6MFE",
+      "total": 5159263,
+      "daily": 1541
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Tic Tac Toc",
+      "trackId": "2WaC3DXN6MuNHFXmWsXNgR",
+      "total": 4944241,
+      "daily": 699
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "High",
+      "trackId": "7LqMaAu4pK8ReI1aKtOihF",
+      "total": 4929364,
+      "daily": 1056
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Perdí la Cuenta",
+      "trackId": "1xZub7u7tJvnsj198BQiRK",
+      "total": 4684816,
+      "daily": 1135
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Me Recuerdas",
+      "trackId": "3bQOVzaFWHrQwiUCY8P8dK",
+      "total": 4621272,
+      "daily": 610
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Sin Rumbo",
+      "trackId": "1yIVFs4m0bfgwCB6wJyduq",
+      "total": 4614697,
+      "daily": 2302
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Que Se Caiga el Canton",
+      "trackId": "5LQsaCA2tn43f0387mSuvN",
+      "total": 4602836,
+      "daily": 551
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Miren",
+      "trackId": "26QCwwosXJCs9k9XxhVvHv",
+      "total": 4574390,
+      "daily": 1444
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "La Última y Nos Vamos",
+      "trackId": "3rm1KpfV6vYGnLkOnCtppK",
+      "total": 4540788,
+      "daily": 2288
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Mac Miller",
+      "trackId": "5oXiB5xbtfBmubJDqgA5Z2",
+      "total": 4492943,
+      "daily": 4779
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Cara Tapada",
+      "trackId": "783qTRt2sH1nF4nNUEGXyb",
+      "total": 4477161,
+      "daily": 2988
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Drift",
+      "trackId": "6XAvWr43wIYpcQ6mX080wx",
+      "total": 4392750,
+      "daily": 7095
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Dandole Voz",
+      "trackId": "1FS1mUUWmGIpjrEMt2Rsx8",
+      "total": 4382724,
+      "daily": 640
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Mundo de Víboras",
+      "trackId": "6xwlgDtGNAhUETnwZs9vwQ",
+      "total": 4341188,
+      "daily": 1138
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "NO LOGRÉ CONQUISTARTE",
+      "trackId": "2PAjRPUvexWW0Fy3qdIriI",
+      "total": 4238982,
+      "daily": 3089
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Paciencia",
+      "trackId": "7wlis6osRkPADIkRRentDE",
+      "total": 4238218,
+      "daily": 3258
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "La Misión (Episodio 1)",
+      "trackId": "4cPqCZXsVh9xJwIK7mJqsA",
+      "total": 4152025,
+      "daily": 3375
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Detroit",
+      "trackId": "5JC1bLOtjdralP45pn9C7W",
+      "total": 3924673,
+      "daily": 2823
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Todo a Medias",
+      "trackId": "7Eu7cRCgD324SIodueViFT",
+      "total": 3918285,
+      "daily": 4672
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "MVP",
+      "trackId": "7xWky8i89MApbmAZ0wdecv",
+      "total": 3866330,
+      "daily": 2900
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Aunque No Quieran (feat. Rocha)",
+      "trackId": "7eV4r8s33IrlWojjsBtutX",
+      "total": 3849937,
+      "daily": 831
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Telaraña",
+      "trackId": "6zG8Z34VFuHOqqr97YBq0Y",
+      "total": 3745482,
+      "daily": 1198
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Hasta Pronto",
+      "trackId": "3LqNlyufDGjUrodHAUp76Y",
+      "total": 3740169,
+      "daily": 3086
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "10:00 PM",
+      "trackId": "1DJIkBrOBG6Nhy37DRveei",
+      "total": 3671557,
+      "daily": 1865
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Afuera Que Tengan Miedo - Jayrick Remix",
+      "trackId": "3Sualy9gkVDHDgOKcTJgFd",
+      "total": 3667232,
+      "daily": 1783
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Dando la Vuelta",
+      "trackId": "5XEdxWTAHAPoiukAe7Q62k",
+      "total": 3641229,
+      "daily": 1014
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Males",
+      "trackId": "3YPlhAUh6SssKWROews3Nj",
+      "total": 3631034,
+      "daily": 1623
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Montana Con Montante (feat. Gera Mxm)",
+      "trackId": "5q3ygPo5fk4FdWkpwmIMnQ",
+      "total": 3532373,
+      "daily": 2124
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Gangster",
+      "trackId": "1iw8Tvg0BmqIP1jW69sW1R",
+      "total": 3420947,
+      "daily": 1768
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Wassap",
+      "trackId": "0m0u6UJBuxuIzHxUYalN3U",
+      "total": 3419725,
+      "daily": 571
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Corona de Rosas (feat. Tabernario & Neto Peña)",
+      "trackId": "1mSobnemK5oKm2NGczHZm5",
+      "total": 3411880,
+      "daily": 809
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "L. A. Baby",
+      "trackId": "4ZP2MThCDD3mIFft7znptg",
+      "total": 3410669,
+      "daily": 4452
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Quise Ser",
+      "trackId": "5xKimykoUqYKTGFoAiqqoK",
+      "total": 3323005,
+      "daily": 3895
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Calles y Colores",
+      "trackId": "45Suc2PQ4hozXEYZqM70fQ",
+      "total": 3305129,
+      "daily": 1187
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Corona de Oro",
+      "trackId": "4ksanvKNE18HK71BK6agWr",
+      "total": 3286868,
+      "daily": 1455
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Mecha Corta",
+      "trackId": "0eOv02uWpROIogqqzGLGyH",
+      "total": 3244694,
+      "daily": 2828
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Precipicio",
+      "trackId": "2C2XgvkLDD80rXUYszo6Dl",
+      "total": 3193569,
+      "daily": 1512
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "La Última Bala",
+      "trackId": "3NhAkT3pytdPGpvNsjYR0D",
+      "total": 3186565,
+      "daily": 1033
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Orígenes Vivos",
+      "trackId": "5vClRBOUMbPCdV6WXp9PCG",
+      "total": 3183840,
+      "daily": 1267
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "15%",
+      "trackId": "2M6wUfrpn6vxTCALCslqkA",
+      "total": 3171540,
+      "daily": 2374
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Al Mando",
+      "trackId": "0uEQGVBz5bCjBoomEm9GNL",
+      "total": 3104516,
+      "daily": 908
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Tácticas",
+      "trackId": "2WbZSf30SnOo7XrM5983fO",
+      "total": 3084049,
+      "daily": 1449
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Clases",
+      "trackId": "79vsa8VM8RTCTWi4ItEVdV",
+      "total": 2992011,
+      "daily": 3056
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Año 4: Convencido",
+      "trackId": "1rGqHFnZNmhNHXDG1V53hT",
+      "total": 2967738,
+      "daily": 2007
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Intro",
+      "trackId": "6lYQNGTqRG1tnmivq5x0tQ",
+      "total": 2726085,
+      "daily": 745
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "El Músico",
+      "trackId": "31zdrnPnt6uZ09kRN2oIyX",
+      "total": 2710168,
+      "daily": 39186
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Complicado - Sinfónico",
+      "trackId": "5sDrAaXmcZ2RboDCC8snYm",
+      "total": 2680498,
+      "daily": 729
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Mi Viejo",
+      "trackId": "22pdZ0GZ6GRixbB3BecPfE",
+      "total": 2644525,
+      "daily": 3381
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Plaza Con Prada",
+      "trackId": "2r69qGRkyBwiDQVDTXVUer",
+      "total": 2614698,
+      "daily": 3039
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Cuarto de Hotel - Cumbia Remix",
+      "trackId": "2j9OnbrzrAoeQOr4Kt0ELS",
+      "total": 2555715,
+      "daily": 512
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Me Contradigo",
+      "trackId": "4doFohBDl3CGaI3NtRzohd",
+      "total": 2549014,
+      "daily": 1126
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Vago$ Cypher",
+      "trackId": "0LAnxV8FtIGa2xoSP8JdKS",
+      "total": 2422150,
+      "daily": 3560
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Millo",
+      "trackId": "0kMB2UQtjSJl60RogKOunE",
+      "total": 2405051,
+      "daily": 1389
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Cypher Rv X Capital Gang",
+      "trackId": "5hjdGrBkuYrNBAuiqahcES",
+      "total": 2321787,
+      "daily": 3785
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Juego Limpio",
+      "trackId": "2UfoGvOKszBezOSCsXjGMw",
+      "total": 2161214,
+      "daily": 631
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Se Escapan",
+      "trackId": "636xT9xkCgZjO9LoOr74gL",
+      "total": 2157375,
+      "daily": 964
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Triple 4",
+      "trackId": "5JqnWRFW6gRw8QUhg0u12T",
+      "total": 2088129,
+      "daily": 906
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Ni la Suerte Ni el Fuego",
+      "trackId": "1CjpaNIGC4spV6S3m0k6FL",
+      "total": 1855615,
+      "daily": 1437
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Cadillac",
+      "trackId": "1ApKqRx14yrCxmTBkBEzbL",
+      "total": 1823125,
+      "daily": 960
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Desde Afuera",
+      "trackId": "74xoqTiJmGfeVEoyAOChnR",
+      "total": 1803092,
+      "daily": 189
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Viajero",
+      "trackId": "5ZlTpljqf5eoQrFtgA9QYC",
+      "total": 1726241,
+      "daily": 748
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Maquilar",
+      "trackId": "3mgJLoz5vh6QSoqjxlmLz5",
+      "total": 1702164,
+      "daily": 6285
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "No Me Vuelvo a Emborrachar",
+      "trackId": "1QNJmgXbCGiksbQPYk6bjg",
+      "total": 1656943,
+      "daily": 6533
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Esta Lloviendo Afuera",
+      "trackId": "4HtBYjnfp29NNfmDUPCaIA",
+      "total": 1648657,
+      "daily": 378
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "BSG1: Flow de los 2000's (ft. B.Smile)",
+      "trackId": "5audKLsqbxvpjzK3HOeJhq",
+      "total": 1631770,
+      "daily": 1143
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Segunda Parte",
+      "trackId": "23KkstVZWMFnPygGssTwUt",
+      "total": 1480382,
+      "daily": 635
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "El Último Baile",
+      "trackId": "6y2uNMeKiA8rNI1E5UtxkP",
+      "total": 1433357,
+      "daily": 1242
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Menos es más",
+      "trackId": "6lN6r8T62aXB44nJ2FwAU7",
+      "total": 1309063,
+      "daily": 602
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Alucin Machin",
+      "trackId": "7cUbatzrGBIBaKl1TJ8xJ8",
+      "total": 1286532,
+      "daily": 1131
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Mujeres y Metales",
+      "trackId": "0I2FQ0Vh4QXYAFdEpKplal",
+      "total": 1269178,
+      "daily": 511
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Cuando Llegue el Día",
+      "trackId": "5O60WjoCD5egvktd0FK283",
+      "total": 1241491,
+      "daily": 777
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Outro",
+      "trackId": "6z8F7JBK1v5t7BXkRKbICV",
+      "total": 1232899,
+      "daily": 428
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "No Llegaré (Remix del Remix)",
+      "trackId": "4MPaUIcTJe0Nu6T3HEnC6j",
+      "total": 1188239,
+      "daily": 179
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Ángel de L.A. Guarda",
+      "trackId": "4zJ7HoXJbGlbq8dXMGbzks",
+      "total": 1186100,
+      "daily": 10848
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Mujeriego",
+      "trackId": "78pZP3ygbL6SYiSPdRC6Oz",
+      "total": 1164302,
+      "daily": 3797
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Intro",
+      "trackId": "2yQaQZGZrHC9e5tVHvVzbQ",
+      "total": 1142518,
+      "daily": 596
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "No Veo, No Siento",
+      "trackId": "1xs5vNAhUDHx98VJaWXn5z",
+      "total": 1087864,
+      "daily": 329
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Bonus 14",
+      "trackId": "6gESYYSiv0dFRTkcOWjoZ0",
+      "total": 1036723,
+      "daily": 422
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Vagos",
+      "trackId": "04iNeBioZRornBNjEuMMBv",
+      "total": 1011011,
+      "daily": 550
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Sad But True",
+      "trackId": "0X2byvEma7Kf9ufrEQukOz",
+      "total": 975768,
+      "daily": 371
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "SEÑORA",
+      "trackId": "3fdNWxt28fmjxYuGnYn6ME",
+      "total": 888310,
+      "daily": 1342
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Latino America Morena",
+      "trackId": "5yKFQKNQlMdG8x9UtyZQsu",
+      "total": 865865,
+      "daily": 650
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Intro",
+      "trackId": "6mQSVMhrFEkPBd0iLvlCyB",
+      "total": 837574,
+      "daily": 335
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Bonus 15",
+      "trackId": "3czzBAhDCJTPji0v5EoFt5",
+      "total": 832476,
+      "daily": 218
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Las Que Te Escribí y Nunca Te Canté - Unplugged",
+      "trackId": "5NLfjsmLCiAq5j3IMfJykJ",
+      "total": 819310,
+      "daily": 1097
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Jugando a Perder - Unplugged",
+      "trackId": "2Igv9XGKuTmJowz8zCZVPj",
+      "total": 784414,
+      "daily": 1139
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Intro",
+      "trackId": "2U1iNLTkzMYZ0VhjDNLE9F",
+      "total": 777514,
+      "daily": 185
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Sello",
+      "trackId": "0qT7rgTZEmtmt9pquvwlxa",
+      "total": 777140,
+      "daily": 468
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Flow del Caribe",
+      "trackId": "2ozHml7S7WxfIR6FGgRJVO",
+      "total": 744031,
+      "daily": 255
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Postdata",
+      "trackId": "7EeDJpExNNdegbfK0HMm2U",
+      "total": 721636,
+      "daily": 561
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Boogaloo",
+      "trackId": "6EulgjIImQJ7HTLAYbhAsP",
+      "total": 665980,
+      "daily": 476
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Como Lo Creen",
+      "trackId": "4jbIkxBnLDF8iek4qhBVTB",
+      "total": 648341,
+      "daily": 691
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "No Me Deje",
+      "trackId": "3onyMuseupZXLEbZLv7Tsy",
+      "total": 591078,
+      "daily": 265
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Toca Olvidarte - Unplugged",
+      "trackId": "0AaadKYfVzMkHnOMvFUfQ6",
+      "total": 581895,
+      "daily": 728
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Pupilas - Unplugged",
+      "trackId": "7ARHja7sFT26aQjNX1CQ8H",
+      "total": 568949,
+      "daily": 722
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Historial - Unplugged",
+      "trackId": "75AHWSjQYS1fQZsjfBN9zX",
+      "total": 534716,
+      "daily": 695
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Zona - Remix",
+      "trackId": "2uizgJZFm9ofumBPr8l6ci",
+      "total": 513975,
+      "daily": 91
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Triste Bolero - Unplugged",
+      "trackId": "1FJCDQemKRH682KlBsykLN",
+      "total": 482346,
+      "daily": 653
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Huracán - Unplugged",
+      "trackId": "6VONvNk6En3L22AOYf5qgg",
+      "total": 469243,
+      "daily": 628
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Atrapado en un Sueño - Unplugged",
+      "trackId": "7LIbJ5VnXpgoko7vLaO2ip",
+      "total": 443322,
+      "daily": 629
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Nunca Te Pude Alcanzar - Unplugged",
+      "trackId": "0bezwUiQLQaVTiGuNQZvTz",
+      "total": 441873,
+      "daily": 647
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Mac Miller - Unplugged",
+      "trackId": "3MKYctWUfuen1lnnQXRJ7N",
+      "total": 414984,
+      "daily": 512
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Proverbios 14-30",
+      "trackId": "5dUKB02rPdwNWD1lrtfEXU",
+      "total": 314429,
+      "daily": 470
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Las Reglas de la Jungla",
+      "trackId": "0NeyExfImpYvHuQkKx2YEG",
+      "total": 314036,
+      "daily": 1069
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "La Pava Congona",
+      "trackId": "1z4GwruHzEU3RhYT6D9WTr",
+      "total": 222692,
+      "daily": 5226
+    },
+    {
+      "artist": "Gera MX",
+      "artistId": "2hejA1Dkf8v8R0koF44FvW",
+      "trackName": "Cuando la Veo",
+      "trackId": "3NoKHUPUZtVucBWrCZydqz",
+      "total": 189225,
+      "daily": 126
+    }
+  ]
+}

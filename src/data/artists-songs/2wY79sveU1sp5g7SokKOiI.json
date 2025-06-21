@@ -1,0 +1,1822 @@
+{
+  "artist": "Sam Smith",
+  "artistId": "2wY79sveU1sp5g7SokKOiI",
+  "songs": [
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Too Good At Goodbyes",
+      "trackId": "1mXVgsBdtIVeCLJnSnmtdV",
+      "total": 2322905178,
+      "daily": 574655
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Stay With Me",
+      "trackId": "5Nm9ERjJZ5oyfXZTECKmRt",
+      "total": 2313872596,
+      "daily": 590158
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I'm Not The Only One",
+      "trackId": "7795WJLVKJoAyVoOtCWqXN",
+      "total": 2200706629,
+      "daily": 829197
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Unholy (feat. Kim Petras)",
+      "trackId": "0NZPBYD5qbEWRs3PrGiRkT",
+      "total": 1785827874,
+      "daily": 469766
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Dancing With A Stranger (with Normani)",
+      "trackId": "3xgT3xIlFGqZjYW9QlhJWp",
+      "total": 1515754151,
+      "daily": 394130
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Latch",
+      "trackId": "51ODNNDZm21HU7wI7cccRr",
+      "total": 1274578786,
+      "daily": 890298
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Promises (with Sam Smith)",
+      "trackId": "6auDCEMr5aHTNu4Kw9h5U6",
+      "total": 1113411912,
+      "daily": 279472
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "How Do You Sleep?",
+      "trackId": "34pRqzRiFcIuyRMuuEayzY",
+      "total": 1033207978,
+      "daily": 147504
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Like I Can",
+      "trackId": "2TeLIzFBe3hxkPR5FIQZut",
+      "total": 925795130,
+      "daily": 207327
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "La La La",
+      "trackId": "36pLU2ywVeBKEF0rrKtmCB",
+      "total": 897098321,
+      "daily": 533061
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Fire On Fire",
+      "trackId": "7t3Xdbufg7q2onVsR8RBdY",
+      "total": 819376157,
+      "daily": 316026
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lay Me Down (feat. John Legend)",
+      "trackId": "2T3XExryIariqO0fIfXOdw",
+      "total": 615364278,
+      "daily": 62951
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Diamonds",
+      "trackId": "1hJIbOjWpid6LtnozHmzRS",
+      "total": 443579915,
+      "daily": 80744
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Money On My Mind",
+      "trackId": "5XX9oGZfgKMXdHnEp4t2JB",
+      "total": 409906224,
+      "daily": 86384
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Latch - Acoustic",
+      "trackId": "2c4dgwC42CRHlXOSFsHSPf",
+      "total": 394079552,
+      "daily": 46005
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lay Me Down",
+      "trackId": "74sb4Gib0cL3TQeCjYF8vh",
+      "total": 350686142,
+      "daily": 188989
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Have Yourself A Merry Little Christmas",
+      "trackId": "1FLIqoj5XHYn0K4QkndtxY",
+      "total": 347146886,
+      "daily": 1647
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Make It To Me",
+      "trackId": "3EBdDNM1VcD8d8mJJEYIcJ",
+      "total": 343128678,
+      "daily": 56194
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Desire (with Sam Smith)",
+      "trackId": "5tQTZt90XSaYpnM7AL2K3X",
+      "total": 319309388,
+      "daily": 150775
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "To Die For",
+      "trackId": "66ZD4DFAmJe3Y9jv2NXqgI",
+      "total": 319146230,
+      "daily": 45281
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Pray",
+      "trackId": "7DsX5K72fewVGb47qj7Tbg",
+      "total": 305613970,
+      "daily": 31473
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Writing's On The Wall - From \"Spectre\" Soundtrack",
+      "trackId": "7tToQ5ILIIeRmcRnGJjQ2L",
+      "total": 285066200,
+      "daily": 54808
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Omen - Radio Edit",
+      "trackId": "32WoeOOWX1LxpScsVe1iD9",
+      "total": 272407155,
+      "daily": 40704
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I'm Ready (with Demi Lovato)",
+      "trackId": "6GJNINiIzgBRz1OWNpfU9c",
+      "total": 210716802,
+      "daily": 13292
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Leave Your Lover",
+      "trackId": "3b5LW3nS3WFQyS1e8ajGJN",
+      "total": 197081219,
+      "daily": 16099
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Not In That Way",
+      "trackId": "2a4iE4k1IkIswThuJ3ROsw",
+      "total": 193761239,
+      "daily": 12161
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "My Oasis (feat. Burna Boy)",
+      "trackId": "1F2K8y7e7STRGCySkEpBtT",
+      "total": 193638328,
+      "daily": 44963
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "One Last Song",
+      "trackId": "01uk7IzZyFNfQTDBXxx6NB",
+      "total": 166267706,
+      "daily": 16555
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I'm Not Here To Make Friends",
+      "trackId": "3i0FkJYlU4MFfYkjFHXXAM",
+      "total": 165813164,
+      "daily": 45755
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "How Will I Know",
+      "trackId": "1I75ohulScHJpoMmE9Xbfl",
+      "total": 163509201,
+      "daily": 17290
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Burning",
+      "trackId": "2mb6YdoavL6db22p7XKJQZ",
+      "total": 152930618,
+      "daily": 10022
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I Feel Love",
+      "trackId": "0lLdEXmPOQDkyw5DmXXxeK",
+      "total": 136261461,
+      "daily": 35357
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Too Good At Goodbyes - Acoustic",
+      "trackId": "1JhuXhMiTBavuRXQTsGOdV",
+      "total": 128073261,
+      "daily": 31230
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Love Me More",
+      "trackId": "16MQETUgqXwY4lZcyRafU3",
+      "total": 125121369,
+      "daily": 21239
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "No Peace",
+      "trackId": "5ZX1X9Rl4zbx1Wwyn3idVD",
+      "total": 122291038,
+      "daily": 17450
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Nirvana",
+      "trackId": "1eqmErQiuwO9Bup1S0Jnav",
+      "total": 122242540,
+      "daily": 11131
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Midnight Train",
+      "trackId": "1A85fOmviQuGgkF6Lww6Nd",
+      "total": 121468807,
+      "daily": 14493
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Say It First",
+      "trackId": "4K1vOdIFqskQv3zoI0FdAk",
+      "total": 121022548,
+      "daily": 7875
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Baby, You Make Me Crazy",
+      "trackId": "1p1SbqeipOd4ezKUpxqaz6",
+      "total": 113850022,
+      "daily": 13500
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Palace",
+      "trackId": "3zesxb7sOGbeSwUrzLUP0f",
+      "total": 109870790,
+      "daily": 6226
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I've Told You Now",
+      "trackId": "0xun1Olh7EtEef4wIg9l3l",
+      "total": 102407423,
+      "daily": 7439
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Omen",
+      "trackId": "0eevqtJcpjMZDqOL09NbD4",
+      "total": 96579405,
+      "daily": 36805
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I’m Not The Only One (feat. A$AP Rocky)",
+      "trackId": "5RYtz3cpYb28SV8f1FBtGc",
+      "total": 95889133,
+      "daily": 8117
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Life Support",
+      "trackId": "4T2qnyKCo9UISjERbIeJQg",
+      "total": 92719808,
+      "daily": 5896
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Drowning Shadows",
+      "trackId": "6QaTmkR45f8nHCC5iGCALt",
+      "total": 91735208,
+      "daily": 3657
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "You Will Be Found (Sam Smith & Summer Walker Version) - From The “Dear Evan Hansen” Original Motion",
+      "trackId": "6i14jVQ6cq2BxYWlYYgzyD",
+      "total": 84521243,
+      "daily": 16588
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Good Thing",
+      "trackId": "6zHecELSAUYPCmYY8qHuOy",
+      "total": 82359743,
+      "daily": 5713
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "HIM",
+      "trackId": "3AFPGvRzeKeNJbIbLwcz4G",
+      "total": 75990129,
+      "daily": 5023
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lay Me Down - Single Version",
+      "trackId": "7r4dwgu3hzR60pVulZ9IP9",
+      "total": 73311139,
+      "daily": 9416
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Dancing With A Stranger (With Normani) - Acoustic",
+      "trackId": "29f11nLUcMYQ2Ndbnb7N0o",
+      "total": 71632775,
+      "daily": 14500
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Nothing Left For You",
+      "trackId": "5qOWH742APK9OAIhQBflvV",
+      "total": 70015947,
+      "daily": 4957
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "The Thrill Of It All",
+      "trackId": "6TwcRSQgztJFw8tQDrs35D",
+      "total": 69775580,
+      "daily": 3662
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "One Day At A Time",
+      "trackId": "6AUuRg513AfT50d52O60fS",
+      "total": 66425267,
+      "daily": 3994
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Unholy (feat. Kim Petras) - ACRAZE Remix",
+      "trackId": "2Jn3wcH9TSCFMQjlWreTft",
+      "total": 66403433,
+      "daily": 21442
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Pray (feat. Logic)",
+      "trackId": "4S76QxyCdlTHpgDv7gWFe8",
+      "total": 65762714,
+      "daily": 5116
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Who We Love (feat. Ed Sheeran)",
+      "trackId": "16axxBqfSvis8mjhrLHWeH",
+      "total": 61286262,
+      "daily": 17523
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Dancing With A Stranger - Cheat Codes Remix",
+      "trackId": "1JvM7Kcb22HT7naSijW4ry",
+      "total": 58421016,
+      "daily": 4938
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Restart",
+      "trackId": "2NBXroZ0rC1zlcJaPy15NY",
+      "total": 57756581,
+      "daily": 4994
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Kids Again",
+      "trackId": "5LL9lSNn26GBoC5StQ3itk",
+      "total": 57676491,
+      "daily": 6457
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Promises (with Sam Smith) - David Guetta Remix",
+      "trackId": "3Lv3frZVXU7Q0JEFvLIzWW",
+      "total": 55998535,
+      "daily": 4312
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "In The City",
+      "trackId": "3xY5aYJcdvZX9xQxNd02ku",
+      "total": 53747819,
+      "daily": 26853
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Scars",
+      "trackId": "6t4rYZeShwJai1YSs0tWOQ",
+      "total": 53666102,
+      "daily": 3498
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Safe With Me",
+      "trackId": "4Xy46vKRLab0hfzFlcI5fb",
+      "total": 52785277,
+      "daily": 2034
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "go (feat. Sam Smith)",
+      "trackId": "7kgNbYOyDZPzDVE89mLs1O",
+      "total": 52498065,
+      "daily": 13333
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "The Lighthouse Keeper",
+      "trackId": "3aVwV0zmGlXK40tfOhGYIW",
+      "total": 48871497,
+      "daily": 1387
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Get Here - Recorded At RAK Studios, London",
+      "trackId": "6hPlYSx7wsnDE48NypYeuT",
+      "total": 48844315,
+      "daily": 2931
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I'm Not The Only One - Sped Up",
+      "trackId": "4gL8fyRJwOsRIwWi7TXR0n",
+      "total": 47355973,
+      "daily": 9425
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Love Is A Losing Game",
+      "trackId": "2UQCdxXgDWzzYXaAOSI3h6",
+      "total": 47105020,
+      "daily": 2658
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Party of One (feat. Sam Smith)",
+      "trackId": "25fcj6d2W1l8DQL11Czdzb",
+      "total": 47042931,
+      "daily": 6327
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Gimme (feat. Koffee & Jessie Reyez)",
+      "trackId": "7o44vqiznJAsLZpSZwtCkV",
+      "total": 45441696,
+      "daily": 7604
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "For The Lover That I Lost",
+      "trackId": "6VbtCWsziqN8SW3ULogYrM",
+      "total": 44585500,
+      "daily": 5360
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Love Goes (feat. Labrinth)",
+      "trackId": "5aRlRDvXRuP81qEzKTXQvM",
+      "total": 41887381,
+      "daily": 7697
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I'm Not The Only One - Radio Edit",
+      "trackId": "4i9sYtSIlR80bxje5B3rUb",
+      "total": 41165718,
+      "daily": 5737
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "How Do You Sleep? - Acoustic",
+      "trackId": "2ZgUlizmH0VmOJzUwDchAf",
+      "total": 40306659,
+      "daily": 3640
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Omen - Acoustic",
+      "trackId": "4838tqXJWrfVJMe0xeYAAI",
+      "total": 39228536,
+      "daily": 2162
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Fix You - Live",
+      "trackId": "0fGnjXBhmNfWGbL50VhkMd",
+      "total": 38182949,
+      "daily": 10513
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "River - Recorded At RAK Studios, London",
+      "trackId": "3vkLyqzW60sA3z0qnkX4Fs",
+      "total": 37295443,
+      "daily": 365
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Man I Am (From Barbie The Album)",
+      "trackId": "2C3Gsy6HgWQAEm4qaqhgVQ",
+      "total": 35610752,
+      "daily": 6752
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Unholy (feat. Kim Petras) - Disclosure Remix",
+      "trackId": "4y5CHkxTCrgi5coGEAMfMc",
+      "total": 33147045,
+      "daily": 8829
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Forgive Myself",
+      "trackId": "5wHRQRy339ghP31x0hUWcQ",
+      "total": 32787226,
+      "daily": 5400
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Burning - Recorded At RAK Studios, London",
+      "trackId": "5sP1WPrKKjx3MArEVZMLil",
+      "total": 32404278,
+      "daily": 1554
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "VULGAR (with Madonna)",
+      "trackId": "74APVIUFqFFM1ML6SE7xxL",
+      "total": 32103872,
+      "daily": 7657
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Another One",
+      "trackId": "61nXG1EGqF8a9OgRlCLSB4",
+      "total": 28793893,
+      "daily": 3239
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Young",
+      "trackId": "1VCD7bvSOjhJYBcOzQguik",
+      "total": 28735565,
+      "daily": 2418
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Dance (‘Til You Love Someone Else)",
+      "trackId": "7ngTmzqa1PylqWUtMWfCgl",
+      "total": 27671634,
+      "daily": 3270
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "So Serious",
+      "trackId": "1nedyHXLtbomGOaa7BOwYl",
+      "total": 27157578,
+      "daily": 2909
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Stay With Me (feat. Mary J Blige) - Radio Edit",
+      "trackId": "1SXuvrLoDwqFdVSc5yfql7",
+      "total": 26929241,
+      "daily": 4580
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lose You",
+      "trackId": "00I5NjPGm836J2MQmYxhs9",
+      "total": 25829181,
+      "daily": 8023
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Breaking Hearts",
+      "trackId": "5JWTadGxbmqjZYBE3Pwueb",
+      "total": 23922674,
+      "daily": 2589
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I've Told You Now - Live At St Pancras Old Church, London",
+      "trackId": "7kPnL7Fcy9Ael9Mrv77bDK",
+      "total": 23785190,
+      "daily": 1053
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Ahi",
+      "trackId": "5rVy4OrfXilu9iQE423JO0",
+      "total": 22836305,
+      "daily": 12416
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lose You - Felix Jaehn Remix",
+      "trackId": "1YXS5uFWQnwQbN9dmXgYrC",
+      "total": 21131628,
+      "daily": 2923
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Diamonds - Joel Corry Remix",
+      "trackId": "69R0D2yqCZLw0JtOuRDGxh",
+      "total": 20640711,
+      "daily": 2415
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Time After Time - Live At Abbey Road Studios",
+      "trackId": "2EI5lZg5rjvmlpQG45L0lU",
+      "total": 18740667,
+      "daily": 7645
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lay Me Down - Flume Remix",
+      "trackId": "1wQt7Q8x3ODP4pOP7qjSXV",
+      "total": 18734326,
+      "daily": 1406
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Too Good At Goodbyes - Galantis Remix",
+      "trackId": "1PGaDBdO2cG53BmQftfrrh",
+      "total": 18717816,
+      "daily": 1302
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Night Before Christmas",
+      "trackId": "1G3gkAINBj9cCXDArxtT2m",
+      "total": 18709586,
+      "daily": 417
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Love Me More",
+      "trackId": "6maG9OGek8E3dEwp0BwFjT",
+      "total": 18521240,
+      "daily": 3666
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "How To Cry",
+      "trackId": "5TQTUVJ23PhEhrriErbDWb",
+      "total": 16369103,
+      "daily": 2597
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Latch - Live From Madison Square Garden",
+      "trackId": "63i2WzJd0BIyyOT2aVLGVO",
+      "total": 15832026,
+      "daily": 814
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Like I Can (feat. Aitana)",
+      "trackId": "6PtRIDMeWfu53vmvNYCAVm",
+      "total": 15607224,
+      "daily": 13446
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "To Die For - Acoustic",
+      "trackId": "4DyYFJt4ihkt5cRU5TC3Hx",
+      "total": 15380986,
+      "daily": 1898
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Diamonds - Acoustic",
+      "trackId": "4y8OZW2dyWRobsi2w0C64W",
+      "total": 14756784,
+      "daily": 1533
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Promises (with Sam Smith) - Sonny Fodera Remix",
+      "trackId": "1wJiu7QrOanOA9TdK9QFS9",
+      "total": 13799773,
+      "daily": 1089
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "No God",
+      "trackId": "0RlBQOKhSIpAFmn2MbSH6j",
+      "total": 13214150,
+      "daily": 2542
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Temptation",
+      "trackId": "3Ej5jEfdPlj47rq0TznyV9",
+      "total": 12323141,
+      "daily": 1571
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Perfect (feat. Jessie Reyez)",
+      "trackId": "0mL3oQwd5ZoLDpdoVuzrbg",
+      "total": 11885132,
+      "daily": 2189
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Desire (with Sam Smith) - Alok Remix",
+      "trackId": "6BRvCkwXXhIH5UBx3UudHG",
+      "total": 11641700,
+      "daily": 6192
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Hotline Bling - Live From Maida Vale",
+      "trackId": "32TUuHOdKfVvBbMvA997H2",
+      "total": 11477290,
+      "daily": 2011
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Latch - T.Williams Club Remix",
+      "trackId": "1yYXSxVJaFFfI3Qwci2pbA",
+      "total": 11446717,
+      "daily": 1527
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Unholy (feat. Kim Petras) - David Guetta Acid Remix",
+      "trackId": "6uZ6M4MAhDQJDmjCcKDdVf",
+      "total": 11257591,
+      "daily": 2125
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Together",
+      "trackId": "7jd101kQC09hcFF7obf2Ab",
+      "total": 10859865,
+      "daily": 1454
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Stay With Me - Darkchild Version",
+      "trackId": "44FjxW45ItT5hX2BwVrHzT",
+      "total": 10832811,
+      "daily": 344
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Get Happy (with Sam Smith)",
+      "trackId": "4J6xwl0UkdQOjAuV2gBAbl",
+      "total": 10404135,
+      "daily": 542
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "To Die For - Madism Remix",
+      "trackId": "0lV1nrpDhrDtCQNsnjIr3v",
+      "total": 10112856,
+      "daily": 962
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "La La La - Kaos Remix [Bonus Track]",
+      "trackId": "5T4OIa9q7wntvYo5S6M8OD",
+      "total": 9506381,
+      "daily": 1643
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Unholy (feat. Kim Petras) - Sped Up",
+      "trackId": "7jGIvlfRHMZFGCyitjbOK4",
+      "total": 9433905,
+      "daily": 2090
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Latch - Jamie Jones Remix",
+      "trackId": "10t1YEsB5PvCG9Vbz12E1E",
+      "total": 9274840,
+      "daily": 3606
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Six Shots",
+      "trackId": "6XgUELmTiQ2mi6FlgwkOze",
+      "total": 8590904,
+      "daily": 1587
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Gloria",
+      "trackId": "5miqHxHfCGpR6W9u2uzSgj",
+      "total": 8337222,
+      "daily": 1017
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Love Is A Stillness",
+      "trackId": "0IKPdXmMg7I53OLelBYwh9",
+      "total": 8031695,
+      "daily": 15062
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Nirvana - Harry Fraud Remix",
+      "trackId": "2cGEhNrXlanEtKjtq2b58d",
+      "total": 7382779,
+      "daily": 361
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Promises (with Sam Smith) - MK Remix",
+      "trackId": "31rOPFFrOs33oQcfBKaUPe",
+      "total": 7305453,
+      "daily": 363
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lay Me Down - Tiësto Remix",
+      "trackId": "6PnOQ9AXbIMq6OaZIif0IE",
+      "total": 7241651,
+      "daily": 378
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I’m Not The Only One (feat. Alicia Keys)",
+      "trackId": "0XYCqYGz1t26UfKCePwCID",
+      "total": 7119162,
+      "daily": 12614
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Perfect (feat. Jessie Reyez & Cat Burns)",
+      "trackId": "2IcMFRbsnqLFWUUoXKeF3C",
+      "total": 6923806,
+      "daily": 1412
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I’m Not The Only One (feat. TAEYEON)",
+      "trackId": "2mhrwBCeY8L0ZnIwQZjkbL",
+      "total": 6913839,
+      "daily": 5703
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Omen - Dillon Francis Remix",
+      "trackId": "2VoUv3DkStTU5qFBwjYSdI",
+      "total": 6859493,
+      "daily": 652
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Daniel",
+      "trackId": "7w0CSwfUCZ0oYfEJxq7nxL",
+      "total": 6825086,
+      "daily": 959
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Latch - DJ Premier Remix",
+      "trackId": "74VgDsDj0Bzt1c61sVI90e",
+      "total": 6641953,
+      "daily": 1458
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Promises (with Sam Smith) - Sonny Fodera Disco Mix",
+      "trackId": "1EasDZKJKfLGRPnkx1VNGs",
+      "total": 6556791,
+      "daily": 533
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Unholy (feat. Kim Petras) - Orchestral Version",
+      "trackId": "3Qut0F15fqgwVFRPtlnV7a",
+      "total": 6436246,
+      "daily": 1068
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Love Me More - Acoustic",
+      "trackId": "3l3edfGTK3Q0XMienGn4IT",
+      "total": 5930860,
+      "daily": 1038
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Money On My Mind - MK Remix",
+      "trackId": "4eKDxkpMhw2pc2HMZiQzY5",
+      "total": 5392678,
+      "daily": 449
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Stay With Me - Wilfred Giroux Remix",
+      "trackId": "0W60YlMd2O28ZLXZGlEGas",
+      "total": 5097660,
+      "daily": 285
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Omen - Claptone Remix",
+      "trackId": "3MQAYlFFRyaHmIkyTWqcHc",
+      "total": 5015944,
+      "daily": 716
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "To Die For - Ólafur Arnalds Remix",
+      "trackId": "5TAKAAtBgqcylTFei8fFGg",
+      "total": 4710590,
+      "daily": 366
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "La La La - Sped Up Version",
+      "trackId": "77rxqRDx4Ij4ZpLueN4h03",
+      "total": 4644888,
+      "daily": 14549
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Pray - MK Remix",
+      "trackId": "2zUk6jnsKbePS2NwdtXA68",
+      "total": 4579854,
+      "daily": 164
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Stay With Me (feat. Hikaru Utada)",
+      "trackId": "25THzCKzB50yyLfMhaLZ8G",
+      "total": 4453557,
+      "daily": 5163
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Kissing You",
+      "trackId": "4cTafvpYaCM3u41plC0eK4",
+      "total": 4100638,
+      "daily": 1046
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Unholy (feat. Kim Petras) - Dxrk ダークRemix",
+      "trackId": "2HevoolpLFE6OWiWCdObPP",
+      "total": 3862612,
+      "daily": 367
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Too Good At Goodbyes - Snakehips Remix",
+      "trackId": "2TZszn9wztz7n8dNgDgrsa",
+      "total": 3545876,
+      "daily": 131
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Unholy (feat. Kim Petras) - Nova Twins Remix",
+      "trackId": "1G2tlG3tA7uBH5izFZpaGX",
+      "total": 3441568,
+      "daily": 742
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Too Good At Goodbyes - Live At Abbey Road Studios",
+      "trackId": "2jxtcz4S5vSJAZmG1U5soa",
+      "total": 3289549,
+      "daily": 1080
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Latch - Live From Bonnaroo 2014",
+      "trackId": "7MlYRJOFuk7ge8Ruo6rqSn",
+      "total": 3283263,
+      "daily": 95
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lay Me Down - Live At Abbey Road Studios",
+      "trackId": "4CUa8nVas9FJejpZcsQVdD",
+      "total": 3209116,
+      "daily": 953
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I'm Not The Only One - Grant Nelson Remix",
+      "trackId": "2iFMjrK8F60St390jJjEj3",
+      "total": 3207994,
+      "daily": 144
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Diamonds - Live At Abbey Road Studios",
+      "trackId": "2EYFOgfPkmLW3peGU8AYwg",
+      "total": 3205421,
+      "daily": 749
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Desire (with Sam Smith) - MEDUZA Remix",
+      "trackId": "2sCsHk0Av0xgly5rWj2zK2",
+      "total": 3199771,
+      "daily": 817
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I'm Not The Only One - Armand Van Helden Remix",
+      "trackId": "4gbmLrZYi3jc6mnwRvHKqS",
+      "total": 3197245,
+      "daily": 123
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Stay With Me - Shy FX Remix",
+      "trackId": "2V4r4zeMrwOmCiprPRd2iy",
+      "total": 3180426,
+      "daily": 223
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "La La La - Pále Remix",
+      "trackId": "7kF5kuGFInjrkatC84Ps1K",
+      "total": 3129962,
+      "daily": 415
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Desire - Calvin Harris VIP Mix",
+      "trackId": "6r9VRGD1Z1L2D4SqcKyT9T",
+      "total": 3038676,
+      "daily": 686
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Dancing With A Stranger - Live At Abbey Road Studios",
+      "trackId": "3MVBoHYBVPuHNZRp6Qqjs0",
+      "total": 3029778,
+      "daily": 824
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lay Me Down (feat. IZA)",
+      "trackId": "2xrqtO9YPWFMqVk13jlTkr",
+      "total": 2977580,
+      "daily": 1578
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Baby, You Make Me Crazy - Friction Remix",
+      "trackId": "1vXp6ifT8y7gyMmWLREasX",
+      "total": 2898574,
+      "daily": 216
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "How Do You Sleep? - Sleep Mix",
+      "trackId": "3mlYx1bWcPjDtm69hIWGUX",
+      "total": 2767940,
+      "daily": 172
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Promises (with Sam Smith) - Mousse T.'s Disco Shizzle Remix",
+      "trackId": "5g9dvFh8e689Z7tOCUmciR",
+      "total": 2704913,
+      "daily": 554
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Promises - Live At Abbey Road Studios",
+      "trackId": "3v07s9Qz0N11u7PAAAs5GS",
+      "total": 2603762,
+      "daily": 571
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Heavenly Sent",
+      "trackId": "4HgxrKTxCQUSR9qcuLycUN",
+      "total": 2490846,
+      "daily": 674
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "How Do You Sleep? - Live At Abbey Road Studios",
+      "trackId": "57rpsmtlyHpWupFEFk1S7e",
+      "total": 2432228,
+      "daily": 594
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Desire (with Sam Smith) - Extended",
+      "trackId": "6NCp0NR1e8mvGm7iW3InJ8",
+      "total": 2424459,
+      "daily": 731
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lay Me Down - Pomo Remix",
+      "trackId": "5pHmnUHDqXyuYJLTOFazJN",
+      "total": 2382848,
+      "daily": 74
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Love Goes - Live At Abbey Road Studios",
+      "trackId": "7H0lXhqkJjHCPnxK8mVpaC",
+      "total": 2317144,
+      "daily": 565
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "For the Lover That I Lost - Live At Abbey Road Studios",
+      "trackId": "5dmadF5vmPO5ehgPDWg68b",
+      "total": 2299441,
+      "daily": 621
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Desire (with Sam Smith) - Hannah Laing Remix",
+      "trackId": "3oKQoDsbSDki8BEPDhjP2p",
+      "total": 2298944,
+      "daily": 773
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Promises (with Sam Smith) - Extended Mix",
+      "trackId": "5XkDD1oPfuXdgi84ezQ2ts",
+      "total": 2221507,
+      "daily": 244
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "My Oasis - Live At Abbey Road Studios",
+      "trackId": "57Y8QOuSrM9hGpRARGPY1P",
+      "total": 2194602,
+      "daily": 468
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Stay With Me - Live At Abbey Road Studios",
+      "trackId": "36qZjKWeSbXkTeTA8tM4De",
+      "total": 2160791,
+      "daily": 781
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Desire (with Sam Smith) - Sub Focus Remix",
+      "trackId": "0jjTkIzzCfhDr59pkrHueu",
+      "total": 2133255,
+      "daily": 1120
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I'm Not The Only One - Armand Van Helden’s DAT SHIZNIT IZ SLAMMIN’ Remix",
+      "trackId": "5h93rd39ZJ7InOFDSUjh3Y",
+      "total": 2095867,
+      "daily": 58
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Desire (with Sam Smith) - Steve Aoki & Kaaze Remix",
+      "trackId": "4MCz5waYQ6sabZIqhRGkph",
+      "total": 2015320,
+      "daily": 497
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Desire (with Sam Smith) - Don Diablo Remix",
+      "trackId": "38iHj8WKRqWUGk0qsCIvsX",
+      "total": 2007056,
+      "daily": 663
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Kids Again - Live At Abbey Road Studios",
+      "trackId": "2GvW8QspjqmryBZR4yW1gC",
+      "total": 1979332,
+      "daily": 420
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Money On My Mind - Le Youth Remix",
+      "trackId": "2zlZURvN26khqZfwzdE9vl",
+      "total": 1977655,
+      "daily": 53
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "In The City (Charli XCX & Sam Smith) - DJ HEARTSTRING REMIX",
+      "trackId": "1PPyQo1k7wI1U6BcaD0ZfT",
+      "total": 1912418,
+      "daily": 1041
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Beautiful",
+      "trackId": "0uWn41XAyeYza4CIubkoD4",
+      "total": 1781785,
+      "daily": 568
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Money On My Mind - salute Remix",
+      "trackId": "5FA5UR3NIJzaVr8zD8erly",
+      "total": 1774088,
+      "daily": 73
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "VULGAR (with Madonna) - Marlon Hoffstadt Remix",
+      "trackId": "7b7hWcokYDxHYkZ382stF9",
+      "total": 1758167,
+      "daily": 635
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Like I Can - Artful Remix",
+      "trackId": "0AWVRwBxDQ7sOZz6wniynX",
+      "total": 1683882,
+      "daily": 104
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Like I Can - Jonas Rathsman Remix",
+      "trackId": "2I6d7B35FIKzPCkejOdDAK",
+      "total": 1664827,
+      "daily": 72
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "To Die For - Blinkie Remix",
+      "trackId": "1Barp6X1AiaHjLYKuOHpre",
+      "total": 1658595,
+      "daily": 446
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Nirvana - Until The Ribbon Breaks Re-Imagination",
+      "trackId": "4g2BuHhO5ZVYtlmVZLsfmm",
+      "total": 1596851,
+      "daily": 43
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lay Me Down - Paul Woolford Remix",
+      "trackId": "2xnyaZrFwYTryphjkwFmP0",
+      "total": 1502783,
+      "daily": 25
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Stay With Me - Re-record",
+      "trackId": "6UYcL9G72vaZ40qHmt048w",
+      "total": 1502375,
+      "daily": 1660
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Omen - Motez Remix",
+      "trackId": "0JHeCVTAN06dstef6pt8x4",
+      "total": 1420638,
+      "daily": 158
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "La La La - DEVolution Remix",
+      "trackId": "6F86v7q9NxomTBcEhdyaHZ",
+      "total": 1331423,
+      "daily": 233
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I'm Not The Only One - Live From The Royal Albert Hall",
+      "trackId": "6kkmFuIQHCSc4xxd92fLiU",
+      "total": 1303566,
+      "daily": 1023
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Desire (with Sam Smith) - Acoustic",
+      "trackId": "5EUZq2pJJi1X2yRHzAeDWJ",
+      "total": 1272761,
+      "daily": 245
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lay Me Down - Maya Jane Coles Remix",
+      "trackId": "73y2ICAYR2RQhji1ulot59",
+      "total": 1264834,
+      "daily": 19
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Ever New - Single Version",
+      "trackId": "3TXjItvy5G7Td2OrhslAAY",
+      "total": 1247789,
+      "daily": 280
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Stay With Me - Live From The Royal Albert Hall",
+      "trackId": "41qam5MCYe9vBnSmX3FeOH",
+      "total": 1221780,
+      "daily": 799
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lay Me Down - Todd Edwards Dub",
+      "trackId": "3F4UP2eP71bVoydNOvv4TN",
+      "total": 1212207,
+      "daily": 20
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Desire (with Sam Smith) - Cedric Gervais Festival Mix",
+      "trackId": "5RNNSy6j2ARA5G9Woj7zNQ",
+      "total": 1122901,
+      "daily": 337
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Like I Can - iLL BLU Remix",
+      "trackId": "3kGziWzWPqBNptJwKwqNEb",
+      "total": 1112325,
+      "daily": 40
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Desire (with Sam Smith) - KC Lights Remix",
+      "trackId": "27y5yRBvtktmrLNe9q5eh9",
+      "total": 1076231,
+      "daily": 175
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "La La La - My Nu Leng Remix",
+      "trackId": "4jwEyXAnGpmbeGo5WVD4tJ",
+      "total": 1029314,
+      "daily": 183
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "La La La - Acappella Version",
+      "trackId": "0jamrLyiLNLXjAZxWv6jIl",
+      "total": 1002804,
+      "daily": 888
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "You Make Me Feel (Mighty Real)",
+      "trackId": "0MI2k7cRUDpHDXqrQsakyA",
+      "total": 922624,
+      "daily": 497
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Little Sailor",
+      "trackId": "6Cr3m58JOzrDvhQYfxE1Yg",
+      "total": 871683,
+      "daily": 727
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Too Good At Goodbyes - Live From The Royal Albert Hall",
+      "trackId": "6zbFdd9rFfZjWrvj4tiJa3",
+      "total": 852313,
+      "daily": 480
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Money On My Mind - MK Remix Edit",
+      "trackId": "7dmVUsUOsUe2B0lPcPs9gv",
+      "total": 847668,
+      "daily": 86
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Omen - Live From Maida Vale",
+      "trackId": "30hjM5Taku8s5XDeGm8v40",
+      "total": 825409,
+      "daily": 71
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "How Do You Sleep? - Live From The Royal Albert Hall",
+      "trackId": "0C7x2CuGep5Vd90Dvf30M0",
+      "total": 814233,
+      "daily": 398
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Promises (with Sam Smith) - OFFAIAH Remix",
+      "trackId": "50U7Szfrx47ZEu2bYeYkz3",
+      "total": 788131,
+      "daily": 80
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Unholy (feat. Kim Petras) - Live From The Royal Albert Hall",
+      "trackId": "1mLkmVH9jcPZ7lr5D3i7Sb",
+      "total": 733330,
+      "daily": 477
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Dancing With A Stranger - Live From The Royal Albert Hall",
+      "trackId": "7BazXL0aiygMDuV2Ycx6aU",
+      "total": 705468,
+      "daily": 427
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Promises (with Sam Smith) - Franky Rizardo Remix",
+      "trackId": "6ybDERzQ73b8tbdCjuV6D9",
+      "total": 644970,
+      "daily": 36
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lose You - Live From The Royal Albert Hall",
+      "trackId": "2Y3QGTKn5Nlxw5pYIYqKos",
+      "total": 638464,
+      "daily": 388
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Omen - Jonas Rathsman Remix",
+      "trackId": "0lbXkuabrJeqvyteE8TFNT",
+      "total": 611849,
+      "daily": 28
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Promises (with Sam Smith) - Illyus & Barrientos Remix",
+      "trackId": "43P4CvRCS6HmVERmYfM8ma",
+      "total": 585200,
+      "daily": 78
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lay Me Down - Live",
+      "trackId": "5mGPWcrINGD449tukzEPRU",
+      "total": 545648,
+      "daily": 4221
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "La La La - Slowed Down Version",
+      "trackId": "7222EWOk2REB4UtqNoerPc",
+      "total": 321284,
+      "daily": 779
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Omen - Klyne Remix",
+      "trackId": "4bpx8Ujcb6gsQVQHsIaBEs",
+      "total": 310546,
+      "daily": 20
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Stay With Me - Stripped",
+      "trackId": "5vyzYcd1s8qfoan0c3TSLI",
+      "total": 309971,
+      "daily": 190
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "To Die For - Y2K Remix",
+      "trackId": "4INplOdCtZ1pLAKEX28iJs",
+      "total": 281152,
+      "daily": 24
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Like I Can - Live",
+      "trackId": "6VhVXi548H2kTiWJRWHcFS",
+      "total": 275950,
+      "daily": 419
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Unholy (feat. Kim Petras) - Live Version",
+      "trackId": "4q5rCJqVa0k9ebr9OH9GAl",
+      "total": 260388,
+      "daily": 135
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Desire (with Sam Smith) - Cedric Gervais Club Mix",
+      "trackId": "4JfrwyU0qTTxMlVYvTrVaW",
+      "total": 252572,
+      "daily": 447
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Say It First - Stripped",
+      "trackId": "06uchvb6voOa9VyDtfk0lV",
+      "total": 217355,
+      "daily": 47
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "I'm Not The Only One - Live",
+      "trackId": "5rij4SH1FSRYa5Y0Z8ZAww",
+      "total": 208916,
+      "daily": 544
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Diamonds - Stripped",
+      "trackId": "0A3PWc0sSAAwWovup4H2Pi",
+      "total": 207910,
+      "daily": 55
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Omen - Claude VonStroke Remix",
+      "trackId": "6un2O4E4AXhR5urMfaq46W",
+      "total": 183181,
+      "daily": 19
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Unholy (feat. Kim Petras) - Instrumental",
+      "trackId": "5xpmUmeBPPIhrgqdJxfzd8",
+      "total": 171299,
+      "daily": 84
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Lay Me Down - Stripped",
+      "trackId": "1asQgVXZnqmhwGNX2pBgLd",
+      "total": 169865,
+      "daily": 97
+    },
+    {
+      "artist": "Sam Smith",
+      "artistId": "2wY79sveU1sp5g7SokKOiI",
+      "trackName": "Leave Your Lover - Motez Remix",
+      "trackId": "0j7hZ9xZAV58xqNUaS1lxf",
+      "total": 113362,
+      "daily": 9
+    }
+  ]
+}

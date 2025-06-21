@@ -1,0 +1,1934 @@
+{
+  "artist": "Miley Cyrus",
+  "artistId": "5YGY8feqx7naU7z4HrwZM6",
+  "songs": [
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Flowers",
+      "trackId": "7DSAEUvxU8FajXtRloy8M0",
+      "total": 2568706058,
+      "daily": 1002196
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Party In The U.S.A.",
+      "trackId": "7EhcbHsOLPRgtzSdmW0y9w",
+      "total": 1906345062,
+      "daily": 922085
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Angels Like You",
+      "trackId": "1daDRI9ahBonbWD8YcxOIB",
+      "total": 1169450442,
+      "daily": 802795
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "We Can't Stop",
+      "trackId": "2y4lAQpi5VTNLu2ldeTdUH",
+      "total": 1130675614,
+      "daily": 505153
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
+      "trackId": "02dRkCEc8Q5ch4TTcnLxOn",
+      "total": 1124557335,
+      "daily": 379518
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Wrecking Ball",
+      "trackId": "2vwlzO0Qp8kfEtzTsCXfyE",
+      "total": 1105872277,
+      "daily": 528414
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Malibu",
+      "trackId": "1UZOjK1BwmwWU14Erba9CZ",
+      "total": 868142095,
+      "daily": 187634
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Prisoner (feat. Dua Lipa)",
+      "trackId": "2Oycxb8QbPkpHTo8ZrmG0B",
+      "total": 861359627,
+      "daily": 161367
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "The Climb",
+      "trackId": "4lY1aUZ6VaApDv7p7lUtuE",
+      "total": 748592907,
+      "daily": 374237
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Midnight Sky",
+      "trackId": "4i2qxFEVVUi8yOYoxB8TCX",
+      "total": 677071660,
+      "daily": 124800
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "When I Look At You",
+      "trackId": "7ywzEdEuVG1lsjsRCGJfLy",
+      "total": 525445585,
+      "daily": 189979
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey)",
+      "trackId": "6zegtH6XXd2PDPLvy1Y0n2",
+      "total": 404538926,
+      "daily": 64152
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Adore You",
+      "trackId": "5AnCLGg35ziFOloEnXK4uu",
+      "total": 384844993,
+      "daily": 80306
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "23",
+      "trackId": "56Z1vf4lzxzGZPNaRtdUiS",
+      "total": 383883514,
+      "daily": 118971
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Slide Away",
+      "trackId": "6QQtHdz4PNJWQX4nrAQGC9",
+      "total": 374234526,
+      "daily": 61831
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Mother's Daughter",
+      "trackId": "4tc97Wa8SP5f9gaaOar8Kq",
+      "total": 325830423,
+      "daily": 48719
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Heart Of Glass (Live from the iHeart Festival)",
+      "trackId": "5GK1GYXH16RdfmltogHhAk",
+      "total": 276658564,
+      "daily": 55030
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Used To Be Young",
+      "trackId": "41WQUSINanQHfhfKpFDsms",
+      "total": 269727950,
+      "daily": 115976
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "WITHOUT YOU (with Miley Cyrus)",
+      "trackId": "1EHUQesfVKwbthtNcpBi9g",
+      "total": 261731648,
+      "daily": 36173
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Plastic Hearts",
+      "trackId": "6qCsKKS7Ol63SJW3LOIX5R",
+      "total": 213526490,
+      "daily": 43260
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Jaded",
+      "trackId": "0LbZLBBZI1NfaDgb4dx0UD",
+      "total": 206841527,
+      "daily": 81539
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Feelin' Myself",
+      "trackId": "26XUAwGZqQEyy8Ubhtj4kq",
+      "total": 180785467,
+      "daily": 31787
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "See You Again",
+      "trackId": "3AjyOYxBv8bByfBtG5o9dP",
+      "total": 176743421,
+      "daily": 107887
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "7 Things",
+      "trackId": "53z4AXUfcLDbI1fXMo6s17",
+      "total": 154441558,
+      "daily": 49892
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "River",
+      "trackId": "1yampU2t2LNWzEsCpUgHYJ",
+      "total": 146444778,
+      "daily": 33273
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Butterfly Fly Away",
+      "trackId": "2ZTCl6wQMDSMfY4s8GHZdj",
+      "total": 142529510,
+      "daily": 44268
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Can't Be Tamed",
+      "trackId": "2r6DdaSbkbwoPzuK6NjLPn",
+      "total": 138679624,
+      "daily": 41728
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Edge of Midnight (Midnight Sky Remix) (feat. Stevie Nicks)",
+      "trackId": "1Tip6R4swhC7E6hgILBjrE",
+      "total": 136895874,
+      "daily": 43186
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "II MOST WANTED",
+      "trackId": "1p9V6jkWIBTc4ZQXssxyhc",
+      "total": 124792847,
+      "daily": 106940
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "FU (feat. French Montana)",
+      "trackId": "6dDIOU6AqgLkrjFNPgvKY6",
+      "total": 105285693,
+      "daily": 12049
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Younger Now",
+      "trackId": "2fGxYYMQbVqgIdaqfz2OwA",
+      "total": 98111210,
+      "daily": 7409
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Hoedown Throwdown",
+      "trackId": "6G6x2oYkhL8563jenChqmW",
+      "total": 94934656,
+      "daily": 37069
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Do My Thang",
+      "trackId": "6n2GPvMJtFZ4ckoc9EWHMx",
+      "total": 90362511,
+      "daily": 8844
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "WTF Do I Know",
+      "trackId": "37PJvlIfYWqEX6fgjHlnTf",
+      "total": 85121125,
+      "daily": 15659
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Nothing Else Matters",
+      "trackId": "43YC4iYmSsYueViJR4dBGA",
+      "total": 76237865,
+      "daily": 26049
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Unholy",
+      "trackId": "7kzQRB3b9gp2kdjI0dLv8M",
+      "total": 74752357,
+      "daily": 8719
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Never Be Me",
+      "trackId": "1M7qLcfozANPcMKfgMEHOt",
+      "total": 74549135,
+      "daily": 19825
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Gimme What I Want",
+      "trackId": "4v8jmsVox8VwU5js3JHOJZ",
+      "total": 74088664,
+      "daily": 17915
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Night Crawling (feat. Billy Idol)",
+      "trackId": "4U34WsyOvppOMnRfq7DuOy",
+      "total": 73942736,
+      "daily": 16355
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Rose Colored Lenses",
+      "trackId": "1nSfvLVhsozMHS7rCF1BTi",
+      "total": 73747161,
+      "daily": 25075
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Zombie (Live from the NIVA Save Our Stages Festival)",
+      "trackId": "0olaaJrCBTMJJvqPdvNpsx",
+      "total": 71879904,
+      "daily": 19795
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Rockin' Around The Christmas Tree",
+      "trackId": "5lyikKk6KFWfWCuDDir9Fx",
+      "total": 70772413,
+      "daily": 530
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "End of the World",
+      "trackId": "0hJx21PieFkFrT1F5uJvfz",
+      "total": 68540878,
+      "daily": 552718
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "AM I DREAMING (feat. Miley Cyrus)",
+      "trackId": "6isTQfKXhNO3EyJd9mSxx8",
+      "total": 65721531,
+      "daily": 10755
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Like a Prayer - Live",
+      "trackId": "6BHshWgPkMT0iIwOiuKiF2",
+      "total": 59912106,
+      "daily": 45811
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Stay",
+      "trackId": "0Ohi2pjBS1yak2BSgJRaIs",
+      "total": 59184324,
+      "daily": 6704
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Thousand Miles (feat. Brandi Carlile)",
+      "trackId": "3DoSolxGSDoV7G7MtcIPiZ",
+      "total": 57624808,
+      "daily": 21915
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Doctor (Work It Out) [feat. Miley Cyrus]",
+      "trackId": "4f9wNNZET9wH7eMBgONd3d",
+      "total": 56421974,
+      "daily": 22005
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Someone Else",
+      "trackId": "0vRFKF7dGdL5XxZMXzpCpF",
+      "total": 54679179,
+      "daily": 5683
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "High",
+      "trackId": "2LseyBkPJv7r7wCt2yMEgX",
+      "total": 53455891,
+      "daily": 9734
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Who Owns My Heart",
+      "trackId": "4buvG5Kmstm8UMjSgUrv2X",
+      "total": 53012586,
+      "daily": 19991
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Hate Me",
+      "trackId": "0rFcav2bUNH6NC9576Viiu",
+      "total": 52001614,
+      "daily": 9095
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Nothing Breaks Like a Heart (feat. Miley Cyrus) - Don Diablo Remix",
+      "trackId": "32BlLnhlk1lKIIGxddfB0n",
+      "total": 50081932,
+      "daily": 3026
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Drive",
+      "trackId": "6aVeSCobcOjIkMFARN9B7l",
+      "total": 49611409,
+      "daily": 7155
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Sleigh Ride",
+      "trackId": "7enVhl0fuHvQ4ErXvAXYIH",
+      "total": 48503059,
+      "daily": 357
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "You",
+      "trackId": "3LNRi4UytUnez6T0hFb4x3",
+      "total": 46229008,
+      "daily": 13314
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Island",
+      "trackId": "4LRxmh62YHxSHL4hGLq0ln",
+      "total": 46060685,
+      "daily": 19577
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Bad Karma (feat. Joan Jett)",
+      "trackId": "47KegqqrzpKw0jdHFWqtNb",
+      "total": 45386489,
+      "daily": 9176
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "D.R.E.A.M. (feat. Ghostface Killah)",
+      "trackId": "5tykM1AFEOrm51CkDPOxPC",
+      "total": 45328546,
+      "daily": 4772
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Malibu - Tiësto Remix",
+      "trackId": "1NvSQe0i4ApmQCnBI8Jwzq",
+      "total": 45185956,
+      "daily": 6366
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Decisions (feat. Miley Cyrus)",
+      "trackId": "517P7amOGuc7fPE9xaSaLY",
+      "total": 44007766,
+      "daily": 4445
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Jolene - Live",
+      "trackId": "39HFKh08mU0aktj9UulRnY",
+      "total": 41165790,
+      "daily": 24882
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Muddy Feet (feat. Sia)",
+      "trackId": "6QSR2OrZOICOXfFB5Wswt1",
+      "total": 40983432,
+      "daily": 10873
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Every Rose Has Its Thorn",
+      "trackId": "2GFAmPwmQByPEeWcjiR8AE",
+      "total": 39207837,
+      "daily": 7453
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Hands Of Love",
+      "trackId": "1ML2r3gzmd9776dmnlGYlh",
+      "total": 38743141,
+      "daily": 1388
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Happy Xmas (War Is Over) (feat. Sean Ono Lennon)",
+      "trackId": "5KHzV8Gf3aweIMImliFAOs",
+      "total": 38474288,
+      "daily": 397
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "#GETITRIGHT",
+      "trackId": "1u6GCyU5atrzrAqwC55og1",
+      "total": 37629227,
+      "daily": 4393
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Girls Just Wanna Have Fun",
+      "trackId": "5R6bRLwPyEj7LLMSJW766C",
+      "total": 37609859,
+      "daily": 11185
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "4x4 (feat. Nelly)",
+      "trackId": "7pu0a2lDSnwQS0ERqAtCnS",
+      "total": 37514907,
+      "daily": 4439
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Fly On The Wall",
+      "trackId": "2f6s0AcBRBE0vIOU0NMdXw",
+      "total": 35948312,
+      "daily": 11934
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "SMS (Bangerz) (feat. Britney Spears)",
+      "trackId": "0mRWl4amZn1FtRx2cE5jf3",
+      "total": 35689754,
+      "daily": 4945
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Fall Down",
+      "trackId": "5b9KYlC0lTUyUTpXKjjA9n",
+      "total": 35468441,
+      "daily": 1993
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Party Up The Street",
+      "trackId": "7CVKdxcywAgQHjVv8lzG9p",
+      "total": 35223120,
+      "daily": 3835
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "The Most",
+      "trackId": "2c2tgbPRTfzSx0tRdIXs0j",
+      "total": 35131506,
+      "daily": 4889
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Violet Chemistry",
+      "trackId": "4C2Y3Y2x2PbOqwdNBuLjP3",
+      "total": 34439923,
+      "daily": 11880
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Golden G String",
+      "trackId": "68qkDbsvprJRG5xw2R02dy",
+      "total": 33657950,
+      "daily": 5940
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "I Would Die For You",
+      "trackId": "39vly7Z4VLImfggnEDEUzf",
+      "total": 33108761,
+      "daily": 3064
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
+      "trackId": "6B7jm2IJsh3DYXO7RgwVnx",
+      "total": 31429778,
+      "daily": 4030
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Love Money Party (feat. Big Sean)",
+      "trackId": "1pzSeZfdQODtB9xmkH0Q91",
+      "total": 30145425,
+      "daily": 2917
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "My Darlin' (feat. Future)",
+      "trackId": "7hJ1fEr1nf2e4qsE4bfmcc",
+      "total": 29923383,
+      "daily": 3271
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Wildcard",
+      "trackId": "0Gb6pfKdfoQ17jUqx1Yohc",
+      "total": 29510429,
+      "daily": 9121
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Wildflowers - Recorded at Spotify Studios NYC",
+      "trackId": "4L0rxWhjyX0VhNbK4U9oK6",
+      "total": 28608440,
+      "daily": 5168
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Dream",
+      "trackId": "3RfNQMIeuL2QC9l4VxOMoj",
+      "total": 28202484,
+      "daily": 16781
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Nothing Breaks Like a Heart (feat. Miley Cyrus) - Acoustic Version",
+      "trackId": "6sZPUt5Dm7mXupIncFK232",
+      "total": 28093609,
+      "daily": 5763
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Maybe You're Right",
+      "trackId": "4nBHndk4Hru2sgGH30GCgu",
+      "total": 27932110,
+      "daily": 3317
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Week Without You",
+      "trackId": "07G5C1wAil4Mp1qjbd3eTR",
+      "total": 26777176,
+      "daily": 1692
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Malibu - Alan Walker Remix",
+      "trackId": "0zRBTtWMnmBO4JMnlZfKHR",
+      "total": 26663748,
+      "daily": 2059
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Cattitude (feat. RuPaul)",
+      "trackId": "7s4xQU7Tz9vyxD5a3golZc",
+      "total": 25476132,
+      "daily": 2839
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Handstand",
+      "trackId": "6eiNVtWCRsU7N6JDPXFI2W",
+      "total": 25149847,
+      "daily": 6661
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Hands in the Air (feat. Ludacris)",
+      "trackId": "2YlQCqBj6FJsrQmc8K2CGa",
+      "total": 24955730,
+      "daily": 2675
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Real and True (feat. Mr Hudson)",
+      "trackId": "5TxsupFF2Vc70TQdLyyOE3",
+      "total": 24588956,
+      "daily": 2088
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Inspired",
+      "trackId": "4OMAJ5nXjSH5PY30lalIhC",
+      "total": 24276318,
+      "daily": 1192
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Wonder Woman",
+      "trackId": "1sHRnn8zuTMusee3ahseXC",
+      "total": 24267035,
+      "daily": 6796
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "You - Live",
+      "trackId": "2E5avcbynGtL6rVHQihEdR",
+      "total": 24138032,
+      "daily": 5181
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Flowers (Demo)",
+      "trackId": "1ZJwhLQLt2quexYKP2Q3gk",
+      "total": 23504130,
+      "daily": 8093
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Adore You - Remix",
+      "trackId": "40qjDdULzkFRlivTqTggLH",
+      "total": 23261244,
+      "daily": 1150
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Rooting for My Baby",
+      "trackId": "1qfAWRJXPBq45Z52a8heKp",
+      "total": 22941096,
+      "daily": 3196
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Ashtrays and Heartbreaks (feat. Miley Cyrus)",
+      "trackId": "563HSFCHokFZGaNL4WY4dY",
+      "total": 22800394,
+      "daily": 2021
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "On My Own",
+      "trackId": "68zC6NEny9EG3OuE6npJcr",
+      "total": 22539654,
+      "daily": 2809
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Goodbye",
+      "trackId": "55rJgg2bBWvumXthnQC4ym",
+      "total": 22221288,
+      "daily": 4363
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Before The Storm (feat. Miley Cyrus)",
+      "trackId": "2gcryaHpDDb37QpNl9sBBT",
+      "total": 21550398,
+      "daily": 4961
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Miss You So Much",
+      "trackId": "4ttUYy7HMYQ0nhfllLJNPR",
+      "total": 20114556,
+      "daily": 1921
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Bad Mood",
+      "trackId": "6x6cpNDnIpqtaNcXIcGkUs",
+      "total": 19982874,
+      "daily": 1866
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "She's Not Him",
+      "trackId": "6aP62822amG9iAvSIPffBr",
+      "total": 19211830,
+      "daily": 1399
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Easy Lover",
+      "trackId": "2OBzYCYMNsD6yhBZZSs0xg",
+      "total": 18218562,
+      "daily": 536104
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "See You Again - Rock Mafia Remix",
+      "trackId": "3pRURfm0THUY3G4YBOLtrC",
+      "total": 17924276,
+      "daily": 4142
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "More to Lose",
+      "trackId": "2xAHKs8W4lcOLweTCAPUbF",
+      "total": 17690293,
+      "daily": 137658
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Don't Walk Away",
+      "trackId": "0WzFAQkNDZqNyNjglVucWu",
+      "total": 17426930,
+      "daily": 7864
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Rainbowland (feat. Dolly Parton)",
+      "trackId": "6fdVBAXMxv5vAABQCpOtI5",
+      "total": 17062603,
+      "daily": 2040
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Ready, Set, Don't Go",
+      "trackId": "4SSUj4OC7giqpMNCqSQSCf",
+      "total": 15639899,
+      "daily": 3028
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Thinkin'",
+      "trackId": "742YV8T9ZyczCNdrTIAhaw",
+      "total": 15471865,
+      "daily": 1292
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "BB Talk",
+      "trackId": "2Zyl5qoictRPon7YmT4Cg0",
+      "total": 14157848,
+      "daily": 2847
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "I Got So High That I Saw Jesus (feat. Miley Cyrus) - Live Recording",
+      "trackId": "6lQCFhlbA7boPBesUokiDU",
+      "total": 14110183,
+      "daily": 4072
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Nothing Breaks Like a Heart (feat. Miley Cyrus) - Dimitri from Paris Remix",
+      "trackId": "30hDYmocwr04AvJWN6S3Um",
+      "total": 13271589,
+      "daily": 1384
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "I Miss You",
+      "trackId": "2ZSS612s5DgoGQGISVIMJu",
+      "total": 13148973,
+      "daily": 2157
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "When I Look At You",
+      "trackId": "71Uqwm5XGcqnWOg6MS4Wi3",
+      "total": 12736352,
+      "daily": 1656
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "The Time Of Our Lives",
+      "trackId": "6KKCoJF2EIQzWZioLPHC4O",
+      "total": 12620976,
+      "daily": 2863
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Love Someone",
+      "trackId": "7llPsildzxzgt6odtSaScQ",
+      "total": 12596115,
+      "daily": 1590
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Wrecking Ball",
+      "trackId": "1Fl4vSE3PegDGtkNL7JXNl",
+      "total": 12397132,
+      "daily": 5733
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Space Bootz",
+      "trackId": "66huBJ9AKGOV4H4C71crGh",
+      "total": 12107849,
+      "daily": 2835
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Two More Lonely People",
+      "trackId": "1XSJ3mgsnkT9DnhbXl29uf",
+      "total": 12107354,
+      "daily": 2259
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Don't Let The Sun Go Down On Me",
+      "trackId": "03f2Q9Z8eaF8lPfNL6x3x7",
+      "total": 11654787,
+      "daily": 2670
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Te Miro A Ti",
+      "trackId": "4iRNItJts02QOfA0ufJO0A",
+      "total": 11382479,
+      "daily": 2828
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Wrecking Ball X Nothing Compares 2 U - Live",
+      "trackId": "2BVTAPMmaDoADdH4AtEQPr",
+      "total": 10863110,
+      "daily": 4953
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Start All Over",
+      "trackId": "3gZ8DvqnrOx3WQRAjCRSIt",
+      "total": 10842936,
+      "daily": 4377
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Before The Storm – duet with Jonas Brothers (Live)",
+      "trackId": "2JoYVti4PyEyzXg99jhVk3",
+      "total": 10674066,
+      "daily": 1219
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Something Beautiful",
+      "trackId": "15UlCFH8o4HP9gdY8Y1oyn",
+      "total": 10667909,
+      "daily": 66902
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Dooo It!",
+      "trackId": "2ibR1hb5ArUlwruwdVhYMu",
+      "total": 10650364,
+      "daily": 2398
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Liberty Walk",
+      "trackId": "3icywpqJ6o39VY61BXcGQS",
+      "total": 10646516,
+      "daily": 2410
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "We Can't Stop X Where Is My Mind? - Live",
+      "trackId": "2nuxN2hAkyTMmsIwelvPBs",
+      "total": 10335241,
+      "daily": 3736
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "I Thought I Lost You - Soundtrack",
+      "trackId": "2Hlf0en29gylVvAPIFMRte",
+      "total": 10257216,
+      "daily": 4604
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Bottom Of The Ocean",
+      "trackId": "5S358piFvvfu8BdzpFqOYK",
+      "total": 9684310,
+      "daily": 1808
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Twinkle Song",
+      "trackId": "7cC1wC4UcN66T9ve8KXqwi",
+      "total": 9497490,
+      "daily": 1227
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Psycho Killer",
+      "trackId": "0jeKnrCAOZRMf7w9hdVHUe",
+      "total": 8922243,
+      "daily": 7221
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Obsessed",
+      "trackId": "6yYR1mEFK2VYzKGTYTgiKw",
+      "total": 8229273,
+      "daily": 1482
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "My Heart Beats For Love",
+      "trackId": "6Mwmi127jAOdCK4X3xFPCX",
+      "total": 8114485,
+      "daily": 1307
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Heart of Glass - Live",
+      "trackId": "57VwtAqY3q5hjlulyi081T",
+      "total": 7958165,
+      "daily": 2650
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "The Climb - Live",
+      "trackId": "3TfknGp1ddqVuosrfs52fY",
+      "total": 7898993,
+      "daily": 4697
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Breakout",
+      "trackId": "131RmhQ2mHtY29K1xX3SHW",
+      "total": 7837415,
+      "daily": 1923
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Malibu - The Him Remix",
+      "trackId": "6ef0SxXHkgSR0rhX3JW2x1",
+      "total": 7677541,
+      "daily": 706
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Forgiveness And Love",
+      "trackId": "2kky2FdWijLG4YtQdtaB8p",
+      "total": 7447814,
+      "daily": 1330
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Permanent December",
+      "trackId": "4OjxWxKvCxl5FltPukiiX9",
+      "total": 7412971,
+      "daily": 1575
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Scars",
+      "trackId": "2VBbNPioFgkakgcp1jvmN7",
+      "total": 7363389,
+      "daily": 1304
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "The Driveway",
+      "trackId": "7h1UdWf4vB3q1lRMQFky9O",
+      "total": 7135219,
+      "daily": 2097
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Robot",
+      "trackId": "5xJr9Tps06QYUzI6Psw0Xs",
+      "total": 7006308,
+      "daily": 1624
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Kicking And Screaming",
+      "trackId": "5rk5Yx2oDhJgy43wNvSzdy",
+      "total": 6964330,
+      "daily": 1256
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Mother's Daughter X Boys Don't Cry (feat. Anitta) - Live",
+      "trackId": "53y0mmxDWZ0oBIpBgDVI4T",
+      "total": 6853743,
+      "daily": 1765
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Let's Dance",
+      "trackId": "5eDPpYSyy8ag1V9sPMThEB",
+      "total": 6763135,
+      "daily": 2003
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Full Circle",
+      "trackId": "3apgFxCTx6xgpkHtmYn1HH",
+      "total": 6681012,
+      "daily": 1610
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Plastic Hearts - Live",
+      "trackId": "6mMsHI7PlNAI8ZgyXkkRNo",
+      "total": 6663284,
+      "daily": 1633
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Bang Bang X See You Again - Live",
+      "trackId": "3vxVi8EaDqo4tqowE5hgmH",
+      "total": 6565196,
+      "daily": 2635
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "These Four Walls",
+      "trackId": "5CoJLGXIQpiQ6gY5EtWUvY",
+      "total": 6484279,
+      "daily": 1542
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "We Belong To The Music (Featuring Miley Cyrus)",
+      "trackId": "1U3V9nnehWUjHFZVYNZ34s",
+      "total": 6435526,
+      "daily": 1380
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Overboard (Live)",
+      "trackId": "5h4Z1fyzlAZhGPRaQz7ima",
+      "total": 6261276,
+      "daily": 3509
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Take Me Along",
+      "trackId": "5mLStGzHrQmlRrjiOLolrk",
+      "total": 6208399,
+      "daily": 1459
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "East Northumberland High",
+      "trackId": "3z0DheGqqYaC1EbSdn8S9g",
+      "total": 6131295,
+      "daily": 1747
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "G.N.O. - Girl's Night Out",
+      "trackId": "5uGGmsI5G6i3OvgjRziSI0",
+      "total": 6041842,
+      "daily": 2252
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Mother's Daughter - White Panda Remix",
+      "trackId": "50XydCMedDl7RP5XR0Hwpm",
+      "total": 5844675,
+      "daily": 718
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Never Be Me - Live",
+      "trackId": "3FoUMLMVaGxhWEe1PICSWu",
+      "total": 5543008,
+      "daily": 1508
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Prelude",
+      "trackId": "6BBKhuRav2DANQ6aU24tEE",
+      "total": 5361709,
+      "daily": 36898
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Karen Don't Be Sad",
+      "trackId": "4ErXnzMQsKwgzrVo7rlkA3",
+      "total": 5360780,
+      "daily": 1285
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Edge of Midnight (Midnight Sky Remix) - Live",
+      "trackId": "69EHwopeWsNgCX5khg6314",
+      "total": 5351248,
+      "daily": 1696
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Nothing Breaks Like a Heart (feat. Miley Cyrus) - Martin Solveig Remix",
+      "trackId": "6ECE7G83eZbmkQOfJUXRXV",
+      "total": 5291493,
+      "daily": 428
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Simple Song",
+      "trackId": "6M518ywJrEkpzNmNIxIlI1",
+      "total": 5131895,
+      "daily": 1075
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "ATTENTION",
+      "trackId": "0LoPe7la5jJRTNCEy5W2uR",
+      "total": 4971474,
+      "daily": 860
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Mother's Daughter - R3HAB Remix",
+      "trackId": "3innSnN0Nw7EmBTmPrBrg5",
+      "total": 4944342,
+      "daily": 610
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Christmas Is (feat. Miley Cyrus)",
+      "trackId": "1VgNXa2SFPRroTDvCbi6xv",
+      "total": 4805207,
+      "daily": 54
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "7 Things - Live",
+      "trackId": "0F2F9cSQa0sNXNGDZbvvOE",
+      "total": 4702231,
+      "daily": 1234
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Walk of Fame (feat. Brittany Howard)",
+      "trackId": "4EJjVfB2pQNn0ZFe1DgUOX",
+      "total": 4675091,
+      "daily": 120062
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Golden Burning Sun",
+      "trackId": "3MYz54tDi5fnEJjjCfPPlZ",
+      "total": 4657491,
+      "daily": 117762
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Wake Up America",
+      "trackId": "51NbARtVvAiTPkJuTh4kZq",
+      "total": 4655978,
+      "daily": 975
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Angels Like You - Live",
+      "trackId": "4nzgsi8D9hiILXInpDV7Gn",
+      "total": 4608922,
+      "daily": 1971
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Maybe - Live",
+      "trackId": "4U1VIrEIlSWenK57AL4gPK",
+      "total": 4608690,
+      "daily": 1338
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Party In The USA - Live",
+      "trackId": "7t5YIq57DS5djsaZJm1iyM",
+      "total": 4604200,
+      "daily": 1322
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Talk Is Cheap",
+      "trackId": "1KtL0KZuDzB0ht2BKjBN7m",
+      "total": 4569202,
+      "daily": 763
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Malibu - Lost Frequencies Remix",
+      "trackId": "17xPkSSM4hPCtYHfe9eqTm",
+      "total": 4482594,
+      "daily": 665
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "4x4 - Live",
+      "trackId": "2c3uiVP3kUdmGaCYfqO7zw",
+      "total": 4461562,
+      "daily": 1039
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Bang Me Box",
+      "trackId": "0y47LQzhUT2NGZCqKHgZnS",
+      "total": 4397139,
+      "daily": 1728
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "I Get So Scared",
+      "trackId": "6PBraWJh0VQXFtlEVLFZUj",
+      "total": 4324451,
+      "daily": 1034
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "High - Live",
+      "trackId": "7HgyHJssZUGpJID9zgyLKo",
+      "total": 4261909,
+      "daily": 1585
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Fweaky",
+      "trackId": "63b7f3i8UhoutDYJYJ2OpR",
+      "total": 4258712,
+      "daily": 1012
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Nothing Breaks Like a Heart - Live",
+      "trackId": "3qbPpK2s3PSw0jPPdZTTTW",
+      "total": 4188544,
+      "daily": 2292
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Every Girl You've Ever Loved (feat. Naomi Campbell)",
+      "trackId": "22WFoPT9VIJlZ0VcJVkCpm",
+      "total": 4076156,
+      "daily": 100038
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Mother's Daughter - Wuki Remix",
+      "trackId": "6i5IGZM6mmxaa3vXCR3g2b",
+      "total": 3908814,
+      "daily": 599
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Lighter",
+      "trackId": "3zW8xAPCG5se4Zo1Ndjilt",
+      "total": 3831620,
+      "daily": 1461
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Right Here",
+      "trackId": "34Yg4jUK20hZsNpJPGxh1x",
+      "total": 3823942,
+      "daily": 1045
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Lucy in the Sky with Diamonds (feat. Miley Cyrus & Moby)",
+      "trackId": "0CpSWQU0lWEERdAi55eLay",
+      "total": 3685817,
+      "daily": 691
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Bad Mood - Recorded at Spotify Studios NYC",
+      "trackId": "5fA3rWJfJH34C0JCBv60CU",
+      "total": 3653960,
+      "daily": 191
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Butterfly Fly Away - Extended Version",
+      "trackId": "3uWlMWn2b7WGTTgdQb7WoG",
+      "total": 3625943,
+      "daily": 870
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "23 - Live",
+      "trackId": "4iXALhpKGylW6UH9tat5X9",
+      "total": 3616470,
+      "daily": 843
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "(SMS) Bangerz - Live",
+      "trackId": "694G6X9HwqGPFbiwHTaEFg",
+      "total": 3490655,
+      "daily": 767
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Pablow The Blowfish",
+      "trackId": "1x0LslkzIsV6TorreiDZLi",
+      "total": 3452408,
+      "daily": 619
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Best of Both Worlds - Live from Arrowhead Pond, Anaheim, U.S.A./2008",
+      "trackId": "1R7pKucmSJSGyRt81RbYSY",
+      "total": 3146842,
+      "daily": 842
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "The Floyd Song (Sunrise)",
+      "trackId": "6mj77VXJVfo0949oDI28Gu",
+      "total": 3146517,
+      "daily": 779
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Reborn",
+      "trackId": "2xFFRS87enopWS13zvcwwT",
+      "total": 3063690,
+      "daily": 67587
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Pretend You're God",
+      "trackId": "0D7ptTqe5bFfHPn2PWJWoC",
+      "total": 3033515,
+      "daily": 61096
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Good and Broken",
+      "trackId": "579c6hHN7lbi79wrKw693Y",
+      "total": 2862502,
+      "daily": 768
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "As I Am",
+      "trackId": "1h6MTZvYs51VDZ21T1WCsD",
+      "total": 2750897,
+      "daily": 706
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Malibu - Gigamesh Remix",
+      "trackId": "7yZ0aJrnoKUnMexAOO0fEy",
+      "total": 2733984,
+      "daily": 216
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Something About Space Dude",
+      "trackId": "3Xbx8phzhk7LiOneArQmGk",
+      "total": 2683229,
+      "daily": 786
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Dooo It! - Live",
+      "trackId": "2S6jNJ7efGDFUpGE2zVM72",
+      "total": 2666842,
+      "daily": 593
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Fucking Fucked Up",
+      "trackId": "046mU05ZfQ383gXwRK8K72",
+      "total": 2573843,
+      "daily": 610
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "I'm So Drunk",
+      "trackId": "1HQnSuonOEwozJ9NhkRYEr",
+      "total": 2554868,
+      "daily": 498
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Slab of Butter (Scorpion) (feat. Sarah Barthel)",
+      "trackId": "4TKLQK5O2SVYMsYCJoIMD4",
+      "total": 2515430,
+      "daily": 837
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Younger Now - Syn Cole Remix",
+      "trackId": "5u5p9CmXrFS8gl0eOoLl5R",
+      "total": 2473112,
+      "daily": 192
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Fly On The Wall - Live",
+      "trackId": "26Hz7nNmj3tRYu844oYH7f",
+      "total": 2390584,
+      "daily": 730
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "1 Sun",
+      "trackId": "0vRBqL6C2KIhpuAEbXdHSF",
+      "total": 2363590,
+      "daily": 952
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Clear",
+      "trackId": "0C8WIzy5WANK0FlLp5ux60",
+      "total": 2346244,
+      "daily": 635
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Interlude 2",
+      "trackId": "7qI8JlsqM2UuAWJu1Ps5GV",
+      "total": 2325095,
+      "daily": 34705
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Nothing Breaks Like a Heart (feat. Miley Cyrus) - Boston Bun Remix",
+      "trackId": "42Z5f3UCxWA1drWZBqanwe",
+      "total": 2317809,
+      "daily": 218
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Tiger Dreams (feat. Ariel Pink)",
+      "trackId": "0YrsTLjPflDBxr4LAKLJyf",
+      "total": 2276630,
+      "daily": 664
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Cyrus Skies",
+      "trackId": "1fF5bZsDX2vFsWAcohj440",
+      "total": 2244692,
+      "daily": 824
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Interlude 1",
+      "trackId": "1PGdPa85RzJyi6Bz9maRW9",
+      "total": 2212561,
+      "daily": 33198
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Give Me Love",
+      "trackId": "3kTKU3tMAm411E7Jo4uTBw",
+      "total": 2197699,
+      "daily": 42083
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "I Forgive Yiew",
+      "trackId": "1VUDNnNd2S0A8jBtPi03nY",
+      "total": 2182234,
+      "daily": 623
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Milky Milky Milk",
+      "trackId": "0eqY7wsVxA1KvnFUPeCr4s",
+      "total": 2146406,
+      "daily": 686
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "WTF Do I Know - Live",
+      "trackId": "5ioKJrpz6gdHpJcOUDsEKQ",
+      "total": 1977390,
+      "daily": 647
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Younger Now - R3HAB Remix",
+      "trackId": "49dzrnfXfCML9f0JYiq5Hc",
+      "total": 1948630,
+      "daily": 111
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "You (Take 2) - Live",
+      "trackId": "5uqrr6NkJ5eu3htdBcaW4O",
+      "total": 1947250,
+      "daily": 583
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Tangerine (feat. Big Sean)",
+      "trackId": "6NhnZpaiFgnaPXOvYaNEFJ",
+      "total": 1858265,
+      "daily": 575
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Malibu - Dillon Francis Remix",
+      "trackId": "4IMzr41eYvw4Lho2HcFP7g",
+      "total": 1686324,
+      "daily": 192
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Evil is but a Shadow",
+      "trackId": "3TanrPFtNzqB4jbOVMAI9v",
+      "total": 1585091,
+      "daily": 434
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Androgynous",
+      "trackId": "6KmPsYpaZzZBCXPmiVdiCB",
+      "total": 1560260,
+      "daily": 800
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Miley Tibetan Bowlzzz",
+      "trackId": "78zL2RIYaIyV7wT65ntOrg",
+      "total": 1344337,
+      "daily": 345
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "A Day in the Life (feat. Miley Cyrus & New Fumes)",
+      "trackId": "1qfBk8cobT5blmjWIuBHci",
+      "total": 1257592,
+      "daily": 106
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Walk of Fame (feat. Brittany Howard) - Edit",
+      "trackId": "22tmzHt5QJ2sMKJefaqkjn",
+      "total": 1145245,
+      "daily": 27533
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Party In The U.S.A. - Cahill Club Mix",
+      "trackId": "7uwiIRlp1bOdYyHGJY1syt",
+      "total": 1048408,
+      "daily": 95
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Stand (feat. Miley Cyrus)",
+      "trackId": "5xUs6313jdCMxHC43l2GQi",
+      "total": 856075,
+      "daily": 212
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Who Owns My Heart - The Alias Radio Mix",
+      "trackId": "2zqsSHAfh0xu3MmwL7aXkV",
+      "total": 852551,
+      "daily": 204
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Party In The U.S.A. - Wideboys Full Club",
+      "trackId": "3lyAiyYVcymiNaoNtROZQr",
+      "total": 819937,
+      "daily": 47
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Younger Now - Niko The Kid Remix",
+      "trackId": "1OryG6NjJlLc9GDkODPKG1",
+      "total": 784762,
+      "daily": 60
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "The Climb - Full Pop Mix",
+      "trackId": "5kMOPj859qEl6mUKMZRYz2",
+      "total": 618638,
+      "daily": 98
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Someday",
+      "trackId": "6zgZk9jIbhshdJDwf4tspC",
+      "total": 602137,
+      "daily": 29
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Hovering",
+      "trackId": "2X5B8FfxPB8ORi37kGMUVw",
+      "total": 567954,
+      "daily": 19
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Santa Claus Is Comin' To Town",
+      "trackId": "3HjAGjEcSeE9d7GGMynUGm",
+      "total": 550371,
+      "daily": 25
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Can't Be Tamed - Wideboys Stadium Radio Remix",
+      "trackId": "2cZ9jKDZmi5fO26WbPX50V",
+      "total": 401529,
+      "daily": 140
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Younger Now - Fred Falke Remix",
+      "trackId": "2UnZ0dagQRNTYYRIL1qzem",
+      "total": 367453,
+      "daily": 89
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Fly on the Wall - Jason Nevins Radio Edit Remix",
+      "trackId": "6amNzcHZAkQVuWEBVlBLFX",
+      "total": 300098,
+      "daily": 26
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Younger Now - BURNS Remix",
+      "trackId": "57HfpY7iRXpAhAYArEWcWO",
+      "total": 283195,
+      "daily": 36
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "7 Things - Instrumental Version",
+      "trackId": "1vNOli6DklEE7yzFGZPmC1",
+      "total": 246583,
+      "daily": 22
+    },
+    {
+      "artist": "Miley Cyrus",
+      "artistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Younger Now - DJ Premier Remix",
+      "trackId": "2bCyXlEdDyuZVZm5hq0TeS",
+      "total": 233044,
+      "daily": 22
+    }
+  ]
+}

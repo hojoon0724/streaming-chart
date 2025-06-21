@@ -1,0 +1,22 @@
+{
+  "artist": "La La Land Cast",
+  "artistId": "6T70tWxqyIpdVbsFvPzqM3",
+  "songs": [
+    {
+      "artist": "La La Land Cast",
+      "artistId": "6T70tWxqyIpdVbsFvPzqM3",
+      "trackName": "Another Day Of Sun",
+      "trackId": "7tBqAoOhF7rxWbIpT2yOn6",
+      "total": 207151302,
+      "daily": 60030
+    },
+    {
+      "artist": "La La Land Cast",
+      "artistId": "6T70tWxqyIpdVbsFvPzqM3",
+      "trackName": "Another Day Of Sun - With Radios",
+      "trackId": "4DjetO0EUUMQKzYk42OWS9",
+      "total": 2935549,
+      "daily": 1287
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-import { Calendar, Music, User } from "lucide-react";
+import { Calendar, CirclePlusIcon, Music, User } from "lucide-react";
 import { useRouter } from "next/router";
 import Header from "../components/Header";
 
@@ -23,6 +23,9 @@ export default function HomePage() {
 
   const navigateToAggregateSong = () => {
     router.push("/aggregate-song");
+  };
+  const navigateToAggregateEverything = () => {
+    router.push("/aggregate-everything");
   };
 
   return (
@@ -119,6 +122,15 @@ export default function HomePage() {
               <div className="flex flex-row justify-center items-center text-center gap-4">
                 <Music className="h-12 w-12 text-gray-100 dark:text-gray-900 " />
                 <h3 className="text-xl font-semibold text-gray-200 dark:text-gray-900">By Song</h3>
+              </div>
+            </button>
+            <button
+              onClick={navigateToAggregateEverything}
+              className="group p-3 rounded-lg hover:shadow-sm transition-all duration-200 border-2 border-gray-200 dark:border-gray-700 hover:border-stone-500 dark:hover:border-stone-400 focus:outline-none focus:ring-2 focus:ring-stone-500 dark:focus:ring-stone-400 focus:ring-offset-2 dark:focus:ring-offset-gray-900 cursor-pointer bg-stone-600 dark:bg-stone-400 hover:scale-105"
+            >
+              <div className="flex flex-row justify-center items-center text-center gap-4">
+                <CirclePlusIcon className="h-12 w-12 text-gray-100 dark:text-gray-900 " />
+                <h3 className="text-xl font-semibold text-gray-200 dark:text-gray-900">Everything</h3>
               </div>
             </button>
           </div>

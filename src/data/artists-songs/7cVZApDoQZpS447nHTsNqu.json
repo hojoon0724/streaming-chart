@@ -1,0 +1,598 @@
+{
+  "artist": "LeeHi",
+  "artistId": "7cVZApDoQZpS447nHTsNqu",
+  "songs": [
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "ONLY",
+      "trackId": "6TBJkXHPhu3EsMk1bshwuI",
+      "total": 456311815,
+      "daily": 296426
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Yours",
+      "trackId": "4KL3FJYexPrPuMdPagHPXp",
+      "total": 132684741,
+      "daily": 33778
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "BREATHE",
+      "trackId": "6G4z9WbxyEeWdEQTfShACT",
+      "total": 107857531,
+      "daily": 25385
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Bittersweet (feat. LeeHi)",
+      "trackId": "347PJwH4XqRbeaKaIW9sX3",
+      "total": 96079748,
+      "daily": 48667
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "MY LOVE",
+      "trackId": "4PvVKyqJ6pLVi5HKpAjTPc",
+      "total": 69919160,
+      "daily": 20160
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Can You Hear My Heart (feat. LEE HI)",
+      "trackId": "7n5eQJYX7e6H5gkzgyEfQG",
+      "total": 65910681,
+      "daily": 22514
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "HOLO",
+      "trackId": "4BSluGpjdLQihMmKgHXMxp",
+      "total": 65147660,
+      "daily": 12057
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "NO ONE",
+      "trackId": "0iQ7Nc2YhlyGHeUi4R8Gl6",
+      "total": 65005356,
+      "daily": 9490
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "H.S.K.T. (feat. Wonstein)",
+      "trackId": "39382sUtIOwIXftX0i76do",
+      "total": 62343281,
+      "daily": 110604
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "For You",
+      "trackId": "0JL7DoEqAUcOntWmBuOSdh",
+      "total": 51759617,
+      "daily": 15112
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Savior (feat. B.I)",
+      "trackId": "0DYvTdqBqW6erA1a7pFzVo",
+      "total": 21633917,
+      "daily": 12552
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Red Lipstick (feat. Yoonmirae)",
+      "trackId": "7nJc2Oxfn7xRX3eF4hltyl",
+      "total": 20064919,
+      "daily": 5022
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Rose",
+      "trackId": "6MksZu2sx5jzoPszxbRZMw",
+      "total": 17850956,
+      "daily": 4271
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Alone (Feat. LeeHi)",
+      "trackId": "2SSbQoEqPHu6qAgi3pFobY",
+      "total": 14458678,
+      "daily": 9430
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Daydream (feat. LeeHi)",
+      "trackId": "3dpXHWngKfsQ7YbyiC3VpH",
+      "total": 13471462,
+      "daily": 5641
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "O (Feat. LEE HI)",
+      "trackId": "7iooxPmnLY6wZynSplHUah",
+      "total": 11680537,
+      "daily": 4327
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "X (Feat. LEE HI)",
+      "trackId": "2oUallb0gAqnNnfGbM4qvT",
+      "total": 11585737,
+      "daily": 1423
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "HAPPEN ENDING - JAPANESE MIX",
+      "trackId": "2JjuzRm1d3k4W9rv0OKn54",
+      "total": 11540211,
+      "daily": 3516
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Special",
+      "trackId": "4MwT3qzF3tfMtSFr9b2nKa",
+      "total": 9639293,
+      "daily": 8604
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "1, 2",
+      "trackId": "2U4292s8Vs8p7rDP8LYr8c",
+      "total": 9289101,
+      "daily": 1387
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "MISSING U",
+      "trackId": "42fchQtNEz28GWeT5YF63y",
+      "total": 8456923,
+      "daily": 1120
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "1, 2, 3, 4",
+      "trackId": "1AhqxJYPxp0xBFPBPYYLZn",
+      "total": 8012691,
+      "daily": 1589
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "NO WAY",
+      "trackId": "0jA0TihvVbPHgrIcHbW1Og",
+      "total": 7992287,
+      "daily": 1811
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "IT'S COLD",
+      "trackId": "722ZHFhEunQhqX4bDlqZvt",
+      "total": 7548492,
+      "daily": 2445
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "HOLD MY HAND",
+      "trackId": "7bwSMCwF2C4cK2W97H6oCA",
+      "total": 6959806,
+      "daily": 630
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "AUTOMATIC REMIX",
+      "trackId": "2lCinwx9z9Fmr8kcXDei0c",
+      "total": 6749779,
+      "daily": 2339
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "For You (Holiday Remix) - Spotify Singles Holiday",
+      "trackId": "7I4DnQPWhzZvK79px5UhT5",
+      "total": 6488880,
+      "daily": 390
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Safety Zone",
+      "trackId": "4yUrkvM634vJTljUN9gDxV",
+      "total": 6278872,
+      "daily": 5991
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "What is Love?",
+      "trackId": "3lc5fY2NwKXNdchJtx58kR",
+      "total": 6218688,
+      "daily": 7465
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "HERE COME THE REGRETS",
+      "trackId": "1JLvzdDZyE3js5XKKaxrGF",
+      "total": 5862916,
+      "daily": 654
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Darling",
+      "trackId": "1Yjht6lUYTjJTsdUL6J9xx",
+      "total": 5800456,
+      "daily": 4548
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "XI (feat. Lee Hi)",
+      "trackId": "70VFb3TxSRMgtVS0zh7Irx",
+      "total": 5744875,
+      "daily": 810
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Rich Kids Anthem (Feat. Lee Hi)",
+      "trackId": "4nF3APHarLJHV3igGVgTUJ",
+      "total": 5720150,
+      "daily": 1318
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Bye",
+      "trackId": "6ye2BBTpOipvPNjSPxgmRC",
+      "total": 5719804,
+      "daily": 3103
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "We'll shine brighter than any other stars",
+      "trackId": "5psoGr4LFHqFCJnyo4pVaN",
+      "total": 5620992,
+      "daily": 2911
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Golden Slumbers",
+      "trackId": "6wdG5d2iQpFw2iTw06N4r5",
+      "total": 4441420,
+      "daily": 409
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "MY STAR",
+      "trackId": "2Ysm5H4UDAkrCSelD6g2O2",
+      "total": 4394962,
+      "daily": 410
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "VIDEO - feat. BOBBY",
+      "trackId": "4fGwECUEYyamu2fb9AoGXI",
+      "total": 4154198,
+      "daily": 525
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Dear you (Romance 101 X LeeHi)",
+      "trackId": "3Hl54jMVxsDipnNQXG2xnV",
+      "total": 3976481,
+      "daily": 1356
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "FXXK WIT US",
+      "trackId": "6wj3blmFAG2pNWQ40Yuaq8",
+      "total": 3760155,
+      "daily": 311
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "UP ALL NIGHT - feat. TABLO",
+      "trackId": "4lxjxQQ3BkjLQ6Oa3ek42n",
+      "total": 3680648,
+      "daily": 359
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Intentions",
+      "trackId": "7IN84szmayzO68enmVmKYv",
+      "total": 3558617,
+      "daily": 1077
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Waterride",
+      "trackId": "7JXNH2xnA23vsGasejVfWr",
+      "total": 3541309,
+      "daily": 1239
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Hold My Hand",
+      "trackId": "7brPjLpvlaYLnPGCA9U6y7",
+      "total": 3424858,
+      "daily": 1129
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "BLUES",
+      "trackId": "36SIXwBCyQ9ZLljb0sbfSN",
+      "total": 3403761,
+      "daily": 618
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "20MIN",
+      "trackId": "1Wl9MPBkb50b4uevY6sxkA",
+      "total": 3374790,
+      "daily": 324
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Brave Enough",
+      "trackId": "3QnhPrjMufFlq150Dl2031",
+      "total": 3353326,
+      "daily": 585
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "LOVE IS OVER",
+      "trackId": "20zFURLsIlHhe7dSx1Q9hf",
+      "total": 3259036,
+      "daily": 540
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "My Beloved",
+      "trackId": "2o8qsTLDQ17QWeozcwKFoF",
+      "total": 3215463,
+      "daily": 2266
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "OFFICIAL",
+      "trackId": "6VcH0CquknNzLpI0cmNewJ",
+      "total": 2904148,
+      "daily": 343
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "PASSING BY",
+      "trackId": "12Gv1YhzKyb92Iv0yxQZAg",
+      "total": 2896650,
+      "daily": 262
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "It's Over",
+      "trackId": "47PAgx8nAijlmCdJtiq2iE",
+      "total": 2530391,
+      "daily": 365
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "SCARECROW",
+      "trackId": "2NstvOcArQl4QVEqmvYmC1",
+      "total": 2051457,
+      "daily": 222
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Fool For Love",
+      "trackId": "6uu9oJsRfFQfhFp2BxMucP",
+      "total": 1667236,
+      "daily": 273
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Alley (with SUNG SI KYUNG)",
+      "trackId": "2Qp3RHSP5f9csqFhhFgPrC",
+      "total": 1507554,
+      "daily": 1078
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "One-Sided Love",
+      "trackId": "3D37MXSt6srzIR4nhopEoE",
+      "total": 1345262,
+      "daily": 140
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "HoMe boy (Feat. LeeHi)",
+      "trackId": "2wvEHkGKifU1FCqUDi00co",
+      "total": 1251050,
+      "daily": 924
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Because",
+      "trackId": "6D7LEqbDyCC9FGtXZZ79Dw",
+      "total": 1241158,
+      "daily": 134
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Dream",
+      "trackId": "1iiCrEIlzwT1yAJZtAD9qi",
+      "total": 1234749,
+      "daily": 121
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "COME OVER (feat. GRAY, KIM GO EUN, PARK NA RAE, Joon Park, LeeHi, Jeon Hyun Moo, Jessi & HAN HYE JI",
+      "trackId": "6JyY0wV5ow4EmBMVYP6bZT",
+      "total": 1216444,
+      "daily": 295
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Turn It Up",
+      "trackId": "02L48nV0vwTuXl9bLIlMFn",
+      "total": 1159113,
+      "daily": 118
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Am I Strange",
+      "trackId": "7zQ3WUdHHU7ORMo7oCrjei",
+      "total": 1112860,
+      "daily": 119
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Bad Habits (Feat. LeeHi)",
+      "trackId": "6HKktb4MMeYSKFnNExGfKg",
+      "total": 959854,
+      "daily": 701
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Yours - Blinders Remix",
+      "trackId": "6Kb0DpQxVW0IrwDabv3Iji",
+      "total": 908744,
+      "daily": 121
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Can You Hear My Heart (feat. LEE HI) [Inst.]",
+      "trackId": "2VTNKaYczjGr6onIpmcKqH",
+      "total": 862985,
+      "daily": 182
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "MY LOVE (Inst.)",
+      "trackId": "61RYrKqmEnLNfTdc2TEmly",
+      "total": 787299,
+      "daily": 138
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Our Timeless Moments",
+      "trackId": "4dRbHwtLsUXhPoMPIBN0gy",
+      "total": 604881,
+      "daily": 863
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "WORLD TOUR - Feat. MINO of WINNER",
+      "trackId": "36YxRxue6JzwYQZtzizji1",
+      "total": 316560,
+      "daily": 180
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Without You - Live",
+      "trackId": "6pxrme6UtEm7KaFI1RMdQl",
+      "total": 288031,
+      "daily": 373
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Hold My Hand - Instrumental",
+      "trackId": "13i2U4DVw9EOxdTcYTsvi8",
+      "total": 286937,
+      "daily": 134
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "We'll shine brighter than any other stars - Instrumental",
+      "trackId": "45Xb5LOFmd2iPILc8gH95k",
+      "total": 122976,
+      "daily": 51
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Dear you (Romance 101 X LeeHi) (Inst.)",
+      "trackId": "1YAPfslPqiu0fjc8FNubSE",
+      "total": 120605,
+      "daily": 26
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "BREATHE - Japanese Version",
+      "trackId": "5NBiV4BzxfPqxMODUOTe5t",
+      "total": 110808,
+      "daily": 23
+    },
+    {
+      "artist": "LeeHi",
+      "artistId": "7cVZApDoQZpS447nHTsNqu",
+      "trackName": "Brave Enough - Instrumental",
+      "trackId": "5cKrMk1Ta7aZU6R3aGAafe",
+      "total": 101210,
+      "daily": 25
+    }
+  ]
+}

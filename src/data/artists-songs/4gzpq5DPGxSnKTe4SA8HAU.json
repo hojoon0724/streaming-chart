@@ -1,0 +1,2662 @@
+{
+  "artist": "Coldplay",
+  "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+  "songs": [
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Something Just Like This",
+      "trackId": "6RUKPb4LETWmmr3iAEQktW",
+      "total": 3204321524,
+      "daily": 1631468
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Yellow",
+      "trackId": "3AJwUDP919kvQ9QcozQPxg",
+      "total": 3088038418,
+      "daily": 2184599
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Viva La Vida",
+      "trackId": "4zOfy9kqJlG0ZXvcaSh4gv",
+      "total": 2812470413,
+      "daily": 1740694
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "The Scientist",
+      "trackId": "75JFxkI2RXiU7L9VXzMkle",
+      "total": 2395494441,
+      "daily": 1637261
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Sky Full of Stars",
+      "trackId": "0FDzzruyVECATHXKHFs9eJ",
+      "total": 2001011508,
+      "daily": 1334200
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Fix You",
+      "trackId": "7LVHVU3tWfcxj5aiPFEW4Q",
+      "total": 1811619609,
+      "daily": 1029682
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Hymn for the Weekend",
+      "trackId": "3RiPr603aXAoi4GHyXx0uy",
+      "total": 1714335555,
+      "daily": 889540
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Paradise",
+      "trackId": "6nek1Nin9q48AVZcWs9e9D",
+      "total": 1594513135,
+      "daily": 965906
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "My Universe",
+      "trackId": "46HNZY1i7O6jwTA7Slo2PI",
+      "total": 1462695123,
+      "daily": 558545
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Sparks",
+      "trackId": "7D0RhFcb3CrfPuTJ0obrod",
+      "total": 1425226132,
+      "daily": 1847425
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Adventure of a Lifetime",
+      "trackId": "69uxyAqqPIsUyTO8txoP2M",
+      "total": 1287909528,
+      "daily": 1061040
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Clocks",
+      "trackId": "0BCPKOYdS2jbQ8iyB56Zns",
+      "total": 1214032079,
+      "daily": 1148139
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Magic",
+      "trackId": "23khhseCLQqVMCIT1WMAns",
+      "total": 763679709,
+      "daily": 143820
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Hymn for the Weekend - Seeb Remix",
+      "trackId": "1OAiWI2oPmglaOiv9fdioU",
+      "total": 680040547,
+      "daily": 75020
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Trouble",
+      "trackId": "0R8P9KfGJCDULmlEoBagcO",
+      "total": 428324321,
+      "daily": 236421
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "In My Place",
+      "trackId": "2nvC4i2aMo4CzRjRflysah",
+      "total": 425590924,
+      "daily": 270457
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Higher Power",
+      "trackId": "65OR4ywy8Cgs3FDHK82Idl",
+      "total": 412233082,
+      "daily": 140301
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Christmas Lights",
+      "trackId": "4fzyvSu73BhGvi96p2zwjL",
+      "total": 367673713,
+      "daily": 7853
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Every Teardrop Is a Waterfall",
+      "trackId": "2U8g9wVcUu9wsg6i7sFSv8",
+      "total": 355281080,
+      "daily": 158940
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Speed of Sound",
+      "trackId": "7clUVcSOtkNWa58Gw5RfD4",
+      "total": 352644830,
+      "daily": 231359
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Everglow",
+      "trackId": "5qfZRNjt2TkHEL12r3sDEU",
+      "total": 329568049,
+      "daily": 164953
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Princess of China",
+      "trackId": "4HXOBjwv2RnLpGG4xWOO6N",
+      "total": 313951091,
+      "daily": 89376
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Up&Up",
+      "trackId": "31L9yLXSj6LpCFupyMV6CR",
+      "total": 290832410,
+      "daily": 76411
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Charlie Brown",
+      "trackId": "1yqMgZNrevsWMLWfO2PRp5",
+      "total": 281487640,
+      "daily": 90555
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Let Somebody Go",
+      "trackId": "4cGqn0E8JCSY9gQllQj4Mf",
+      "total": 281068774,
+      "daily": 66302
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Orphans",
+      "trackId": "03T4ttRCiLXST6MZjeMwmR",
+      "total": 260117396,
+      "daily": 70172
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Don't Panic",
+      "trackId": "2QhURnm7mQDxBb5jWkbDug",
+      "total": 252208622,
+      "daily": 140382
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "feelslikeimfallinginlove",
+      "trackId": "49S3znqBAQyPyMpEuKeyJ6",
+      "total": 234343752,
+      "daily": 285273
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Head Full of Dreams",
+      "trackId": "6f49kbOuQSOsStBpyGvQfA",
+      "total": 225673668,
+      "daily": 52603
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Violet Hill",
+      "trackId": "2wToK3W4tScxgpAinchUYf",
+      "total": 208687950,
+      "daily": 83360
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Shiver",
+      "trackId": "0qksx8mV28lztYIZ1om8ml",
+      "total": 195183354,
+      "daily": 83151
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "WE PRAY",
+      "trackId": "7xrEnNo99wrmIs8ZK3RZMK",
+      "total": 166335184,
+      "daily": 306917
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Midnight",
+      "trackId": "4GKk1uNzpxIptBuaY97Dkj",
+      "total": 160628990,
+      "daily": 36148
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Always in My Head",
+      "trackId": "0FMjqbY3aWo1QDbo3GwXib",
+      "total": 155623339,
+      "daily": 49363
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Green Eyes",
+      "trackId": "3ou9rSNUQnE7XYmJkUUIOc",
+      "total": 154849138,
+      "daily": 55990
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Everyday Life",
+      "trackId": "0h9fnCSnbUgOEgibnQByFv",
+      "total": 145592189,
+      "daily": 32417
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Talk",
+      "trackId": "4wzt5Rrk3W98pHXAqutuJw",
+      "total": 143716783,
+      "daily": 92632
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Birds",
+      "trackId": "3HWDWyIqWuLsTHECx9DvXF",
+      "total": 142866798,
+      "daily": 26674
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Everglow - Edit",
+      "trackId": "6aG68QSwv0hgNTq90I2GOE",
+      "total": 139470752,
+      "daily": 19570
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "God Put a Smile upon Your Face",
+      "trackId": "4hf0hL4kWyjWztZzVsM39V",
+      "total": 130425836,
+      "daily": 41309
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "O",
+      "trackId": "77yuzxCS3csrgTPSW0pvyk",
+      "total": 126835611,
+      "daily": 46179
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Ink",
+      "trackId": "6c6W25YoDGjTq3qSPOga5t",
+      "total": 120181904,
+      "daily": 23181
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Miracles (Someone Special)",
+      "trackId": "6uJwPeBGb3swi85TSr9iIz",
+      "total": 113860993,
+      "daily": 20415
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Fun (feat. Tove Lo)",
+      "trackId": "7fJFDK6XjYsXcMKNHESbot",
+      "total": 111466068,
+      "daily": 12164
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Message",
+      "trackId": "2w3eXFL86RgxGtDr8bzwgK",
+      "total": 109001830,
+      "daily": 36639
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "The Hardest Part",
+      "trackId": "4Tw9JYF9HOuPRyccNWMgwf",
+      "total": 108494625,
+      "daily": 37654
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Politik",
+      "trackId": "0u35Dpz37TY2M2j20RUdMf",
+      "total": 104858219,
+      "daily": 34467
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "High Speed",
+      "trackId": "2DHgvPQD1jApRnT1DBZdrS",
+      "total": 103022556,
+      "daily": 33150
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Warning Sign",
+      "trackId": "4bPkBHKLKd9WHizsvM2zV3",
+      "total": 102177626,
+      "daily": 39492
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Strawberry Swing",
+      "trackId": "6yswG61G9VemCfy7kh5gub",
+      "total": 100119600,
+      "daily": 25908
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Viva La Vida - Live from Spotify London",
+      "trackId": "6qt0IWS8y6yGR6gNTEmQzj",
+      "total": 98492287,
+      "daily": 25268
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "True Love",
+      "trackId": "0fQuzbQNLcD1ofo7B2NcFI",
+      "total": 98064146,
+      "daily": 19794
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Amazing Day",
+      "trackId": "3wtV2ifnHzirkAElgTGh63",
+      "total": 94888032,
+      "daily": 21254
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "We Never Change",
+      "trackId": "5TB6QgrF0RPIxSCGfRDLoe",
+      "total": 92097648,
+      "daily": 40876
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Biutyful",
+      "trackId": "2L2mM3rEO3arNIMQnb3dou",
+      "total": 88507777,
+      "daily": 32319
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Til Kingdom Come",
+      "trackId": "1wQXj5bgxyZQ2XmE2X9s6n",
+      "total": 88274622,
+      "daily": 28600
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Army of One",
+      "trackId": "4giCxIFPZNQIP4bIZM4sqH",
+      "total": 85570361,
+      "daily": 12965
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Lost!",
+      "trackId": "1QHphxPdPZPtYeXKY3abJp",
+      "total": 82424456,
+      "daily": 15252
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "See You Soon",
+      "trackId": "1uKzAldJYlwje9HstlwTie",
+      "total": 81776311,
+      "daily": 18025
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Hurts Like Heaven",
+      "trackId": "6WF4hzdGXvXd1joERSXJjm",
+      "total": 79866341,
+      "daily": 14280
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Champion Of The World",
+      "trackId": "6mf7BNgXs8JipPr2QILnyN",
+      "total": 76280655,
+      "daily": 22351
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Us Against the World",
+      "trackId": "5zyfzNnBzN7f7PVkJFnW2g",
+      "total": 75347501,
+      "daily": 13136
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Life in Technicolor ii",
+      "trackId": "0VpFFXnT2kNjqJmTv57aZi",
+      "total": 74287777,
+      "daily": 17991
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Coloratura",
+      "trackId": "0jH7gF7KCk2Lom9gimaKms",
+      "total": 73782721,
+      "daily": 21860
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Viva La Vida - Live in Buenos Aires",
+      "trackId": "4Y9lVjRD82aJOQ2v13UIoF",
+      "total": 72608340,
+      "daily": 15405
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "All I Can Think About Is You",
+      "trackId": "6V6goat94tTJOWXXKZstNX",
+      "total": 69805922,
+      "daily": 13206
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Lovers in Japan",
+      "trackId": "1s1ESNQbXUdjcZz4Rptfbh",
+      "total": 69074150,
+      "daily": 15572
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Parachutes",
+      "trackId": "4qzoHxgp42ylb18ga1SWTL",
+      "total": 69011118,
+      "daily": 20308
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Daddy",
+      "trackId": "3pcPPhPAiurm2Ior11SHrz",
+      "total": 67357343,
+      "daily": 17351
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Spies",
+      "trackId": "2mLgOcRkEgq89j8WstUpui",
+      "total": 66981323,
+      "daily": 26061
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Arabesque",
+      "trackId": "0ZlVUhjO8c0bOx1D2Btznf",
+      "total": 66031628,
+      "daily": 14239
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Fix You - Live in Buenos Aires",
+      "trackId": "7mGJlNOAOmJ5ptkmujg1Gv",
+      "total": 65633202,
+      "daily": 12129
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Princess of China - Acoustic",
+      "trackId": "2tKqZsc0epdLrsNUT6y0Ls",
+      "total": 65524286,
+      "daily": 5819
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Everglow - Live from Spotify London",
+      "trackId": "6U8VHaQxzECez4TSt0nmiP",
+      "total": 65501842,
+      "daily": 7240
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "ALL MY LOVE",
+      "trackId": "6iYxkBHyMpsgVxUgfy5fSx",
+      "total": 64720204,
+      "daily": 126034
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Adventure of a Lifetime - Live from Spotify London",
+      "trackId": "2XiSB3m4WSkxD3xIUrYHfV",
+      "total": 63764226,
+      "daily": 14553
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Rush of Blood to the Head",
+      "trackId": "4JJ5zGKnb1IpERyBrfmb1y",
+      "total": 63599705,
+      "daily": 19099
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Yellow - Live from Spotify London",
+      "trackId": "33koOQs551ijjVmLbmrcDc",
+      "total": 63488706,
+      "daily": 7933
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Something Just Like This - Alesso Remix",
+      "trackId": "50RJdoxw8iajGNtHQe6QeS",
+      "total": 63399719,
+      "daily": 8172
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Sky Full of Stars - Live at the Royal Albert Hall, London",
+      "trackId": "2WXTF0qgKbczC2O8VymeLO",
+      "total": 61020981,
+      "daily": 12146
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Life in Technicolor",
+      "trackId": "1cErN1ZX9s0uZaaWezEGJw",
+      "total": 59777564,
+      "daily": 8418
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Flags",
+      "trackId": "4S2lJPZBoyl28MilRBgxgb",
+      "total": 59532479,
+      "daily": 19601
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Atlas - From “The Hunger Games: Catching Fire” Soundtrack",
+      "trackId": "2DI0fZ4QZmLtapszYaoG6F",
+      "total": 57504494,
+      "daily": 8870
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Whisper",
+      "trackId": "7KolrFGhfDi1JTSgQBT5sI",
+      "total": 57051124,
+      "daily": 9377
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Another's Arms",
+      "trackId": "22uzF19LxQW87kOVkR79Fq",
+      "total": 55389862,
+      "daily": 8126
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Humankind",
+      "trackId": "23BO6YozrAXUta1buxFZ80",
+      "total": 55211368,
+      "daily": 15137
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "What If",
+      "trackId": "39qRdHcl2tizWbzlM9kUlN",
+      "total": 55192495,
+      "daily": 13391
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Everything's Not Lost - Includes Hidden Track 'Life Is For Living'",
+      "trackId": "1RNtm45kw0hPMBz7gKiIYu",
+      "total": 54304389,
+      "daily": 18496
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Kaleidoscope",
+      "trackId": "7IX7VAXujvcZ3e1PG7sGP7",
+      "total": 54270987,
+      "daily": 4203
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Amsterdam",
+      "trackId": "2uQ4px5SPONsgcUpulywIQ",
+      "total": 52182929,
+      "daily": 13504
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Hypnotised - EP Mix",
+      "trackId": "7HBnZdg7fIQwqMhQhci0VV",
+      "total": 51484686,
+      "daily": 6598
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "X&Y",
+      "trackId": "2rxp56vVQp1zzumJ0eHLmw",
+      "total": 51338903,
+      "daily": 11718
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Sunrise",
+      "trackId": "6Tb7Zfo4PcSiS4TqQ4NnTh",
+      "total": 49976574,
+      "daily": 10131
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Death and All His Friends",
+      "trackId": "2MGdl3osyfsqK4bs0oQY6O",
+      "total": 49973397,
+      "daily": 12059
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Princess of China - Radio Edit",
+      "trackId": "6XJ2PVp2Vs9G2j5B2Cbbnb",
+      "total": 49479722,
+      "daily": 5796
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "People of The Pride",
+      "trackId": "5ophZLHA9mwSZhQSmboyDN",
+      "total": 48220593,
+      "daily": 16624
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Swallowed in the Sea",
+      "trackId": "2u2WL5N3KnQnykOZi3fxL6",
+      "total": 47667933,
+      "daily": 10731
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Oceans",
+      "trackId": "2u4uhtETtcULnkBfFHSnDX",
+      "total": 47489774,
+      "daily": 6405
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Colour Spectrum",
+      "trackId": "3VqiD8Yvk6bKwqS1e64PHB",
+      "total": 46979745,
+      "daily": 4053
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Cemeteries of London",
+      "trackId": "6TBnbfxZHn4KliWEbfYgJr",
+      "total": 45617730,
+      "daily": 6855
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "42",
+      "trackId": "1yeWpEBGoxC75jY1OoFRmq",
+      "total": 44513448,
+      "daily": 6858
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Miracles",
+      "trackId": "1byIZa6CFerX5WXShwqAvf",
+      "total": 44005783,
+      "daily": 13065
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A L I E N S",
+      "trackId": "2bS2ADg123NZWfTUsjra8a",
+      "total": 43217006,
+      "daily": 2330
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Everglow",
+      "trackId": "6r2BFEIErNwG0owW4rOQB8",
+      "total": 43161494,
+      "daily": 5463
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "WE PRAY - (TINI Version)",
+      "trackId": "6OICQoNsUIcYsirqoDo08Y",
+      "total": 42555341,
+      "daily": 74019
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "❤️",
+      "trackId": "3oTYv0yShT4sjuPncoUXfK",
+      "total": 42463054,
+      "daily": 13816
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Mylo Xyloto",
+      "trackId": "3vCzHYgSjMuGjFMfJSCx4c",
+      "total": 42068388,
+      "daily": 5996
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "My Universe - SUGA's Remix",
+      "trackId": "6BeOJPXMstvXolxKbL09kR",
+      "total": 41834496,
+      "daily": 10291
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Something Just Like This - Tokyo Remix",
+      "trackId": "255wsg35VRYqBK7uBtYOUz",
+      "total": 40425856,
+      "daily": 3540
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Up in Flames",
+      "trackId": "06t6JWrU05BxaKPtct2P2n",
+      "total": 39702279,
+      "daily": 3802
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Old Friends",
+      "trackId": "3E3zYgQul8EaJioNvD2tv9",
+      "total": 39156186,
+      "daily": 10892
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Midnight - Kygo Remix",
+      "trackId": "2CoWJhDYVENsByS7rPInSr",
+      "total": 38833040,
+      "daily": 7384
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Christmas Lights - Live from Spotify London",
+      "trackId": "4QVdnpSO5JGMFOEl6ys4RQ",
+      "total": 38042768,
+      "daily": 887
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Magic - Live at the Enmore Theatre, Sydney",
+      "trackId": "3bVwuZb0nYvAMn3roElQnY",
+      "total": 38022028,
+      "daily": 2891
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Major Minus",
+      "trackId": "6maXBs9zUY48m1UNHgTeRC",
+      "total": 37603026,
+      "daily": 3803
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Daylight",
+      "trackId": "4fP4xTSBli3tKck172LEZ4",
+      "total": 37411592,
+      "daily": 9741
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "White Shadows",
+      "trackId": "0WWz2AaqxLoO0fa9ou6Fqc",
+      "total": 36987271,
+      "daily": 9454
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Gravity",
+      "trackId": "44LVgFZvUcBYo98vy71tvd",
+      "total": 36863711,
+      "daily": 10941
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Adventure of a Lifetime - Matoma Remix",
+      "trackId": "3RateSD2PJ9fGZzHnRmIAT",
+      "total": 36337485,
+      "daily": 4188
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Lost+ (with Jay-Z)",
+      "trackId": "1y0ZoHeeEd0XTT8X7SnSq3",
+      "total": 35950914,
+      "daily": 3838
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Up&Up",
+      "trackId": "4a8pP5X2lxwU5aprY44jLn",
+      "total": 35700571,
+      "daily": 2982
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Trouble In Town",
+      "trackId": "45PqOIkZ9PdCjsCJQYzx9G",
+      "total": 35250005,
+      "daily": 3956
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Square One",
+      "trackId": "2zQIITgo6sc5ppOfPcH205",
+      "total": 35196051,
+      "daily": 8603
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Sky Full of Stars - Hardwell Remix",
+      "trackId": "0WZVGXO8FYpK8v1IDxlOyE",
+      "total": 34780168,
+      "daily": 7335
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Paradise - Tiësto Remix",
+      "trackId": "0pjMTISKHTJkogN1BPZxaC",
+      "total": 34622136,
+      "daily": 5115
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Church",
+      "trackId": "1e8D1BCD2afT56Km7UahpB",
+      "total": 34469314,
+      "daily": 6040
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "My Universe - Galantis Remix",
+      "trackId": "1DlczmjByrS4qxRVfGjpqN",
+      "total": 34445476,
+      "daily": 5626
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "GOOD FEELiNGS",
+      "trackId": "65wzicJctsW9GwnTnLWxQO",
+      "total": 34371652,
+      "daily": 85069
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Viva La Vida - Live",
+      "trackId": "5ZV67iTfNpW3ueMCELLiSX",
+      "total": 34079851,
+      "daily": 9952
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Don't Let It Break Your Heart",
+      "trackId": "69ho6gqRw1Rjy56tXlvnqk",
+      "total": 33757722,
+      "daily": 4333
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Yes",
+      "trackId": "1F5vDVoeP7TaVJwmHVYRGy",
+      "total": 32856349,
+      "daily": 4613
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "U.F.O.",
+      "trackId": "6BbIybrP84Tp99DLJg1cq3",
+      "total": 32566151,
+      "daily": 3049
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Hypnotised",
+      "trackId": "5LXj9Ch3O9ATm1NoHT8GXn",
+      "total": 32279508,
+      "daily": 3359
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Cry Cry Cry",
+      "trackId": "4Kwhm5VU4huxmQtBqd1AXo",
+      "total": 31460563,
+      "daily": 5569
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Something Just Like This - Don Diablo Remix",
+      "trackId": "15MTd64KUMG7CF6mOyovsQ",
+      "total": 30674869,
+      "daily": 3776
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Sky Full of Stars",
+      "trackId": "2nzI2futOM8isgXNKAlQ1m",
+      "total": 30317125,
+      "daily": 10486
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Low",
+      "trackId": "1BBtng1KOF0JuC6bSNgGmp",
+      "total": 29818427,
+      "daily": 7413
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "My Universe - Acoustic Version",
+      "trackId": "6nhc3daOpKaZBRj2ZFWfc7",
+      "total": 29568953,
+      "daily": 5057
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Up with the Birds",
+      "trackId": "5lIFsEWj9IjNEALbHnPosE",
+      "total": 28753571,
+      "daily": 3182
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Fix You - Live",
+      "trackId": "6L0uCWhXyBNncoDgfEvK1R",
+      "total": 27191590,
+      "daily": 8319
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "M.M.I.X.",
+      "trackId": "5Y7ztPw93VbAle55brM0jo",
+      "total": 27155206,
+      "daily": 2085
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Every Teardrop Is A Waterfall (Coldplay Vs. Swedish House Mafia)",
+      "trackId": "1WVjJyPRXjVUFNlzYxAj6i",
+      "total": 27098183,
+      "daily": 7199
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "When I Need A Friend",
+      "trackId": "0UvUivL70eDwhTWBd8S38I",
+      "total": 26846523,
+      "daily": 2671
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "♾",
+      "trackId": "2wleRXcIPqltoDPLMH5WDa",
+      "total": 26579962,
+      "daily": 8268
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "The Scientist - Live in Buenos Aires",
+      "trackId": "1aZhbOdRqshLS6uPjiO8Y4",
+      "total": 26371130,
+      "daily": 7594
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Postcards from Far Away",
+      "trackId": "4sbbpL1WwwGRr6xWk2y0Hk",
+      "total": 25430129,
+      "daily": 2380
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "🪐",
+      "trackId": "1a3G9SNslcKsPAOuIikaxd",
+      "total": 24308310,
+      "daily": 4703
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Hopeful Transmission",
+      "trackId": "6n1x3DYFDpRau83XsI32NU",
+      "total": 24279049,
+      "daily": 2006
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Yellow - Live in Buenos Aires",
+      "trackId": "2s2Ld1Xm7t88gSVvohNbPL",
+      "total": 23567114,
+      "daily": 5686
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Yellow - Live",
+      "trackId": "58MrV6J9oS46ViY1N6gTJX",
+      "total": 22367635,
+      "daily": 5536
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "BrokEn",
+      "trackId": "1cXXhzPnbrXjNQYbLdUJdy",
+      "total": 22195167,
+      "daily": 3013
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Always in My Head - Live at the Royal Albert Hall, London",
+      "trackId": "0zM6Zj4Iao1tJFHWc2PsrL",
+      "total": 22105948,
+      "daily": 1629
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Ink - Live at Le Casino De Paris, Paris",
+      "trackId": "29G1awyCr8RHz9EsTwqC6P",
+      "total": 21935056,
+      "daily": 1760
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "feelslikeimfallinginlove - Zerb x Coldplay",
+      "trackId": "4cVUwET6QBkiWUdGVNSYPt",
+      "total": 21695049,
+      "daily": 87534
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Glass of Water",
+      "trackId": "0Y27miOkWnVymvOIA19BgU",
+      "total": 21512918,
+      "daily": 2927
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Twisted Logic",
+      "trackId": "6kevl5fnM7GRJ2K2rBBnxq",
+      "total": 21322380,
+      "daily": 4670
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Paradise - Live in Buenos Aires",
+      "trackId": "314gi4w3RdZxlocdWw0Khr",
+      "total": 20375039,
+      "daily": 4314
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Head Full of Dreams - Live in Buenos Aires",
+      "trackId": "5H8lr4az4Vo3LloH67yVRt",
+      "total": 19694310,
+      "daily": 3464
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Ma Meilleure Ennemie ft. Coldplay",
+      "trackId": "1ZHvGQZNz6HLbxhAtu7pin",
+      "total": 19509906,
+      "daily": 139828
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "My Universe - David Guetta Remix",
+      "trackId": "5FvxRvrQ8qzKjBJ6ST9aiu",
+      "total": 19209762,
+      "daily": 4897
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Èkó",
+      "trackId": "2HUtNS9qtfgWbnaagK6AAe",
+      "total": 19194486,
+      "daily": 4201
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "MOON MUSiC",
+      "trackId": "41FNZsY7w7KaTQ2bjxdR6w",
+      "total": 19026294,
+      "daily": 24597
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "✨",
+      "trackId": "1danObd53GynoY83wRz3Ua",
+      "total": 18927620,
+      "daily": 2949
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Paradise - Live",
+      "trackId": "1lWLwMV3peo5fJp5hHRCHS",
+      "total": 18869106,
+      "daily": 3934
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Fix You",
+      "trackId": "6YAbIZPjyQ5euHxyxUgRoQ",
+      "total": 18682805,
+      "daily": 9920
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Every Teardrop Is a Waterfall - Live in Buenos Aires",
+      "trackId": "4Q0yfgpERfkp59Pf2tdI4q",
+      "total": 18280577,
+      "daily": 3641
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Lovers in Japan - Osaka Sun Mix",
+      "trackId": "1wV03IHNBW0ZkT5lBCScXb",
+      "total": 17679665,
+      "daily": 2389
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Higher Power - Tiësto Remix",
+      "trackId": "04zCkONaIDxTx2gDjV1yCd",
+      "total": 17457680,
+      "daily": 2567
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "بنی آدم",
+      "trackId": "6DGzLNiawTtntC9NHzeMeY",
+      "total": 17369818,
+      "daily": 2826
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Now My Feet Won't Touch the Ground",
+      "trackId": "4PA4J8GvCN8RuE39wJ1QT1",
+      "total": 17282493,
+      "daily": 2095
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "True Love - Live at the Enmore Theatre, Sydney",
+      "trackId": "4KmOOVu1sdBLKJbfEm4p1X",
+      "total": 17250370,
+      "daily": 1292
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "WOTW / POTP",
+      "trackId": "7jib2tJjQ82kTIZZATMvAK",
+      "total": 17108944,
+      "daily": 1928
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Adventure of a Lifetime - Live in Buenos Aires",
+      "trackId": "3ERJLifTcWBFNZRl6QAqEC",
+      "total": 16885129,
+      "daily": 6752
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Midnight - Live at the Royal Albert Hall, London",
+      "trackId": "5lsz74yVLAvt3anpHZHCTS",
+      "total": 16624743,
+      "daily": 1442
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Hymn for the Weekend - Live in Buenos Aires",
+      "trackId": "0w6X9iRKrMyDpRRtbu4tE0",
+      "total": 16492550,
+      "daily": 4748
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Clocks - Live in Buenos Aires",
+      "trackId": "4cHZ7W5R81upaIGZfqWxbB",
+      "total": 16102374,
+      "daily": 5001
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Prospekt's March / Poppyfields",
+      "trackId": "4yr1059N96a8msTHVftmFN",
+      "total": 15988141,
+      "daily": 1887
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Rainy Day",
+      "trackId": "551YulB9BVtzcCQl0vX6nC",
+      "total": 15578641,
+      "daily": 1541
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "O - Live at Royce Hall, Los Angeles",
+      "trackId": "1ZAcQoFIdhYdKx8FaR4c3t",
+      "total": 15527962,
+      "daily": 1194
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Sky Full of Stars - Live in Buenos Aires",
+      "trackId": "1EMFnyhETKfI52uhI4baGY",
+      "total": 15432485,
+      "daily": 5510
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Guns",
+      "trackId": "6VzRvCbolqcUswaSPm48rI",
+      "total": 15385133,
+      "daily": 1903
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "JUPiTER",
+      "trackId": "3EbRbM7qyJq9qjRqDIwBTO",
+      "total": 15338502,
+      "daily": 18545
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Another's Arms - Live at the Beacon Theatre, New York",
+      "trackId": "79fUOcp3p5YCkBD6ILl6Tz",
+      "total": 15028273,
+      "daily": 1032
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "ALL MY LOVE - PNAU x Coldplay",
+      "trackId": "0TwKov50GELgwuAW4I3oeN",
+      "total": 14796032,
+      "daily": 44362
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Something Just like This - Live in Buenos Aires",
+      "trackId": "0hreO9tj5yiYftUuVThaea",
+      "total": 14694608,
+      "daily": 4350
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Everglow - Live in Buenos Aires",
+      "trackId": "4U5Cr41d1K6s48GAndvCdM",
+      "total": 14673845,
+      "daily": 2998
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Something Just Like This - Dimitri Vegas & Like Mike Remix",
+      "trackId": "3LewMbGqmR4IYtifSNxbGz",
+      "total": 13954705,
+      "daily": 1051
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Oceans - Live at E-Werk, Cologne",
+      "trackId": "2OKnY0cqro0qsOijOondrr",
+      "total": 13758439,
+      "daily": 968
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Charlie Brown - Live in Buenos Aires",
+      "trackId": "3ksF058sVZ21EgQdRLbUyI",
+      "total": 13540804,
+      "daily": 3073
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Magic - Live in Buenos Aires",
+      "trackId": "6EqxH0njjZuuI3gFZN3Z1o",
+      "total": 13409113,
+      "daily": 2593
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Something Just Like This - R3hab Remix",
+      "trackId": "0jTFKCb21Yd4UMV5Xk9EUz",
+      "total": 13223493,
+      "daily": 1240
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Clocks - Live",
+      "trackId": "7LIQNY8P7ZGxilKVX88MF1",
+      "total": 13153475,
+      "daily": 4003
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "God Put a Smile upon Your Face - Live in Buenos Aires",
+      "trackId": "2q8WO601qIwLwV4DgXDCiO",
+      "total": 13034773,
+      "daily": 2181
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "De Música Ligera - Live in Buenos Aires",
+      "trackId": "1aQKPnGNa5vK7aA6lTm4JS",
+      "total": 13022654,
+      "daily": 3054
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "iAAM",
+      "trackId": "1uwmf1x4LQLGv1P1xjJFYk",
+      "total": 12792788,
+      "daily": 19105
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Let Somebody Go - Kygo Remix",
+      "trackId": "2PLNTLPqbL2AzjVPuyggw5",
+      "total": 12776745,
+      "daily": 5023
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Charlie Brown - Live",
+      "trackId": "1u0LrLPnIfVeHOzFfye3Lf",
+      "total": 12713710,
+      "daily": 2720
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "In My Place - Live 2012",
+      "trackId": "5OOloRWmvXZG3aQaeWjDNN",
+      "total": 12652226,
+      "daily": 2203
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "AETERNA",
+      "trackId": "4EGl6H86WFalKVWSXbheb2",
+      "total": 12351326,
+      "daily": 19967
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Have Yourself a Merry Little Christmas - Jo Whiley, BBC Radio 1 Session",
+      "trackId": "4cLMJLCJS4tXQoH416h77P",
+      "total": 11834799,
+      "daily": 291
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "WE PRAY - TWICE Version",
+      "trackId": "3wLvOITQt7cbK4KzQ3dufu",
+      "total": 11831090,
+      "daily": 71813
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "My Universe - Supernova 7 Mix",
+      "trackId": "6Lgbf4b6c9fwz24eFEWONX",
+      "total": 11757291,
+      "daily": 2295
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Always in My Head - Live in Buenos Aires",
+      "trackId": "0oAchaVoTWj6lXTR6f2dSU",
+      "total": 11731860,
+      "daily": 2050
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "WE PRAY - (Elyanna Version)",
+      "trackId": "4rYYAWSdgENNINui9wK3O1",
+      "total": 11216509,
+      "daily": 30243
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "🌈",
+      "trackId": "5lCyER2g9iYp4ozZ7iOKat",
+      "total": 10930385,
+      "daily": 12258
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Up&Up - Freedo Remix",
+      "trackId": "5QOpPsNwbi3IfUH0TffBpn",
+      "total": 10928098,
+      "daily": 1238
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Higher Power - Acoustic Version",
+      "trackId": "6pEoxM3fluEh1Cbh6ODkWH",
+      "total": 10831888,
+      "daily": 1857
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "We All Fall In Love Sometimes",
+      "trackId": "5HbZRiMNwwoU2ccEOxij6N",
+      "total": 10180751,
+      "daily": 2773
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "My Universe - Instrumental",
+      "trackId": "2sp32rIevQhpbo0Z4aQzoe",
+      "total": 10030020,
+      "daily": 1253
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Midnight - Live in Buenos Aires",
+      "trackId": "62OqszvOYSuonp6Buj4P74",
+      "total": 9707586,
+      "daily": 1670
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Every Teardrop Is a Waterfall - Live",
+      "trackId": "3nbAuEdSqBVF5m2QwVYlzR",
+      "total": 9572429,
+      "daily": 1443
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Up&Up - Live in Buenos Aires",
+      "trackId": "3glegOEXSkk8HanJe7ZB08",
+      "total": 9395550,
+      "daily": 2103
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "In My Place - Live in Buenos Aires",
+      "trackId": "0o7htzPrB8bP0jnyjiqUdj",
+      "total": 9286703,
+      "daily": 1801
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Day ‘n’ Nite - Spotify Singles",
+      "trackId": "6M0tj2hONdMEveSWg3JdQG",
+      "total": 8812467,
+      "daily": 1287
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "ONE WORLD",
+      "trackId": "7HFJpnjKUS7LGl8NiyfUE3",
+      "total": 8561397,
+      "daily": 10486
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Princess of China - Live",
+      "trackId": "0t1nm5TmszvLLVAOLiOrH8",
+      "total": 8552376,
+      "daily": 1481
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Let Somebody Go - Single Version",
+      "trackId": "59GSz2S248YmyMYavpcxFI",
+      "total": 8393238,
+      "daily": 1435
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Hurts Like Heaven - Live",
+      "trackId": "1mw50a4DGRhkdMX7nOoLE4",
+      "total": 8281869,
+      "daily": 1378
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "For You",
+      "trackId": "6hQ1OH4kWqkjxpZQt0rNwr",
+      "total": 7598961,
+      "daily": 1630
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Yellow - Live in Sydney",
+      "trackId": "6cR5WracqJzYoH80lSKW0L",
+      "total": 7551906,
+      "daily": 1424
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "God Put a Smile upon Your Face - Live",
+      "trackId": "7nyK4SxiizwxDRr4V2JJaF",
+      "total": 7462520,
+      "daily": 1024
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Fix You - Live from Arnhem, Netherlands",
+      "trackId": "13wWKawWOKggu7wI15jmFT",
+      "total": 7410411,
+      "daily": 964
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Lost?",
+      "trackId": "2uSgunyxPaNqmCt9hqbMVw",
+      "total": 7209616,
+      "daily": 1061
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "The Karate Kid",
+      "trackId": "0cZEkGxb0V9MbpzHzpKp9F",
+      "total": 6981896,
+      "daily": 11636
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Mylo Xyloto - Live",
+      "trackId": "0ejLFn10FIMPNSwCmIviyR",
+      "total": 6800597,
+      "daily": 888
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Us Against the World - Live",
+      "trackId": "6i8gAfT84lsvS8R7ggDZKe",
+      "total": 6779173,
+      "daily": 1380
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Help Is Round the Corner",
+      "trackId": "1AmYC6YsrtkxpTfiv3nFBn",
+      "total": 6649594,
+      "daily": 1206
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Colour Spectrum - Live in Buenos Aires",
+      "trackId": "5MVyXzR1HARqSkQjhPrNBO",
+      "total": 6446625,
+      "daily": 1005
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Let Somebody Go - Piano Version",
+      "trackId": "2zVeRtqrrRXpCizKlywvvr",
+      "total": 6359732,
+      "daily": 2134
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Orphans - Muzi Remix",
+      "trackId": "5x5SYDpamwxXJG675ArNMr",
+      "total": 6104461,
+      "daily": 480
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Amor Argentina - Live in Buenos Aires",
+      "trackId": "1rAZrYT0Ad4F1RiDaxYknE",
+      "total": 6051695,
+      "daily": 928
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Higher Power - ZHU Remix",
+      "trackId": "1YLGtZjDKyY0Qkv4QlX31b",
+      "total": 5984876,
+      "daily": 1071
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Major Minus - Live",
+      "trackId": "4WyX6hwqB1forx046ilrg2",
+      "total": 5968098,
+      "daily": 825
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "See You Soon - Live in Sydney",
+      "trackId": "4o0q6U6VX4a0VTZ06GOxg2",
+      "total": 5905250,
+      "daily": 1068
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "WE PRAY - Jasleen Royal Version",
+      "trackId": "0TPWRwZqAvE3aqVuQx8CQm",
+      "total": 5793987,
+      "daily": 10933
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Crests of Waves",
+      "trackId": "5ZMqdwtZvvNrpUUTijZem6",
+      "total": 5652268,
+      "daily": 1371
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Moving to Mars",
+      "trackId": "0kuv7BqWNDprDao3Tb5flN",
+      "total": 5634560,
+      "daily": 1021
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Ghost Story",
+      "trackId": "0VAQB7OYAoeRZH7sLmhVT6",
+      "total": 5583354,
+      "daily": 1777
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Up in Flames - Live",
+      "trackId": "7cmWfBUtzV8DQTw47nA5OD",
+      "total": 5526330,
+      "daily": 715
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Clocks - Live in Sydney",
+      "trackId": "3cYgC50pVnjPKuh6b0xmZk",
+      "total": 5484221,
+      "daily": 1179
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Clocks - Radio Edit",
+      "trackId": "53yNzLIyBjGt7DCZLKi8Ay",
+      "total": 5458916,
+      "daily": 1719
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Careful Where You Stand",
+      "trackId": "6V3U7whxAMRzOLTli2zt26",
+      "total": 5327948,
+      "daily": 1479
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Princess of China - Invisible Men Remix",
+      "trackId": "2f3XEVeU7g6vZgK2BmyIg8",
+      "total": 5223630,
+      "daily": 924
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Let Somebody Go - Ofenbach Remix",
+      "trackId": "1pDrM3rKlxA9fx3mShxzqx",
+      "total": 5162914,
+      "daily": 1061
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "I Ran Away",
+      "trackId": "1DQoNwxygxmQVH972Ha75w",
+      "total": 5141061,
+      "daily": 1040
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Something Just Like This - ARMNHMR Remix",
+      "trackId": "2f3dQn9jfUwkgnPreXgByt",
+      "total": 5066546,
+      "daily": 408
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Easy To Please",
+      "trackId": "6KHZ9SElsSmjQI7B9D0e4P",
+      "total": 5012139,
+      "daily": 903
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "End Credits - Live in Buenos Aires",
+      "trackId": "6c64ANGY0NfO2YMpbcJUOR",
+      "total": 5001568,
+      "daily": 817
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Animals",
+      "trackId": "59tjfzA98dum1TXhJ4XWoe",
+      "total": 4815443,
+      "daily": 1040
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Moses - Live in Sydney",
+      "trackId": "1n7a6D28s08972ImtPtaxX",
+      "total": 4754730,
+      "daily": 1223
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Talk",
+      "trackId": "07TzXoUAtflCfeipNNXFtk",
+      "total": 4735499,
+      "daily": 1826
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "I Bloom Blaum",
+      "trackId": "6MCvGN1ZTLa3PZkGnLWccm",
+      "total": 4658293,
+      "daily": 755
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Bigger Stronger",
+      "trackId": "5DJtltTQQvcFhP65SFqKxq",
+      "total": 4627653,
+      "daily": 993
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Politik - Live in Sydney",
+      "trackId": "110a2YFVoGswehZi2kkVpp",
+      "total": 4622388,
+      "daily": 1356
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "All Your Friends",
+      "trackId": "5RcZ84RmZ0TVTZQR3fWHoG",
+      "total": 4371227,
+      "daily": 987
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Rush of Blood to the Head - Live in Sydney",
+      "trackId": "5KFf0D8pLy4mzIlaJeV57P",
+      "total": 4267257,
+      "daily": 906
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Bittersweet Symphony - Live at Live 8, Hyde Park, London, 2nd July 2005",
+      "trackId": "1zQDVOrhlRKRJCkoG7CDRu",
+      "total": 4251965,
+      "daily": 3200
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "In My Place - Live in Sydney",
+      "trackId": "3osu6FKSmLJJmqnRw5R90G",
+      "total": 4219005,
+      "daily": 1083
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Brothers & Sisters",
+      "trackId": "6BMIgTmZAihjW5MKEo7gvV",
+      "total": 4110083,
+      "daily": 469
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A L I E N S - Markus Dravs Remix",
+      "trackId": "5XQGVOIgKyXhcv9TrQQAH0",
+      "total": 4106492,
+      "daily": 284
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Things I Don't Understand",
+      "trackId": "4Ou7ZLhdumcXYM2PcAJdjT",
+      "total": 3948964,
+      "daily": 1154
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "2000 Miles",
+      "trackId": "5v1SC5d3F8VHwqkXx53f7d",
+      "total": 3909639,
+      "daily": 350
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Such a Rush",
+      "trackId": "3c1NaLIIBoFof2nrDeUlc1",
+      "total": 3808992,
+      "daily": 707
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Something Just Like This - Jai Wolf Remix",
+      "trackId": "2oF42D2udxtL7Kr6WFFlGb",
+      "total": 3805470,
+      "daily": 627
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "No More Keeping My Feet on the Ground",
+      "trackId": "7dmCmBBaWAQlCBAkcqMu99",
+      "total": 3733896,
+      "daily": 620
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Only Superstition",
+      "trackId": "4eJNA83TrqZ3S6LSyK8rSf",
+      "total": 3681030,
+      "daily": 544
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Don't Panic",
+      "trackId": "0MbCcvzLYu3xq6OgEkSbhC",
+      "total": 3634979,
+      "daily": 984
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "God Put a Smile upon Your Face - Live in Sydney",
+      "trackId": "6R2ZKXEdEEYXiODsC9Fr4L",
+      "total": 3561526,
+      "daily": 708
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Man in The Moon",
+      "trackId": "5NPe4fAhaMwcho571EJXDi",
+      "total": 3551694,
+      "daily": 6697
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "You Only Live Twice - Live from Norway",
+      "trackId": "3YdUe6oSvMydx3ph6ZPbPY",
+      "total": 3523772,
+      "daily": 353
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "One I Love",
+      "trackId": "5YahO7aySL2lyj6DW2tS9q",
+      "total": 3517431,
+      "daily": 972
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Amsterdam - Live in Sydney",
+      "trackId": "3TQs5AmPNEnnTNSXzCQV7G",
+      "total": 3484386,
+      "daily": 694
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "1.36",
+      "trackId": "7fSFdF4ymvjiOIr1EzB2pu",
+      "total": 3429270,
+      "daily": 595
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Midnight - Giorgio Moroder Remix",
+      "trackId": "31swZjlmMrWskTjlkkSVX1",
+      "total": 3390080,
+      "daily": 372
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Everything's Not Lost - Live in Sydney",
+      "trackId": "7IWbp0yWEF8nNjMLbKF0pU",
+      "total": 3210037,
+      "daily": 731
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Speed of Sound - Live",
+      "trackId": "4IGUhtEPrvDVQfpHp9QFPj",
+      "total": 3112146,
+      "daily": 420
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "One I Love - Live in Sydney",
+      "trackId": "0bQQv5RqwLmOKNaMcfJ1If",
+      "total": 3108782,
+      "daily": 663
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Shiver - Live in Sydney",
+      "trackId": "4CCr8SvmOrHpPKeA5e0ogE",
+      "total": 3092609,
+      "daily": 710
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Let Somebody Go - Spotify Singles",
+      "trackId": "4KiWjFLX5A3oUY40OL0FAh",
+      "total": 3019040,
+      "daily": 450
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Shiver (Jo Whiley Lunchtime Social)",
+      "trackId": "3Hpx4F7A30l7FiQddY6aYw",
+      "total": 3000500,
+      "daily": 536
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Life in Technicolor ii - Live at the O2, London",
+      "trackId": "5kUpX8qTX6yXBJHK8UwBEF",
+      "total": 2991861,
+      "daily": 263
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Proof",
+      "trackId": "69OzdUaEpLuIQIQ2L4Y2xt",
+      "total": 2965557,
+      "daily": 781
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "O - Reprise",
+      "trackId": "1NleqQdTDGWJBk0bVxldab",
+      "total": 2860790,
+      "daily": 516
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "The Goldrush",
+      "trackId": "7jWasg4ilKcOwcrGPI0CT1",
+      "total": 2802260,
+      "daily": 365
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Higher Power - Alyx Ander Remix",
+      "trackId": "2NAmYjYKmqYQzLxFtszJ9Z",
+      "total": 2695262,
+      "daily": 627
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "The World Turned Upside Down",
+      "trackId": "29RjYJw9AahhQJaZgdPy2E",
+      "total": 2691932,
+      "daily": 706
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Champion Of The World - Live at NPR's Tiny Desk",
+      "trackId": "46mtcgDcwjjcherBLHMWH3",
+      "total": 2568429,
+      "daily": 420
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Sleeping Sun",
+      "trackId": "0xkcOfbk2pyukCmMVTTauh",
+      "total": 2510018,
+      "daily": 814
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Brothers & Sisters",
+      "trackId": "4E1puwynQif5GJqPEXj35p",
+      "total": 2381263,
+      "daily": 485
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Murder",
+      "trackId": "6FNYoIM6xtaH1mBlLwDMvM",
+      "total": 2347394,
+      "daily": 560
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Overtura - Music Of The Spheres album trailer",
+      "trackId": "4b4vxX76SDUbp7chM24TU9",
+      "total": 2332465,
+      "daily": 560
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Death Will Never Conquer",
+      "trackId": "5XXjAYhslP3i0eDc8LSxDU",
+      "total": 2255733,
+      "daily": 487
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "All My Love - Live in Dublin",
+      "trackId": "3aaXb0yHa5voqqAXALjUJm",
+      "total": 2224747,
+      "daily": 2794
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Moon Music - Elodie",
+      "trackId": "5T7FLSnK2cQLfsP1hODPiC",
+      "total": 2173825,
+      "daily": 3164
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Angelsong",
+      "trackId": "6xXocHy6Oux7H3MSDJd0mn",
+      "total": 2092139,
+      "daily": 4465
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Talk - Thin White Duke Mix",
+      "trackId": "6fMpfMEnQ9qjtPAZWEit5Q",
+      "total": 1998530,
+      "daily": 425
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "feelslikeimfallinginlive",
+      "trackId": "0jBZ05RoZHQfkxInRz7Byr",
+      "total": 1947133,
+      "daily": 3490
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "i Am A Mountain",
+      "trackId": "2NYCEJK25YURZTQSA0msEZ",
+      "total": 1897102,
+      "daily": 3102
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Lost@ - Live at the United Center, Chicago, IL",
+      "trackId": "69joApFuCALBP6TPrK9bgL",
+      "total": 1845610,
+      "daily": 260
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "We Pray - Be Our Guest",
+      "trackId": "0dlJ9E3QZZ78a9cUns9VCO",
+      "total": 1832937,
+      "daily": 3333
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Talk - Junkie XL Remix",
+      "trackId": "5IBwC8rJQd8BdrQyW4KgNN",
+      "total": 1724590,
+      "daily": 345
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Viva La Vida - Live in Paris, 2008",
+      "trackId": "03fyMJOv5psp93rUj07g3S",
+      "total": 1692897,
+      "daily": 870
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Pour Me - Live at the Hollywood Bowl",
+      "trackId": "0PYRZQ90udhd9Bnv5d8rUb",
+      "total": 1650818,
+      "daily": 295
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "👋",
+      "trackId": "48pTPjEyxxD4aHg9uBTp6G",
+      "total": 1646270,
+      "daily": 2691
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Clocks - Live in Madrid, 2008",
+      "trackId": "2jo5mWVDLwBES6O7Xz58PD",
+      "total": 1617100,
+      "daily": 694
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Jupiter - Single Version",
+      "trackId": "4fsBnPUzyKk8FxedqAlyx7",
+      "total": 1474979,
+      "daily": 2199
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "How You See the World - Live from Earls Court",
+      "trackId": "0hCYORw7uzYRXdrZ88vN2t",
+      "total": 1427623,
+      "daily": 212
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Fix You - Live in Sydney, 2009",
+      "trackId": "0Ir2uqonLKO7JZwZM45558",
+      "total": 1425891,
+      "daily": 671
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Spell a Rebel Yell",
+      "trackId": "59Mg99pBZJFtvgSKIQTMMw",
+      "total": 1371037,
+      "daily": 230
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "True Love - Davide Rossi Remix",
+      "trackId": "4CRLyVo5LyxF8SwMeJgkhw",
+      "total": 1255375,
+      "daily": 248
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "The Hardest Part / Postcards from Far Away - Live in Sydney, 2009",
+      "trackId": "3Pgiemb2bwxrVBYoUIhtsw",
+      "total": 1086807,
+      "daily": 602
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "In My Place - Live at Live 8, Hyde Park, London, 2nd July 2005",
+      "trackId": "1YZv1Y6t7WIDX9yO3HKpuI",
+      "total": 969452,
+      "daily": 2702
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Strawberry Swing - Live in Madrid, 2008",
+      "trackId": "7jcMXBdTIXP1tf9cNXA4Mt",
+      "total": 837892,
+      "daily": 440
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Clocks - Royksopp Trembling Heart Mix",
+      "trackId": "0oRqEiG7nvVXTjx8g5gme9",
+      "total": 822201,
+      "daily": 700
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Adventure of a Lifetime - Yotto Remix",
+      "trackId": "3ivkGuXGHASgnWz4bsj8Gs",
+      "total": 751386,
+      "daily": 2947
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Death and All His Friends - Live in Madrid, 2008",
+      "trackId": "23l7E14oZQJ9tkIy5tdeRi",
+      "total": 740993,
+      "daily": 395
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Glass of Water - Live in Sydney, 2009",
+      "trackId": "6MR1HlTg8ARX1MqntlbDpr",
+      "total": 735343,
+      "daily": 363
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Fix You - Live at Live 8, Hyde Park, London, 2nd July 2005",
+      "trackId": "0yoc8cq3IbH7Q3C3a8mCFj",
+      "total": 708504,
+      "daily": 1455
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Midnight - Jon Hopkins Remix",
+      "trackId": "5PKa9j9Fqmu2qQZMCQxN0w",
+      "total": 690308,
+      "daily": 256
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "42 - Live in Madrid, 2008",
+      "trackId": "49UkdEi78uZGqQz4rWpkim",
+      "total": 645830,
+      "daily": 330
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Death Will Never Conquer - Live in Sydney, 2009",
+      "trackId": "34jtZbCoyKjyuG1MmfgXzX",
+      "total": 572384,
+      "daily": 270
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "How You See The World No. 2",
+      "trackId": "4Jxy927TpPTftXC1gnhlBg",
+      "total": 555107,
+      "daily": 195
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Talk - Francois K Dub",
+      "trackId": "34vsOHBZ1iMFANaeXaRF1Q",
+      "total": 551894,
+      "daily": 24
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Wish I Was Here",
+      "trackId": "13doQ9lWZT2avl2iZJFV1b",
+      "total": 505862,
+      "daily": 929
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Sky Full of Stars - Robin Schulz Remix",
+      "trackId": "67X1qaDvAeH6vsG5iFiOyp",
+      "total": 449287,
+      "daily": 931
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Viva La Vida - Live at the Enmore Theatre, Sydney",
+      "trackId": "28u0nvCV0qA8VlGA8C4ZAi",
+      "total": 361007,
+      "daily": 47
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "A Sky Full of Stars - Live at the Enmore Theatre, Sydney",
+      "trackId": "0mIkdGHjYDvwlWS9BIhhs2",
+      "total": 334987,
+      "daily": 33
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Clocks - Live at the Enmore Theatre, Sydney",
+      "trackId": "1eGZMzDf7gSOSvFkprCYFa",
+      "total": 315182,
+      "daily": 31
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Magic - Live at the Enmore Theatre, Sydney; 2016 Remaster",
+      "trackId": "28EbC4MoqVr1LsIGDAaIjO",
+      "total": 277754,
+      "daily": 23
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Oceans - Live at the Enmore Theatre, Sydney",
+      "trackId": "1fRJH6eT6ZsYCCc74YenIv",
+      "total": 195109,
+      "daily": 15
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Viva La Vida - Live",
+      "trackId": "3fFH0oyosweyLnFLfUAV5h",
+      "total": 122867,
+      "daily": 40
+    },
+    {
+      "artist": "Coldplay",
+      "artistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "🌎",
+      "trackId": "0RbekAlUrwR6ZWJdwB3V4y",
+      "total": 87233,
+      "daily": 3
+    }
+  ]
+}

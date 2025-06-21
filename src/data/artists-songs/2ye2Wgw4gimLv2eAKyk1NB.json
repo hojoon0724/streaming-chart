@@ -1,0 +1,4006 @@
+{
+  "artist": "Metallica",
+  "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+  "songs": [
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Enter Sandman",
+      "trackId": "5sICkBXVmaCQk5aISGR3x1",
+      "total": 1731619568,
+      "daily": 1116505
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters",
+      "trackId": "0nLiqZ6A27jJri2VCalIUs",
+      "total": 1402321045,
+      "daily": 729031
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master of Puppets (Remastered)",
+      "trackId": "54bm2e3tk8cliUz3VSdCPZ",
+      "total": 1042120345,
+      "daily": 560318
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "One",
+      "trackId": "02xhLoVqpGmOqvolgrwM8w",
+      "total": 701597254,
+      "daily": 419993
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Unforgiven",
+      "trackId": "4aYLAF6ckQ5ooGGGM7sWAa",
+      "total": 630135115,
+      "daily": 294165
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom The Bell Tolls - Remastered",
+      "trackId": "3LpHzQU2CZzZJGdUWV79SI",
+      "total": 613647020,
+      "daily": 402046
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Whiskey In The Jar",
+      "trackId": "3ZpWy5rBZv2aLQAldnmTsP",
+      "total": 530850223,
+      "daily": 243834
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Sad But True",
+      "trackId": "1PhLYngBKbeDtdmDzCg3Pb",
+      "total": 436126068,
+      "daily": 267599
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fade To Black - Remastered",
+      "trackId": "5nekfiTN45vlxG0eNJQQye",
+      "total": 379774698,
+      "daily": 197923
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fuel",
+      "trackId": "6FUwPb4mGlUDbx42uspXaZ",
+      "total": 331814148,
+      "daily": 225304
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Seek & Destroy - Remastered",
+      "trackId": "28WmNsclKsrVmdv3tDmoYU",
+      "total": 297347904,
+      "daily": 235456
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Wherever I May Roam",
+      "trackId": "22GbAGb80ZZNgm2yrBMnpR",
+      "total": 269460627,
+      "daily": 153878
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Battery (Remastered)",
+      "trackId": "7wz8LNfmGZ3C0PwKW9LdDg",
+      "total": 192085724,
+      "daily": 93030
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Unforgiven II",
+      "trackId": "6nswV1Lz3OZkaiCJfmVUOa",
+      "total": 187157264,
+      "daily": 114246
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Turn The Page",
+      "trackId": "7HPhrbgMHV5cUskknWA2oo",
+      "total": 186459107,
+      "daily": 99711
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Hardwired",
+      "trackId": "7myke8Id4WyKFlWcRBJdIF",
+      "total": 180669603,
+      "daily": 58272
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Day That Never Comes",
+      "trackId": "2gqzkEF88vMclfRZEIOnQO",
+      "total": 167783843,
+      "daily": 87437
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ride The Lightning - Remastered",
+      "trackId": "2O7UGwJPVlix15Wn4sa5vw",
+      "total": 152492602,
+      "daily": 99917
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Creeping Death - Remastered",
+      "trackId": "6YHB0Fvp1QfSmR5os8jexq",
+      "total": 147433318,
+      "daily": 79467
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Welcome Home (Sanitarium) (Remastered)",
+      "trackId": "7LHZ7HA45ezKcdN8sBrBuS",
+      "total": 145617283,
+      "daily": 65257
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Blackened",
+      "trackId": "1odk70HBNbdk4wU0Ja9JR7",
+      "total": 133641936,
+      "daily": 72520
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Moth Into Flame",
+      "trackId": "5sEcwMeC3QDnSOWlyQyQ3E",
+      "total": 126007432,
+      "daily": 42585
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Four Horsemen - Remastered",
+      "trackId": "5RrnDgjoFxDINI5aFQPZXt",
+      "total": 121944915,
+      "daily": 58522
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Memory Remains",
+      "trackId": "6RbC38oDCIXD8V2AOU1Tjr",
+      "total": 119417657,
+      "daily": 79124
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Until It Sleeps",
+      "trackId": "63aVbch5VRXtQnCITdeDTZ",
+      "total": 114679182,
+      "daily": 110691
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "St. Anger",
+      "trackId": "3fOc9x06lKJBhz435mInlH",
+      "total": 106792393,
+      "daily": 44253
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Don't Tread On Me",
+      "trackId": "2b7r6fN91KiHnp00aqHZ7x",
+      "total": 105377220,
+      "daily": 51919
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Orion (Remastered)",
+      "trackId": "4xyWJM4kscTROV2RESdwpd",
+      "total": 101305688,
+      "daily": 44795
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Harvester of Sorrow",
+      "trackId": "6qgYe6noMKsElSoPg9yS91",
+      "total": 100181572,
+      "daily": 52509
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "...And Justice for All",
+      "trackId": "4a47TNOfJ9vbpbmU31wpgT",
+      "total": 96070670,
+      "daily": 41639
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Whiplash - Remastered",
+      "trackId": "38fIaph07Kd8ZIN6l17ZJs",
+      "total": 95173929,
+      "daily": 50592
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Lux Æterna",
+      "trackId": "18zjwSgYiwu1Meb7Po3tUP",
+      "total": 94677649,
+      "daily": 50089
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fight Fire With Fire - Remastered",
+      "trackId": "6fZ6zlZxGibSZzwvVaQQ6m",
+      "total": 94142357,
+      "daily": 33986
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "King Nothing",
+      "trackId": "140u2dqlZbpi4ZLgeolKqA",
+      "total": 93865849,
+      "daily": 63185
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Unforgiven III",
+      "trackId": "6guXhXMAHU4QYaEsobnS6v",
+      "total": 88821134,
+      "daily": 38983
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "All Nightmare Long",
+      "trackId": "5w3TTTAo6DIEjQYO3vKZq0",
+      "total": 86692688,
+      "daily": 30646
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Atlas, Rise!",
+      "trackId": "7uSx9pDbxfFsXPyZ4pOm7H",
+      "total": 80160439,
+      "daily": 14486
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Holier Than Thou",
+      "trackId": "5YMJoplBWvIa2LHUPoGqb5",
+      "total": 73654370,
+      "daily": 35264
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "I Disappear",
+      "trackId": "51Vic2Yi71YKNtLbyJKgQt",
+      "total": 72890635,
+      "daily": 33385
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Of Wolf And Man",
+      "trackId": "2J8jdenoxkPXs44G9xcncc",
+      "total": 72346551,
+      "daily": 33382
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Now That We're Dead",
+      "trackId": "01LODLnhlfNphZ366BqKc0",
+      "total": 70509452,
+      "daily": 16421
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Die, Die My Darling",
+      "trackId": "0EJ3N6BhFDrUc26xBEpztv",
+      "total": 70082314,
+      "daily": 34778
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Disposable Heroes (Remastered)",
+      "trackId": "2a2le1M7cmvdrg1QHH7H53",
+      "total": 69573576,
+      "daily": 34670
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Thing That Should Not Be (Remastered)",
+      "trackId": "0Zo0GJhGcT2qKFb5NxY3Vf",
+      "total": 68616284,
+      "daily": 30241
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Through The Never",
+      "trackId": "2VAQuXC01B2eJAEnkjIj7z",
+      "total": 65333333,
+      "daily": 29894
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Spit Out the Bone",
+      "trackId": "7MHkweinOceprzkRWIYTTc",
+      "total": 62512677,
+      "daily": 14349
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Mama Said",
+      "trackId": "4ePx4Js87KSIVMLL4RD7vX",
+      "total": 61562859,
+      "daily": 31983
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Eye of the Beholder",
+      "trackId": "4oNXsQxJS726q1CALwlIzc",
+      "total": 59733609,
+      "daily": 28323
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Motorbreath - Remastered",
+      "trackId": "6RqEJvpEzzlwj8g0wKG1ln",
+      "total": 59359187,
+      "daily": 27092
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Hit The Lights - Remastered",
+      "trackId": "4hh0IO5OHTigfnPTpDleL7",
+      "total": 59146832,
+      "daily": 23134
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Shortest Straw",
+      "trackId": "4hvo7eCLfhs7dFr0mpk3zi",
+      "total": 58986156,
+      "daily": 23420
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Hero Of The Day",
+      "trackId": "5ktyEZbrgBEePsu6MW5Cvw",
+      "total": 58009797,
+      "daily": 40612
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Call Of Ktulu - Remastered",
+      "trackId": "4qPgSwPUGigsmx6gUV2dnU",
+      "total": 57412135,
+      "daily": 22580
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "My Friend Of Misery",
+      "trackId": "0R9GrbRcpBRdwDlVPj2wEQ",
+      "total": 57162960,
+      "daily": 24570
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The God That Failed",
+      "trackId": "7tyc1pcOE4FOVIQTBzvxeF",
+      "total": 55262775,
+      "daily": 24877
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "No Leaf Clover - Live with the SFSO",
+      "trackId": "0n4AllHzf3ma4ki20Y9h00",
+      "total": 54089799,
+      "daily": 23186
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Trapped Under Ice - Remastered",
+      "trackId": "4Y8Zyb710vv3OA6ouSkjQz",
+      "total": 51532442,
+      "daily": 22395
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Leper Messiah (Remastered)",
+      "trackId": "6u5I4WWb8KDN559xT2hrQ6",
+      "total": 49807316,
+      "daily": 24019
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Damage, Inc. (Remastered)",
+      "trackId": "5X5wkmwPA1rQwtBdh2SNTv",
+      "total": 47663260,
+      "daily": 18038
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Dyers Eve",
+      "trackId": "3V3brSzPO4pr4ioNqK61mw",
+      "total": 46636700,
+      "daily": 21054
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Screaming Suicide",
+      "trackId": "2zSb2Db4kNYH5qIs5V3BgG",
+      "total": 46268201,
+      "daily": 26381
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Jump In The Fire - Remastered",
+      "trackId": "4fVBFyglBhMf0erfF7pBJp",
+      "total": 41643542,
+      "daily": 17112
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "72 Seasons",
+      "trackId": "4poeu6nUr4UQo1RXpp29Js",
+      "total": 41140450,
+      "daily": 27147
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "To Live is to Die",
+      "trackId": "0MNwV4sXm2AljohIXBRgpj",
+      "total": 41042189,
+      "daily": 21302
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Frayed Ends of Sanity",
+      "trackId": "4p4VJmajEO6rh8yVibTRCS",
+      "total": 40559164,
+      "daily": 17759
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Escape - Remastered",
+      "trackId": "4ERK3MXPXLWxy0UazrDKup",
+      "total": 39489552,
+      "daily": 15971
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Halo On Fire",
+      "trackId": "38azNLH2JwH4j8zidhY3Po",
+      "total": 36130501,
+      "daily": 7723
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Bleeding Me",
+      "trackId": "2IenDzi8pYn8c4WRteZai0",
+      "total": 35662693,
+      "daily": 19651
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "If Darkness Had a Son",
+      "trackId": "3i4Nwzze8zflIoKsuoeBPM",
+      "total": 34955136,
+      "daily": 19085
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Struggle Within",
+      "trackId": "4R4uSnvRFeVdLQcX2zj8aU",
+      "total": 34045002,
+      "daily": 14623
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "No Remorse - Remastered",
+      "trackId": "2uQBTkujGFuwUnA0fi5Qnb",
+      "total": 33126598,
+      "daily": 12482
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Frantic",
+      "trackId": "09NpqcWK5TLI86HbHv3N0L",
+      "total": 32189385,
+      "daily": 13533
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Devil's Dance",
+      "trackId": "3IHyDrQOASm7R0WBamMJO8",
+      "total": 32135391,
+      "daily": 14123
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Tuesday's Gone",
+      "trackId": "3kjrWJMt1j9nl3favBZQIH",
+      "total": 30378874,
+      "daily": 10258
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Dream No More",
+      "trackId": "1GHEFTy1XOzIuqW6MUfyHZ",
+      "total": 30190108,
+      "daily": 5506
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Metal Militia - Remastered",
+      "trackId": "2TBRfDnfwsOIaGxkkXFBN2",
+      "total": 29517146,
+      "daily": 13286
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Blitzkrieg",
+      "trackId": "2HmQF64EQZeVt34QcTHitk",
+      "total": 28627591,
+      "daily": 10194
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters - Live with the SFSO",
+      "trackId": "5kFv1XqZifUS3gPfFSrnjW",
+      "total": 28434004,
+      "daily": 9529
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Cyanide",
+      "trackId": "2LfonCFEOzFedikP12rTeo",
+      "total": 28071681,
+      "daily": 10850
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Broken, Beat & Scarred",
+      "trackId": "5xABQiiRBuVWsL9zamoj1G",
+      "total": 27877670,
+      "daily": 7383
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Am I Evil? - Remastered",
+      "trackId": "3ANDYGKbaqaKjciA0zTzTZ",
+      "total": 26797225,
+      "daily": 12069
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Too Far Gone?",
+      "trackId": "7KdgYr9jNkQO1Au7BGjGLW",
+      "total": 26239189,
+      "daily": 10247
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "(Anesthesia) Pulling Teeth - Remastered",
+      "trackId": "4hsJQXAXPbni5QyChVzVsD",
+      "total": 26044457,
+      "daily": 10910
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ain't My B*tch",
+      "trackId": "7LMeflTW3D3JRKaA2JK9KJ",
+      "total": 25759748,
+      "daily": 24599
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Shadows Follow",
+      "trackId": "1XcRSCO0AbSIX4f6z29MFn",
+      "total": 25376312,
+      "daily": 17204
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Stone Cold Crazy",
+      "trackId": "452eWE1sXO6L0HgNoqZbpE",
+      "total": 25060095,
+      "daily": 7825
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "trackId": "107nvz0Fjnsq9O9g61myZ5",
+      "total": 24048805,
+      "daily": 15360
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Confusion",
+      "trackId": "1yrpGFcLTSafPrbIpc5ov8",
+      "total": 23981015,
+      "daily": 4102
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The End Of The Line",
+      "trackId": "3KFtAMirz8dF1gApXdWMRf",
+      "total": 23880072,
+      "daily": 7931
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Phantom Lord - Remastered",
+      "trackId": "5R5b3EZkGsYsZz2XdUNrXI",
+      "total": 23786888,
+      "daily": 11077
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "My Apocalypse",
+      "trackId": "6qIleHbUTXcGfBfQ8h0R2n",
+      "total": 23369637,
+      "daily": 5131
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Breadfan",
+      "trackId": "5s2iMB6rN20tCQMmtuzuNa",
+      "total": 22991353,
+      "daily": 6855
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "So What",
+      "trackId": "6BMu02ms9MpX99hHgACYRE",
+      "total": 22595465,
+      "daily": 11091
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Some Kind Of Monster",
+      "trackId": "3mNOQhKgWNgtWIq4SGND8j",
+      "total": 22050449,
+      "daily": 7070
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "That Was Just Your Life",
+      "trackId": "2otSugsyrMFRi7ohdeB635",
+      "total": 21932076,
+      "daily": 7141
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Am I Evil?",
+      "trackId": "0vFDo1ed4LC3pmISYHeJV3",
+      "total": 21855563,
+      "daily": 7812
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Here Comes Revenge",
+      "trackId": "6R3C89dZ2xt8EKDpgPEMFc",
+      "total": 21622231,
+      "daily": 4489
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Murder One",
+      "trackId": "6bavz6DVogZ45tleQJxlv0",
+      "total": 20632044,
+      "daily": 3756
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master Of Puppets - Live with the SFSO",
+      "trackId": "0wFL6kJKvHY6t5OcOiAbCZ",
+      "total": 18924858,
+      "daily": 5648
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "ManUNkind",
+      "trackId": "7FPfl1TIBufq9AIgDiiqMh",
+      "total": 18659088,
+      "daily": 3085
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Am I Savage?",
+      "trackId": "3LR0MLRmhiPpD15HDWc0uM",
+      "total": 18337576,
+      "daily": 3159
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Wait",
+      "trackId": "2GNsDkUXo7qnkdW1g3hMDx",
+      "total": 16663554,
+      "daily": 5331
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Sabbra Cadabra",
+      "trackId": "08uoEjd9YjT1KDTKuTkfQq",
+      "total": 16552023,
+      "daily": 6466
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Sleepwalk My Life Away",
+      "trackId": "1WjgFpSxwA0Bqyr7hWc3f1",
+      "total": 16508653,
+      "daily": 8408
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Astronomy",
+      "trackId": "6FCSwETzhnykKYJLIMTewZ",
+      "total": 16264863,
+      "daily": 5737
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Last Caress / Green Hell",
+      "trackId": "2huEOPsK2M0GbgfoiTqEdy",
+      "total": 16206653,
+      "daily": 6555
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Low Man's Lyric",
+      "trackId": "7tZckbBO3wtatBWne8YbcM",
+      "total": 16019115,
+      "daily": 6777
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Wherever I May Roam",
+      "trackId": "7vlZHBqon11tZl8b53WsJC",
+      "total": 15926785,
+      "daily": 3339
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Suicide & Redemption",
+      "trackId": "0rd4qVsMPD8YtAZEpsalT6",
+      "total": 15835357,
+      "daily": 4744
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Ecstasy Of Gold - Live with the SFSO",
+      "trackId": "0bzvbai7mhD7fxxusyqf44",
+      "total": 15744319,
+      "daily": 6684
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Hero Of The Day - Live with the SFSO",
+      "trackId": "64PaBtqwPjhOg40JJCaWMo",
+      "total": 15355833,
+      "daily": 4720
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "You Must Burn!",
+      "trackId": "6HMs5zF1uidrx8UHAZdSVe",
+      "total": 15204030,
+      "daily": 8260
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "2 X 4",
+      "trackId": "4M0aGQRCNnL77XUkvGO6If",
+      "total": 15157603,
+      "daily": 15384
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Judas Kiss",
+      "trackId": "3XLnsk7Xs7ONROfmWTB58u",
+      "total": 15075764,
+      "daily": 4627
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Outlaw Torn",
+      "trackId": "44ARj4IaCoOevEu1oy0z1v",
+      "total": 14938748,
+      "daily": 10440
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Call Of Ktulu - Live with the SFSO",
+      "trackId": "7KLL4TSjeDuFo6VtM9gNWk",
+      "total": 14761735,
+      "daily": 4203
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Memory Remains - Live with the SFSO",
+      "trackId": "4jfrFYcMWGojddctOCCSjL",
+      "total": 14013512,
+      "daily": 4114
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Creeping Death (Live)",
+      "trackId": "3H2wWBP6QXJpOmDKkihBiF",
+      "total": 13939475,
+      "daily": 2514
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters - Jungle Cruise Version Part 1",
+      "trackId": "4PGBgDZAcUpAapDtfdX5Np",
+      "total": 13850785,
+      "daily": 7868
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom The Bell Tolls (Live)",
+      "trackId": "2VzAyholTBTXhkqxNO8YEh",
+      "total": 13838222,
+      "daily": 2777
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The House Jack Built",
+      "trackId": "4GgHgoto2yRwvFk25vujpZ",
+      "total": 13834682,
+      "daily": 10265
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master of Puppets (Live)",
+      "trackId": "41sVWpRzx9EW7qhpPSr3Af",
+      "total": 13800406,
+      "daily": 3187
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom The Bell Tolls - Live with the SFSO",
+      "trackId": "6EmUlknZSc3QK8JSk7F2Qt",
+      "total": 13671192,
+      "daily": 4147
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Loverman",
+      "trackId": "6mb5AfuKhjaU1l1eyDQEXy",
+      "total": 13635707,
+      "daily": 4704
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fuel - Live with the SFSO",
+      "trackId": "7yQP0dsMgIV5FJT94htpxe",
+      "total": 13501616,
+      "daily": 4162
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Inamorata",
+      "trackId": "4q55PFuLhKPB1JT1ZqYhsL",
+      "total": 13406385,
+      "daily": 8993
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "When a Blind Man Cries",
+      "trackId": "4eE0QdkPZ0vXyN9fDbCNzd",
+      "total": 12983504,
+      "daily": 3158
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Carpe Diem Baby",
+      "trackId": "4Cqn0tBcozdKfdengvZJv4",
+      "total": 12810723,
+      "daily": 6649
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "One - Live with the SFSO",
+      "trackId": "1L3xLJzYMRCN6ydha1XF42",
+      "total": 12593810,
+      "daily": 3562
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Mercyful Fate",
+      "trackId": "45oVrneg2MiwAA74KgmtBj",
+      "total": 12416809,
+      "daily": 3805
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fuel (Live)",
+      "trackId": "7E1lrtRqfZUOFHHlh8yYtE",
+      "total": 12383664,
+      "daily": 1994
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Wasting My Hate",
+      "trackId": "3tIV4YWEZyzq4QtgvIgwxL",
+      "total": 12247884,
+      "daily": 11528
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Enter Sandman (Live in Mexico City)",
+      "trackId": "4hhU32QuGlRshHRE8wXEgw",
+      "total": 12177165,
+      "daily": 5108
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "One (Live)",
+      "trackId": "24zPBt8eViDHZi8UxmN5rS",
+      "total": 11821453,
+      "daily": 2007
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Unnamed Feeling",
+      "trackId": "6gcGqslzlXlwt4UCjXxrgN",
+      "total": 11585802,
+      "daily": 3513
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Crown of Barbed Wire",
+      "trackId": "1FdinUvlpQj2nqbzuS7XRw",
+      "total": 11383604,
+      "daily": 6355
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Of Wolf And Man - Live with the SFSO",
+      "trackId": "0oYB2jJWFABCjNRY4KSZ9w",
+      "total": 11308684,
+      "daily": 3462
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Crash Course In Brain Surgery",
+      "trackId": "6ynUnFkUxBvzlfyWqxPVDF",
+      "total": 11265144,
+      "daily": 4135
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Enter Sandman - Live with the SFSO",
+      "trackId": "0T3Pft6gyhtBCrGOsSrvlE",
+      "total": 11182064,
+      "daily": 3112
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Until It Sleeps - Live with the SFSO",
+      "trackId": "282rwnxfCemhohGXpwbi3X",
+      "total": 11168668,
+      "daily": 3539
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "It's Electric",
+      "trackId": "5Jf09YPlxBfhy9QzjNzp0S",
+      "total": 11152632,
+      "daily": 3980
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Chasing Light",
+      "trackId": "5krkEca0E6k01D2CYvLuZx",
+      "total": 10957879,
+      "daily": 6072
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Better Than You",
+      "trackId": "6FAHGDSq8RDfHXIk3DSZdb",
+      "total": 10895912,
+      "daily": 4756
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Room of Mirrors",
+      "trackId": "07gm9g5b2LF3XJfYPnsVsj",
+      "total": 10826333,
+      "daily": 6317
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Helpless",
+      "trackId": "7wZrvpm5IAyCjg1PAVRwP6",
+      "total": 10762987,
+      "daily": 3528
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Lords of Summer",
+      "trackId": "3wb7zznyd1Ue1UHv6eMUPv",
+      "total": 10756823,
+      "daily": 2171
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Cure",
+      "trackId": "5De0T23DDwoV7TN5A3sHEY",
+      "total": 10697204,
+      "daily": 7856
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Orion (Live)",
+      "trackId": "2FUf1dlkvcgKOiKpMIOl2j",
+      "total": 10639512,
+      "daily": 2203
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters (Live)",
+      "trackId": "1HoBsGG0Ss2Wv5Ky8pkCEf",
+      "total": 10499102,
+      "daily": 1963
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Bleeding Me - Live with the SFSO",
+      "trackId": "5AJatXoJVwQQEtxp8Wq21O",
+      "total": 10273256,
+      "daily": 3087
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Devil's Dance - Live with the SFSO",
+      "trackId": "6sJT6EIer5VO2T05Qbg3cC",
+      "total": 10121939,
+      "daily": 2976
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Thing That Should Not Be - Live with the SFSO",
+      "trackId": "37DziDjAAxRySqsYGNYBlW",
+      "total": 10035769,
+      "daily": 2989
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Human - Live with the SFSO",
+      "trackId": "5fsJYr9OnwU1jBfrK0th9s",
+      "total": 9962935,
+      "daily": 3046
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ronnie",
+      "trackId": "4Vv7tatQcfAZcXmMh7ireQ",
+      "total": 9949448,
+      "daily": 6351
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Sad But True - Live with the SFSO",
+      "trackId": "5snyl56jcL8JMOqR02HYCA",
+      "total": 9932251,
+      "daily": 2911
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Enter Sandman (Live)",
+      "trackId": "50K1S7dtgGRnsyuAV5NG14",
+      "total": 9930846,
+      "daily": 1800
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Wherever I May Roam - Live with the SFSO",
+      "trackId": "1ZCj3AabIF9OtX1ZMKvhnE",
+      "total": 9844042,
+      "daily": 3023
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Dirty Window",
+      "trackId": "6BW7c1H0hOJ83lcKTbUR47",
+      "total": 9820930,
+      "daily": 3595
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Memory Remains (Live)",
+      "trackId": "5fQQDsc1SxPYADUTD2EV2N",
+      "total": 9818533,
+      "daily": 1506
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fixxxer",
+      "trackId": "5jE2hljNVTJZeodUXQu9Ea",
+      "total": 9776961,
+      "daily": 4798
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "All Within My Hands (Live)",
+      "trackId": "4kmgecaibuuVDBmlzDO6Du",
+      "total": 9521537,
+      "daily": 4296
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Slither",
+      "trackId": "1R29PfqelwVMRPhg5fn0lD",
+      "total": 9489103,
+      "daily": 4079
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Outlaw Torn - Live with the SFSO",
+      "trackId": "7C9TNEdXSMJjuJS5hczUXj",
+      "total": 9475828,
+      "daily": 2849
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ride the Lightning (Live)",
+      "trackId": "1w3r4q8rgcc2WVHZPUuEnO",
+      "total": 9414035,
+      "daily": 1431
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Bad Seed",
+      "trackId": "0cKWKhciVCYNyxFVnV1Y4R",
+      "total": 9050196,
+      "daily": 4354
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters (Live)",
+      "trackId": "2RvIBAp36T0LLGF59mhZdv",
+      "total": 8920108,
+      "daily": 5113
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Small Hours",
+      "trackId": "4j0ridh4Q1pWDlxKkXpAif",
+      "total": 8743388,
+      "daily": 3485
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Thorn Within",
+      "trackId": "2aKhGkbQ6mWIGsR0kpSdfj",
+      "total": 8713973,
+      "daily": 5990
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Invisible Kid",
+      "trackId": "1mbtnFSKbTmvbYxecgFb57",
+      "total": 8651374,
+      "daily": 2729
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Sweet Amber",
+      "trackId": "5fU6qjmD38P90BMsuqpiuU",
+      "total": 8542623,
+      "daily": 2673
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Wherever I May Roam (Live)",
+      "trackId": "1iH0ZaENhDbWOWesMa8GcY",
+      "total": 8538158,
+      "daily": 1312
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Battery - Live with the SFSO",
+      "trackId": "2T9a3ToWrj8ijGUzCtlRNz",
+      "total": 8526312,
+      "daily": 2412
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Prince Charming",
+      "trackId": "6ax1qtm74zcC2eS8l0SLGX",
+      "total": 8477668,
+      "daily": 3680
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Where The Wild Things Are",
+      "trackId": "2bvG8hQhJDe68NEBM8XjXc",
+      "total": 8422896,
+      "daily": 3473
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Blackened 2020",
+      "trackId": "6gEIkN8SSg8hp4NENkyYFA",
+      "total": 8276639,
+      "daily": 3533
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Poor Twisted Me",
+      "trackId": "4XfQg5rBmwbZjmXbp0wxds",
+      "total": 8264297,
+      "daily": 6624
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Overkill",
+      "trackId": "32pqukixTk9qRlWXPwnw5K",
+      "total": 8194875,
+      "daily": 1941
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Shoot Me Again",
+      "trackId": "2O4M60YhdylyjSNOXQMlIE",
+      "total": 8168215,
+      "daily": 2973
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Prince",
+      "trackId": "2AaGEFSF73oqaJ76Btt2vt",
+      "total": 8078163,
+      "daily": 2250
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom the Bell Tolls (Live)",
+      "trackId": "5YPzY1EmlXP7RoPz3dvhY8",
+      "total": 7947969,
+      "daily": 2735
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "No Leaf Clover (Live)",
+      "trackId": "3GTmmIGmU3htgNun6b1KBX",
+      "total": 7910265,
+      "daily": 2828
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Free Speech For The Dumb",
+      "trackId": "0i5rdIyrXsxgi00aqX1gUs",
+      "total": 7580064,
+      "daily": 2565
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Creeping Death (Live in Mexico City)",
+      "trackId": "091rXbVrcCxRF8jt5oCAzk",
+      "total": 7550940,
+      "daily": 2831
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ronnie Rising Medley - A Light In the Black / Tarot Woman / Stargazer / Kill the King",
+      "trackId": "1BeDcrY6BrZ3xCOlXkYYAr",
+      "total": 7359574,
+      "daily": 1236
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Attitude",
+      "trackId": "3VNkUPHPgC34Zk7TnikPtX",
+      "total": 7223084,
+      "daily": 2976
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Just A Bullet Away",
+      "trackId": "5xpG6EQnL4AEkivmbERHbY",
+      "total": 7089976,
+      "daily": 1133
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "My World",
+      "trackId": "0rVZ9iDQCmb2nyB8RvfAOv",
+      "total": 7078024,
+      "daily": 2119
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Battery (Live)",
+      "trackId": "6ZXwOCfJ4d3R39fhieeeQS",
+      "total": 7075785,
+      "daily": 1125
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "...And Justice for All (Live)",
+      "trackId": "56GEAKYqvZd4FVNIKzFSta",
+      "total": 7072605,
+      "daily": 1015
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Ecstasy of Gold (Live)",
+      "trackId": "0L5ZW54haCFM84is0UhLjj",
+      "total": 6948116,
+      "daily": 1642
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Unforgiven (Live in Mexico City)",
+      "trackId": "0vJLun1cVa9x6bTKQH8mKM",
+      "total": 6895795,
+      "daily": 2920
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The More I See",
+      "trackId": "0iEjWoFJLHPBjsV7vk1L8g",
+      "total": 6858872,
+      "daily": 2208
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Killing Time",
+      "trackId": "512XpdaHycrEZKIW3BraHs",
+      "total": 6764668,
+      "daily": 3713
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Remember Tomorrow",
+      "trackId": "0rriP85Dczj50b3bz8V912",
+      "total": 6752060,
+      "daily": 1348
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Cyanide (Live)",
+      "trackId": "0wbh6SnZE3wMCMuJxg9NNO",
+      "total": 6602998,
+      "daily": 832
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "All Within My Hands",
+      "trackId": "2XDPSz4jo6FiOoRc7pfgm3",
+      "total": 6538405,
+      "daily": 1946
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fade to Black - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "trackId": "1NlC4RUcqTU11CYRCQJuSQ",
+      "total": 6425449,
+      "daily": 1335
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Day that Never Comes (Live)",
+      "trackId": "5bpoBNwWolJcSlZRi3UPHx",
+      "total": 6302125,
+      "daily": 2019
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Purify",
+      "trackId": "0HZpiUtrwCqKChQn0x6Bqy",
+      "total": 6004129,
+      "daily": 1967
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Sad But True (Live in Mexico City)",
+      "trackId": "246F6v76CuIkRkgcIgBBi6",
+      "total": 5947373,
+      "daily": 1975
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fade To Black (Live in Mexico City)",
+      "trackId": "5fZkqUeHwq2wKloT4Xha0S",
+      "total": 5803273,
+      "daily": 1842
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters - Live In Rio de Janeiro, Brazil - September 19th, 2015",
+      "trackId": "5BH2yWVpiRE91Kp1lI5IWH",
+      "total": 5586393,
+      "daily": 1292
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Hit The Lights (Live)",
+      "trackId": "4l5mXDSuZ3cnI6eWQMTOrb",
+      "total": 5510652,
+      "daily": 670
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Memory Remains (Live)",
+      "trackId": "6HniW4lKCUneQnNOFm6Fdw",
+      "total": 5494402,
+      "daily": 1575
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom The Bell Tolls (Live in Mexico City)",
+      "trackId": "1tbYyV4OLzESYAnQVrfafv",
+      "total": 5467365,
+      "daily": 1886
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Moth Into Flame (Live)",
+      "trackId": "35YBgQqJmonhnnrukXqZXl",
+      "total": 5437301,
+      "daily": 1637
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Harvester of Sorrow (Live in Mexico City)",
+      "trackId": "1HOrB4LPlKBC9tyX0bPNjs",
+      "total": 5139869,
+      "daily": 1678
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Seek & Destroy (Live in Mexico City)",
+      "trackId": "4KNmrguOd4soanvj33WTuT",
+      "total": 5086089,
+      "daily": 1633
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Call of Ktulu (Live)",
+      "trackId": "2v0QgowVkLxj9cB1jzj3C0",
+      "total": 5051624,
+      "daily": 1365
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Welcome Home (Sanitarium) (Live in Mexico City)",
+      "trackId": "04CeQpd8Hv8jQ7hlc0Nq5J",
+      "total": 4872816,
+      "daily": 1494
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters (Live in Mexico CIty)",
+      "trackId": "3aHsyt4NnRzrW2bYutgN9d",
+      "total": 4831448,
+      "daily": 1646
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Damage Case",
+      "trackId": "1z12wAVxBan3TOYmuGseya",
+      "total": 4644872,
+      "daily": 1635
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master Of Puppets (Live in Mexico City)",
+      "trackId": "6JUnhPGCcauwmkmDRnfZJA",
+      "total": 4611951,
+      "daily": 1632
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Enter Sandman (Live)",
+      "trackId": "1iBjmtQV8VFKGrmkXJq2bW",
+      "total": 4374479,
+      "daily": 1835
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master of Puppets (Live)",
+      "trackId": "0osMS4OWFn1VLNbafufEiP",
+      "total": 4343248,
+      "daily": 1233
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Too Late Too Late",
+      "trackId": "1mOrFr6ycCtOYIuUyy7uTC",
+      "total": 4279509,
+      "daily": 1511
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom the Bell Tolls (Live - Seattle '89)",
+      "trackId": "7MzM6iHyRYmuWBIm75DqHC",
+      "total": 4252184,
+      "daily": 2407
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Unforgiven III (Live)",
+      "trackId": "7uXDpYQbaGmqjhwXCtvCZL",
+      "total": 4229649,
+      "daily": 2395
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Stone Dead Forever",
+      "trackId": "266SNdiM0KGi2lM1alS4ym",
+      "total": 4226044,
+      "daily": 1546
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Unforgiven (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
+      "trackId": "6obwpZZlFVablrXylXiZ8O",
+      "total": 4173968,
+      "daily": 1608
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Outlaw Torn (Live)",
+      "trackId": "5BAcCATD6kFplCbAZXgYTx",
+      "total": 4148481,
+      "daily": 1235
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom the Bell Tolls - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "trackId": "1rG3nJTZyRjklXf8VMq8cx",
+      "total": 4114532,
+      "daily": 674
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "One (Live)",
+      "trackId": "0Vrmr1TSHM2GszpPPTYU6P",
+      "total": 4074277,
+      "daily": 1278
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Shortest Straw (December 1987, Writing in Progress)",
+      "trackId": "3EmZJM7YsIod6SlD2N8enN",
+      "total": 4071976,
+      "daily": 199
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Four Horsemen - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "trackId": "62gX0I6LuowSBMFdgSQkxl",
+      "total": 4038857,
+      "daily": 486
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Justice Medley (Eye of the Beholder, Blackened, The Frayed Ends of Sanity & ...And Justice for All)",
+      "trackId": "1v7CRxkZCDYFTBbHkWxPen",
+      "total": 3914968,
+      "daily": 1089
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ride the Lightning - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "trackId": "4dr6uMWtxJT3HgkFk9usO0",
+      "total": 3910286,
+      "daily": 492
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Hit the Lights - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "trackId": "3wzthRN7j3xMbSoZqL5Oze",
+      "total": 3866479,
+      "daily": 416
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master of Puppets (Live - Seattle '89)",
+      "trackId": "7iGRPMvUWCZNcfqzrEXrWD",
+      "total": 3839061,
+      "daily": 1983
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Confusion (Live)",
+      "trackId": "40EPUsKIP6KMXy0tkkIhdL",
+      "total": 3806973,
+      "daily": 994
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Halo on Fire (Live)",
+      "trackId": "1gM1LjcNF8mVO15fBVQo99",
+      "total": 3801420,
+      "daily": 1115
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
+      "trackId": "1vggFRUI00PuzvqjMtXXLX",
+      "total": 3724554,
+      "daily": 1856
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "One (Live in Mexico City)",
+      "trackId": "0TOGRpIH1MOk4IZ0oeb1Lq",
+      "total": 3703751,
+      "daily": 1140
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Blackened (Live - Seattle '89)",
+      "trackId": "2PFoYVONNUOm7HHkTAJers",
+      "total": 3702830,
+      "daily": 1880
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Hardwired - Live at U.S. Bank Stadium, Minneapolis, MN - August 20th, 2016",
+      "trackId": "6cVHdquegEopMxjVrztawo",
+      "total": 3635750,
+      "daily": 487
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Wherever I May Roam",
+      "trackId": "6pdl7XmUY3rPniqV34IhOx",
+      "total": 3634550,
+      "daily": 1057
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Creeping Death - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "trackId": "6bNGesDZKFasyWYS5BAWxG",
+      "total": 3627692,
+      "daily": 548
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Hate Train",
+      "trackId": "6lFpfxcxgNo9srWkRuk9ZM",
+      "total": 3614409,
+      "daily": 1032
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Of Wolf and Man (Live in Mexico City)",
+      "trackId": "4cwQcWL0Al95wSGg0oHaSB",
+      "total": 3478284,
+      "daily": 1133
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Creeping Death (Live - Seattle '89)",
+      "trackId": "4EcsR2fMms1TXY44F1Yz6v",
+      "total": 3438841,
+      "daily": 2254
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Helpless - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "trackId": "3gGCLCvp1iniDou3oQX7fF",
+      "total": 3437047,
+      "daily": 356
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Eye of the Beholder (Live at Hammersmith Odeon, London, England - October 10th, 1988)",
+      "trackId": "3s7av8jv896jU9Iw74j6uX",
+      "total": 3407670,
+      "daily": 1315
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Hell And Back",
+      "trackId": "1J5Ns9ZawyvoVq8HvihjaI",
+      "total": 3390213,
+      "daily": 999
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Whiplash (Live in Mexcio City)",
+      "trackId": "4MNXN43j4bEHxypCxPjA6F",
+      "total": 3138385,
+      "daily": 852
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Jump in the Fire - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "trackId": "3novFzen6wOB45QLjIkavx",
+      "total": 3058348,
+      "daily": 357
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Turn the Page (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
+      "trackId": "6fItNaeAd5FAF6kvdA9oQd",
+      "total": 3056757,
+      "daily": 916
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Disposable Heroes (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
+      "trackId": "2AcKy1BQI9I3ApTH42hiJ3",
+      "total": 3046506,
+      "daily": 417
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fade to Black (Live - Seattle '89)",
+      "trackId": "1npRzHqYjXPLJ9L9UkpUTA",
+      "total": 3042779,
+      "daily": 1757
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters - Orchestra / Clean Guitar / Vocal Mix - July 8th, 1991",
+      "trackId": "4DnvdahZZmWFNEpiv67ncN",
+      "total": 2985766,
+      "daily": 1388
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "When A Blind Man Cries (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
+      "trackId": "2NekeB2yqC2ZibAYNdncbz",
+      "total": 2954672,
+      "daily": 644
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fight Fire With Fire - Live At The Hollywood Palladium, Los Angeles, CA / March 10th, 1985",
+      "trackId": "5KbYPJf6Wui0i77rxxwcmK",
+      "total": 2938455,
+      "daily": 1279
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Metal Militia - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "trackId": "6hDQ99tIlC1S8OC2CpIMNU",
+      "total": 2853226,
+      "daily": 319
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Enter Sandman - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "0NeVu54s5HRIItVXwhMdke",
+      "total": 2829563,
+      "daily": 2254
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Rebel Of Babylon",
+      "trackId": "1BSheSI7y5zYcQV0xNAsUt",
+      "total": 2827050,
+      "daily": 743
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Wherever I May Roam (Live in Mexico City)",
+      "trackId": "0zgKVOUaarAxAFFdEUu9F8",
+      "total": 2786906,
+      "daily": 956
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Through The Never (Live in Mexico City)",
+      "trackId": "6EA543paJpFe3GJPop7Mt9",
+      "total": 2646990,
+      "daily": 707
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Welcome Home (Sanitarium) (Live - Seattle '89)",
+      "trackId": "4APyuHxnKf6DcPWzFEJ40y",
+      "total": 2583186,
+      "daily": 1286
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Sad But True - Take 36 - February 5th, 1991",
+      "trackId": "0BgwyvUei62u99oDtHVbPm",
+      "total": 2546424,
+      "daily": 259
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "(Anesthesia) - Pulling Teeth (Live)",
+      "trackId": "6quzKzsLpJPFx5gnM8G1f8",
+      "total": 2538782,
+      "daily": 652
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters - Jungle Cruise Version Part 2",
+      "trackId": "2ki2yoPRniWh3eivoGcAUM",
+      "total": 2538473,
+      "daily": 1083
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Hardwired - Live In São Paulo, Brazil - March 25th, 2017",
+      "trackId": "3Pj6JshAvbzZeg1xdidsGA",
+      "total": 2398225,
+      "daily": 357
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Last Caress (Live in Mexico City)",
+      "trackId": "3MBgkMQODYxw15yoKe5jVz",
+      "total": 2356934,
+      "daily": 524
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Harvester of Sorrow (Live - Seattle '89)",
+      "trackId": "1qK8CAZFt2mM7i1VX5qYjg",
+      "total": 2319356,
+      "daily": 1084
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Battery (Live in Mexico City)",
+      "trackId": "0jHMxIoV5kZOeL1hJzCrQi",
+      "total": 2309632,
+      "daily": 600
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Four Horsemen (Live - Seattle '89)",
+      "trackId": "7naRIEBtd0qOU8r9WYumqZ",
+      "total": 2280031,
+      "daily": 1119
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Am I Evil? (Live in Mexico City)",
+      "trackId": "7CtTnD577jekH458V0Uf3P",
+      "total": 2278486,
+      "daily": 620
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Bleeding Me (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
+      "trackId": "7dlzncZrDLdeP2U7aWfKj5",
+      "total": 2262679,
+      "daily": 442
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Enter Sandman (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
+      "trackId": "1lsH8yRds1QXWp9cGIRtWb",
+      "total": 2256494,
+      "daily": 676
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Four Horsemen (Live in Mexico City)",
+      "trackId": "5NvNNr4IlBXbonQ07gZZDH",
+      "total": 2253083,
+      "daily": 535
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Solos (Bass/Guitar) (Live in Mexico City)",
+      "trackId": "66huunYSa95tT6yNOGZpE6",
+      "total": 2216993,
+      "daily": 558
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Unforgiven - May 14th, 1991 Rough Mix",
+      "trackId": "0NpJu7Xvozy5JXkoAMRdTY",
+      "total": 2202931,
+      "daily": 921
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Seek & Destroy (Live - Seattle '89)",
+      "trackId": "5XehKCJutge72GlijNcPHW",
+      "total": 2162944,
+      "daily": 1360
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ride The Lightning - Live At The Hollywood Palladium, Los Angeles, CA / March 10th, 1985",
+      "trackId": "6QEMOLrxW8XRHmUpy2Dt0U",
+      "total": 2110827,
+      "daily": 1076
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom The Bell Tolls - Live At The Hollywood Palladium, Los Angeles, CA / March 10th, 1985",
+      "trackId": "2f1j2hUeSw4RGRkfVVLLvQ",
+      "total": 2109184,
+      "daily": 1029
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "One (Live - Seattle '89)",
+      "trackId": "2U4gF4myhyt8tl8jMeDE3L",
+      "total": 2065710,
+      "daily": 1215
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Please Don't Judas Me (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
+      "trackId": "3JfhXW83sC2StLrHME2gmP",
+      "total": 2048353,
+      "daily": 366
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Some Kind Of Monster - Edit",
+      "trackId": "5gRty0VvZthglRgdfnyYiD",
+      "total": 2030474,
+      "daily": 861
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Unforgiven",
+      "trackId": "1at8S4W63ZoRQDLKdMSfxG",
+      "total": 2020637,
+      "daily": 362
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Motorbreath (Live in Mexico City)",
+      "trackId": "3kErlnWMLD7rg6IWfST8Yd",
+      "total": 1997483,
+      "daily": 441
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Stone Cold Crazy (Live in Mexico City)",
+      "trackId": "5p3hyJFgz56jj4FozxuWkV",
+      "total": 1916510,
+      "daily": 551
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Thing That Should Not Be (Live - Seattle '89)",
+      "trackId": "6wqv1OIgD5Z3PjfOaayDix",
+      "total": 1898219,
+      "daily": 975
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "One (Radio Edit)",
+      "trackId": "16TNLEg96SqzRWAj7N6PRY",
+      "total": 1882141,
+      "daily": 1883
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Intro to Scythian Suite (Live)",
+      "trackId": "1ow4pOwIbrWbjbEXSYmRkb",
+      "total": 1874858,
+      "daily": 412
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Four Horsemen (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
+      "trackId": "78sr9HLuorNthIHjh9zWzO",
+      "total": 1863461,
+      "daily": 423
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master of Puppets (Late June 1985 Demo)",
+      "trackId": "4Nb5NEaQHOxh2YZ7THz7M2",
+      "total": 1831439,
+      "daily": 132
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "All Within My Hands (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
+      "trackId": "3zPcw0j0aSbO2Sf75Mafwm",
+      "total": 1811334,
+      "daily": 371
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Hardwired (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
+      "trackId": "1FzfyibQ3SMeZychD5xxlu",
+      "total": 1805227,
+      "daily": 1367
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Iron Foundry, Opus 19 (Live)",
+      "trackId": "4t8jSEPAKHSRC1Yafv3ZaS",
+      "total": 1789228,
+      "daily": 392
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Scythian Suite, Opus 20 II: The Enemy God And The Dance Of The Dark Spirits (Live)",
+      "trackId": "6Z7Ms0ymWgen8D4hah0aOh",
+      "total": 1754631,
+      "daily": 362
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Veteran of the Psychic Wars (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
+      "trackId": "2YYPHHUzqXJYdmVzwvRzv4",
+      "total": 1750229,
+      "daily": 332
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Creeping Death - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "6yMHIyF2Hnoct27sewYnwd",
+      "total": 1748342,
+      "daily": 1647
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Battery (Live - Seattle '89)",
+      "trackId": "4UDYoVoQJpUPQAmWTrcPGF",
+      "total": 1677487,
+      "daily": 903
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "My Friend of Misery - From Jason's Riff Tapes",
+      "trackId": "1oKFnngyD7zWva4ewt95nK",
+      "total": 1646779,
+      "daily": 370
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Four Horsemen - Live",
+      "trackId": "6rwAQ8iEabmTCgjEJsDbPw",
+      "total": 1617057,
+      "daily": 198
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Seek & Destroy - Live At The Hollywood Palladium, Los Angeles, CA / March 10th, 1985",
+      "trackId": "6H7pn5LXTtRKlySMqxbGuB",
+      "total": 1545410,
+      "daily": 759
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Wherever I May Roam - Live at Day on the Green, Oakland, CA / October 12th, 1991",
+      "trackId": "2HVah89K6WcdCoedm9dRi7",
+      "total": 1453742,
+      "daily": 177
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Too Far Gone? (Live at MetLife Stadium, East Rutherford, NJ – August 6, 2023)",
+      "trackId": "4P5M6lFGdjz58JJK6hYW8w",
+      "total": 1439284,
+      "daily": 373
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "(Anesthesia) Pulling Teeth - Live At The Hollywood Palladium, Los Angeles, CA / March 10th, 1985",
+      "trackId": "2cDoOWPNfRXxurn5dIGfgy",
+      "total": 1436278,
+      "daily": 611
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Whiplash (Live - Seattle '89)",
+      "trackId": "1MNAcG8x56GSD8CoQLpJHn",
+      "total": 1432438,
+      "daily": 767
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Harvester of Sorrow - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "0EFa1CI2PsCKkghK2Cn4pj",
+      "total": 1382422,
+      "daily": 1243
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "...And Justice for All (Live - Seattle '89)",
+      "trackId": "3AxLlRyXcDcpQN6rp1bpPB",
+      "total": 1381014,
+      "daily": 669
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Phantom Lord - Live At The Hollywood Palladium, Los Angeles, CA / March 10th, 1985",
+      "trackId": "1Kb8rZDmNU3UeMPYpbVfBe",
+      "total": 1375784,
+      "daily": 605
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fade To Black - Live At The Hollywood Palladium, Los Angeles, CA / March 10th, 1985",
+      "trackId": "6DJN5lBtBMNd9y8eh2vBkU",
+      "total": 1362366,
+      "daily": 553
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Intro to The Iron Foundry (Live)",
+      "trackId": "76SKw0cvdN2x1o0Eq3BRcu",
+      "total": 1358259,
+      "daily": 288
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The God That Failed - May 13th, 1991 Rough Mix",
+      "trackId": "2nJ2fcyhiKvKxOu40QJPlD",
+      "total": 1350681,
+      "daily": 168
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Wherever I May Roam",
+      "trackId": "7jJcG95Pyqjg0KqSlSzbzi",
+      "total": 1325188,
+      "daily": 230
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Enter Sandman - Live at Wembley Stadium, London, England / April 20th, 1992",
+      "trackId": "221S3dSykrb6hCdEvC71oz",
+      "total": 1301168,
+      "daily": 1196
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Bass Solo (Live - Seattle '89)",
+      "trackId": "5vpU8pREH0ZZZBkyXsZcsV",
+      "total": 1277420,
+      "daily": 568
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Unforgiven",
+      "trackId": "1VsUixRmdRKDplKyuIvfmO",
+      "total": 1265295,
+      "daily": 208
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "One (Live at Long Beach Arena, Long Beach, CA - December 7th, 1988)",
+      "trackId": "19SpcKizLoQyQA2hUDLjiB",
+      "total": 1254324,
+      "daily": 130
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Battery (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",
+      "trackId": "5MPaHxi6OEy4fONENMppzE",
+      "total": 1202118,
+      "daily": 542
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Don't Tread on Me - Pre-Production Rehearsal",
+      "trackId": "0LTXKGMMOR2gIULDFCJ9W6",
+      "total": 1196321,
+      "daily": 112
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fade to Black - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "34vauVAZOS50cmH9td2JYv",
+      "total": 1144996,
+      "daily": 993
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "No Remorse - Live At The Hollywood Palladium, Los Angeles, CA / March 10th, 1985",
+      "trackId": "7rdVGIlItGT1wXrSMlM7Fh",
+      "total": 1127756,
+      "daily": 528
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Damage, Inc. - Live",
+      "trackId": "1lRDIwSH5N1h3UwTGG2yyu",
+      "total": 1079873,
+      "daily": 167
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Sad But True - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "2yHvDfttDN1WKFo62BEBQY",
+      "total": 1072510,
+      "daily": 835
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Last Caress (Live - Seattle '89)",
+      "trackId": "6eM4XIIa25uRIOtP64hlxm",
+      "total": 1059691,
+      "daily": 463
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master of Puppets (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",
+      "trackId": "3KBV5vBS4IHHGJUbhEOGmB",
+      "total": 1057472,
+      "daily": 597
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ride The Lightning - Live",
+      "trackId": "4eTsF6IJzeuBoIlRVXQsm7",
+      "total": 1051646,
+      "daily": 203
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Seek & Destroy - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "341803NTbWrPwaeXI0xGEj",
+      "total": 1047329,
+      "daily": 937
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Leper Messiah - Live",
+      "trackId": "5wxO3w2Jh1QyxwDogm5aWE",
+      "total": 1042759,
+      "daily": 281
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ride The Lightning - Studio Demo",
+      "trackId": "7aC1AYfVfrbrZTJHgfmQOf",
+      "total": 1041403,
+      "daily": 352
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Creeping Death - Live At The Hollywood Palladium, Los Angeles, CA / March 10th, 1985",
+      "trackId": "4ur0Mi3x8q2O6PENO4nRO0",
+      "total": 1020103,
+      "daily": 473
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom the Bell Tolls - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "18t7ie4VHP7g5enIi7Ww5S",
+      "total": 1004058,
+      "daily": 930
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Am I Evil? (Live - Seattle '89)",
+      "trackId": "62wvEoiTmI3Y9aQ3i5PTxl",
+      "total": 999970,
+      "daily": 528
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Brandenburg Gate",
+      "trackId": "3UqG4RqBe5fsjqDu2iBZK2",
+      "total": 988335,
+      "daily": 337
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Motorbreath - Live",
+      "trackId": "5xST97rDkmTG1kErXfvkl6",
+      "total": 980945,
+      "daily": 162
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master of Puppets - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "5mvIBweLdY22BBD1mwn239",
+      "total": 980929,
+      "daily": 964
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "When Hell Freezes Over - Studio Demo",
+      "trackId": "6s3lUMZkm7NvnBYzfSBX5x",
+      "total": 980210,
+      "daily": 341
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Sad But True - Live at Wembley Stadium, London, England / April 20th, 1992",
+      "trackId": "4vp08OHkFBNf3e8Quh9w4Y",
+      "total": 977835,
+      "daily": 832
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Sad But True",
+      "trackId": "0X2byvEma7Kf9ufrEQukOz",
+      "total": 976205,
+      "daily": 222
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Don't Tread on Else Matters",
+      "trackId": "6m1aaREcawdnkIVzYj1fZF",
+      "total": 973108,
+      "daily": 202
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters - Live at Wembley Stadium, London, England / April 20th, 1992",
+      "trackId": "6aVQ8H3O8rjQrDGlO5epWc",
+      "total": 949651,
+      "daily": 866
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom The Bell Tolls (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",
+      "trackId": "1qw7mRwbQeqtYEzHcSjHej",
+      "total": 941230,
+      "daily": 395
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Holier Than Thou - Pre-Production Rehearsal",
+      "trackId": "6xt5gqu1JI1SUSpgeGkMYl",
+      "total": 936695,
+      "daily": 121
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Am I Evil? - Live At The Hollywood Palladium, Los Angeles, CA / March 10th, 1985",
+      "trackId": "3N98GBPEAjLZqvqIftd46Z",
+      "total": 934739,
+      "daily": 381
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Hit The Lights - Live",
+      "trackId": "1PumZzDzB0IA84mgDxLzc8",
+      "total": 913992,
+      "daily": 143
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The View",
+      "trackId": "77o1A0eBvU3UfC8u4GG8XT",
+      "total": 866579,
+      "daily": 439
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Through the Never - Live at Arco Arena, Sacramento, CA / January 11th, 1992",
+      "trackId": "3azDMmiZWCoTitSblYEfke",
+      "total": 865276,
+      "daily": 63
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Thing That Should Not Be (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",
+      "trackId": "5I8h6gZ2PEAyoZEKxJpU4z",
+      "total": 850335,
+      "daily": 219
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Creeping Death - Studio Demo",
+      "trackId": "0jNgoLtfr17zK3tZN3f0UX",
+      "total": 844822,
+      "daily": 309
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Of Wolf and Man - Live at Maimarktgelände, Mannheim, Germany / May 22nd, 1993",
+      "trackId": "2cNR7t92w5Td0N22H7cDd7",
+      "total": 819473,
+      "daily": 129
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "One - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "2sllZ46NIXhuhNlT8WS9kk",
+      "total": 806681,
+      "daily": 667
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Wherever I May Roam",
+      "trackId": "6HgbjvftXgmDgaRVxGzDqE",
+      "total": 796634,
+      "daily": 288
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Hit The Lights (Live at Espace Balard, Paris, France – February 9th, 1984)",
+      "trackId": "77aAF7Pafxq6T5Fa7JBbzf",
+      "total": 796343,
+      "daily": 282
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "To Live Is to Die (Acoustic Intro) (Work in Progress Rough Mix)",
+      "trackId": "7yePwpi47sscMuAE6LrEls",
+      "total": 787536,
+      "daily": 842
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom The Bell Tolls (Live at Hampton Coliseum, Hampton, VA - August 3rd, 1986)",
+      "trackId": "5WAOCD95fpnnnJQsfmLZbx",
+      "total": 785463,
+      "daily": 95
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Motorbreath - Live At The Hollywood Palladium, Los Angeles, CA / March 10th, 1985",
+      "trackId": "2qH20YXmSDLvAfvriEt88R",
+      "total": 755103,
+      "daily": 266
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom The Bell Tolls - Live At Castle Donington, UK / August 17th, 1985",
+      "trackId": "6I6edDy5AgKZrODdBcz36K",
+      "total": 722999,
+      "daily": 274
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ride The Lightning - Garage Demo",
+      "trackId": "5Nw9bVExgC0FvW4X684ZW8",
+      "total": 722624,
+      "daily": 258
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Guitar Solo (Live - Seattle '89)",
+      "trackId": "3Rwo3Td6i5sFSCt8TgOdtv",
+      "total": 721181,
+      "daily": 332
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Ecstasy of Gold - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "2wrVYKAzETnJ7TbJPaZzD2",
+      "total": 714500,
+      "daily": 578
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Breadfan (Live - Seattle '89)",
+      "trackId": "5oL2xNJqy4VJeAQyklW0c7",
+      "total": 699058,
+      "daily": 337
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fight Fire With Fire - Studio Demo",
+      "trackId": "3p9DdB8hstrZ3rEhkDauQV",
+      "total": 683724,
+      "daily": 215
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Enter Sandman - July 12th, 1990, Demo",
+      "trackId": "2AMmjioWZ24XEwSYmPjHnB",
+      "total": 676262,
+      "daily": 228
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Blitzkrieg - Rhythm Track Rough Mix",
+      "trackId": "0ZH4idXM3gFPVwGVr5xwSB",
+      "total": 674051,
+      "daily": 217
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Am I Evil? - Rhythm Track Rough Mix",
+      "trackId": "0am3Nk3fNw23S5jOw2Zp3A",
+      "total": 664480,
+      "daily": 236
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Whiplash - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "0uSAfMN18BoA46w1QYoYfh",
+      "total": 655186,
+      "daily": 552
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Welcome Home (Sanitarium) (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",
+      "trackId": "4zgTI0e8YRXLelOGqOXUik",
+      "total": 649186,
+      "daily": 294
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fade to Black (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",
+      "trackId": "0nF6TJKROXMxOieBcRPJuv",
+      "total": 641587,
+      "daily": 299
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Seek & Destroy (Rough Mix)",
+      "trackId": "36uWGkkoDh7Bx0CaBxCJ8S",
+      "total": 634777,
+      "daily": 750
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "When Hell Freezes Over - Garage Demo",
+      "trackId": "6G7Uyxx0JdfhUGRJfo4iCS",
+      "total": 631917,
+      "daily": 202
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom The Bell Tolls - Live At The Kabuki Theatre, San Francisco, CA / March 15th, 1985",
+      "trackId": "2JU3ZmY0NAa7UVsgEB0689",
+      "total": 622858,
+      "daily": 211
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Four Horsemen (Live at Espace Balard, Paris, France – February 9th, 1984)",
+      "trackId": "0bNvmodQAYaqkfnz0LEert",
+      "total": 622137,
+      "daily": 227
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fight Fire With Fire - Garage Demo",
+      "trackId": "3PLJeDdINntAjHw42w7dm7",
+      "total": 592991,
+      "daily": 179
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Ecstacy of Gold",
+      "trackId": "4LILojAFogT8rcg8cTeaT2",
+      "total": 589068,
+      "daily": 207
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "All Within My Hands (Live) [Radio Edit]",
+      "trackId": "1MJbA1nYJjaPVRkxsanbYZ",
+      "total": 583586,
+      "daily": 153
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Battery - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "6P0Ecol3wlPQeF4Az6q5YN",
+      "total": 577046,
+      "daily": 493
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Call Of Ktulu - Live At The Lyceum Theatre, London, UK / December 20th, 1984",
+      "trackId": "1daTcgWS1loQ7mRwcBD9M4",
+      "total": 573892,
+      "daily": 181
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Seek & Destroy (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",
+      "trackId": "7nv45gVMZDS6uCw6KTrKyC",
+      "total": 565289,
+      "daily": 247
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom The Bell Tolls - Live At The Lyceum Theatre, London, UK / December 20th, 1984",
+      "trackId": "2fxA69m2hhLLPvaw80eQCC",
+      "total": 548551,
+      "daily": 167
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Am I Evil? - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "3pWckSqJm9XpHSELvqBlHz",
+      "total": 547838,
+      "daily": 466
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "(Anesthesia) - Pulling Teeth (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",
+      "trackId": "01ilZoPfh3JyL097Ll6SHN",
+      "total": 547363,
+      "daily": 256
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master Of Puppets - Live In Rio de Janeiro, Brazil - September 19th, 2013",
+      "trackId": "5tCy2ADSUe9pylNLWanKQ5",
+      "total": 541340,
+      "daily": 208
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ride The Lightning - Boom Box Demo",
+      "trackId": "3xQOYqpseZq49zUlGWo7tp",
+      "total": 536633,
+      "daily": 197
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Pumping Blood",
+      "trackId": "1yDaWE3SArHmIl8khKAWd7",
+      "total": 527002,
+      "daily": 261
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Encore Jam (Live - Seattle '89)",
+      "trackId": "0cXftlT0QFMtuxUGpohdru",
+      "total": 525322,
+      "daily": 232
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fade To Black - Live At The Kabuki Theatre, San Francisco, CA / March 15th, 1985",
+      "trackId": "3fSe4ndV2qZijrLculoLgX",
+      "total": 511820,
+      "daily": 139
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Four Horsemen - Live At The Kabuki Theatre, San Francisco, CA / March 15th, 1985",
+      "trackId": "7jx3ggqdFg21MwNNij3WZ5",
+      "total": 507440,
+      "daily": 141
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Last Caress - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "7BkE8kw7NjXjwKNQKY9uvY",
+      "total": 501616,
+      "daily": 467
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "(Anesthesia) Pulling Teeth - Live At The Lyceum Theatre, London, UK / December 20th, 1984",
+      "trackId": "6V6SCwNW6G7v2RqJv8yZt1",
+      "total": 496964,
+      "daily": 137
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ride The Lightning - Live At Castle Donington, UK / August 17th, 1985",
+      "trackId": "5tY2qBoeSFFMCMKCuFeqxU",
+      "total": 480854,
+      "daily": 342
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Four Horseman - Live At The Lyceum Theatre, London, UK / December 20th, 1984",
+      "trackId": "18JaI5o6440z7gbW1GafNg",
+      "total": 480335,
+      "daily": 153
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ride The Lightning - Live At The Kabuki Theatre, San Francisco, CA / March 15th, 1985",
+      "trackId": "6E17MvUtLnYsjQhw1SzBS1",
+      "total": 479823,
+      "daily": 176
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fade To Black - Live At Castle Donington, UK / August 17th, 1985",
+      "trackId": "030sGsj3Kz0KhjggikzDU9",
+      "total": 475394,
+      "daily": 143
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Seek & Destroy - Live At The Lyceum Theatre, London, UK / December 20th, 1984",
+      "trackId": "2CabfixwH4dLW0I7MzT2V1",
+      "total": 466367,
+      "daily": 117
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Jump In The Fire (Live at Espace Balard, Paris, France – February 9th, 1984)",
+      "trackId": "0NkcOKOzPa50IBMNTEKFXO",
+      "total": 466356,
+      "daily": 165
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters - From James' Riff Tapes",
+      "trackId": "1SxitWMN8OutBerpeeRZzh",
+      "total": 463387,
+      "daily": 387
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Enter Sandman - Radio Edit",
+      "trackId": "7gYlDaUF6BKNpgACrKxUdK",
+      "total": 462925,
+      "daily": 731
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "(Anesthesia) Pulling Teeth - Live At The Kabuki Theatre, San Francisco, CA / March 15th, 1985",
+      "trackId": "1MEk6ADYgPeNfs8ouGqjT3",
+      "total": 452336,
+      "daily": 144
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Iron Man",
+      "trackId": "0DhofTXjh7fm0jFAKyJqc5",
+      "total": 452144,
+      "daily": 83
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Seek & Destroy - Live At Castle Donington, UK / August 17th, 1985",
+      "trackId": "5ryBp3RpwKQG9YT1CgGYYy",
+      "total": 452031,
+      "daily": 182
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Whiplash (Remastered) (Special Neckbrace Remix)",
+      "trackId": "5ZfkaNTcZgraTmHEszQZOq",
+      "total": 449793,
+      "daily": 139
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fight Fire With Fire - Live At The Kabuki Theatre, San Francisco, CA / March 15th, 1985",
+      "trackId": "5Uene7XzZo8WID8WX3o3zq",
+      "total": 446531,
+      "daily": 126
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master of Puppets (1985, from Kirk's Riff Tapes)",
+      "trackId": "3dyuqD1AQNS1xLiHthQx8N",
+      "total": 444764,
+      "daily": 110
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Creeping Death - Live At The Kabuki Theatre, San Francisco, CA / March 15th, 1985",
+      "trackId": "3P66WrGdXLX0LVWk6LEftm",
+      "total": 437334,
+      "daily": 125
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Unforgiven - From James' Riff Tapes",
+      "trackId": "28lZTGs8v8OQxY1DGFeWdh",
+      "total": 435702,
+      "daily": 332
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Seek & Destroy (“Live” At The Automatt)",
+      "trackId": "7FVQsitrDmuFHmzjNLYLKw",
+      "total": 433434,
+      "daily": 153
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Seek & Destroy (Live at Espace Balard, Paris, France – February 9th, 1984)",
+      "trackId": "2TBi9kCzlIQNEsed36GipV",
+      "total": 429127,
+      "daily": 202
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ride The Lightning (Live at Espace Balard, Paris, France – February 9th, 1984)",
+      "trackId": "5MJiW2hgxnPYq75vDOhtH3",
+      "total": 429084,
+      "daily": 151
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Guitar Solo - Live At The Kabuki Theatre, San Francisco, CA / March 15th, 1985",
+      "trackId": "1KwBMrPJkkjaJaisXNU9vG",
+      "total": 427748,
+      "daily": 134
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Damage, Inc. (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",
+      "trackId": "39aJnLL9VGNcKBG29j5DdJ",
+      "total": 427440,
+      "daily": 213
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master of Puppets (November 1985, Work in Progress Rough Mix)",
+      "trackId": "3Jw2pNF791MKz8i9PBHgRW",
+      "total": 426128,
+      "daily": 218
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Am I Evil? - Live At The Kabuki Theatre, San Francisco, CA / March 15th, 1985",
+      "trackId": "0GRAkfAm8FCSLUBzOcA75z",
+      "total": 425248,
+      "daily": 133
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Money Will Roll Right In (Work in Progress Rough Mix)",
+      "trackId": "7HOHbUG5hcihgn8ajkfzU9",
+      "total": 424351,
+      "daily": 229
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Phantom Lord - Live At The Kabuki Theatre, San Francisco, CA / March 15th, 1985",
+      "trackId": "4GWgPM7Ph2O1UrQU16P9nM",
+      "total": 424181,
+      "daily": 128
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters (Live) [Radio Edit]",
+      "trackId": "4Uxaa3RLHD5i8mJOBjWNrI",
+      "total": 421086,
+      "daily": 155
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master of Puppets (1985, from James' Riff Tapes)",
+      "trackId": "3BByTcaS9J1NtGEhcQloB9",
+      "total": 418643,
+      "daily": 148
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Creeping Death (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",
+      "trackId": "6incUowGV7Ag5t2iahKPby",
+      "total": 418244,
+      "daily": 231
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Whiplash - Live At The Lyceum Theatre, London, UK / December 20th, 1984",
+      "trackId": "5cDfYX8Kk5Y8zNLAIb3hle",
+      "total": 416177,
+      "daily": 124
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Iced Honey",
+      "trackId": "0vtI6MH88W7sia4QfxYsXh",
+      "total": 414456,
+      "daily": 145
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "No Remorse - Live At The Kabuki Theatre, San Francisco, CA / March 15th, 1985",
+      "trackId": "1qsQ4dDSwQXQmlr2kJl4Yl",
+      "total": 411742,
+      "daily": 112
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Hit The Lights (Rough Mix)",
+      "trackId": "306JKtpqBusaSZv9RgKcaT",
+      "total": 406098,
+      "daily": 167
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Phantom Lord (Live at Espace Balard, Paris, France – February 9th, 1984)",
+      "trackId": "44mQi9gPlVxWiKNYs7QFFT",
+      "total": 406067,
+      "daily": 136
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Encore Jam - Live at Tushino Airfield, Moscow, Russia / September 28th, 1991",
+      "trackId": "6vL720SQYTi75F8JaOxOb3",
+      "total": 404327,
+      "daily": 320
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Motorbreath - Live At The Kabuki Theatre, San Francisco, CA / March 15th, 1985",
+      "trackId": "6s4c5eel9La9JuJd5J6zn0",
+      "total": 403348,
+      "daily": 114
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Metal Militia - Live At The Lyceum Theatre, London, UK / December 20th, 1984",
+      "trackId": "3iKNMoYYJeO452Lq5J7f65",
+      "total": 399924,
+      "daily": 85
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Creeping Death - Live At The Lyceum Theatre, London, UK / December 20th, 1984",
+      "trackId": "6Ja8JkBHaSrYWLV4ZF4YUl",
+      "total": 397423,
+      "daily": 105
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Phantom Lord - Live At The Lyceum Theatre, London, UK / December 20th, 1984",
+      "trackId": "72aD0yUoIQwE4OVtbAebfT",
+      "total": 394847,
+      "daily": 107
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "No Remorse - Live At The Lyceum Theatre, London, UK / December 20th, 1984",
+      "trackId": "3GLqTEjLnmGFl64foUTW8N",
+      "total": 392952,
+      "daily": 103
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Motorbreath (Rough Mix)",
+      "trackId": "52ImeVS5kQGfzHfGvCvKdp",
+      "total": 391089,
+      "daily": 155
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Creeping Death - Live At Castle Donington, UK / August 17th, 1985",
+      "trackId": "5TKsFX8lGhtKkPOiZ0Baa5",
+      "total": 390254,
+      "daily": 92
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Battery (October 1985, Work in Progress Rough Mix)",
+      "trackId": "47IHXOTL3pfPa1XWpexn44",
+      "total": 389724,
+      "daily": 176
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "We Did It Again",
+      "trackId": "47sSl3K57XvjhkjLF09aBX",
+      "total": 385229,
+      "daily": 310
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "No Remorse (Live at Espace Balard, Paris, France – February 9th, 1984)",
+      "trackId": "1smiGnyh4UQf085aySj6KX",
+      "total": 385016,
+      "daily": 134
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Blackened (1987, From James' Riff Tapes)",
+      "trackId": "25sikWHN0Lvx7TaNd6NhhE",
+      "total": 382324,
+      "daily": 140
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Junior Dad",
+      "trackId": "2zg2zQsXs0o6hCH9MTkZzw",
+      "total": 382080,
+      "daily": 184
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Whiplash (Rough Mix)",
+      "trackId": "2qquLBzn2K0XVW1bXGUrKC",
+      "total": 377898,
+      "daily": 114
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Mistress Dread",
+      "trackId": "5NSSeFthY3wqM8gsen1gWL",
+      "total": 375650,
+      "daily": 147
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Whiplash - Live At Castle Donington, UK / August 17th, 1985",
+      "trackId": "33xzaj1PnUYZH5YMxsM4rA",
+      "total": 369196,
+      "daily": 90
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Four Horsemen - Live At Castle Donington, UK / August 17th, 1985",
+      "trackId": "2hSTnS4UkUt0i3q2DRGNmt",
+      "total": 369121,
+      "daily": 95
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Enter Sandman - Live In São Paulo, Brazil - March 25th, 2017",
+      "trackId": "0bPOIDfTuamn2I8fPNxaNu",
+      "total": 368384,
+      "daily": 331
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Train Kept A Rollin'",
+      "trackId": "504x5kvWbmDLxIkEVDuO0c",
+      "total": 368297,
+      "daily": 81
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Four Horsemen (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",
+      "trackId": "4ZzMrgihp985dFbgx6JVWQ",
+      "total": 367921,
+      "daily": 168
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Guitar Solo - Live At The Lyceum Theatre, London, UK / December 20th, 1984",
+      "trackId": "2Xb0LxvLVtUMtCaVXQUCAL",
+      "total": 361121,
+      "daily": 77
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Motorbreath - Live At Castle Donington, UK / August 17th, 1985",
+      "trackId": "4s8OYAy3doQ8yAnPAttGqe",
+      "total": 356317,
+      "daily": 79
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Orion (November 1985, Work in Progress Rough Mix)",
+      "trackId": "7gcE1UcCzpoNSQ814E655V",
+      "total": 354046,
+      "daily": 159
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "(Anesthesia) – Pulling Teeth (Live at Espace Balard, Paris, France – February 9th, 1984)",
+      "trackId": "5YZ0h4r9exKw50v6rzVwvZ",
+      "total": 348840,
+      "daily": 126
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "One (1987, From James' Riff Tapes)",
+      "trackId": "09mTwA7SG7niAgLOGINqWc",
+      "total": 348393,
+      "daily": 149
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "So What - Early Take - October 12th, 1990",
+      "trackId": "2nQ4brKCpBIa3rNpDCcxf1",
+      "total": 347920,
+      "daily": 109
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Phantom Lord (“Live” At The Automatt)",
+      "trackId": "47jnei1oGbhIoW8q7t6P7x",
+      "total": 336482,
+      "daily": 117
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "(Anesthesia) – Pulling Teeth (Rough Mix)",
+      "trackId": "0KIkfZghiSp7l2Nfwz3zGN",
+      "total": 334182,
+      "daily": 116
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Motorbreath (Live at Espace Balard, Paris, France – February 9th, 1984)",
+      "trackId": "5dhHlOADIEWAhzo6q7nN4I",
+      "total": 333063,
+      "daily": 126
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Whiplash (Live at Espace Balard, Paris, France – February 9th, 1984)",
+      "trackId": "5A5b8yWpeR9W89d9eGLLek",
+      "total": 330945,
+      "daily": 118
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Cheat on Me",
+      "trackId": "2xFILWNlp8tKNKVpCXjWKA",
+      "total": 330499,
+      "daily": 136
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Am I Evil? (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",
+      "trackId": "4qcOwny0o1ipoOzv56p89P",
+      "total": 327505,
+      "daily": 138
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "To Live Is to Die (1988, From James' Riff Tapes)",
+      "trackId": "53PWkcpIdnHPrJ8602Oe0b",
+      "total": 326772,
+      "daily": 181
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Blackened (1987, From James' Riff Tapes II)",
+      "trackId": "4TnBQMREXn98wELdwvPJq3",
+      "total": 323135,
+      "daily": 120
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Frustration",
+      "trackId": "1JNbkaRDu7tDxxtTX1Ij5U",
+      "total": 321907,
+      "daily": 164
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Seek & Destroy (“Not Live” From The Automatt)",
+      "trackId": "1o6kuN7DQYhRYIDHw1ndR3",
+      "total": 321304,
+      "daily": 102
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Welcome Home (Sanitarium) (November 1985, Work in Progress Rough Mix)",
+      "trackId": "28FaQOfbERgJfA7pnsoHbH",
+      "total": 309263,
+      "daily": 129
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Phantom Lord (Rough Mix)",
+      "trackId": "1bQdI9DsAyRoETENnloUfu",
+      "total": 304667,
+      "daily": 109
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Whiplash (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",
+      "trackId": "4234OWTizoFimewbRU4ZYf",
+      "total": 304368,
+      "daily": 135
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Guitar Solo (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",
+      "trackId": "4swdbgxSk1fnWiWfwHFRgR",
+      "total": 292981,
+      "daily": 135
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Metal Militia (Live at Espace Balard, Paris, France – February 9th, 1984)",
+      "trackId": "696lugNddHzXUBAZct4Sll",
+      "total": 292118,
+      "daily": 95
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Welcome Home (Sanitarium) (1985, from James' Riff Tapes)",
+      "trackId": "5RKGoSx78QvZ8ZrkLKNNra",
+      "total": 291593,
+      "daily": 127
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Unforgiven - Live In São Paulo, Brazil - May 2nd, 1993",
+      "trackId": "14jLiXUh8KoG0wr82oPhO7",
+      "total": 288887,
+      "daily": 142
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Orion (1985, from James' Riff Tapes)",
+      "trackId": "5Pz0SnAdVAUUDUUD3YorRC",
+      "total": 288090,
+      "daily": 119
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Thing That Should Not Be (December 1985, Work in Progress Rough Mix)",
+      "trackId": "6QTTL9w1cDoKdRSzkQB3PB",
+      "total": 287889,
+      "daily": 115
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "To Live Is to Die (1986, From James' Riff Tapes)",
+      "trackId": "4nZ6dHZlR81qAaUO91YeZY",
+      "total": 285659,
+      "daily": 218
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters - Elevator Version",
+      "trackId": "27TLdpUYVGvcKHmjPSWYUI",
+      "total": 283547,
+      "daily": 176
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Dragon",
+      "trackId": "5ZrehhPyYi7KgzUCYiaEFC",
+      "total": 281835,
+      "daily": 93
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Disposable Heroes (November 1985, Work in Progress Rough Mix)",
+      "trackId": "04iyAAP6tqUt2hOr5SkIvM",
+      "total": 278616,
+      "daily": 106
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Four Horsemen (Rough Mix)",
+      "trackId": "2VbUmqvB71PIRGbYBM4L8x",
+      "total": 269457,
+      "daily": 87
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Leper Messiah (December 1985, Work in Progress Rough Mix)",
+      "trackId": "5VYNcqxIY4LU7ux000wpsT",
+      "total": 267040,
+      "daily": 111
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Sad But True - From James' Riff Tapes",
+      "trackId": "1SKV5ye3hgxzh9mvZ5lUtD",
+      "total": 266931,
+      "daily": 193
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Creeping Death (Live at The Keystone, Palo Alto, CA – October 31st, 1983)",
+      "trackId": "5dTsNRgorwaCvlQO3JhvAM",
+      "total": 264619,
+      "daily": 167
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "One (Work in Progress Rough Mix)",
+      "trackId": "7HlcL8DSxtlLWgz8GvP1Jz",
+      "total": 262787,
+      "daily": 249
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Prince (Work in Progress Rough Mix)",
+      "trackId": "37nZWTXxSQPlLbnotBoa2Q",
+      "total": 260472,
+      "daily": 112
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Holier Than Thou - From James' Riff Tapes",
+      "trackId": "6i9nUOZLBm91mVbCCvp7AZ",
+      "total": 252841,
+      "daily": 184
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "When Hell Freezes Over (The Call of Ktulu) (Live at The Keystone, Palo Alto, CA – October 31st, 198",
+      "trackId": "0DKVSRcl7rNqxZxk3DYGU6",
+      "total": 251898,
+      "daily": 176
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Battery (1985, from James' Riff Tapes II)",
+      "trackId": "2BPia6vE1uzQk3p604G1yD",
+      "total": 251053,
+      "daily": 104
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Dyers Eve (1987, From James' Riff Tapes)",
+      "trackId": "1l2HTjy1UKFGb2rBF3L6UJ",
+      "total": 247219,
+      "daily": 110
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Four Horsemen - Live In São Paulo, Brazil - January 30th, 2010",
+      "trackId": "7Fox8v1zJeYICXl0GYsEW7",
+      "total": 247177,
+      "daily": 70
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Enter Sandman - From Kirk's Riff Tapes",
+      "trackId": "1FgxKMPXOtCfRcb2rdlDRv",
+      "total": 245225,
+      "daily": 168
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "…And Justice for All (1987, From James' Riff Tapes)",
+      "trackId": "4qKeWYFoa9KdXy2J1aGDBa",
+      "total": 244664,
+      "daily": 84
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Enter Sandman - From Kirk's Riff Tapes II",
+      "trackId": "0t2H5rVMToWYmVSooY0cA3",
+      "total": 242149,
+      "daily": 147
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "For Whom The Bell Tolls - Live In São Paulo, Brazil - March 22nd, 2014",
+      "trackId": "5auNyohgTlKuZGwqWP9D98",
+      "total": 241986,
+      "daily": 114
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Little Dog",
+      "trackId": "3tdBx6sRWZgnniLrz7ZVms",
+      "total": 241983,
+      "daily": 89
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Damage, Inc. (October 1985, Work in Progress Rough Mix)",
+      "trackId": "0mVbZxH0P6fdFqlyzzX59S",
+      "total": 241700,
+      "daily": 104
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Sad But True - Live In São Paulo, Brazil - March 22nd, 2014",
+      "trackId": "3hqbaSkbLdKyPwwAE7nf94",
+      "total": 241109,
+      "daily": 111
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Fade To Black - Live In São Paulo, Brazil - May 2nd, 1993",
+      "trackId": "7A1WzhwZyNOqHYLbb6R5sP",
+      "total": 238517,
+      "daily": 96
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Damage, Inc. (1985, from James' Riff Tapes)",
+      "trackId": "6jTxt7Na76ARUB1jSK196p",
+      "total": 237737,
+      "daily": 86
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Blackened (Work in Progress Rough Mix)",
+      "trackId": "3Va8t2kZ6D3ZmlTXkpStFI",
+      "total": 236254,
+      "daily": 150
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Through the Never - From Kirk's Riff Tapes",
+      "trackId": "47b0OIoJttm9JwHtzBzEVj",
+      "total": 236228,
+      "daily": 145
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "(Anesthesia) – Pulling Teeth (Live at The Keystone, Palo Alto, CA – October 31st, 1983)",
+      "trackId": "31ff2s4BUKVx0i0EKHM2Gc",
+      "total": 235687,
+      "daily": 65
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Unforgiven - From James' Riff Tapes III",
+      "trackId": "1bGaKBAfrHMXqsiifdkaNc",
+      "total": 235360,
+      "daily": 178
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Enter Sandman - July 6th, 1990, Writing in Progress",
+      "trackId": "18tCQcL2Aj0AdpYqqa2A9S",
+      "total": 233302,
+      "daily": 154
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Phantom Lord (“Not Live” From The Automatt)",
+      "trackId": "1x9t1BgXLeqZfgulmIFqYZ",
+      "total": 229149,
+      "daily": 73
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Nothing Else Matters - Radio Edit",
+      "trackId": "4iXpWOc7dW65GjgR2Trjco",
+      "total": 228998,
+      "daily": 692
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Welcome Home (Sanitarium) (1985, from James' Riff Tapes II)",
+      "trackId": "2CmtCEy6CZCGzEBgZgLnGl",
+      "total": 228721,
+      "daily": 96
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "The Thing That Should Not Be (1985, from James' Riff Tapes)",
+      "trackId": "74TDqb2WqpApdqXUnPrLDL",
+      "total": 224631,
+      "daily": 70
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master of Puppets (Live at The Meadowlands, East Rutherford, NJ - April 21st, 1986)",
+      "trackId": "0y30lEOfCK8tPMqjecfgzt",
+      "total": 222596,
+      "daily": 1190
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Don't Tread on Me - From James' Riff Tapes",
+      "trackId": "5A0ykds8lgI6KBrsp1Nfge",
+      "total": 222531,
+      "daily": 161
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Dyers Eve (1986, From James' Riff Tapes)",
+      "trackId": "0ec6KGDDNvocX87KJWfFLE",
+      "total": 222481,
+      "daily": 81
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Phantom Lord (Live at The Keystone, Palo Alto, CA – October 31st, 1983)",
+      "trackId": "4ybr4SxxR3gN9O5y9hWSt4",
+      "total": 220428,
+      "daily": 541
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Eye of the Beholder (1987, From James' Riff Tapes)",
+      "trackId": "1IiB7K0sa2Dtt0fJIVX9fU",
+      "total": 218756,
+      "daily": 90
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Master of Puppets (Mid-June 1985, Writing in Progress II)",
+      "trackId": "1kkG3LEYS3R7dkBa4CJVX5",
+      "total": 217909,
+      "daily": 76
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Ride The Lightning (Live at The Keystone, Palo Alto, CA – October 31st, 1983)",
+      "trackId": "6nYeuKxgiKgEbW30eTr7aI",
+      "total": 217072,
+      "daily": 136
+    },
+    {
+      "artist": "Metallica",
+      "artistId": "2ye2Wgw4gimLv2eAKyk1NB",
+      "trackName": "Of Wolf and Man - From Kirk's Riff Tapes",
+      "trackId": "3vyMHu6zA4lvt3I5w6TWeH",
+      "total": 216958,
+      "daily": 103
+    }
+  ]
+}

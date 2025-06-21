@@ -1,0 +1,590 @@
+{
+  "artist": "PNL",
+  "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+  "songs": [
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Onizuka",
+      "trackId": "4GCIYE1x1TWJCChPkpy9by",
+      "total": 231582612,
+      "daily": 76198
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Au DD",
+      "trackId": "5lCxlSBFyP5g4EhVypAoOu",
+      "total": 231256203,
+      "daily": 39666
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Deux frères",
+      "trackId": "6hzi3AGB39FjxFqcjgbWs7",
+      "total": 198908805,
+      "daily": 70078
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "J’comprends pas",
+      "trackId": "1CxtymiucDK0AB9vgGZ6q2",
+      "total": 191279300,
+      "daily": 126765
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Bené",
+      "trackId": "00X2yv2vrtritPt2CZnUTZ",
+      "total": 191124108,
+      "daily": 76318
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "A l'ammoniaque",
+      "trackId": "1gVnckXtTdCoLwtiPPqlQS",
+      "total": 147928783,
+      "daily": 29920
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "La misère est si belle",
+      "trackId": "1s3XtkdfT3obSCbQVWtvX9",
+      "total": 147189058,
+      "daily": 74662
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "DA",
+      "trackId": "5UOGzIMvxXyRZIWBbqDcpU",
+      "total": 142810026,
+      "daily": 61344
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Naha",
+      "trackId": "0lkQfsTMmtDA37tjjew9n0",
+      "total": 141740212,
+      "daily": 30652
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Jusqu'au dernier gramme",
+      "trackId": "2jBleFNl3YK8lyJc1OvxXt",
+      "total": 137429578,
+      "daily": 27752
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Uranus",
+      "trackId": "7lpfmAMzW3MlWSnXrwAGky",
+      "total": 126714865,
+      "daily": 67184
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "91's",
+      "trackId": "4LAGHmHcSt0HHwXCJcFri6",
+      "total": 122343204,
+      "daily": 34114
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Blanka",
+      "trackId": "295SxdR1DqunCNwd0U767w",
+      "total": 107393350,
+      "daily": 20083
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Le monde ou rien",
+      "trackId": "7dn6WQzScfRGpp7XdTiCj0",
+      "total": 103607339,
+      "daily": 28703
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "MOWGLI II",
+      "trackId": "1w2OwBeojIZI8hTI5WkMkV",
+      "total": 97164585,
+      "daily": 23407
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Hasta la vista",
+      "trackId": "6YHnhfw8yMCx4vZvsgem3D",
+      "total": 96414792,
+      "daily": 64076
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Luz de Luna",
+      "trackId": "6WgQjBNpjnEJbOKAa0OMpY",
+      "total": 94189236,
+      "daily": 46684
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Zoulou tchaing",
+      "trackId": "1gRMO4h3NGb1ZJA7TNdMPj",
+      "total": 91681412,
+      "daily": 16749
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Autre monde",
+      "trackId": "2aG2nLUd8NNI7vFuOLBCe0",
+      "total": 90437743,
+      "daily": 32222
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Mexico",
+      "trackId": "4di2vpRLHHZ5u4UtlTMiNZ",
+      "total": 75363145,
+      "daily": 39884
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Chang",
+      "trackId": "5n9NAd0Y5OUeOGU0nVtLua",
+      "total": 74401341,
+      "daily": 18774
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Tempête",
+      "trackId": "1hgBf6VgEBLWrG9wLsacjb",
+      "total": 73594522,
+      "daily": 23864
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Dans la légende",
+      "trackId": "5NZpY9WeWFtlHVgepfCamX",
+      "total": 73577316,
+      "daily": 14983
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "J'suis QLF",
+      "trackId": "2lFWyfuXtCN8Sb7cHJILva",
+      "total": 70491655,
+      "daily": 19500
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Je vis je visser",
+      "trackId": "6DBSDcKDo51KcUmEqCTHzB",
+      "total": 66270238,
+      "daily": 23308
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Bambina",
+      "trackId": "6npyDB4mn8MO1A1h666FTk",
+      "total": 66171720,
+      "daily": 17922
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Ryuk",
+      "trackId": "50v2QOArNfK21a4xV8O5QM",
+      "total": 65690823,
+      "daily": 27474
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Déconnecté",
+      "trackId": "7qqPnzVQILmJeldy9smPLj",
+      "total": 65118222,
+      "daily": 19495
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Shenmue",
+      "trackId": "5gqh2FMBquUEwDsRUU4pCF",
+      "total": 64657577,
+      "daily": 16684
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Sur Paname",
+      "trackId": "1J4RXX9fjPliGlHzvXlKtN",
+      "total": 63697801,
+      "daily": 22094
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Menace",
+      "trackId": "3cdxShmWeMHolKPDi3SRXM",
+      "total": 58629803,
+      "daily": 13072
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Oh lala",
+      "trackId": "1mmOcSVsxfbXm72XkvwEhK",
+      "total": 57191100,
+      "daily": 15767
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Comme pas deux",
+      "trackId": "2fcZ1T71UhFnJ68rqsdVqc",
+      "total": 55323403,
+      "daily": 15334
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Cœurs",
+      "trackId": "0VPKan5aM2nQy5voiAjjUo",
+      "total": 54429482,
+      "daily": 10475
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Kuta ubud",
+      "trackId": "25yiHDniULzQL1BaFgV4Tq",
+      "total": 52074630,
+      "daily": 10479
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Celsius",
+      "trackId": "5Bj9llJ7xr70Ny2nWiSM6G",
+      "total": 50956252,
+      "daily": 12038
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Rebenga",
+      "trackId": "67Pr6gkO2yNbVyOoMPTfgU",
+      "total": 50093289,
+      "daily": 10487
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Mira",
+      "trackId": "3lV66ymv6hCcccdNeyMlUm",
+      "total": 44981786,
+      "daily": 11829
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Tu sais pas",
+      "trackId": "3e2WOT8WgZpyNLZdlVVUpH",
+      "total": 43785526,
+      "daily": 11706
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "J'suis PNL",
+      "trackId": "74w7XGtFixyI8w1vTHjfcL",
+      "total": 41748533,
+      "daily": 13245
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Humain",
+      "trackId": "6fCA5hbJI1fD4YfNx7zJd6",
+      "total": 41469326,
+      "daily": 9980
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Kratos",
+      "trackId": "4Otg8MXqP8UK3QzcMlY1sx",
+      "total": 37328574,
+      "daily": 7061
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Lala",
+      "trackId": "6MFgXEY6NHbZFlRG86sZFM",
+      "total": 36489816,
+      "daily": 10685
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "La vie est belle",
+      "trackId": "4Dqm44dJZ88hVEzAYndNeC",
+      "total": 34908041,
+      "daily": 8310
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Lion",
+      "trackId": "5luGeeVVAXwgZSAgs92KCm",
+      "total": 34666350,
+      "daily": 10102
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Capuche",
+      "trackId": "3nhZSrlvRibuMW6dMTn8Ge",
+      "total": 32889539,
+      "daily": 11575
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "PNL",
+      "trackId": "4qoqOy8xklK8Ih5UaADjEn",
+      "total": 32668664,
+      "daily": 13281
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Bang",
+      "trackId": "4Y5GzRVcPkBX01xxWxVGH6",
+      "total": 32253979,
+      "daily": 9182
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Simba",
+      "trackId": "0zRgwXAHWPOVk9ml0aF7Dx",
+      "total": 31435534,
+      "daily": 7256
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Sheita",
+      "trackId": "73oG1oAMc7uKza0DQsZVZO",
+      "total": 31105755,
+      "daily": 6046
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Dans ta rue",
+      "trackId": "4p6MASsCBEe49pZwP6rFtV",
+      "total": 30009082,
+      "daily": 7321
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "J'vends",
+      "trackId": "4P1OJmboyx6JmFd8yT0qYA",
+      "total": 28360512,
+      "daily": 5904
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Sibérie",
+      "trackId": "5JkBOwtsg2hfVV9LK2KDAP",
+      "total": 27382934,
+      "daily": 8155
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Porte de Mesrine",
+      "trackId": "26IB6QbCisBOf6AoQT37XW",
+      "total": 27229833,
+      "daily": 8678
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Frontières",
+      "trackId": "4LeI9bVgG1tLJV0OmPBGie",
+      "total": 25651667,
+      "daily": 9031
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Abonné",
+      "trackId": "13UuCiJPWwDopyS5nhgBkm",
+      "total": 25576969,
+      "daily": 4904
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Que la mif",
+      "trackId": "4tQZavHesJJ8SoulpUd5Ld",
+      "total": 25372194,
+      "daily": 5198
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Tahia",
+      "trackId": "0vfB1HhL36tfV8q6LLKtgo",
+      "total": 25183590,
+      "daily": 7272
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Plus Tony que Sosa",
+      "trackId": "20S52xE4HYhqwlqy7tPgRh",
+      "total": 23973072,
+      "daily": 5722
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Cramés",
+      "trackId": "3QpZ3YQVRsz5E7Zj34afaq",
+      "total": 23876491,
+      "daily": 8287
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Je t’haine",
+      "trackId": "1jqxTY0bjfuJ2hzT5kRvlQ",
+      "total": 23811726,
+      "daily": 9031
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "La petite voix",
+      "trackId": "5uV4c4mBdNS7UiEVcJkxry",
+      "total": 23737848,
+      "daily": 4020
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Le M",
+      "trackId": "2r6e2FdKES0GWAyN6URjbN",
+      "total": 23627866,
+      "daily": 7019
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Loin des hommes",
+      "trackId": "4YWiLBMOCqfCOrDO224Mko",
+      "total": 22408852,
+      "daily": 5815
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Laisse",
+      "trackId": "42e7c5XYbcaxWt0SfZkf3j",
+      "total": 22156570,
+      "daily": 6652
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Gala gala",
+      "trackId": "336GFxSsufer22TWIVuKJu",
+      "total": 21564510,
+      "daily": 8766
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Recherche du bonheur",
+      "trackId": "6RUDy5zJzIiMqEViAI2sPm",
+      "total": 18135430,
+      "daily": 12767
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Dans la soucoupe",
+      "trackId": "4qIp2V76V1203qY5xEOKN3",
+      "total": 17669105,
+      "daily": 4393
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Gaza",
+      "trackId": "2e6LkWTmEDqlUmODfIpZsb",
+      "total": 15958844,
+      "daily": 7458
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Différents",
+      "trackId": "1jfQWfVfBtZ7LGkU4H5O15",
+      "total": 15285219,
+      "daily": 5052
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Obligés de prendre",
+      "trackId": "6Y6xuPfmCKauttmFlaH8Dd",
+      "total": 15232117,
+      "daily": 8448
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "Athéna",
+      "trackId": "5CClqJm1hFOoS311SBkboo",
+      "total": 12532744,
+      "daily": 3610
+    },
+    {
+      "artist": "PNL",
+      "artistId": "3NH8t45zOTqzlZgBvZRjvB",
+      "trackName": "De la fenêtre au ter ter",
+      "trackId": "1XAPR5oqXVJzPnUhc4tdHC",
+      "total": 8831609,
+      "daily": 2806
+    }
+  ]
+}

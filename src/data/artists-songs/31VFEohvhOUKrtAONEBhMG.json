@@ -1,0 +1,958 @@
+{
+  "artist": "Kenia Os",
+  "artistId": "31VFEohvhOUKrtAONEBhMG",
+  "songs": [
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Malas Decisiones",
+      "trackId": "6Xj014IHwbLVjiVT6H89on",
+      "total": 316147561,
+      "daily": 114025
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "TOMMY & PAMELA",
+      "trackId": "3GWUv0TDO5E3cHfsxYeptt",
+      "total": 202462630,
+      "daily": 189077
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Por Dentro",
+      "trackId": "671fHUAB2n0MocazS1bMB8",
+      "total": 162776162,
+      "daily": 101138
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Llévatelo",
+      "trackId": "53RLjHptrKflawOuGru1xM",
+      "total": 99845788,
+      "daily": 22825
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "La Invitación",
+      "trackId": "5i2u1LN3LOhhKyd5nBKBK0",
+      "total": 93097969,
+      "daily": 33611
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Mi Salida Contigo",
+      "trackId": "5zMaWQoxNyNo8hJICxNyBK",
+      "total": 90820432,
+      "daily": 33818
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Ojo X Ojo",
+      "trackId": "3OGOwjwdae1OulCD4DK1ic",
+      "total": 74153578,
+      "daily": 35478
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Mentiroso",
+      "trackId": "5iXCrcLT5iirF2UTmaa284",
+      "total": 64362295,
+      "daily": 15707
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Kitty",
+      "trackId": "5N7MQvvccl5Hu01j9dUtPe",
+      "total": 64091769,
+      "daily": 39970
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Bonita",
+      "trackId": "1jBxLoNgHtZnY3ykT9MDyl",
+      "total": 60302187,
+      "daily": 19325
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Toketeo",
+      "trackId": "0pRgURvgp75RPKjTGQodau",
+      "total": 58224128,
+      "daily": 10862
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Cocteles",
+      "trackId": "5rb0LAGWkFdWjn46LyidC5",
+      "total": 56796881,
+      "daily": 8345
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Plutón",
+      "trackId": "0w41wEubHTq13Hh4tfRCke",
+      "total": 53780270,
+      "daily": 13477
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "La Noche",
+      "trackId": "3oQwe85XEzQydpBGyAvgPv",
+      "total": 51137559,
+      "daily": 10426
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Rumores",
+      "trackId": "3OUkQJY3YQ00HwD5GPuk7A",
+      "total": 47854667,
+      "daily": 17485
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Good Boy",
+      "trackId": "3hfb0K2rRK0HDhjNbi95Xj",
+      "total": 47381532,
+      "daily": 17329
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Mía Mía",
+      "trackId": "5frA4yUrm67JdmgrJOjJgg",
+      "total": 45983704,
+      "daily": 10479
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Año Sabático",
+      "trackId": "1W3TtHJz099SGGq67IOVFL",
+      "total": 45682950,
+      "daily": 19693
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Los Santos",
+      "trackId": "5VZUk1ryO5RjKEd2txFNhU",
+      "total": 45086884,
+      "daily": 13353
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Flores",
+      "trackId": "6aNgqSTPML2B5XsohIiL7D",
+      "total": 44306770,
+      "daily": 11004
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Mamita Rica",
+      "trackId": "7vWCNYFkxVmQM2PfegA9YE",
+      "total": 43691596,
+      "daily": 37539
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Tercera Noche",
+      "trackId": "0DPpsXoijB0H7OVsxx9Vqt",
+      "total": 38627556,
+      "daily": 7442
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Tu Peor Pesadilla",
+      "trackId": "7MpETJHfn7B0kLiJtkSgvL",
+      "total": 37766702,
+      "daily": 7709
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Ella - Remix De Ellas",
+      "trackId": "6xvsaD0vPI2tU9gaF2e4j2",
+      "total": 37309510,
+      "daily": 3479
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Botellita",
+      "trackId": "0HXnUYLIIzaeO2ACjuw43s",
+      "total": 36750886,
+      "daily": 14824
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Joder",
+      "trackId": "2b5Worm8h9yAJOw2jc4zZp",
+      "total": 36398316,
+      "daily": 6878
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Morir de Amor",
+      "trackId": "1xeHt0Vm6pGSrFAO9bB6hs",
+      "total": 36061943,
+      "daily": 10014
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Shillin'",
+      "trackId": "2NYqx7lx6fSWv7LoxgONEL",
+      "total": 34620471,
+      "daily": 10777
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Bobo",
+      "trackId": "4WjDltdgowln78iPoiolIQ",
+      "total": 32762780,
+      "daily": 18435
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Tortura",
+      "trackId": "675DR08jG1zTyPjNoSUTY7",
+      "total": 32523669,
+      "daily": 16498
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "JACKPOT",
+      "trackId": "23W44WWCP8SibyP292TWo5",
+      "total": 31080651,
+      "daily": 89733
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Kenia Roast Yourself",
+      "trackId": "3Z3cDIMrnPhIv0iCuhOqhY",
+      "total": 29677189,
+      "daily": 8911
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Se Fue la Luz",
+      "trackId": "2M4UXjgRjbQnS8s7lNR9g3",
+      "total": 28962715,
+      "daily": 6346
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Escríbeme",
+      "trackId": "0gLPbKWrfFTifO5m90P8DE",
+      "total": 28271145,
+      "daily": 4615
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Fue Lindo",
+      "trackId": "7bMJX92st9uXhc4OuHDRG5",
+      "total": 26547793,
+      "daily": 6358
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Lovelove U",
+      "trackId": "4ZPbxT1hVCdUBG4Tjmfs5B",
+      "total": 26340065,
+      "daily": 13379
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Big Bang",
+      "trackId": "7dxrSzsK1bouobJiY5fIcD",
+      "total": 24776145,
+      "daily": 19774
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Delito",
+      "trackId": "3bEezT99PBfz3BB9yEq4X8",
+      "total": 24378661,
+      "daily": 3174
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Tsunami",
+      "trackId": "5MHd0g5gQAf79wR6uCI5YP",
+      "total": 24279553,
+      "daily": 3395
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Diamantes",
+      "trackId": "5tsaIE9YwWkgnSzKbAkcr5",
+      "total": 23934727,
+      "daily": 6095
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Un Bezito",
+      "trackId": "1SQfMaCmPULmazsql39NTb",
+      "total": 23206139,
+      "daily": 15608
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Fuentes de Ortíz (Live session)",
+      "trackId": "3nTeLDqZebdpIdB9uRJJk1",
+      "total": 22274757,
+      "daily": 2425
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Bad Boy! - feat. Kenia OS",
+      "trackId": "26EXLk5OgybKFDvnV9Bj9x",
+      "total": 21621997,
+      "daily": 10040
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Tírame Un Hello - Remix",
+      "trackId": "4Kb3xZkdhXtAwAdQ0yeSSA",
+      "total": 21506217,
+      "daily": 5564
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Más Te Va a Doler",
+      "trackId": "5zKXodTRdBV2Mv12UmM3Tc",
+      "total": 20640500,
+      "daily": 5095
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Toy Toy",
+      "trackId": "2ow8YQD0FWYIqQ5bArZ1Ln",
+      "total": 20100751,
+      "daily": 7331
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Todo My Love",
+      "trackId": "0XOr0FAZIbUaxyU84o9AWJ",
+      "total": 20044515,
+      "daily": 4855
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Ocean",
+      "trackId": "04W3X1NMkpKnjILY7W7YwO",
+      "total": 19106837,
+      "daily": 6427
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Me Dolió",
+      "trackId": "6GohKuqUmoVmuZJ148PEjN",
+      "total": 18719709,
+      "daily": 2974
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Buscándonos",
+      "trackId": "5lhIy9jzgp8GcCyjmbLcwj",
+      "total": 18522770,
+      "daily": 6500
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Placebo",
+      "trackId": "6rsjtGqye3l0ItzLzooMlm",
+      "total": 17533132,
+      "daily": 5633
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Desamor Feliz - Remix",
+      "trackId": "4JRDTjUxA2bO4bF3JxOwt2",
+      "total": 17332134,
+      "daily": 4256
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Si por Mí Fuera",
+      "trackId": "07MS3RfBJMZlEljzO492xD",
+      "total": 17331612,
+      "daily": 6883
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "La Carta",
+      "trackId": "44QaJIq6GHmYlLoD46MZ91",
+      "total": 16084766,
+      "daily": 4527
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "VIP",
+      "trackId": "62hsumOu5s9hUJ3yQK40R7",
+      "total": 16065438,
+      "daily": 9737
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "11:11",
+      "trackId": "41Lq5z6ORoV0OkJRlMjgDF",
+      "total": 15372686,
+      "daily": 2439
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Siempre Que Lo Beso",
+      "trackId": "7uxUSeO7fa3gVn0mNg2SyR",
+      "total": 14907134,
+      "daily": 18113
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Tokome",
+      "trackId": "0NaRr23qzWGYpd0YWRRQS6",
+      "total": 14665828,
+      "daily": 21367
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Cambios",
+      "trackId": "6kiYwJne7PkW12I53Ey6qN",
+      "total": 14588867,
+      "daily": 5110
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Energía",
+      "trackId": "6aoGNGTD8fxjyq3CMsGSog",
+      "total": 14461087,
+      "daily": 2118
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "OMG",
+      "trackId": "32Rd1yFRekKTkH21g0j1gH",
+      "total": 14358522,
+      "daily": 17582
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Tenía Que Llegar",
+      "trackId": "5VQtzkdA45dJW2DkSdo4UG",
+      "total": 14326042,
+      "daily": 2534
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Una Nada Más",
+      "trackId": "5dHJtIoVTrm0jZ7zIP8xSH",
+      "total": 13973767,
+      "daily": 61058
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "SAN TURRONA REMIX",
+      "trackId": "59aD6M6ZIZF5sYRDqymT32",
+      "total": 13904353,
+      "daily": 12887
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Te Odio",
+      "trackId": "7gCy3fhww624eEocyMYtSa",
+      "total": 13697452,
+      "daily": 2383
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "¿Qué Pasa?",
+      "trackId": "15YOpXrOUn6BuWiMPhJ6Ki",
+      "total": 13587735,
+      "daily": 2171
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Dinero",
+      "trackId": "3Hndu68hdTMaL6HNpYdMrr",
+      "total": 13502091,
+      "daily": 1405
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Tú Sí",
+      "trackId": "3UYbYRx8LAEMSNiN9oaJuD",
+      "total": 12709261,
+      "daily": 2613
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Para No Verte Más",
+      "trackId": "2HH06rHCyra4vLcdZkdN4d",
+      "total": 11572416,
+      "daily": 5022
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "La OG",
+      "trackId": "2aNlp2w1uC1w24FdieBc9F",
+      "total": 11543757,
+      "daily": 7669
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Por Siempre",
+      "trackId": "7rwjSbVKIhvcvU14gqnXGF",
+      "total": 11527181,
+      "daily": 1785
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "F* OFF",
+      "trackId": "4c46OwwVzZ2TpWCfvxCrUC",
+      "total": 11226762,
+      "daily": 10261
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "A la Mitad",
+      "trackId": "0ZZl02GFOoqAE3tOFkYQFE",
+      "total": 11132690,
+      "daily": 3075
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "En 4",
+      "trackId": "2hVKtXecIaFlWRRDgZgLlf",
+      "total": 10884794,
+      "daily": 55894
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Cúlpame a Mí",
+      "trackId": "4E0zwuK92FVIpM4taHV7m0",
+      "total": 10738135,
+      "daily": 3123
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "No Me Marques Pedo",
+      "trackId": "4XhxL3yq18qWSLxqaYargW",
+      "total": 10598509,
+      "daily": 3896
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Tamagotchi - Remix",
+      "trackId": "2UvRG908AhpkFHnaGTFJRz",
+      "total": 10174783,
+      "daily": 2201
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Gracias a Dios",
+      "trackId": "74KWD3AWfkTtkw60rPp9vm",
+      "total": 9727354,
+      "daily": 2685
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Soledad",
+      "trackId": "5HPdMoOuLK10X0BrG06ber",
+      "total": 9715238,
+      "daily": 2708
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Contigo Si",
+      "trackId": "2oDR6BqgQ9iuQguQL30UEU",
+      "total": 9299848,
+      "daily": 1602
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Es Así",
+      "trackId": "3yzrYuX1vuiuoEJGEzp61r",
+      "total": 9124410,
+      "daily": 6236
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Replay",
+      "trackId": "5cAKmfCaqnYUnXqvTK8RxU",
+      "total": 9076610,
+      "daily": 6289
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Solo una Vez",
+      "trackId": "4WCQeyTgRukuFL4Mwt68yw",
+      "total": 8632850,
+      "daily": 7133
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Na De Na (Remix)",
+      "trackId": "0yqC8In8DwVcErVbusUHUH",
+      "total": 7349927,
+      "daily": 2208
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Mi X",
+      "trackId": "22vJdWBiy7bxXsaidpEZrw",
+      "total": 6561203,
+      "daily": 4640
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Blanca Navidad - Spotify Singles Holiday",
+      "trackId": "1nKL3Vx69N5DzmCeP6AHBE",
+      "total": 6514799,
+      "daily": 206
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "After Pari",
+      "trackId": "75MoTqOKZafc2c7M9HNMJD",
+      "total": 6278499,
+      "daily": 3926
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "La Niña",
+      "trackId": "1ufvUzb22WGWvNoHecXWZn",
+      "total": 6276318,
+      "daily": 3394
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Bate",
+      "trackId": "2POQJLngiE5R6RfdLgKkcI",
+      "total": 6095920,
+      "daily": 87217
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Complete",
+      "trackId": "1Pn1My4kHwVdwumCRCCzXX",
+      "total": 5687987,
+      "daily": 3858
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Gracias - Remix",
+      "trackId": "3vseUtzUdVgWYNVm9Jr6qx",
+      "total": 5470710,
+      "daily": 602
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "EX EX EX",
+      "trackId": "0JblMDDZxhwEVAH65UeLBc",
+      "total": 5110546,
+      "daily": 137118
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Uh La La - Remix",
+      "trackId": "3UNWHzwVtJv0NhyD36pnfB",
+      "total": 4752227,
+      "daily": 991
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Otra Igual",
+      "trackId": "3311O12ttDi9NGAPsxek5Y",
+      "total": 3960738,
+      "daily": 728
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Sirena (Versión Acústica)",
+      "trackId": "1eNsBd4FoFc6hYmnoe0CVC",
+      "total": 3874684,
+      "daily": 223
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Como La Flor (Live Session)",
+      "trackId": "4idSCQTUzM9QIGc44ChFXA",
+      "total": 3654750,
+      "daily": 310
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "LOVE, MONEY, FAME (feat. DJ Khaled) (Kenia OS Remix)",
+      "trackId": "36LcCpAK7ColfpTTRNChhz",
+      "total": 3038834,
+      "daily": 4558
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "ARRUINAME LA VIDA",
+      "trackId": "5a07S0lG6hZGqohwF093OI",
+      "total": 1857728,
+      "daily": 11871
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Bonita (Versión Acústica)",
+      "trackId": "6vnUl5cBfjxWWh4EwgEdzT",
+      "total": 1014910,
+      "daily": 88
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Por Siempre (Versión Acústica)",
+      "trackId": "3q72Id7gmQQNZql8Id77Qc",
+      "total": 748222,
+      "daily": 76
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Kenia Roast Yourself (Versión Acústica)",
+      "trackId": "5pajqXufZtzJzdSkdxRWtp",
+      "total": 650964,
+      "daily": 51
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "OMG - En Vivo",
+      "trackId": "4eYt6uatHfqgtC4TLYi5Kd",
+      "total": 589648,
+      "daily": 1560
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Supernova",
+      "trackId": "44bhPPobkR9xIrLeeVoFUe",
+      "total": 562986,
+      "daily": 218
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Llévatelo - En Vivo",
+      "trackId": "5Ba4fNb3I0GH5RKClNUNwK",
+      "total": 270230,
+      "daily": 1063
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Mamita Rica - En Vivo",
+      "trackId": "2c5jF1XEkRAy0hkbtpzGNo",
+      "total": 257986,
+      "daily": 1027
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Mía Mía - En Vivo",
+      "trackId": "1vC5yJKWPwx3OudBHbWM3I",
+      "total": 253287,
+      "daily": 1006
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Joder - En Vivo",
+      "trackId": "2AqOQCHSoFqOKD7exWvC1h",
+      "total": 232020,
+      "daily": 940
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Tokome - En Vivo",
+      "trackId": "29ml3nTSmp0N6VGIxPKzCA",
+      "total": 229109,
+      "daily": 901
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "La Invitación - En Vivo",
+      "trackId": "4ZSp9uFYeEFJ3D8bVv99Rc",
+      "total": 227437,
+      "daily": 901
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Año Sabático - En Vivo",
+      "trackId": "2wMxCYqk2p9LlkZRgGhYKd",
+      "total": 220894,
+      "daily": 848
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Big Bang - En Vivo",
+      "trackId": "6tqKT1D9IHOsmXTu51S36k",
+      "total": 217274,
+      "daily": 841
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "La OG - En Vivo",
+      "trackId": "4qFNV2wYKOGZGba6jd3FTD",
+      "total": 214403,
+      "daily": 889
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Flores - En Vivo",
+      "trackId": "6YfbMnE4gw6jUV0Lloxrrz",
+      "total": 209035,
+      "daily": 814
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "F* OFF - En Vivo",
+      "trackId": "5TJD9dbb9w3shb9uY1KdY7",
+      "total": 205886,
+      "daily": 787
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Malas Decisiones - Sped Up Version",
+      "trackId": "3Vy7dsmEE2RBEDn01ByJh3",
+      "total": 202478,
+      "daily": 1416
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Tortura - En Vivo",
+      "trackId": "26cBmXL2ZBscAy3rYEY6tL",
+      "total": 192164,
+      "daily": 731
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Kitty - En Vivo",
+      "trackId": "23ulbmIb8EJj9audJhuGEl",
+      "total": 190564,
+      "daily": 699
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Malas Decisiones - En Vivo",
+      "trackId": "1k0NvgcI1ZzTeOp9EA5xsK",
+      "total": 175103,
+      "daily": 698
+    },
+    {
+      "artist": "Kenia Os",
+      "artistId": "31VFEohvhOUKrtAONEBhMG",
+      "trackName": "Interludio (Big Bang) - En Vivo",
+      "trackId": "2AJQdNpedP3M780KOyypPT",
+      "total": 171627,
+      "daily": 640
+    }
+  ]
+}

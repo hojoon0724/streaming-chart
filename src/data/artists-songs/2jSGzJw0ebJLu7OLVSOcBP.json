@@ -1,0 +1,878 @@
+{
+  "artist": "Plan B",
+  "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+  "songs": [
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Es un Secreto",
+      "trackId": "7JwdbqIpiuWvGbRryKSuBz",
+      "total": 1330905222,
+      "daily": 920740
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Candy",
+      "trackId": "5MYPciceOHMd7Vl7ntELEq",
+      "total": 754711291,
+      "daily": 545964
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Si No Le Contesto",
+      "trackId": "560GL9Y8gDtKPRIJ41oA3c",
+      "total": 549265729,
+      "daily": 473753
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Fanática Sensual",
+      "trackId": "1FWD08y0cTKR31BNn8awLt",
+      "total": 465648838,
+      "daily": 406948
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "¿por Que Te Demoras?",
+      "trackId": "7JbMsR4rZh6J77LNafur8U",
+      "total": 447677050,
+      "daily": 370763
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Solos (feat. Plan B)",
+      "trackId": "2ItA7kOg5NH6AygzU30sEv",
+      "total": 443762465,
+      "daily": 213609
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Shaky Shaky - Remix",
+      "trackId": "53QdfEoKCXlEfjgXPmvPjx",
+      "total": 375121218,
+      "daily": 61988
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Mi Vecinita",
+      "trackId": "5iptcoD2Oi6gY3pyW1xKgL",
+      "total": 328724486,
+      "daily": 195796
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Hooka",
+      "trackId": "7C25wDBFgJA8up48DDBBU6",
+      "total": 318845945,
+      "daily": 253023
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Guatauba",
+      "trackId": "0xJFWROBNTBL4sKEuA5pm6",
+      "total": 260118520,
+      "daily": 182512
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Suave (Remix)",
+      "trackId": "4phvdPGXE8MGXsTBhqB5ht",
+      "total": 243571139,
+      "daily": 191046
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Freakytona",
+      "trackId": "5Ps2ZqATo5drFSEHtpp8lt",
+      "total": 196203524,
+      "daily": 100710
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Choca",
+      "trackId": "15actjx4Wa7QVrq75SURHV",
+      "total": 186490168,
+      "daily": 236738
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Te Dijeron",
+      "trackId": "7d8eGSZucAMNn1stafoey2",
+      "total": 178378759,
+      "daily": 183755
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Ella Fuma",
+      "trackId": "5FVVmDTScyTNlzC1sUILsc",
+      "total": 156761113,
+      "daily": 33136
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Ella Se Contradice (feat. Plan B)",
+      "trackId": "4nNeRNXmdZWfw3IjAnITZR",
+      "total": 154908009,
+      "daily": 100149
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Fanática Sensual (Remix)",
+      "trackId": "0yEgxWpLt45b2LLQZdKa8N",
+      "total": 137547429,
+      "daily": 100381
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Por el Momento (feat. Plan B)",
+      "trackId": "1GZZELGFwWsi2oLE1v1eyQ",
+      "total": 134297703,
+      "daily": 80142
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "El Desorden",
+      "trackId": "0JOUrhZGMCx3lk9VosAQWl",
+      "total": 107076544,
+      "daily": 29883
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Sábado Rebelde",
+      "trackId": "00C97lUG7Y0TY0KLv7p32h",
+      "total": 91200365,
+      "daily": 65247
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Ponle Música",
+      "trackId": "0kJ0YyW1liWJbK32TxKfQn",
+      "total": 86573493,
+      "daily": 84104
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Zum Zum (Remix)",
+      "trackId": "7aFxaRKoxW139WG3UTKs5K",
+      "total": 63965162,
+      "daily": 5381
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Te Acuerdas de Mí",
+      "trackId": "2sG6jc5DrpPmEnMkWdaEPq",
+      "total": 58562848,
+      "daily": 34325
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Solos - Remix",
+      "trackId": "39m4r5PZqkoQhxXV4woCqU",
+      "total": 51926190,
+      "daily": 22616
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Pegaito a la Pared (feat. Plan B) - Remix",
+      "trackId": "34hqsdmzodHbk50EnoSefY",
+      "total": 49023854,
+      "daily": 31495
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Te la Tiro Pa Que Bailes",
+      "trackId": "4y9Yn8z2cUVvmSPFMEVirk",
+      "total": 45066668,
+      "daily": 27794
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Aqui Estas Tu - Official Remix",
+      "trackId": "5UlGWJZja3bUIqxBLNNsN8",
+      "total": 42577006,
+      "daily": 17012
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Fronteo",
+      "trackId": "5SE62j47eAyxSOplRGS6st",
+      "total": 39490934,
+      "daily": 203937
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Si No Le Contesto (Remix)",
+      "trackId": "7wvhdU9mTugwpDxgkQoOzY",
+      "total": 36331298,
+      "daily": 34914
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Ella Se Contradice - Remix",
+      "trackId": "4WcgfJRhF4gCGHbpucxype",
+      "total": 34894240,
+      "daily": 24112
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "La Nena de Papa",
+      "trackId": "278TErqSFSh7yLpL9bZlcU",
+      "total": 31052793,
+      "daily": 19902
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Amor de Antes - Remix",
+      "trackId": "4au9wYLYyzJxUPYYb7PStk",
+      "total": 30378887,
+      "daily": 47395
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Se Cree Mala",
+      "trackId": "5r8f7PiRsKLQaHnNlccl3R",
+      "total": 29163601,
+      "daily": 29516
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "El Matadero",
+      "trackId": "3HjoBCnQNJtDRMu3rLaJzy",
+      "total": 27753028,
+      "daily": 11383
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Si Tú",
+      "trackId": "5FbQLB4JlxE1MMubQBdpfi",
+      "total": 27027480,
+      "daily": 4907
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Zapatito Roto (feat. Tego Calderon)",
+      "trackId": "3BXJLpI9AdeZ6SfNC6YoUa",
+      "total": 25281142,
+      "daily": 41578
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Es Un Secreto (Remasterizada 2024) - Remix",
+      "trackId": "2Xe3tkFYGFJyLk5yx00Dnf",
+      "total": 21378496,
+      "daily": 31874
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Juegas Con Mi Mente",
+      "trackId": "3YxHd1mAwbOCwkWdEUhpsc",
+      "total": 19365219,
+      "daily": 8398
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Me La Explota Feat. Yankee",
+      "trackId": "2cH8koRSDXBsvfEbeKcs9N",
+      "total": 19022426,
+      "daily": 17681
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "El Amor No Existe",
+      "trackId": "1dA0fkxG4HRpDISLlWGSZL",
+      "total": 16348180,
+      "daily": 8160
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Amor de Antes - Remix",
+      "trackId": "2oscFCmLWeJs5MDDmBu85k",
+      "total": 15348076,
+      "daily": 18629
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Mis Canciones Hablan de Sexo",
+      "trackId": "19c8GZzrj5m0NhFUA3K9TP",
+      "total": 15343573,
+      "daily": 10794
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "En la Disco Apretá - Radio Version",
+      "trackId": "5wcv7kmKHT0RcB19R4Pxrn",
+      "total": 15130954,
+      "daily": 12522
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Olvidar Que Somos Amigos",
+      "trackId": "6tAgxFa4LAGJ74gq7FkycG",
+      "total": 14945550,
+      "daily": 7353
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Si Se Da (feat. Plan B)",
+      "trackId": "2BeW7YcnlJeMFWvBEUuCeU",
+      "total": 14059036,
+      "daily": 2733
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Por Que Cambiar (feat. Plan B)",
+      "trackId": "3OI9fEj1e12mAqdF219uZk",
+      "total": 12882129,
+      "daily": 5191
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Zapatito Roto",
+      "trackId": "3wOk1ar9OHlkzkYSslIuwI",
+      "total": 12654269,
+      "daily": 6997
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Parisera",
+      "trackId": "01QRAsEIf4mhrsWpIoZnjh",
+      "total": 12321904,
+      "daily": 6518
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Love And Sex",
+      "trackId": "6MW2WSRjWYIb2vnT5YMkht",
+      "total": 11926826,
+      "daily": 5956
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Pa'l Piso",
+      "trackId": "1tkHDPuts366cejeDWKL4r",
+      "total": 11483998,
+      "daily": 4300
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "No Quiero Que Te Vayas",
+      "trackId": "3OFkFlA2Hmpw2Bwle89eGs",
+      "total": 10880680,
+      "daily": 4850
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Lloras",
+      "trackId": "50rfn8fl1cjZvcw1gij6SL",
+      "total": 10222318,
+      "daily": 4813
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Donde Los Consigo? (feat. Yaileem Y Clandestino)",
+      "trackId": "33fTCZQXUoNn9jLkNy3ucK",
+      "total": 10159401,
+      "daily": 4709
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Nos Fuimos Discoteca",
+      "trackId": "76X5VakCL8CqKz2HDgYkA8",
+      "total": 9527424,
+      "daily": 9797
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Dame una Noche",
+      "trackId": "1hwK9LUTtawrJIjBFhRnRg",
+      "total": 8905361,
+      "daily": 2826
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Piquete (feat. Plan B)",
+      "trackId": "659kOOOWsAuCpA2nAoLoWE",
+      "total": 8569394,
+      "daily": 1549
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Sátiro",
+      "trackId": "6UN2A5f9HbCCdpmsfGuVMn",
+      "total": 8564349,
+      "daily": 4224
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Sábado Rebelde - Damn Frog Trap Remix",
+      "trackId": "5iWCI4zFSJSXJJFkh1eHnQ",
+      "total": 8250300,
+      "daily": 244
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Ella Se Contradice",
+      "trackId": "4Kml5ZlHa8A4Pa6TwKOLas",
+      "total": 8057189,
+      "daily": 18771
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Su Mamá No Sabe Na",
+      "trackId": "2CgzwjZ0jG1ogquPxBlvKo",
+      "total": 7920041,
+      "daily": 1961
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Soy y Seré",
+      "trackId": "4c5HVuQqaVH4BlXrGGEKo9",
+      "total": 7763967,
+      "daily": 2375
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Llevo Tras de Ti",
+      "trackId": "4dwVH54MK4HUhpdp6G6qkW",
+      "total": 7551444,
+      "daily": 9500
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Tocarte",
+      "trackId": "2iFBuWcHhru4M4XG0bMBwO",
+      "total": 7335453,
+      "daily": 2743
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "La Danza Bella",
+      "trackId": "68WGyc8Am3SpUOo9dMjRAY",
+      "total": 6651629,
+      "daily": 3554
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Coquetea",
+      "trackId": "4bp7FpFT6tbAhJTuRiu2Iy",
+      "total": 6526104,
+      "daily": 2413
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Flow (feat. Plan B)",
+      "trackId": "12uGWmvbzQaB1suoozIuyI",
+      "total": 6390472,
+      "daily": 6556
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "House Of Pleasure",
+      "trackId": "0bPcOwlv5YOBiFp2Szuend",
+      "total": 5692166,
+      "daily": 2870
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Tiempo de Vernos",
+      "trackId": "4Bf93ZsQkgRoRHlpZUCYaJ",
+      "total": 4455139,
+      "daily": 556
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Beweis 2 (feat. Olli Banjo, Plan B, Maeckes, Caput, MoTrip, Ercandize, Kobra, Franky Kubrick, Sizzl",
+      "trackId": "1vhKJfSOvxNgfc3BMaLkSI",
+      "total": 4369660,
+      "daily": 949
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Tarde en la Noche",
+      "trackId": "5djgPE4sxukBa5LQJ7PQ0j",
+      "total": 3989509,
+      "daily": 1707
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "El Que la Hace la Paga",
+      "trackId": "2GyWz8uNUu7yF2DZ446E4G",
+      "total": 3679750,
+      "daily": 1252
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Tú Sabes",
+      "trackId": "7aSNwS0JTukKphQ0BnzW1T",
+      "total": 3582931,
+      "daily": 2042
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Salvaje",
+      "trackId": "7vEweqNKMAj3wBB7tyLDa8",
+      "total": 3467319,
+      "daily": 548
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "¿que Me Paso?",
+      "trackId": "75fKONDPlvWib4nqTxEDyx",
+      "total": 3461121,
+      "daily": 1539
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Candy Remix Parte 2 (feat. Tempo & Arcangel)",
+      "trackId": "4nOzG3IL0LamopOEoTdGs5",
+      "total": 3284171,
+      "daily": 1178
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Cogelo Pa Ti (feat. Plan B)",
+      "trackId": "4UqihhKQym7fqRUKStUTlP",
+      "total": 2857840,
+      "daily": 156
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Si Tú Guayas (feat. Plan B)",
+      "trackId": "6hgSX23MTkHN13HatHYNtp",
+      "total": 2672030,
+      "daily": 556
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Yal, Yal, Yal",
+      "trackId": "6RJ9A6gLa3xZMhVt29EYK4",
+      "total": 2570518,
+      "daily": 2354
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "El Duelo - Remix",
+      "trackId": "36Rkb79900uMuJpeu6LuLk",
+      "total": 2446361,
+      "daily": 1201
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Intro",
+      "trackId": "227obhe51mpwI6PPWW5hUg",
+      "total": 2437417,
+      "daily": 810
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Mencionando Tu Nombre",
+      "trackId": "4Ccmf8bSFKS5tHEwg4u4aQ",
+      "total": 2417150,
+      "daily": 514
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Agárrala",
+      "trackId": "3Iu8mcCIikOjjXfkKcyvRb",
+      "total": 2223646,
+      "daily": 831
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Dos Gatas Feat. Guelo Star",
+      "trackId": "6VxEXt9sQdPrVXqnUPSzGQ",
+      "total": 2148774,
+      "daily": 511
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Candy Remix Parte 1 (feat. Jowell Y Randy & De La Ghetto)",
+      "trackId": "1yIYhbQzOvv4ocTmyrkInE",
+      "total": 2054692,
+      "daily": 279
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Plan B",
+      "trackId": "7dypgwkBpkRoSOzFJyGM5b",
+      "total": 1999708,
+      "daily": 2177
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Ella Me Pide Something",
+      "trackId": "5aCE0g6ABIpywGYhe6sJwq",
+      "total": 1862422,
+      "daily": 5657
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "No Voy A Esperar Por Ti",
+      "trackId": "5SZX7wwx1Eu5Vasr1fAMQv",
+      "total": 1739059,
+      "daily": 642
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "El Caballo Feat. Nejo",
+      "trackId": "566uPccPPTYMAh01S7oZYG",
+      "total": 1643209,
+      "daily": 295
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Outro",
+      "trackId": "1REpLvyPRvfNCouV5PECbL",
+      "total": 1627013,
+      "daily": 467
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Gritaras Feat. Speedy",
+      "trackId": "7nCOOKUcMk3jUqYWVgcSAy",
+      "total": 1468459,
+      "daily": 411
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Yo La Tuve",
+      "trackId": "54smBnRXCypRYshATvTnBM",
+      "total": 1429979,
+      "daily": 402
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Intro El Duo Del Sex",
+      "trackId": "2DFCoJp9RysR4K7aibvR6d",
+      "total": 1379205,
+      "daily": 369
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Hora De Perrear",
+      "trackId": "0R2XbhBJRdWkcgWsq25Ak1",
+      "total": 1318698,
+      "daily": 609
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Hey You Girl",
+      "trackId": "0TS5ZQrfnhhLS7BQCwhliy",
+      "total": 1261079,
+      "daily": 343
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Tumba El Guille",
+      "trackId": "7vT0V1PaiQtzufha4fWgFR",
+      "total": 1215907,
+      "daily": 300
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Guatauba XXX (Remix)",
+      "trackId": "5KHnaaMuyXHkkPmtB4BlKr",
+      "total": 1066409,
+      "daily": 489
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Frikitona Chosen Few Remix (feat. Trick Daddy, Trina & Lda)",
+      "trackId": "3pUxUpPqwWHNDUfD4bCO0H",
+      "total": 1003049,
+      "daily": 194
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Frikitona - Chosen Few Remix (feat. Trick Daddy, Trina & L.D.A.)",
+      "trackId": "6yHUpdV9uT2OqfdiVMsEkP",
+      "total": 1001686,
+      "daily": 221
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Lento Muevete Feat. Dalmata",
+      "trackId": "5GZioUt1O8VmYTlNhBcrmx",
+      "total": 972188,
+      "daily": 191
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Orgasmo",
+      "trackId": "0E2PAktDgSw1qXEzOwHLMz",
+      "total": 891269,
+      "daily": 2630
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Mixeo El Duo Del Sex",
+      "trackId": "4x2Lw92MFeecJpeCS6E54K",
+      "total": 877355,
+      "daily": 191
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Hace Calor",
+      "trackId": "3dbn4l01aR36JAzEMG4jbY",
+      "total": 629357,
+      "daily": 2077
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Area X 002",
+      "trackId": "7HQqSC9QTQUvjctrF3CGtv",
+      "total": 420095,
+      "daily": 181
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Flow - Remix",
+      "trackId": "7tK3y0z8obwpvgXTa3o9Zi",
+      "total": 403144,
+      "daily": 922
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Sondern Hundert (feat. Maeckes & Plan B)",
+      "trackId": "6qOfPiiYZX7sNbTrOiuBrt",
+      "total": 243171,
+      "daily": 45
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Explota la Nota - Remix",
+      "trackId": "5KzhlHgLVEIRQheVenoNl1",
+      "total": 217825,
+      "daily": 170
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Area X - Side B",
+      "trackId": "7c4byao8Nsi3CZNaTGKMl6",
+      "total": 216419,
+      "daily": 76
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Si Eres Freak",
+      "trackId": "0SWyHWzk4BIQb9A3n9SpAy",
+      "total": 142733,
+      "daily": 68
+    },
+    {
+      "artist": "Plan B",
+      "artistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Fidelity",
+      "trackId": "4NaQoRkVHtG7kFnLJUH9F4",
+      "total": 127369,
+      "daily": 27
+    }
+  ]
+}

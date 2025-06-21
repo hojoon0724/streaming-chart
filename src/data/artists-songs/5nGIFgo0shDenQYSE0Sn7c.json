@@ -1,0 +1,950 @@
+{
+  "artist": "Evanescence",
+  "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+  "songs": [
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Bring Me To Life",
+      "trackId": "0COqiPhxzoWICwFCS4eZcp",
+      "total": 1522875316,
+      "daily": 1278513
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "My Immortal",
+      "trackId": "4UzVcXufOhGUwF56HT7b8M",
+      "total": 613229910,
+      "daily": 271724
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Going Under",
+      "trackId": "3UygY7qW2cvG9Llkay6i1i",
+      "total": 436429274,
+      "daily": 389644
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Call Me When You're Sober",
+      "trackId": "663Karu2rvKLdnY0eo1n3M",
+      "total": 211262178,
+      "daily": 154070
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Everybody's Fool",
+      "trackId": "0tWEB6BxbI48XN79QE1JbT",
+      "total": 165647574,
+      "daily": 128110
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Lithium",
+      "trackId": "5YaLFRpqpUzgLLDcukNn0H",
+      "total": 113601878,
+      "daily": 79399
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Tourniquet",
+      "trackId": "46fyLy4W9HhAkcb67kLaAV",
+      "total": 75891743,
+      "daily": 57170
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Hello",
+      "trackId": "0aYUqsvZG7bAslrUkd9Z0g",
+      "total": 67035644,
+      "daily": 19779
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Haunted",
+      "trackId": "6Z77oDcn6iI1MHFCBPjl24",
+      "total": 56534201,
+      "daily": 35464
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Sweet Sacrifice",
+      "trackId": "7hlXiMxN81uctLsvbtHZ8x",
+      "total": 50328294,
+      "daily": 30796
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "My Heart Is Broken",
+      "trackId": "1Ej0xptDBpBxUM1dIPcHlm",
+      "total": 49281412,
+      "daily": 34385
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Taking Over Me",
+      "trackId": "5j7gLuOsBOyqooruGxX4nx",
+      "total": 45371881,
+      "daily": 25514
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Imaginary",
+      "trackId": "7q6CybWAg3uYLgS5tDWqmd",
+      "total": 40907407,
+      "daily": 26098
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "My Last Breath",
+      "trackId": "2aUuMeSbt2aEv94MdG2BYS",
+      "total": 37644486,
+      "daily": 22125
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "What You Want",
+      "trackId": "0uOo8xRtQ6okTZMR89ppVk",
+      "total": 37484695,
+      "daily": 16326
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Whisper",
+      "trackId": "1TU3KOnNwSERgNbF2Yzl7N",
+      "total": 33014668,
+      "daily": 17266
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+      "trackId": "3GAqddcV0nwMHQI5RfMXoI",
+      "total": 31630116,
+      "daily": 207742
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Missing - Remastered 2023",
+      "trackId": "2V5R6eOtqJUXpfgkLKcMeG",
+      "total": 27014712,
+      "daily": 12358
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Wasted On You",
+      "trackId": "4aKT05gqcKBw2q6mnvzIzM",
+      "total": 24005049,
+      "daily": 8466
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Good Enough",
+      "trackId": "0eHxqgbpr2ptXQtw8Ab3ve",
+      "total": 23536088,
+      "daily": 4989
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Lost In Paradise",
+      "trackId": "7c8unZeNL9gI6Go9DgGYpb",
+      "total": 22595836,
+      "daily": 6939
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "All That I Am Living For",
+      "trackId": "4iDQezFTnOwgnrPYiqQ6TP",
+      "total": 21429831,
+      "daily": 10127
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Made Of Stone",
+      "trackId": "28FTCznKZRfYwJVA9OmPif",
+      "total": 20242936,
+      "daily": 7090
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Weight Of The World",
+      "trackId": "1UfCIFhRr8Bci9LUJ68dvp",
+      "total": 20072585,
+      "daily": 9596
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "The Change",
+      "trackId": "03cH7hozNkNX8qWi8xbkUA",
+      "total": 19257879,
+      "daily": 8134
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Better Without You",
+      "trackId": "11yL2znOQCOSNqiS7Sw6K1",
+      "total": 17548135,
+      "daily": 6580
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Breathe No More - Remastered 2023",
+      "trackId": "5CwrCLwD5GRw0PsE3Si00Z",
+      "total": 17514869,
+      "daily": 5106
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Lacrymosa",
+      "trackId": "1M8YN6ekSgCnjc5UckHYpq",
+      "total": 15889031,
+      "daily": 10130
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "The Game Is Over",
+      "trackId": "1IjNTBTAFtqRZHvrezeG1n",
+      "total": 15636170,
+      "daily": 4863
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Disappear",
+      "trackId": "0TVPq3QIYUYaD2LytckdPD",
+      "total": 15507803,
+      "daily": 6013
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "My Immortal - Live From Le Zénith,France/2004",
+      "trackId": "0umOKmb2xrgD9yutQHbCXz",
+      "total": 15183317,
+      "daily": 4329
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Erase This",
+      "trackId": "7xiZGclYWXgBpFjmr3ziMz",
+      "total": 14428017,
+      "daily": 2838
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "The Other Side",
+      "trackId": "5VLfWwZvV9zk368UJQEyyB",
+      "total": 13836129,
+      "daily": 3570
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Bring Me To Life - Live From Le Zénith,France/2004",
+      "trackId": "1AjCrY9w0edn2jAGEAkzJ7",
+      "total": 13836062,
+      "daily": 4148
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Imperfection",
+      "trackId": "0TXI0l6soKX2UhB4bA69ts",
+      "total": 13745111,
+      "daily": 2733
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Use My Voice",
+      "trackId": "1Buo891X2sWO0mFEr0VAmm",
+      "total": 13553217,
+      "daily": 4223
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "A New Way To Bleed",
+      "trackId": "3UkDyGtriDY7NzOJbF0rIH",
+      "total": 12694185,
+      "daily": 4467
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Broken Pieces Shine",
+      "trackId": "6LmgYdsFplTB7GEuqYqTVF",
+      "total": 12349802,
+      "daily": 4837
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Cloud Nine",
+      "trackId": "6Sh05fnlrLbMfSuI8Qur6a",
+      "total": 11659175,
+      "daily": 5338
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Snow White Queen",
+      "trackId": "7uCzFZHGoVPlINC4fR24gV",
+      "total": 11628422,
+      "daily": 5821
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Oceans",
+      "trackId": "5NvEXCtdAv5M0FFyBrGKN5",
+      "total": 11404529,
+      "daily": 2582
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Farther Away",
+      "trackId": "63Yk0ZcjJSv37O8Vy7PFZi",
+      "total": 11395802,
+      "daily": 5091
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Even In Death - 2016 Version",
+      "trackId": "4VO8CRItRuli3cnQLBDpvv",
+      "total": 11094862,
+      "daily": 2898
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Sick",
+      "trackId": "3ml4u4tmryJO9a68Rc7d8O",
+      "total": 10865327,
+      "daily": 1954
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Like You",
+      "trackId": "21ceHLJfgyO9703AlzM4DU",
+      "total": 10626220,
+      "daily": 3954
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Together Again",
+      "trackId": "4J0TPFdHcy2z4u3myLlGXe",
+      "total": 10528751,
+      "daily": 2663
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "The Only One",
+      "trackId": "2LlCbNQnkIRIc2ssMgUZsV",
+      "total": 10296376,
+      "daily": 4055
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Never Go Back",
+      "trackId": "7JvgVroed54mbInU2nAq0C",
+      "total": 10144350,
+      "daily": 948
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Say You Will",
+      "trackId": "4cfoU2UXXsbES5qwvdLHCO",
+      "total": 10062654,
+      "daily": 2990
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "The End Of The Dream",
+      "trackId": "39UzUACTcDknfjc7umPcuM",
+      "total": 9946467,
+      "daily": 4455
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Lose Control",
+      "trackId": "3DxKCst1JPt8qw7soauFXc",
+      "total": 9881962,
+      "daily": 3548
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "The Last Song I'm Wasting on You",
+      "trackId": "0BeBYa53MXh2aQmzc64BHd",
+      "total": 9699929,
+      "daily": 2387
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Yeah Right",
+      "trackId": "3dLSEH3LqTsCcBFMzsE0Er",
+      "total": 9497146,
+      "daily": 2352
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Swimming Home",
+      "trackId": "6d8ta9H6DvgOqfwxQYqJsV",
+      "total": 9204731,
+      "daily": 1383
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Thoughtless - Live From Le Zénith,France/2004",
+      "trackId": "3FJQNtWFNNUlF2pi3razfk",
+      "total": 9133212,
+      "daily": 2684
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "The Chain - From Gears 5",
+      "trackId": "3JS7A7coXnTpHt8HP6s36B",
+      "total": 9085315,
+      "daily": 3550
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Hi-Lo",
+      "trackId": "6j5O8vdiIn51NryLXKnovb",
+      "total": 8844961,
+      "daily": 1173
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Lacrymosa",
+      "trackId": "5mvJr9lx8IboetJSkAUnqo",
+      "total": 8773705,
+      "daily": 1067
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Never Go Back",
+      "trackId": "5JcSPtJJev0wWbFfOsEVjy",
+      "total": 8764763,
+      "daily": 2189
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Hi-Lo - feat. Lindsey Stirling",
+      "trackId": "6gWf8DlEgGSDChgrzOCfni",
+      "total": 8663548,
+      "daily": 2083
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "My Heart Is Broken",
+      "trackId": "68sdx4pmpjQK9Qet1bpoZL",
+      "total": 8584902,
+      "daily": 946
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Your Star",
+      "trackId": "3m8zVJ3n1mWv1SfovpmKHr",
+      "total": 8573809,
+      "daily": 2788
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Secret Door",
+      "trackId": "1ium9V09FUQ32Co0D3B6Dz",
+      "total": 8454138,
+      "daily": 2493
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Bring Me To Life (Synthesis)",
+      "trackId": "1qbW0aSwFjMi8t6rZUiGuk",
+      "total": 7609073,
+      "daily": 1296
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Part Of Me",
+      "trackId": "74TiAd5cXM1vW5H7rCFBBI",
+      "total": 6459152,
+      "daily": 3170
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "The End Of The Dream",
+      "trackId": "1wLvEVgsPF2nfieTdUCkjJ",
+      "total": 6328917,
+      "daily": 819
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "My Immortal",
+      "trackId": "37zjnIFF6vN03MedIbSGY3",
+      "total": 5823313,
+      "daily": 2917
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Overture",
+      "trackId": "4Kmipg6Y3gfA5UIS8MVUt9",
+      "total": 5748707,
+      "daily": 451
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "If You Don’t Mind",
+      "trackId": "5XFvhTjWWDttRY2pi4SIwx",
+      "total": 5141873,
+      "daily": 1972
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Feeding The Dark",
+      "trackId": "7u5FMOWNZoFlPL6baB8af3",
+      "total": 4954662,
+      "daily": 1646
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Across The Universe",
+      "trackId": "75Ov0ZIMoV0HuRwaPQsicp",
+      "total": 4556579,
+      "daily": 1773
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Artifact/The Turn",
+      "trackId": "1TecB6nfoYEbrKgVWFovCL",
+      "total": 4483403,
+      "daily": 1116
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Far From Heaven",
+      "trackId": "37GrGeCFzghn74xAOyG9L4",
+      "total": 4331611,
+      "daily": 1260
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Take Cover",
+      "trackId": "7wyKAPExoWJKQEGoommTp4",
+      "total": 4286132,
+      "daily": 1206
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Lithium",
+      "trackId": "4ipefg1PIlub4megIQl2IV",
+      "total": 4085119,
+      "daily": 726
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Blind Belief",
+      "trackId": "34UzwrL28Nvkw0jDyEXaLE",
+      "total": 3676567,
+      "daily": 1113
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Imaginary",
+      "trackId": "2ALrTjrnYgLiQunR0b3S1O",
+      "total": 3600026,
+      "daily": 583
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Going Under - Live From Le Zénith,France/2004",
+      "trackId": "3zOJLR1Y7vhdoC9GdQZSkC",
+      "total": 3350434,
+      "daily": 858
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Lost In Paradise",
+      "trackId": "5YuVC8gVCzzN4Hm128xkHw",
+      "total": 3312557,
+      "daily": 534
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Unraveling (Interlude)",
+      "trackId": "2wbviHiajoKyyfjmogQL8y",
+      "total": 3244524,
+      "daily": 393
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Haunted - Live From Le Zénith,France/2004",
+      "trackId": "4CJGuGDU0Uf3Z9amdY5bji",
+      "total": 2953190,
+      "daily": 1384
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Breathe No More - Live From Le Zénith,France/2004",
+      "trackId": "2zn4moJkEmIVfV83iye9t5",
+      "total": 2864640,
+      "daily": 588
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Secret Door",
+      "trackId": "7Igrm0NgW35XWKIE1A67hw",
+      "total": 2858508,
+      "daily": 440
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Everybody's Fool - Live From Le Zénith,France/2004",
+      "trackId": "49JdsVsUblQxCuw6iov2Op",
+      "total": 2585809,
+      "daily": 525
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Your Star",
+      "trackId": "0FWD5RhXGQaDOPN8C2qBCd",
+      "total": 2552376,
+      "daily": 435
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Taking Over Me - Live From Le Zénith,France/2004",
+      "trackId": "75TjR409MNOJDUT0R80Lyw",
+      "total": 2451633,
+      "daily": 1142
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Farther Away - Live From Le Zénith,France/2004",
+      "trackId": "74zhOvR4FthxQgFeRP0bVF",
+      "total": 2411744,
+      "daily": 532
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Tourniquet - Live From Le Zénith,France/2004",
+      "trackId": "2IR6jzSjOjp8X3Ib4SYDI8",
+      "total": 2387902,
+      "daily": 554
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "My Last Breath - Live From Le Zénith,France/2004",
+      "trackId": "0kOMliPZUwL4GEAaSdr0j2",
+      "total": 2188926,
+      "daily": 450
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Bring Me To Life - Demo / Remastered 2023",
+      "trackId": "3bkobLllL6xTQGXEObVtzB",
+      "total": 2160590,
+      "daily": 2976
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "The In-Between (Piano Solo)",
+      "trackId": "4LRUhCDH5tQAvXE6LCPQFE",
+      "total": 2144132,
+      "daily": 333
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Imaginary - Live From Le Zénith,France/2004",
+      "trackId": "0GCjCEPkEuuzFn3izkuONK",
+      "total": 1851837,
+      "daily": 365
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Whisper - Live From Le Zénith,France/2004",
+      "trackId": "5xnziMgEllaD1ms67miiTj",
+      "total": 1812698,
+      "daily": 380
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "The Reckoning - Live in Amsterdam",
+      "trackId": "2DD2UFduTpt2vq8WefvFtp",
+      "total": 1411798,
+      "daily": 931
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Bring Me To Life - Live",
+      "trackId": "5UVgmg8gDvEywLutkmSKmb",
+      "total": 1405652,
+      "daily": 379
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "My Immortal - Live",
+      "trackId": "6sUrYgkdlwYxo10InKnrvV",
+      "total": 1313550,
+      "daily": 446
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Overture / Never Go Back - Live",
+      "trackId": "5MCT0tTHq1XivHQiU08Bk3",
+      "total": 1313234,
+      "daily": 274
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Lacrymosa - Live",
+      "trackId": "2Syw9xFyeOecbmUC53xWPy",
+      "total": 1265761,
+      "daily": 260
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Lithium - Live",
+      "trackId": "6txKSPswdPfIY5ucF8mGuG",
+      "total": 1204702,
+      "daily": 285
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Lost Whispers - Intro",
+      "trackId": "651g6g8RLhF5dN7lyb9f5N",
+      "total": 1174501,
+      "daily": 555
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Fight Like A Girl - feat. K.Flay",
+      "trackId": "6TUYOU8S2s5l8zgdHeVsjZ",
+      "total": 1143296,
+      "daily": 54865
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "My Heart Is Broken - Live",
+      "trackId": "2J6zmRvPzkSkzxVxuhbJJX",
+      "total": 1067145,
+      "daily": 264
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "End of the Dream - Live",
+      "trackId": "4Ok2oXmTeqiyVen1NEwzxF",
+      "total": 1018804,
+      "daily": 276
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Unraveling / Imaginary - Live",
+      "trackId": "74lvz7bG9EtP4wo5izWPja",
+      "total": 871389,
+      "daily": 216
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Going Under - Live Acoustic / 2003 / Remastered",
+      "trackId": "2FrSEN6oWjmtv3u1B32IOH",
+      "total": 854871,
+      "daily": 692
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Hi-Lo - Live",
+      "trackId": "5POPbzLpLrVyhfGIpN5Ty2",
+      "total": 755045,
+      "daily": 198
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Lost In Paradise - Live",
+      "trackId": "5ghbYuAmc54cSAEI8UjN29",
+      "total": 751622,
+      "daily": 185
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "My Immortal - Live At O2 Arena / 2022 / Remastered 2023",
+      "trackId": "6elo71dBBKbGFIRG7afV5j",
+      "total": 745109,
+      "daily": 585
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Secret Door - Live",
+      "trackId": "3RAdVNlWu0gvOLXZcF1Adn",
+      "total": 703160,
+      "daily": 161
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "The Inbetween / Imperfection - Live",
+      "trackId": "3Fa8PpjMGKzfweELAFM9yK",
+      "total": 652677,
+      "daily": 151
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Your Star - Live",
+      "trackId": "0h7j3AK5ABp46qMalABiG0",
+      "total": 642540,
+      "daily": 157
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Speak To Me - Live",
+      "trackId": "2tDTX9BAAlGXJOLOq0spdd",
+      "total": 626760,
+      "daily": 179
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Good Enough - Live",
+      "trackId": "6NJsIVggxQhbDaKNxhvMbL",
+      "total": 612867,
+      "daily": 176
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Farther Away - Remastered 2023",
+      "trackId": "5Bj502s50MDjeizj80IoTJ",
+      "total": 597996,
+      "daily": 931
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "My Immortal - Strings Version / Remastered 2023",
+      "trackId": "4AuTOA3kjmi5aoZ1EGp3Pf",
+      "total": 536478,
+      "daily": 1240
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Bring Me To Life - Live On Triple M’s Garage Session / 2020 / Remastered 2023",
+      "trackId": "558sFNXvHZWWOzbsDaeak2",
+      "total": 518741,
+      "daily": 435
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Swimming Home - Live",
+      "trackId": "70m7Ns7oTZA7eupvIhZZbR",
+      "total": 511175,
+      "daily": 120
+    },
+    {
+      "artist": "Evanescence",
+      "artistId": "5nGIFgo0shDenQYSE0Sn7c",
+      "trackName": "Bring Me To Life - AOL Session / 2003 / Remastered",
+      "trackId": "1ncS7joQbULgpQwLSjDXz0",
+      "total": 350967,
+      "daily": 571
+    }
+  ]
+}

@@ -1,0 +1,958 @@
+{
+  "artist": "AJR",
+  "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+  "songs": [
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Weak",
+      "trackId": "6gYFZNfxs78VzKeMKD6pyb",
+      "total": 722234766,
+      "daily": 99501
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Bang!",
+      "trackId": "0Nq4vEe5Thtr8r9hcltr0P",
+      "total": 494641767,
+      "daily": 199057
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Burn The House Down",
+      "trackId": "6pY3Fim2P2rJ7FBB4LxdH3",
+      "total": 437493613,
+      "daily": 139067
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "World's Smallest Violin",
+      "trackId": "2NID4bhjG0vquTok9fl305",
+      "total": 402478458,
+      "daily": 146331
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Sober Up (feat. Rivers Cuomo)",
+      "trackId": "44IqnfvbDJ8Rh6JJ22WzfE",
+      "total": 268121871,
+      "daily": 57495
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "100 Bad Days",
+      "trackId": "4rnyUV17cSZGsz18xJNdjL",
+      "total": 258576652,
+      "daily": 71837
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Way Less Sad",
+      "trackId": "0ZUWDeD10tcDLd1JNclrFu",
+      "total": 162789404,
+      "daily": 62036
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "The Good Part",
+      "trackId": "5VvM9BtbC8ngUOXuUsL80C",
+      "total": 156573904,
+      "daily": 59838
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "I'm Ready",
+      "trackId": "2dgFqylK6gyILa4HY65u0y",
+      "total": 147015279,
+      "daily": 19056
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Karma",
+      "trackId": "2skZSmKuBgg37tMT2JnZUn",
+      "total": 103763755,
+      "daily": 37232
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Record Player",
+      "trackId": "7Gk8IPlFTLUcoIH3mtASI0",
+      "total": 93501675,
+      "daily": 46133
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Come Hang Out",
+      "trackId": "0NBvLYgCwWOnPCCVXuqpB0",
+      "total": 79400352,
+      "daily": 10782
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Yes I'm A Mess",
+      "trackId": "3LDNcikQd7Zui9gJCISTtR",
+      "total": 76932891,
+      "daily": 65465
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "I'm Not Famous",
+      "trackId": "5z9wzbIAEOxBv1zMRYRDda",
+      "total": 75004689,
+      "daily": 8959
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Let the Games Begin",
+      "trackId": "2pwnEzgIzYL4AOw4ousjkB",
+      "total": 73059554,
+      "daily": 7153
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Netflix Trip",
+      "trackId": "7JOd62DwkoIQIJ84TwVR9z",
+      "total": 67548591,
+      "daily": 6631
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Bummerland",
+      "trackId": "2RBM9h0L60ORcaJeGrCRhE",
+      "total": 67086750,
+      "daily": 15650
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Drama",
+      "trackId": "1uMVsjFSLWhmEbSbLEGqao",
+      "total": 64349098,
+      "daily": 7405
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Pretender (feat. Lil Yachty & AJR)",
+      "trackId": "0ftAX4mbuRx6Wr6PvpAIZs",
+      "total": 64079277,
+      "daily": 5704
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "3 O'Clock Things",
+      "trackId": "4h36rJOr6nWywaVX4rWSdV",
+      "total": 58062191,
+      "daily": 25223
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Location - Recorded at Spotify Studios NYC",
+      "trackId": "2mKvT6ktC8tQbaKOHUKU6X",
+      "total": 57306860,
+      "daily": 3824
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Don't Throw Out My Legos",
+      "trackId": "7yGJv1fWbUR2zRiYiDGAWu",
+      "total": 51663656,
+      "daily": 13898
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Turning Out",
+      "trackId": "57HI3eDtLqMwqKUmHk01fU",
+      "total": 50903205,
+      "daily": 9163
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "I Won't",
+      "trackId": "4kqjTJRgfWYREDOtIxLkLC",
+      "total": 47556691,
+      "daily": 17030
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Birthday Party",
+      "trackId": "01zWTQLmP8nh01IRry09Vn",
+      "total": 43855513,
+      "daily": 9031
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "All My Favorite Songs (feat. AJR)",
+      "trackId": "3A6nR4GSolo160nu7xtDk7",
+      "total": 41554555,
+      "daily": 20848
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Dear Winter",
+      "trackId": "4THdB6lEM07PWcxvneI54J",
+      "total": 39732591,
+      "daily": 4903
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "The Lotto",
+      "trackId": "4NxUuupOGPquDhy1yFIZK3",
+      "total": 39027728,
+      "daily": 9259
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "No Grass Today",
+      "trackId": "1d1RIMD0CsQ2oDuvQgTDrl",
+      "total": 38093683,
+      "daily": 5611
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Break My Face",
+      "trackId": "4PXfhhVKlaHDZCfXRO0R1Y",
+      "total": 37686804,
+      "daily": 7579
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Overture",
+      "trackId": "2YYBFV4NfwsKNOSWK5BD91",
+      "total": 34490517,
+      "daily": 4942
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Inertia",
+      "trackId": "2IA1ctUxjk865QW3CpIuZk",
+      "total": 33929542,
+      "daily": 27763
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Pretender - Acoustic",
+      "trackId": "31wwI3c0l3nL9BbN6CstoE",
+      "total": 33447930,
+      "daily": 5709
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Weak - Nicolas Julian Remix",
+      "trackId": "2HvoPXahbOrkzqDSkl8hkg",
+      "total": 32801324,
+      "daily": 13592
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Three-Thirty",
+      "trackId": "5gdeuEekLBaDFJYGa81gY9",
+      "total": 30694003,
+      "daily": 4652
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "The DJ is Crying for Help",
+      "trackId": "07gQSDcN9CWD64CsfQ53DT",
+      "total": 30274795,
+      "daily": 10244
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "It's On Us (Benefiting the \"It's On Us\" Campaign)",
+      "trackId": "2AVZJ4u8JOhcYBX5yHGdrX",
+      "total": 30261115,
+      "daily": 3230
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Wow, I'm Not Crazy",
+      "trackId": "14xbykyRq3TEr7KthSDo86",
+      "total": 30069107,
+      "daily": 7426
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Bud Like You",
+      "trackId": "4ZOIqCUOk108qKICmQkPCm",
+      "total": 29600533,
+      "daily": 4139
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Ordinaryish People (feat. Blue Man Group)",
+      "trackId": "4vqfJIfM0EbmC3FoWlrhwz",
+      "total": 26695823,
+      "daily": 10970
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - AJR Remix",
+      "trackId": "4DMvvYvDNiEv2QUciZCyp7",
+      "total": 26180356,
+      "daily": 10382
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Next Up Forever",
+      "trackId": "3tYQjgsHaqDZ4S8X02NM5Q",
+      "total": 25768059,
+      "daily": 5120
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "The Dumb Song",
+      "trackId": "5tghCofVIlv3FRf8plpCLi",
+      "total": 25191431,
+      "daily": 10661
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Maybe Man",
+      "trackId": "7fhiGdj0nn0ZCmIAocG8G0",
+      "total": 23709641,
+      "daily": 19869
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "The Entertainment's Here",
+      "trackId": "39SSfgvP13BZoHGqbt15Jj",
+      "total": 23490189,
+      "daily": 4158
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Too Late (with AJR)",
+      "trackId": "2cuxBtEKyElX11yFqPzrxm",
+      "total": 23485746,
+      "daily": 12436
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Touchy Feely Fool",
+      "trackId": "3PY47EpOouHdbDI4z5jw3v",
+      "total": 22251210,
+      "daily": 15732
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Pitchfork Kids",
+      "trackId": "1ZzehTXQaSjL0okOGJBVPB",
+      "total": 22031357,
+      "daily": 4368
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Finale (Can't Wait To See What You Do Next)",
+      "trackId": "21kzYL070ccuYbM9tBfpP4",
+      "total": 21524955,
+      "daily": 4768
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "My Play",
+      "trackId": "3qKbdaaKLpfhq16D3F9C5Z",
+      "total": 21361134,
+      "daily": 4333
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Infinity",
+      "trackId": "3i78lP1Y35m6Idgnbw9Fow",
+      "total": 20206499,
+      "daily": 3886
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "OK Overture",
+      "trackId": "0yaF0GUwSu1pamJODLEF5j",
+      "total": 19293795,
+      "daily": 4911
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Humpty Dumpty",
+      "trackId": "7u4Qtg8PPLFyGpTz7Pnduk",
+      "total": 18929924,
+      "daily": 5992
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Turning Out Pt. II",
+      "trackId": "32Et6HCr6YD5spn568tQ5w",
+      "total": 17444360,
+      "daily": 3508
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Call My Dad",
+      "trackId": "1FbwibHQqiETyfZlRZd6ki",
+      "total": 16845736,
+      "daily": 1891
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Role Models",
+      "trackId": "4oxT10yuBDNSTn0fn37BZC",
+      "total": 16786569,
+      "daily": 3222
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Christmas in June",
+      "trackId": "4Sy8C2ZuXXAFbte34crUUF",
+      "total": 16786300,
+      "daily": 4442
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Growing Old on Bleecker Street",
+      "trackId": "3n622hniaMFIJ6Dbf6B1WS",
+      "total": 16615366,
+      "daily": 2740
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Adventure Is Out There",
+      "trackId": "2bBKeERdd5SGGcjhXvWuOw",
+      "total": 16262812,
+      "daily": 6418
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Steve’s Going to London",
+      "trackId": "5d355Q3oJW89fOLwJbpWVE",
+      "total": 15876981,
+      "daily": 14341
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "My Calling",
+      "trackId": "2z00vFwIe6zaCoA0LWmiTX",
+      "total": 15236470,
+      "daily": 2523
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Beats",
+      "trackId": "66ORzYtRmJ3QWk1mHC2aNJ",
+      "total": 15055866,
+      "daily": 2592
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Joe",
+      "trackId": "3Q1beNhf9OeruJZ704wvI7",
+      "total": 14861997,
+      "daily": 4033
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "AfterHours",
+      "trackId": "4LimlSNYAlc5TMCi32Yuy8",
+      "total": 12576944,
+      "daily": 2067
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "The Trick",
+      "trackId": "1hSXuI0FYA1UeH5IGQBeZs",
+      "total": 12476040,
+      "daily": 3000
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Thirsty",
+      "trackId": "0iQJLCJyv6TTPUP4u4y8DJ",
+      "total": 11876365,
+      "daily": 1388
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "2085",
+      "trackId": "5WHwVdTQNWdI8MdLCaibgH",
+      "total": 11407405,
+      "daily": 9159
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Normal",
+      "trackId": "07HNuIWyLQqNlwYrtNyD7Q",
+      "total": 11250798,
+      "daily": 1444
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Celebrate",
+      "trackId": "0vIMhTkArAgsfwVkMUoduQ",
+      "total": 11099690,
+      "daily": 3610
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Buy You a Rose",
+      "trackId": "3tiAuap6wM3Lj5eWydhCHd",
+      "total": 10864304,
+      "daily": 922
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Woody Allen",
+      "trackId": "1ItUZ6gWLOHCpVrpLZRZ52",
+      "total": 10489066,
+      "daily": 971
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "God is Really Real",
+      "trackId": "6BJLz33cznDXMrxOpUdKLH",
+      "total": 9868825,
+      "daily": 4993
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Hole in the Bottom of My Brain",
+      "trackId": "3YQlGFWZGltxXw7hsKxz8C",
+      "total": 9570922,
+      "daily": 5792
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Turning Out Pt. iii",
+      "trackId": "4fZhPxMRd0mJ1THMdsyGHX",
+      "total": 8780663,
+      "daily": 5926
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Dear Winter 2.0",
+      "trackId": "11JCEtI0lv6PLQhgeOvmYu",
+      "total": 8759739,
+      "daily": 1070
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Livin' on Love",
+      "trackId": "3hbZLbum75zWMZyR8K8tDd",
+      "total": 6870059,
+      "daily": 1149
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Alice by the Hudson",
+      "trackId": "7oel0inIAKOm82HnsKZHNu",
+      "total": 6827375,
+      "daily": 697
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Weak - Cheat Codes Remix",
+      "trackId": "4Ks0RVgTFy5iZ4yDkSQQC2",
+      "total": 6140689,
+      "daily": 409
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "3AM",
+      "trackId": "3EkJj2KsKDbVCn0MfeSnoe",
+      "total": 6128527,
+      "daily": 599
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "The Green and the Town",
+      "trackId": "2oSCXi24mnHAegVedDkTW6",
+      "total": 5931761,
+      "daily": 998
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Inertia - Acoustic",
+      "trackId": "6Ea2uAyHX6Q8DnGKrMKHLq",
+      "total": 5860601,
+      "daily": 5630
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Bang! - feat. Hayley Kiyoko - AhhHaa Remix",
+      "trackId": "0BcNo7nVhSpwNPpuJ5lGoy",
+      "total": 5693990,
+      "daily": 821
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Weak (feat. Louisa Johnson) - Stay Strong Mix",
+      "trackId": "5suhGgGTQSbJMjinxW6GlT",
+      "total": 5585562,
+      "daily": 211
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Overture",
+      "trackId": "4frN6CneOJqtExR9LCf5oA",
+      "total": 5500876,
+      "daily": 881
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "The World Is a Marble Heart",
+      "trackId": "7dsa0xV5EcHDtcultAsGdb",
+      "total": 5283437,
+      "daily": 861
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Big Idea",
+      "trackId": "3QM2hhOJCvw7BquWa0n14Q",
+      "total": 5098775,
+      "daily": 807
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Big White Bed",
+      "trackId": "7fXQjSxPkC61wiJkO70gyD",
+      "total": 4766430,
+      "daily": 782
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "World's Smallest Violin - Sped Up",
+      "trackId": "3M7NJGGydi32HliU9CNojP",
+      "total": 4265558,
+      "daily": 1214
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Drama - Recorded at Spotify Studios NYC",
+      "trackId": "0O5M9CwSpYH0SfqGuwP9kO",
+      "total": 4052066,
+      "daily": 390
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Sober Up - Steve Aoki Remix",
+      "trackId": "0pnOKM1dvoQX4pfn9SuRUX",
+      "total": 3556981,
+      "daily": 322
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Way Less Sad - Cash Cash Remix",
+      "trackId": "02EAo9k8Hgp5a4yXExTAqu",
+      "total": 3191335,
+      "daily": 399
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Weak - Acoustic",
+      "trackId": "4SnbBuXGKFY4QrEStyUL5e",
+      "total": 2693775,
+      "daily": 384
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Weak - Mike D Remix",
+      "trackId": "2NneYrNG7yf05nHMW0DctF",
+      "total": 2029023,
+      "daily": 279
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Sober Up - Party Pupils Remix",
+      "trackId": "01sDLEmMGrKKGSe8btupc7",
+      "total": 1585515,
+      "daily": 223
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Pretender (feat. Lil Yachty & AJR) - Matoma Remix",
+      "trackId": "1ukhf6Pdoh7bqIKDzKciRs",
+      "total": 1457274,
+      "daily": 57
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Bang! - Remix",
+      "trackId": "5h2cL6ErJKHQmNavEy1jAx",
+      "total": 1095163,
+      "daily": 137
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Weak - Gazzo Remix",
+      "trackId": "4sUXcKWactkpx13nXEGMsM",
+      "total": 1085166,
+      "daily": 121
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Sober Up - Ryan Riback Remix",
+      "trackId": "79AoYJIIYXprftQCuPrBfZ",
+      "total": 999412,
+      "daily": 73
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "I'm Ready - Remix by AJR",
+      "trackId": "1qK7n2tHW3Lw0QDu66tzIs",
+      "total": 892487,
+      "daily": 68
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Overture - Track Commentary",
+      "trackId": "63vWIbGDWfq8KQI5elbvEs",
+      "total": 667901,
+      "daily": 32
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Weak - Party Pupils Remix",
+      "trackId": "1WuKBC9YUJXZh3DR5yN0k4",
+      "total": 626205,
+      "daily": 51
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "I'm Ready - Track Commentary",
+      "trackId": "5gbU0MnOepsKOsjARW86zu",
+      "total": 578582,
+      "daily": 27
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Infinity - Track Commentary",
+      "trackId": "6cIR4gFue0aC2CjieIVWOa",
+      "total": 558188,
+      "daily": 27
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "My Calling - Track Commentary",
+      "trackId": "7mqyVhUSyTBiUoJz3WkU5F",
+      "total": 539662,
+      "daily": 25
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Thirsty - Track Commentary",
+      "trackId": "7ckIn2nKZL8tj8txAKvz6w",
+      "total": 518076,
+      "daily": 24
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Woody Allen - Track Commentary",
+      "trackId": "2ym9SkJYJRjly62KlqWRtw",
+      "total": 502879,
+      "daily": 22
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Bang! - Nathan Dawe Remix",
+      "trackId": "3NVDeAITKiWEDDI5mfwjhI",
+      "total": 440990,
+      "daily": 58
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Weak - Mike Rizzo Remix",
+      "trackId": "1jO86S6dz6RsNdd8S2MuKx",
+      "total": 339043,
+      "daily": 33
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Come Hang Out - Live Session, Los Angeles, CA, 2017",
+      "trackId": "0hyG2PrJczULl263PRp7y4",
+      "total": 327196,
+      "daily": 88
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Livin' on Love - Track Commentary",
+      "trackId": "47xIB4SfWpj5OdjTGBpg88",
+      "total": 313151,
+      "daily": 21
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "I'm Not Famous - Live Session, Los Angeles, CA, 2017",
+      "trackId": "5lNtL9ONLNf5CDKDs07GFe",
+      "total": 282745,
+      "daily": 69
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "The World Is a Marble Heart - Track Commentary",
+      "trackId": "4iMJB9jHIqGxfbG8MlJKmA",
+      "total": 256853,
+      "daily": 20
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Pitchfork Kids - Track Commentary",
+      "trackId": "6JagPsHVPKE3DsT1N41CFE",
+      "total": 249219,
+      "daily": 24
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Big Idea - Track Commentary",
+      "trackId": "7DGzmoZowfE6FbgHmPp0Op",
+      "total": 248169,
+      "daily": 18
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Weak - Live Session, Los Angeles, CA, 2017",
+      "trackId": "5oZlLsU3vYc84EU1D64eLi",
+      "total": 245146,
+      "daily": 58
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Big White Bed - Track Commentary",
+      "trackId": "5oaCq7Ajox6FNlxBYlmttI",
+      "total": 228504,
+      "daily": 23
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Growing Old on Bleecker Street - Track Commentary",
+      "trackId": "4fe6cf6zFIHOHXacpyzdC8",
+      "total": 224777,
+      "daily": 23
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "The Green and the Town - Track Commentary",
+      "trackId": "7suywf58Vp8OOFwJ3TkoTi",
+      "total": 217787,
+      "daily": 23
+    },
+    {
+      "artist": "AJR",
+      "artistId": "6s22t5Y3prQHyaHWUN1R1C",
+      "trackName": "Bang! - Acoustic",
+      "trackId": "3GgOfbqyLG6TsT2a9FfbRU",
+      "total": 217453,
+      "daily": 156
+    }
+  ]
+}

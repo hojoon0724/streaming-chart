@@ -1,0 +1,934 @@
+{
+  "artist": "ZAYN",
+  "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+  "songs": [
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Dusk Till Dawn (feat. Sia) - Radio Edit",
+      "trackId": "3e7sxremeOE3wTySiOhGiP",
+      "total": 1995455762,
+      "daily": 699112
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+      "trackId": "55n9yjI6qqXh5F2mYvUc2y",
+      "total": 1911656477,
+      "daily": 712185
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "PILLOWTALK",
+      "trackId": "0PDUDa38GO8lMxLCRc4lL1",
+      "total": 1535631495,
+      "daily": 499749
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Trampoline (with ZAYN)",
+      "trackId": "2ez6qvOTHKeI3ss80NGqnI",
+      "total": 575019575,
+      "daily": 88176
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "A Whole New World (End Title) - From \"Aladdin\"",
+      "trackId": "1iWHabUgUuuKLBa0TzTHfk",
+      "total": 365953303,
+      "daily": 64507
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Let Me",
+      "trackId": "2cEmWBBlCfR9wWrY9JmTyt",
+      "total": 339895316,
+      "daily": 62718
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Still Got Time (feat. PARTYNEXTDOOR)",
+      "trackId": "75xAS5ctghhPaL7BJi34hi",
+      "total": 298746800,
+      "daily": 18084
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "LIKE I WOULD",
+      "trackId": "1zWMf9bVyhY5W3ZORbjNWt",
+      "total": 281362332,
+      "daily": 26558
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "fOoL fOr YoU",
+      "trackId": "6lvsJDZ7336YmpBzcNGhbe",
+      "total": 253881466,
+      "daily": 34111
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Entertainer",
+      "trackId": "4By48hpAtUx7F7F1yxvwvm",
+      "total": 210870702,
+      "daily": 34360
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "There You Are",
+      "trackId": "5y4XJ9UFS5eOdoYPF5pSAE",
+      "total": 194096117,
+      "daily": 30218
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Better",
+      "trackId": "5CBnWXD8M7e8Q6WubFLtXy",
+      "total": 170208298,
+      "daily": 18696
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Vibez",
+      "trackId": "6T6D9CIrHkALcHPafDFA6L",
+      "total": 165802715,
+      "daily": 22303
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Good Years",
+      "trackId": "6CJLdpuz4utMTypcE8kUG3",
+      "total": 159973008,
+      "daily": 11867
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "wRoNg (feat. Kehlani)",
+      "trackId": "7iCeaYJSEdGWeFNTAEqUzJ",
+      "total": 157681149,
+      "daily": 29895
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "TiO",
+      "trackId": "7jKdgYPDj6AxVU2wk9muN1",
+      "total": 144205393,
+      "daily": 41831
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Cruel (feat. ZAYN)",
+      "trackId": "0B2RttXEiyXsMeQ7mMP3EI",
+      "total": 128363516,
+      "daily": 9717
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "iT's YoU",
+      "trackId": "6dtWKqqdveI3YvdYJQKWWn",
+      "total": 120287873,
+      "daily": 15384
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Flames (with ZAYN)",
+      "trackId": "54P9N8frbpn4TcOn0BYEhX",
+      "total": 106091039,
+      "daily": 9713
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Sweat",
+      "trackId": "6ZHRi0QxzSnlevyhyNkj4a",
+      "total": 90822518,
+      "daily": 41716
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "BeFoUr",
+      "trackId": "7ofgPlilLgcw6G7fd2zNpT",
+      "total": 86571474,
+      "daily": 11873
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Back To Sleep REMIX (feat. Usher & ZAYN)",
+      "trackId": "4wM4c5ly3GR4YYgWSePlSG",
+      "total": 76915869,
+      "daily": 10399
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "sHe",
+      "trackId": "48qaQk75LoWs5qgsZgbkA5",
+      "total": 71154529,
+      "daily": 9159
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Fingers",
+      "trackId": "4N5BmGwRTQA27DRRfwMr8l",
+      "total": 70841791,
+      "daily": 4966
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Too Much (feat. Timbaland)",
+      "trackId": "2bkNIMseHRfLidQqpXGsBx",
+      "total": 70041964,
+      "daily": 5753
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Love Like This",
+      "trackId": "3P9pRL7V9yM9DhY6NGZjzA",
+      "total": 69872085,
+      "daily": 22683
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "dRuNk",
+      "trackId": "0TC3wZupelwzKhuueGSGZu",
+      "total": 68111037,
+      "daily": 13781
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "BoRdErSz",
+      "trackId": "3MpdgSxThlICp5LSsZejGf",
+      "total": 64604799,
+      "daily": 17592
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Dusk Till Dawn (feat. Sia) - Brooks Remix",
+      "trackId": "799ZJmqIOCy589IzlTZ0Wy",
+      "total": 58883173,
+      "daily": 4464
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "rEaR vIeW",
+      "trackId": "6LWS6iYUZKYHNl2VwNytpo",
+      "total": 54720860,
+      "daily": 8013
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "No Candle No Light (feat. Nicki Minaj)",
+      "trackId": "5tH8UbEHc3seBxOlnzvoAs",
+      "total": 51494544,
+      "daily": 4401
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Tightrope",
+      "trackId": "44ngiCPfS8FfdJOqN0eULl",
+      "total": 50238786,
+      "daily": 10686
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Rumors (feat. ZAYN)",
+      "trackId": "6XjNLIoUiU2XKdbNp7PvHl",
+      "total": 47619513,
+      "daily": 12257
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Rainberry",
+      "trackId": "0wfpSAloBATpRUtSxL1fXw",
+      "total": 47376235,
+      "daily": 4683
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Common",
+      "trackId": "6Qwb3ydNyVsaL7yqHEmkA8",
+      "total": 45697884,
+      "daily": 8372
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Back To Life",
+      "trackId": "29G6ZIbACs5om1EEe9Hyon",
+      "total": 37935550,
+      "daily": 11711
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Outside",
+      "trackId": "6f8cT6qJ1KqqVXjx0xRJBt",
+      "total": 32033779,
+      "daily": 7202
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Sour Diesel",
+      "trackId": "3r7bVFHopFj2g8U4yKEpGJ",
+      "total": 32002944,
+      "daily": 4154
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "lUcOzAdE",
+      "trackId": "26PFSyfXPYz6NcWbtM5Cst",
+      "total": 31833180,
+      "daily": 3848
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "SHE DON'T LOVE ME",
+      "trackId": "4MaOXwqSgiwgngbeYePmu8",
+      "total": 31701749,
+      "daily": 4214
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Stardust",
+      "trackId": "4266h07udCdZ83jswW10IG",
+      "total": 31557148,
+      "daily": 32459
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "To Begin Again",
+      "trackId": "1iJBSr7s7jYXzM8EGcbK5b",
+      "total": 30418350,
+      "daily": 5400
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "What I Am",
+      "trackId": "7xUqG3PXz7i8soy6tiWG66",
+      "total": 29810898,
+      "daily": 17853
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "BLUE",
+      "trackId": "1LLIkqUK19oJXHozT5PJ3B",
+      "total": 29039574,
+      "daily": 3413
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "BRIGHT",
+      "trackId": "1V7dfxBuI7pOysGAKm6w3S",
+      "total": 28896970,
+      "daily": 3418
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "PILLOWTALK - the living room session",
+      "trackId": "3DlqR22Nd1VI4443Rr0IwF",
+      "total": 27149320,
+      "daily": 850
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Tonight",
+      "trackId": "0Zs2AgKKvGcQ55ciaAgJd2",
+      "total": 26866575,
+      "daily": 6242
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "tRuTh",
+      "trackId": "7xJzcq1r4F1ryMujB1Caqq",
+      "total": 26608651,
+      "daily": 3302
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "MiNd Of MiNdd (Intro)",
+      "trackId": "2cvFLZPAQoGeQnIRPt2LHE",
+      "total": 25094452,
+      "daily": 2864
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Dusk Till Dawn (feat. Sia) - John \"J-C\" Carr Mix",
+      "trackId": "6kQzmbSkHGexuwD9D3zNom",
+      "total": 24728622,
+      "daily": 797
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Flight Of The Stars",
+      "trackId": "5UOZJblo5RtWk1DO7kd3sw",
+      "total": 24429791,
+      "daily": 5680
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Natural",
+      "trackId": "7HLMryHxM6b8D9ki0BH799",
+      "total": 24345526,
+      "daily": 4699
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "INTERMISSION: fLoWer",
+      "trackId": "6dq1fUiJe6BiBORZtb9TxZ",
+      "total": 22725121,
+      "daily": 2457
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Alienated",
+      "trackId": "1Isqglgzts5NmJVO8XuNT8",
+      "total": 22662236,
+      "daily": 18600
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Connexion",
+      "trackId": "5euRP53moGQyGCsq8aNjvo",
+      "total": 22315014,
+      "daily": 2964
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "When Love's Around (feat. Syd)",
+      "trackId": "6bL1Rqcx1RXG6VsMmrYN8F",
+      "total": 21366493,
+      "daily": 3828
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Unfuckwitable",
+      "trackId": "0PuQItGL0eIngxLh2um4QE",
+      "total": 21182979,
+      "daily": 4852
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Calamity",
+      "trackId": "1hGHHKR7KFF2Wl78LBgKBz",
+      "total": 21095047,
+      "daily": 3010
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "River Road",
+      "trackId": "74clf1HmwcMA4bSV9sBG4S",
+      "total": 20842393,
+      "daily": 3685
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Tu hai kahan (feat. ZAYN)",
+      "trackId": "7K6RLbkpqZI4OaoSnLcBiU",
+      "total": 20202152,
+      "daily": 4770
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "I Don't Mind",
+      "trackId": "5lKSWvc8JvK4MY1lhkuJOU",
+      "total": 19940373,
+      "daily": 4185
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "PILLOWTALK REMIX (feat. Lil Wayne)",
+      "trackId": "7Kux9Q1ZYx1V1j3wre0aWk",
+      "total": 19844695,
+      "daily": 1322
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Talk To Me",
+      "trackId": "1bQygvXeuASMRSRnvn67rz",
+      "total": 19811627,
+      "daily": 3993
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Insomnia",
+      "trackId": "5r1iIgtgFpqnN4PHVrana7",
+      "total": 19329115,
+      "daily": 3883
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Un mundo ideal (Versión Créditos)",
+      "trackId": "5pGJgq1KxaRHEOZTD0egWL",
+      "total": 19311566,
+      "daily": 3041
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Windowsill (feat. Devlin)",
+      "trackId": "0AyXOhs2iZAS3sOJbi1Kvq",
+      "total": 19126061,
+      "daily": 3281
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "If I Got You",
+      "trackId": "7o8YNkjpf1sU39ycSz7LPR",
+      "total": 19000416,
+      "daily": 3845
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Imprint",
+      "trackId": "1qr80EzLu4KUAsQ8dUqHEz",
+      "total": 18962394,
+      "daily": 3618
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Satisfaction",
+      "trackId": "2CBQw0vCPn9lLRyWPyEHyk",
+      "total": 18300850,
+      "daily": 3160
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Scripted",
+      "trackId": "3jM4vdXoBfj625cifX4cwU",
+      "total": 17634704,
+      "daily": 4860
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "wHo",
+      "trackId": "4OQaDmEIluLDaX1C6qGMur",
+      "total": 16860828,
+      "daily": 1999
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Stand Still",
+      "trackId": "6Xml14gPg5eBaYV3P05huB",
+      "total": 16562091,
+      "daily": 2841
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "You Wish You Knew",
+      "trackId": "7gKUZ6eKBSK6OSNXfMrZm4",
+      "total": 14596056,
+      "daily": 2842
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "LIKE I WOULD - The White Panda Remix",
+      "trackId": "25gECGQmjt6VMMAuPekofa",
+      "total": 14476458,
+      "daily": 647
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "All That",
+      "trackId": "4y1pHOpS1nm80j4svUWbXP",
+      "total": 14204511,
+      "daily": 2617
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Freedun",
+      "trackId": "6AawG8z80kmCNAwQjsISI8",
+      "total": 12943270,
+      "daily": 989
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Icarus Interlude",
+      "trackId": "0VoTuqV45XImjA6XPGm6DB",
+      "total": 12889842,
+      "daily": 2358
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Good Guy",
+      "trackId": "2a8kWoRITJO751JGbYVvCo",
+      "total": 12613923,
+      "daily": 2333
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Dusk Till Dawn (feat. Sia) - Luca Lush Remix",
+      "trackId": "6kOMzR2AzmOxVK8QDVW8aD",
+      "total": 12437315,
+      "daily": 360
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Fresh Air",
+      "trackId": "2w3KjAZf8vSSdnoD7ZvA3h",
+      "total": 10639653,
+      "daily": 1817
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Lied To",
+      "trackId": "1bguAEOqZ6UU6Cnljrgn0t",
+      "total": 9329026,
+      "daily": 20930
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Dreamin",
+      "trackId": "24VNenhLzKDWDlQ5Qaznav",
+      "total": 8621764,
+      "daily": 8000
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Dusk Till Dawn (feat. Sia)",
+      "trackId": "2gVOhnMkK8XngKgf0YdlXQ",
+      "total": 8606382,
+      "daily": 318
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Trampoline - Joel Corry Remix",
+      "trackId": "5zI3838wCc10HChwXiafKv",
+      "total": 7844194,
+      "daily": 633
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "False Starts",
+      "trackId": "7LbT1qYiCmO5sKTtSejUp5",
+      "total": 6761777,
+      "daily": 9039
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "My Woman",
+      "trackId": "2LDBEDQpiabsY7iGoK1RSd",
+      "total": 6601374,
+      "daily": 6546
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Angel",
+      "trackId": "0QenQiXnBs7s9fBWGluD17",
+      "total": 6434555,
+      "daily": 1317
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Flames (with ZAYN) (feat. Jungleboi) - Steve Aoki Remix",
+      "trackId": "50kWf5i0sLbTi4NLIloY7Y",
+      "total": 5969774,
+      "daily": 592
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Grateful",
+      "trackId": "0Qn9MOBaivZUimc9GKbviJ",
+      "total": 5707076,
+      "daily": 5072
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Birds On A Cloud",
+      "trackId": "0658VrdDlT7GPRDu4KfHpZ",
+      "total": 5630089,
+      "daily": 6517
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "How It Feels",
+      "trackId": "4rB3ZDvPRkXliorWQkzYy7",
+      "total": 5577558,
+      "daily": 4970
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Flames (with ZAYN) (feat. Jungleboi) - R3HAB & Skytech VIP Remix",
+      "trackId": "2vlezxaTO2d1lw5WLhxybg",
+      "total": 5539446,
+      "daily": 413
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Something In The Water",
+      "trackId": "6jmphNKGTSpGL5Vuf7JLkS",
+      "total": 5414897,
+      "daily": 5133
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Flames (with ZAYN) (feat. Jungleboi) - GATTÜSO Remix",
+      "trackId": "20UAmKxUh77Xzu9215vB7a",
+      "total": 5310466,
+      "daily": 260
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "LIKE I WOULD - Troyboi Remix",
+      "trackId": "7aqtvaCgMfxCyNwlreGcrF",
+      "total": 5307841,
+      "daily": 1025
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Trampoline - Dave Audé Remix",
+      "trackId": "4QLBvvP45zE6m0RJCCtKJJ",
+      "total": 4666270,
+      "daily": 203
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Shoot At Will",
+      "trackId": "0wkLF6etf2XkSQHroZLtXx",
+      "total": 4658421,
+      "daily": 4516
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Concrete Kisses",
+      "trackId": "353kXe9T5JaQG7S8dKVVSv",
+      "total": 4580110,
+      "daily": 4993
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "The Time",
+      "trackId": "6Ni1Q1OnSEoEvKd99bLli9",
+      "total": 4383300,
+      "daily": 4818
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Flames (with ZAYN) (feat. Jungleboi) - Frank Walker Remix",
+      "trackId": "6Q3UeUxwnnqeSzTs4pLdWO",
+      "total": 4306837,
+      "daily": 321
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Fire Inside",
+      "trackId": "7y9WvXhcaaW28UBeVFLaj9",
+      "total": 4174294,
+      "daily": 1231
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Gates Of Hell",
+      "trackId": "5tzAzxn5UdbKLscCsOGon4",
+      "total": 4086882,
+      "daily": 3474
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Fuchsia Sea",
+      "trackId": "5qCsWh654thCeY3YICHJHG",
+      "total": 3876553,
+      "daily": 4047
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "LIKE I WOULD - Dave Audé Mix",
+      "trackId": "22ps3KimZMRByWUdG6bLO8",
+      "total": 3438970,
+      "daily": 120
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Unf**kwitable",
+      "trackId": "2M9YhtiwNJrGVRvTm2gbnb",
+      "total": 3352942,
+      "daily": 355
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Ignorance Ain't Bliss - Demo",
+      "trackId": "57zecTczs9loWKa8emRudd",
+      "total": 2932304,
+      "daily": 3690
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "In The Bag",
+      "trackId": "4kamYvPPZkYUIPzKJcgznW",
+      "total": 2721408,
+      "daily": 4184
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "LIKE I WOULD - Oliver Nelson Remix",
+      "trackId": "1htzbmpAYnmTjoYfY3QLlJ",
+      "total": 2672885,
+      "daily": 266
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Love Like This - Mura Masa Remix",
+      "trackId": "1wgYKTumhfVTlanuSQ67Jx",
+      "total": 2572787,
+      "daily": 751
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Gave",
+      "trackId": "25IGM4VQXgIep7rGUZRrkl",
+      "total": 1880122,
+      "daily": 3044
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "LIKE I WOULD - Lenno Remix",
+      "trackId": "2MxNtn1QFXuXhaZ2hK4iMV",
+      "total": 1630015,
+      "daily": 47
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "LIKE I WOULD - Rytmeklubben Remix",
+      "trackId": "48nh50nmRNsBgPKINTvVmd",
+      "total": 1419938,
+      "daily": 63
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "LIKE I WOULD - Sharam Jey Remix",
+      "trackId": "0Qr56LFuNj4Ncf6RLOv3Od",
+      "total": 1181911,
+      "daily": 92
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Trampoline (with ZAYN)",
+      "trackId": "2Lz3GftPbs91tdeWDaZzzc",
+      "total": 988877,
+      "daily": 913
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Alienated - Demo",
+      "trackId": "4uLaY597CPU2QDXTjNGlp7",
+      "total": 920357,
+      "daily": 1290
+    },
+    {
+      "artist": "ZAYN",
+      "artistId": "5ZsFI1h6hIdQRw2ti0hz81",
+      "trackName": "Trampoline (Joel Corry Remix) - Extended Mix",
+      "trackId": "0PWxVQAsWCvSujKc73kOBx",
+      "total": 533365,
+      "daily": 52
+    }
+  ]
+}

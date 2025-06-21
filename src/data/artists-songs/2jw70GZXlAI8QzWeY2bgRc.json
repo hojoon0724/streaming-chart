@@ -1,0 +1,1782 @@
+{
+  "artist": "Nelly Furtado",
+  "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+  "songs": [
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Promiscuous",
+      "trackId": "4OnqLyg2oOZHejuqDnuecO",
+      "total": 1547389296,
+      "daily": 1193035
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Maneater",
+      "trackId": "6PgZCbcMtlT9HczKsgSnax",
+      "total": 957520552,
+      "daily": 803238
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Say It Right",
+      "trackId": "0C15sMtlw8eFINvF0pZZMy",
+      "total": 828275406,
+      "daily": 691975
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "I'm Like A Bird",
+      "trackId": "4pIhN1d2WsNRZuKJranmHW",
+      "total": 416265516,
+      "daily": 269287
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Give It To Me",
+      "trackId": "0wbDgMuAoy7O7pL3a69uZx",
+      "total": 413372398,
+      "daily": 341555
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Broken Strings",
+      "trackId": "7LHsRtiBsoAkLXhSqZDNm4",
+      "total": 401334434,
+      "daily": 147790
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Fotografía - Duet With Juanes",
+      "trackId": "7LDFERi0M8S23zgA5l8JDb",
+      "total": 257972535,
+      "daily": 129629
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "All Good Things (Come To An End)",
+      "trackId": "1wqdfpK0V4th5j3fNFJ5rQ",
+      "total": 144127126,
+      "daily": 110922
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Eat Your Man (with Nelly Furtado)",
+      "trackId": "6Ea2oEzysv4UECGNxL1IEW",
+      "total": 91549948,
+      "daily": 41262
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Turn Off The Light",
+      "trackId": "7HXTVUj749QvoTNHzCmQm6",
+      "total": 84371335,
+      "daily": 43885
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Morning After Dark (Featuring Nelly Furtado & SoShy)",
+      "trackId": "6mmtxbG5pzkrJ0BrSdg9uW",
+      "total": 82768057,
+      "daily": 58172
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Quando, Quando, Quando - Duet With Michael Buble",
+      "trackId": "25EbZMT0qHwPY6Z1UkCI88",
+      "total": 78921896,
+      "daily": 23369
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Say It Right - Sped Up Remix",
+      "trackId": "3iWOZkQNDekZQqkiJqqeGy",
+      "total": 67696083,
+      "daily": 20657
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Try",
+      "trackId": "5uh5sS1edSvfQxRvtCgT4N",
+      "total": 42875786,
+      "daily": 13708
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Manos Al Aire - Best Of Version",
+      "trackId": "0L2fyvSK7BG7bPzg3IsDtt",
+      "total": 37965332,
+      "daily": 12802
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Maneater - Radio Version",
+      "trackId": "1c3mgJu23QqajyOV7isUXc",
+      "total": 29601688,
+      "daily": 12500
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Crazy - Radio 1 Live Lounge Session",
+      "trackId": "4yddYKv0KZstijXXv5Dk1x",
+      "total": 24558473,
+      "daily": 3587
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Keep Going Up (with Nelly Furtado & Justin Timberlake)",
+      "trackId": "0MBRKCgePXewM1iBQiPn7Q",
+      "total": 22604791,
+      "daily": 5037
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "All Good Things (Come To An End) - Nelly Furtado x Quarterhead",
+      "trackId": "4hZ3E2eYHadmtKHbAaNycZ",
+      "total": 20160662,
+      "daily": 7006
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Powerless (Say What You Want)",
+      "trackId": "3rfGGfZ8QhytZYAPinLDwi",
+      "total": 19467124,
+      "daily": 7587
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Hot-n-Fun",
+      "trackId": "7bzMlaz75BEwFoDuYLUo7o",
+      "total": 19350091,
+      "daily": 5277
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Jump (feat. Nelly Furtado)",
+      "trackId": "4uGucgzv0ydi35DgAlsTQ4",
+      "total": 19037018,
+      "daily": 5067
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Give It To Me",
+      "trackId": "5nXCPrnVY5MGaCIjOw6IrA",
+      "total": 18934591,
+      "daily": 20055
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Promiscuous - Radio Edit",
+      "trackId": "2qQaSqqhKdhuSrUEu1P0Uv",
+      "total": 16912987,
+      "daily": 6337
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Is Anybody Out There?",
+      "trackId": "2PN9vy2E2LbvrPM1cfIRdG",
+      "total": 16521172,
+      "daily": 1601
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Who Wants To Be Alone",
+      "trackId": "5FW0pBSSC4TZa1KF5nXsj0",
+      "total": 16169225,
+      "daily": 7929
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Give It To Me - Sped Up Remix",
+      "trackId": "6DyMrh39uJ04o3S1uZdpg4",
+      "total": 15185709,
+      "daily": 4024
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Sexy Movimiento",
+      "trackId": "38oFvFMWs2Snzp9EfH6TgW",
+      "total": 14560839,
+      "daily": 2188
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Thin Line",
+      "trackId": "0XtcvtK0d2dbBZSBQIP7XU",
+      "total": 13777354,
+      "daily": 4150
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Love Bites (Feat. Tove Lo and SG Lewis)",
+      "trackId": "5lzb7CU5ING7MDilFOVplH",
+      "total": 12434039,
+      "daily": 6720
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Do It",
+      "trackId": "2sdXCmHMlKDx7lQdeXTELW",
+      "total": 12293304,
+      "daily": 7577
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "**** On The Radio (Remember The Days)",
+      "trackId": "6UX5HtPQ72j5N3PnULiIoE",
+      "total": 12252556,
+      "daily": 4083
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Força",
+      "trackId": "6YN0fsRXzlh0mUjt8HCCg0",
+      "total": 12252093,
+      "daily": 4183
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Te Busque",
+      "trackId": "4SP2covVOwgaDPOc8q0LMY",
+      "total": 12115800,
+      "daily": 3814
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Intro/Promiscuous",
+      "trackId": "30UNDv108YstCmbSO5THt5",
+      "total": 11509395,
+      "daily": 5168
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Big Hoops (Bigger The Better)",
+      "trackId": "6DhLWSl0bmBAyDp0bODTop",
+      "total": 10935700,
+      "daily": 2143
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Feel so Close",
+      "trackId": "7mOiSWb1EU3gFomgzIywAt",
+      "total": 9518409,
+      "daily": 931
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Intro To No Hay Igual/No Hay Igual",
+      "trackId": "3og99jD0mYych82jg6eGxA",
+      "total": 7537301,
+      "daily": 3351
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "I'm Like A Bird - Acoustic Version",
+      "trackId": "1DcVzQFZAHvwcdYjlKBBrD",
+      "total": 6727644,
+      "daily": 2686
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Spirit Indestructible",
+      "trackId": "5CvJnroQrZVHB1SPqLhqJ8",
+      "total": 6509830,
+      "daily": 723
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Give It To Me - Instrumental",
+      "trackId": "75oCWawRGfinrrZuuYiKoP",
+      "total": 6509224,
+      "daily": 2044
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Waiting For The Night",
+      "trackId": "5KxEfMAzkUpzhKypba2wwQ",
+      "total": 6262905,
+      "daily": 3101
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Corcovado / Quiet Nights Of Quiet Stars",
+      "trackId": "6GGcejVieoyX1XW3H2Y7p8",
+      "total": 5825018,
+      "daily": 1783
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "In God's Hands",
+      "trackId": "0ryEzrWUuRzKbtXm7EW4W0",
+      "total": 5528973,
+      "daily": 1238
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Glow",
+      "trackId": "6xAV4s1HRUvwir1e6zimtP",
+      "total": 5192704,
+      "daily": 2575
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Corazón (Feat. Bomba Estéreo)",
+      "trackId": "6tY2qRdgwSkftQVZEfyuBw",
+      "total": 5058575,
+      "daily": 3780
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Bajo Otra Luz",
+      "trackId": "5JfoT22SWEvzw4smOIaQz3",
+      "total": 4776377,
+      "daily": 488
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "All Good Things (Come To An End) - Spanish Version",
+      "trackId": "1roKyfBrgDSvAUKT5CyM0A",
+      "total": 4772323,
+      "daily": 2095
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Afraid",
+      "trackId": "4ltS9OKF5v3bvwCqrB5Fg1",
+      "total": 4574424,
+      "daily": 1720
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Who Wants To Be Alone (feat. Nelly Furtado) - Phillip D Remix",
+      "trackId": "64rxc4WYdqd6qZYFOMw6ew",
+      "total": 4494772,
+      "daily": 197
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Showtime",
+      "trackId": "5R8j8CYqsZdmyWm10mccHG",
+      "total": 3915999,
+      "daily": 1561
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Sin ti (feat. Nelly Furtado)",
+      "trackId": "6mDQ2BuamnksLpl5JXl2FM",
+      "total": 3906441,
+      "daily": 267
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "GALA Y DALÍ",
+      "trackId": "2PLAm4ZgIoHJeLTrWHmO7q",
+      "total": 3869925,
+      "daily": 846
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Wait For You",
+      "trackId": "21PQHLrBFov0x9HaD3ZQ7B",
+      "total": 3867762,
+      "daily": 1892
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Más",
+      "trackId": "3rdNTAfRTj8bUSG31TOHHN",
+      "total": 3474921,
+      "daily": 461
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Honesty",
+      "trackId": "5pfVintv9ttfCP1mIqDivu",
+      "total": 3345724,
+      "daily": 2665
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "All Good Things (Come To An End) - Brazilian Version",
+      "trackId": "6st3W9o8Xfh6qAUucIotgY",
+      "total": 3097013,
+      "daily": 2756
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Night Is Young",
+      "trackId": "4xOezHW8vD5TWxmCK6n64y",
+      "total": 3095987,
+      "daily": 371
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Hey, Man!",
+      "trackId": "0W0iTI0LzwaLcCaWpLJkEP",
+      "total": 3054760,
+      "daily": 1093
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Sacrifice",
+      "trackId": "0S5a6pYK05vfoHNYdJJGqO",
+      "total": 2662845,
+      "daily": 731
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Explode",
+      "trackId": "7zTTE6Ohkqh3guNarB2gmo",
+      "total": 2629650,
+      "daily": 1035
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "One-Trick Pony",
+      "trackId": "1PqI3U5xNkPrCvuMwcIoQD",
+      "total": 2177359,
+      "daily": 604
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "All Good Things (Come To An End)",
+      "trackId": "3d6jS2LJBqlWJwTw647LAw",
+      "total": 2173389,
+      "daily": 1907
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "High Life",
+      "trackId": "6X7WitVTlt9g5JeahlEB0I",
+      "total": 2074212,
+      "daily": 227
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Parking Lot",
+      "trackId": "5goJVSXhDlmqTGyOlL2SY4",
+      "total": 2050544,
+      "daily": 266
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "El Camino De Los Sueños",
+      "trackId": "1h4YSydyis2oSdQrBzQ4V3",
+      "total": 1906670,
+      "daily": 106
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Como Lluvia",
+      "trackId": "6EgFyKeQ1K0ej7X4ZxQx56",
+      "total": 1788818,
+      "daily": 242
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Sticks and Stones",
+      "trackId": "4lIBTmxTIGd5fFojmzkOmn",
+      "total": 1786796,
+      "daily": 75
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Legend",
+      "trackId": "0BbD9cje8mfUPnc9bldmDq",
+      "total": 1770848,
+      "daily": 530
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Love Bites (Feat. Tove Lo & SG Lewis) - Don Diablo Remix",
+      "trackId": "4DTjXbSEScWCuWKxzgsf73",
+      "total": 1763544,
+      "daily": 976
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Sueños",
+      "trackId": "6KxbnrgFBrRDNXe2ZMcnrK",
+      "total": 1747073,
+      "daily": 1066
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Headphones",
+      "trackId": "4q1mbrrQh9lG5fye0HzUcn",
+      "total": 1727458,
+      "daily": 120
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Trynna Finda Way",
+      "trackId": "7xcIw7CNONyod8JKXcRrUv",
+      "total": 1725673,
+      "daily": 388
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Cold Hard Truth",
+      "trackId": "34zSxkcWLRC4iiWftK0x2x",
+      "total": 1666645,
+      "daily": 60
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Baby Girl",
+      "trackId": "3smrtQpIUjV6ZFgqV2J5SG",
+      "total": 1598197,
+      "daily": 496
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Somebody To Love",
+      "trackId": "2rRQYSgTCkLWFvMXYhEpfE",
+      "total": 1589417,
+      "daily": 703
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Promiscuous - Crossroads Vegas Mix",
+      "trackId": "3BzlGVByc78OgA5WyIojz8",
+      "total": 1586755,
+      "daily": 223
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "The Grass Is Green",
+      "trackId": "1WZLjHYCwiK9IAAIZY4gHP",
+      "total": 1578815,
+      "daily": 581
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Party",
+      "trackId": "6GHpnAsF7mk1agyCMH0dHo",
+      "total": 1527359,
+      "daily": 439
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Pipe Dreams",
+      "trackId": "2a3hYShJCYc4YQGmnoOkQU",
+      "total": 1506184,
+      "daily": 80
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Flatline",
+      "trackId": "2zGY0jsahL7Mr7SybWHxAl",
+      "total": 1482591,
+      "daily": 45
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Say It Right - Rinzen Remix",
+      "trackId": "6EUfZGFToR6jPqyzAoH8WY",
+      "total": 1459752,
+      "daily": 21964
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Silencio",
+      "trackId": "3UKaVPFrRiebiMaFj657eG",
+      "total": 1425644,
+      "daily": 310
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Big Hoops (Bigger The Better) - Dancehall Remix",
+      "trackId": "5ADPfx6dh6Jg9NhnDk8Jyq",
+      "total": 1399361,
+      "daily": 48
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Lo Bueno Siempre Tiene Un Final",
+      "trackId": "63kN5BGaS9zr5dBR6uUd8s",
+      "total": 1372392,
+      "daily": 452
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Do It",
+      "trackId": "0aFooN9y6yktVUwLKEFwT4",
+      "total": 1372383,
+      "daily": 585
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Who Wants To Be Alone",
+      "trackId": "2vjrJ3JtxcTMU74z3FtmGY",
+      "total": 1291103,
+      "daily": 475
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "En Las Manos De Dios",
+      "trackId": "0oOnIriN6B7BoQXgAR5n1c",
+      "total": 1279186,
+      "daily": 671
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Bucket List",
+      "trackId": "2MLrnTka4bgZbY0TjNhL2e",
+      "total": 1251005,
+      "daily": 106
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Let My Hair Down",
+      "trackId": "5eyzRvcnNMLbF54jdVCM7Z",
+      "total": 1222180,
+      "daily": 525
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Mama Knows",
+      "trackId": "6Mzj2cTQhyF7MIz3P3n3Qf",
+      "total": 1203120,
+      "daily": 200
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Well, Well",
+      "trackId": "5DZxa4K2a06TW54d4p4nnu",
+      "total": 1202225,
+      "daily": 310
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "I Will Make U Cry",
+      "trackId": "5b8eyjYDeObEFwUYVtljmY",
+      "total": 1178802,
+      "daily": 340
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Try",
+      "trackId": "0orr024v3hPPanbSIzDsbx",
+      "total": 1143508,
+      "daily": 564
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Doing Nothin'",
+      "trackId": "6PAt6xtbwjpRwG4V3zKWaK",
+      "total": 1107095,
+      "daily": 26008
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Stars",
+      "trackId": "4CztLdL95vb7YleBhJWbTU",
+      "total": 1076093,
+      "daily": 70
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Mi Plan",
+      "trackId": "1xTDBQGcYdLDujARItCq9f",
+      "total": 1074260,
+      "daily": 122
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Fuerte",
+      "trackId": "2108ijbLEd1E2YNRa3dZ0Y",
+      "total": 1061535,
+      "daily": 154
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "My Love Grows Deeper Part 1",
+      "trackId": "4fvDx5a9lH0YZ8kGP2bSve",
+      "total": 1029675,
+      "daily": 250
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Scared Of You",
+      "trackId": "6XTPodHLTsLXeZifZIrTek",
+      "total": 1028378,
+      "daily": 227
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Girlfriend In The City",
+      "trackId": "1CqsUhR4IaQnmHAZ3Om6Xp",
+      "total": 1023346,
+      "daily": 64
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Say It Right - Deborah De Luca Remix",
+      "trackId": "2g4DiMlwQURbrgIKR0pZW0",
+      "total": 1013779,
+      "daily": 3026
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Childhood Dreams",
+      "trackId": "5msHOzDoKgtOZPZ5EYukAR",
+      "total": 958844,
+      "daily": 243
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Wait For You Interlude",
+      "trackId": "1w2VowISQD9Cg78h2Vft3K",
+      "total": 945644,
+      "daily": 362
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Showstopper (Feat. AJ Tracey) - Remix",
+      "trackId": "2wVGQRIr9TAEAHH8QqzfOE",
+      "total": 926660,
+      "daily": 907
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Vacación",
+      "trackId": "5gEkdQj9e2CE9muRYTfmw9",
+      "total": 911525,
+      "daily": 90
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Saturdays",
+      "trackId": "6cdlCjC67jXETCtd5tIvaE",
+      "total": 906869,
+      "daily": 219
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Miracles",
+      "trackId": "6sxTVaYlcJcePhByTkdv6B",
+      "total": 901788,
+      "daily": 78
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "I'm Like A Bird - Acoustic Live On New Ground",
+      "trackId": "29lKv5rvLKkOjGUPqi7UvA",
+      "total": 893939,
+      "daily": 262
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Phoenix",
+      "trackId": "5i3aC0rAHzRCc5mmbhlEtg",
+      "total": 886822,
+      "daily": 43
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Islands of Me",
+      "trackId": "3vd7VohPIDSZE2yHpJXkRo",
+      "total": 886063,
+      "daily": 26
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Palaces",
+      "trackId": "0lQlhEUi0TyhYpl1oTBoLT",
+      "total": 882484,
+      "daily": 41
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "blue (yes, i love you) feat. Nelly Furtado",
+      "trackId": "1HrYhBh3L0s61fjuzVVrmA",
+      "total": 881217,
+      "daily": 647
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Something",
+      "trackId": "5uTpmpBWI3ShH0iwgiWOBC",
+      "total": 872996,
+      "daily": 48
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Say It Right - Live",
+      "trackId": "4Ui3zLFvLNiLbyE7BXqyUo",
+      "total": 855384,
+      "daily": 364
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Carnival Games",
+      "trackId": "7sHopcvNinURzhdqbOp3lM",
+      "total": 840673,
+      "daily": 31
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Hot-n-Fun (Boys Noize Remix)",
+      "trackId": "6MY14TQDUPfpIl8p83b8Ta",
+      "total": 833687,
+      "daily": 145
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Ready For Myself",
+      "trackId": "3o8piBTiYYIC9OQBY3xuNk",
+      "total": 829995,
+      "daily": 991
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Island Of Wonder",
+      "trackId": "06D4E5zm4NZXHGbQIM1DHl",
+      "total": 806999,
+      "daily": 155
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Maneater - Radio 1 Live Lounge Session",
+      "trackId": "1Fn6EbmRlTT2ZT9Z8ZLJp1",
+      "total": 796223,
+      "daily": 389
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Picture Perfect",
+      "trackId": "7M04RDaDX0csCrPkK8xLkb",
+      "total": 755495,
+      "daily": 219
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "In God's Hands",
+      "trackId": "3WJh71k9CgHPrIhOy5Iic8",
+      "total": 751533,
+      "daily": 150
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Maneater - Nala Remix",
+      "trackId": "5Z9GFXs67Lr5DPqsMlEo4e",
+      "total": 741519,
+      "daily": 1843
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "I'm Like A Bird - Nelly vs. Asha Remix",
+      "trackId": "4r3LoW7kJv63jtpUVzWoZO",
+      "total": 736042,
+      "daily": 118
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Showstopper",
+      "trackId": "3YpnwDPCp3yNUB9NBO3plZ",
+      "total": 735134,
+      "daily": 514
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Manos Al Aire - Juan Magan Remix",
+      "trackId": "0e1xgNWSfhasKzzYAnV7ZW",
+      "total": 730393,
+      "daily": 443
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Behind Your Back",
+      "trackId": "0fxYVbtTBiKMtIvgMConfM",
+      "total": 724349,
+      "daily": 13
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Undercover",
+      "trackId": "2eKG6iFc00T12BTFFP6SMK",
+      "total": 721231,
+      "daily": 173
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Magic",
+      "trackId": "4Ewie3HjaZNvgla32h6fXK",
+      "total": 710795,
+      "daily": 68
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Fresh Off The Boat",
+      "trackId": "3EJyfMGD2w8lSXLcCoDwA1",
+      "total": 702054,
+      "daily": 199
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "The Most Beautiful Thing",
+      "trackId": "4f7l3PE1TXq8v9buBE7a3u",
+      "total": 687912,
+      "daily": 36
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Feliz Cumpleaños",
+      "trackId": "1C78v8YMIJ0l1B2cCPRw96",
+      "total": 683733,
+      "daily": 56
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Slippery Sidewalks",
+      "trackId": "70M4uO47dyMIeq1woUNeD9",
+      "total": 664933,
+      "daily": 188
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Circles",
+      "trackId": "0Ge92rNkqWTC6WTcv15sbZ",
+      "total": 664341,
+      "daily": 57
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Say It Right - Reggae Main Mix",
+      "trackId": "4LTbLD9Z8LCoCZ00JWL6G5",
+      "total": 656810,
+      "daily": 255
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Save Your Breath (Feat. Williane 108, Charmie, Taborah Johnson and Tynomi Banks)",
+      "trackId": "4hyQUq1CtTNrwTYVr36wY9",
+      "total": 650456,
+      "daily": 643
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Live",
+      "trackId": "2HVtrYFBYIOPTzksRV0WZP",
+      "total": 645808,
+      "daily": 36
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Promiscuous - Axwell Remix",
+      "trackId": "63w2TUYU3f4EfL4XwOd1yp",
+      "total": 634971,
+      "daily": 248
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Believers (Arab Spring)",
+      "trackId": "3zQB6pKrRnxEu9WwXNTaQ6",
+      "total": 626746,
+      "daily": 53
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Paris Sun",
+      "trackId": "3wEW6y1Egj9CzVculYq1iG",
+      "total": 625804,
+      "daily": 40
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Build You Up",
+      "trackId": "7khbpWCATMzYKNu7upx2sL",
+      "total": 610791,
+      "daily": 139
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "All Comes Back (Feat. Charlotte Day Wilson)",
+      "trackId": "01U03Xx5AnOh1zOeY0vmtn",
+      "total": 595714,
+      "daily": 303
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Enemy",
+      "trackId": "1NbfbbxcOzPwzDfObB0Nuj",
+      "total": 579562,
+      "daily": 31
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Spirit Indestructible - Radio Edit",
+      "trackId": "66W2OwDva1p32ClmKpqjqQ",
+      "total": 559980,
+      "daily": 20
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Tap Dancing",
+      "trackId": "1UiblkNtdoRmFYA1H6Wj3g",
+      "total": 557396,
+      "daily": 40
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Suficiente Tiempo",
+      "trackId": "0BX6AvsNVLxuzreGkBtF0W",
+      "total": 557385,
+      "daily": 88
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "The Harder They Come",
+      "trackId": "28Acmx2QmQCHCTvSEovj3x",
+      "total": 553628,
+      "daily": 145
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Say It Right - Adana Twins Remix",
+      "trackId": "669L7X7c7gcJx134zqGrSE",
+      "total": 523725,
+      "daily": 1489
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Manos Al Aire - Robbie Rivera Radio Mix",
+      "trackId": "5q8JgDYfOyIK5QEvwkbYfT",
+      "total": 522092,
+      "daily": 49
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Fantasmas",
+      "trackId": "63cnDDpbsVlz0J1N20YNqF",
+      "total": 492616,
+      "daily": 83
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Floodgate",
+      "trackId": "1KcyjgByZyP5IMRUwtfDt1",
+      "total": 487274,
+      "daily": 427
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "My Love Grows Deeper - Non-LP Version",
+      "trackId": "3HIroLiIlvECYFKPeQMkhH",
+      "total": 484296,
+      "daily": 101
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Right Road",
+      "trackId": "2XayZDfRY8dLCRiqhd5n8m",
+      "total": 463204,
+      "daily": 34
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Be OK",
+      "trackId": "0kcvWcstPmLjVnpm2EO7l2",
+      "total": 458417,
+      "daily": 46
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "GOD (with Sid Sriram)",
+      "trackId": "0evhnYBqAagPGFM8KJHNeO",
+      "total": 455113,
+      "daily": 494
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Runaway",
+      "trackId": "6T7Sawa8neDymnDJMzJca1",
+      "total": 439785,
+      "daily": 108
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Hold Up",
+      "trackId": "0SVwvPjEd8uGAUvrV4TyWp",
+      "total": 430436,
+      "daily": 22
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Onde Estas",
+      "trackId": "3KteGXWUE1Cd49lp6yBESX",
+      "total": 425827,
+      "daily": 137
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Don't Leave Me",
+      "trackId": "4UzgBkf9EeTTcwTutAomO1",
+      "total": 422355,
+      "daily": 45
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Better For Worse (Feat. Gray Hawken)",
+      "trackId": "77cYuiJFuU435gUutVUouE",
+      "total": 421015,
+      "daily": 290
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Crown (Feat. Blxckie)",
+      "trackId": "5vUatgbXxBQpDm1UIB6pKo",
+      "total": 417654,
+      "daily": 365
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Fuerte - Original English Version",
+      "trackId": "1ET2FV2A24DMccHc8EKN56",
+      "total": 412780,
+      "daily": 47
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "End Of The World",
+      "trackId": "4PH9uLkdjeG2mqSKKWUR8q",
+      "total": 410271,
+      "daily": 26
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Fantasy",
+      "trackId": "5du6x7wfZXYUPjTNyNpBx1",
+      "total": 399934,
+      "daily": 293
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Más - Urban Remix",
+      "trackId": "1J7aQ4F1S81ylISAeFMRo0",
+      "total": 399391,
+      "daily": 31
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "I Feel You - Non-LP Track",
+      "trackId": "3m08PJDb8JZsfYTropCyAX",
+      "total": 395582,
+      "daily": 97
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Turn Off The Light - Timbaland Full Mix Version",
+      "trackId": "3i9QQiyGqxEnGjQfXbMrP3",
+      "total": 393228,
+      "daily": 278
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "What I Wanted",
+      "trackId": "5KynaAs0CuCDOSNaJsBOP1",
+      "total": 390785,
+      "daily": 92
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Bajo Otra Luz",
+      "trackId": "4KkuWRrkxpPfv0kZFwHtXN",
+      "total": 371949,
+      "daily": 45
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Manos Al Aire - Urban Remix",
+      "trackId": "2kDo2JzNPpeeogUtePeiXf",
+      "total": 369152,
+      "daily": 110
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Shit On The Radio (Remember The Days) - Dan The Automator Mix Version",
+      "trackId": "0gz1MELH5hNcHZI5YMI9qz",
+      "total": 358234,
+      "daily": 66
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "All Good Things (Come To An End) - Live",
+      "trackId": "3BEIE2U4nh9J8nGyGXipvH",
+      "total": 351001,
+      "daily": 51
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Better Than Ever",
+      "trackId": "50NmwBpvw55RPiML1qSsOk",
+      "total": 345465,
+      "daily": 324
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Take Me Down",
+      "trackId": "5wyFGDZMnv7wWews9KgKHZ",
+      "total": 319220,
+      "daily": 261
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Nadie Como Tu (feat. Nelly Furtado)",
+      "trackId": "3jSyaQHo1eIJgQjF2LjmYC",
+      "total": 313019,
+      "daily": 10
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Corazón - DJ Arana Remix",
+      "trackId": "7AKgW2ISqmlroiBqm4x7yU",
+      "total": 312335,
+      "daily": 210
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Thoughts",
+      "trackId": "1wFNwnDc4sEqcMtMhnhKlm",
+      "total": 308716,
+      "daily": 17
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Thoughts - Tiesto Remix",
+      "trackId": "5rubZeq5glCYASluDn2xTl",
+      "total": 308548,
+      "daily": 8
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Maneater - Live",
+      "trackId": "0WsUKz3eqIQ2cHuOFj1Bi0",
+      "total": 301218,
+      "daily": 72
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "I'm Like A Bird - Live",
+      "trackId": "3RLDi7jvhD1lnyFLOjR4P5",
+      "total": 300037,
+      "daily": 51
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Say It Right - Menage Music Remix",
+      "trackId": "1W7pf3QOO2tl50CQharU29",
+      "total": 295101,
+      "daily": 156
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Promiscuous - Live At The Orange Lounge/2006",
+      "trackId": "4dVbJhyFCVjEw32Ml1oNU2",
+      "total": 287099,
+      "daily": 74
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Where It Begins - Ao Vivo No Madison Square Garden / 2010",
+      "trackId": "2pQdBjAvy1uQCftZ74NSPo",
+      "total": 285794,
+      "daily": 57
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "MARRIAGE",
+      "trackId": "4svSxX04Y90JGFM9j35tyW",
+      "total": 284535,
+      "daily": 2156
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Daydream Believer",
+      "trackId": "106861m7OMrN8n8ykQPuyv",
+      "total": 277870,
+      "daily": 63
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Too Good",
+      "trackId": "4H4La3x3XtsJgyoPEhUrZj",
+      "total": 275160,
+      "daily": 12
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Manos Al Aire - Tiësto Remix",
+      "trackId": "5UQYY7s0JtuqASRkTFN6A6",
+      "total": 248121,
+      "daily": 29
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Promiscuous - Live",
+      "trackId": "7JAABdc4KV4FYzEc0KjK8X",
+      "total": 247405,
+      "daily": 46
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Powerless (Say What You Want) - JOSH - desi REMIX",
+      "trackId": "2Cr4R50YdR5TSmR7U9wwVJ",
+      "total": 238464,
+      "daily": 161
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Untitled",
+      "trackId": "2fSTUqwjUrjYLpAqY3YPYK",
+      "total": 228242,
+      "daily": 161
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Hot-n-Fun (Nero Remix)",
+      "trackId": "6TjeIcMoOWNzc1YRdTsal7",
+      "total": 227042,
+      "daily": 60
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Afraid - Live",
+      "trackId": "7kV3sBGpsQUCuvWGtC2Gp3",
+      "total": 220285,
+      "daily": 15
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Promiscuous - The Josh Desi Remix",
+      "trackId": "4yGK6idKhXzQA2zhrhLa8U",
+      "total": 219554,
+      "daily": 71
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Sticks & Stones",
+      "trackId": "2ttCK9yAxSZxgCb8kBkmVR",
+      "total": 217978,
+      "daily": 16
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "End Game",
+      "trackId": "7ae2uxhQQkAq2DhsjJyE1Y",
+      "total": 215058,
+      "daily": 11
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Do It - Live",
+      "trackId": "7H2FXcWbXVVp6aptstFe9x",
+      "total": 204601,
+      "daily": 26
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Maneater - Live From Sprint Music Series/2006",
+      "trackId": "1T3zPMtD43MPJnbGlvNokm",
+      "total": 201560,
+      "daily": 47
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Hot-n-Fun (Starsmith Club Remix)",
+      "trackId": "2Z6deEznixpg6ziu87Z6op",
+      "total": 192343,
+      "daily": 19
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Try - Spanish",
+      "trackId": "0ttJyiA5GcGk7YNBJEMPfT",
+      "total": 184126,
+      "daily": 146
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Wait For You - Live",
+      "trackId": "0GWA3tKuXba0abcCp30Son",
+      "total": 172748,
+      "daily": 19
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Bajo Otra Luz - Humby Remix",
+      "trackId": "6iG4YUbk3kWj58JcqGkafQ",
+      "total": 154552,
+      "daily": 6
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Jump (feat. Nelly Furtado) - Disco Fries Full Mix",
+      "trackId": "7efPcQm3TfhTnxtlQlrVOF",
+      "total": 149627,
+      "daily": 2
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Morning After Dark - Moto Blanco Club",
+      "trackId": "1LkN8AvzlaOA7lzEUeieLS",
+      "total": 148420,
+      "daily": 10
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "All Good Things - Sprint Music Series",
+      "trackId": "5sRjYLoP6vbV8YwdwuK2Qg",
+      "total": 147315,
+      "daily": 74
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Say It Right - Peter Rauhofer Remix Part 1",
+      "trackId": "6VGLNIstHppt4nHwVc6LnO",
+      "total": 142506,
+      "daily": 37
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Big Hoops (Bigger The Better) - Wideboys Remix",
+      "trackId": "4b1tIzwUzjkqvcrgi68heP",
+      "total": 139842,
+      "daily": 40
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Fuerte - Twisted Dee Club Mix",
+      "trackId": "7ju4NYnMHzc6xHufukqGCk",
+      "total": 138898,
+      "daily": 3
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Showtime - Live",
+      "trackId": "52IlBePrHfySd4TZmbP8nH",
+      "total": 138576,
+      "daily": 14
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Say It Right - Live iTunes exclusive",
+      "trackId": "4dEUb3D40UPTAA6mq0Gl3u",
+      "total": 131542,
+      "daily": 80
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Is Anybody Out There? - Cutmore Club Mix",
+      "trackId": "4SvA1bCSSAYUmadoIL0gk8",
+      "total": 130630,
+      "daily": 5
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Big Hoops (Bigger The Better) - Sultan & Ned Shepard Remix",
+      "trackId": "5JLwyJZmD2n7hdmZbni90l",
+      "total": 130149,
+      "daily": 14
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Hot-n-Fun (Hot Chip Remix)",
+      "trackId": "2dElIWKJ24v6ZjUw3FNfoC",
+      "total": 126892,
+      "daily": 12
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "All Good Things (Come To An End) - Nelly Furtado x Quarterhead/Remix Instrumental",
+      "trackId": "2cclmIYVuSDxU1EZ7WtIUw",
+      "total": 119514,
+      "daily": 31
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Glow - Live",
+      "trackId": "1DSh4AqH8FZ2TQ1ynDoa3N",
+      "total": 117146,
+      "daily": 14
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Sticks & Stones - StoneBridge & Damien Hall Epic Extended Mix",
+      "trackId": "51xqReO8nBYVjrs6Kl1Fhb",
+      "total": 113066,
+      "daily": 6
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Sticks & Stones - StoneBridge & Damien Hall Epic Mix",
+      "trackId": "3xmIjuGVAvsHiToW2jQO8s",
+      "total": 109685,
+      "daily": 14
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "No Hay Igual - Live",
+      "trackId": "6xWTL3pbzgXYlhOiBLay8R",
+      "total": 107883,
+      "daily": 15
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Parking Lot - Tiësto Remix",
+      "trackId": "501P09PhkNuJNUe810QpOO",
+      "total": 107009,
+      "daily": 1
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Jump (feat. Nelly Furtado) - Malinchak Club Mix",
+      "trackId": "29a4PejQp9yumjSsht85ZX",
+      "total": 104685,
+      "daily": 7
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Mas - Rebirth Demolition Crew Mix",
+      "trackId": "5sE0rznr21nKz0dHZ3TPr7",
+      "total": 104434,
+      "daily": 4
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Is Anybody Out There? - Richard Dinsdale Club Mix",
+      "trackId": "3u0BWQma5qjY930rzN0zTe",
+      "total": 104403,
+      "daily": 9
+    },
+    {
+      "artist": "Nelly Furtado",
+      "artistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "All Good Things (Come To An End) - Nelly Furtado x Quarterhead/Extended Remix",
+      "trackId": "00xjfer1vFypUtlp8g7lt0",
+      "total": 103252,
+      "daily": 86
+    }
+  ]
+}

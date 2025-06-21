@@ -1,0 +1,814 @@
+{
+  "artist": "Yng Lvcas",
+  "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+  "songs": [
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "La Bebe - Remix",
+      "trackId": "2Vv6jK9zUGyNppjCy3UI8j",
+      "total": 1256325484,
+      "daily": 351629
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "La Bebe",
+      "trackId": "36LtTTJUeVpitIeVfrJcnV",
+      "total": 288196411,
+      "daily": 88895
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "flashes",
+      "trackId": "6ciaJyxPG3OueX32rd57jA",
+      "total": 113821830,
+      "daily": 352407
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Tony Montana",
+      "trackId": "2eCJD7rEAjSt5zdV76qumQ",
+      "total": 100613057,
+      "daily": 116724
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Slow Low (Remix) [feat. Yng Lvcas]",
+      "trackId": "5menFq7EblXYAscansW5hY",
+      "total": 28669538,
+      "daily": 17257
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Wazap",
+      "trackId": "2WM2zohc2bo6HrxUSRZP1m",
+      "total": 20380261,
+      "daily": 4754
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "La Bebe - David Guetta Remix",
+      "trackId": "2OOmObvtYKotf1WwcqRwe4",
+      "total": 17282099,
+      "daily": 7484
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Déjame",
+      "trackId": "5F4Luyx9KX70MJqJHrG8jC",
+      "total": 17075322,
+      "daily": 11767
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Perreo Porky",
+      "trackId": "6gjhutUBc0VDId5trxGGTp",
+      "total": 16293035,
+      "daily": 11802
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Me acuerdo",
+      "trackId": "1MFFBF5ugHrwPDdvD38QZQ",
+      "total": 15561708,
+      "daily": 96796
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Pégateme",
+      "trackId": "4SjLumQomYfoEs6EhjGA4z",
+      "total": 11103304,
+      "daily": 11666
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Perdonémonos",
+      "trackId": "7hIstL0FGshcF8Tk2inv5q",
+      "total": 7189126,
+      "daily": 4314
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Perreando Triste (feat. Uzielito Mix)",
+      "trackId": "3KmKOF74an2v8WX95Q4hmO",
+      "total": 7127904,
+      "daily": 2973
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Esa Nena",
+      "trackId": "2uvoAHdthe0bSCD0qIRBta",
+      "total": 5910596,
+      "daily": 5992
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "SI TÚ ME LLAMAS",
+      "trackId": "70BfpMR5l7JIFGpBJ9CZIe",
+      "total": 4902800,
+      "daily": 933
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "X ELLA",
+      "trackId": "0jZwTYEXVDNbulNSyS7z62",
+      "total": 4558330,
+      "daily": 3234
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Diviértete",
+      "trackId": "3jcLh0Si6MU4yOQ7kk7AAy",
+      "total": 4046801,
+      "daily": 3770
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "INSTALÁRTELO (feat. Sleezy O & Young Gallo)",
+      "trackId": "358XNarR5LjLKV5vwUkP0s",
+      "total": 3653810,
+      "daily": 2169
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Porno",
+      "trackId": "05xNa05QaIVUnNjr4xfZAS",
+      "total": 3616253,
+      "daily": 2414
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Robarte",
+      "trackId": "2JFL27DakpH47L9QOPOn1m",
+      "total": 3201737,
+      "daily": 3580
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "SQ LITO",
+      "trackId": "6xGn94pu3u5xDpEDbrbDbn",
+      "total": 2910306,
+      "daily": 736
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Que Loco Es",
+      "trackId": "21zCMMBtQrkwFwfkrun5Qk",
+      "total": 2614288,
+      "daily": 1941
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "3ple X - Radio Edit",
+      "trackId": "2lDi1sm9zSkmBwkuLUjZND",
+      "total": 2413446,
+      "daily": 409
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Molly & Pérignon",
+      "trackId": "5puPQH8JwD1kxTsZU1DqVK",
+      "total": 1964802,
+      "daily": 2099
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Tuci y Perreo",
+      "trackId": "2VClOmlW0HlgnRAVdwVmCC",
+      "total": 1914451,
+      "daily": 323
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Jimmy Choo",
+      "trackId": "6k4PzEwOB365Nvuq7fjKqp",
+      "total": 1830262,
+      "daily": 1427
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "PARTY (feat. Young Gallo)",
+      "trackId": "5dTScAgplyX20Aw4fbf3sG",
+      "total": 1813214,
+      "daily": 2653
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Gasto en P",
+      "trackId": "7dQjsvoWrFKwwsk5GpGuA5",
+      "total": 1784621,
+      "daily": 293
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Toto",
+      "trackId": "3IWcUkdKHKCd8yC6WImYnl",
+      "total": 1760998,
+      "daily": 357
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "BÉLICO Y CHOLO (feat. Polo Gonzalez) - The Remix",
+      "trackId": "660K6X6QHRWaErpxmBkiFN",
+      "total": 1641031,
+      "daily": 671
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "QLOTE",
+      "trackId": "7oDJeu4TMjBXXCI48ZOhez",
+      "total": 1637035,
+      "daily": 457
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Fría - Remix",
+      "trackId": "1alnEk6Ileyn9W2pAINu0q",
+      "total": 1626254,
+      "daily": 1212
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "POLVO ROSA (feat. Snow Tha Product)",
+      "trackId": "2YYYxYVLMidrTkSGuYWD2Q",
+      "total": 1615307,
+      "daily": 726
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "UY (feat. Milo Mae)",
+      "trackId": "6cFVj4HsrKwq8slnigLjDy",
+      "total": 1595221,
+      "daily": 725
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Anti-todo",
+      "trackId": "1UBLpmwFqty3My4THs0Yx5",
+      "total": 1527352,
+      "daily": 1542
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Gárgolas",
+      "trackId": "1Zmdu65XrzjM2TEwQPL3ak",
+      "total": 1514234,
+      "daily": 1451
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Una Noche",
+      "trackId": "0PByhmyCwq9MCyc0MRJ0IV",
+      "total": 1484018,
+      "daily": 1738
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Hola (feat. BEATS PER MINUTES)",
+      "trackId": "0F5zxhhdUF6ODvY1ANZg5S",
+      "total": 1464171,
+      "daily": 512
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Una intro pegadita",
+      "trackId": "1QUXJHWs1zjkTacUvsWUo8",
+      "total": 1452597,
+      "daily": 1051
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Delaito",
+      "trackId": "3jl6vE6D1037Se9ht9ivcP",
+      "total": 1405445,
+      "daily": 1301
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "YAYA",
+      "trackId": "4i7y0dm58PDFNgiXtASg6J",
+      "total": 1372775,
+      "daily": 448
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Dramático",
+      "trackId": "7w10GRf6A5W0LpadkbCwj9",
+      "total": 1112545,
+      "daily": 3601
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "En la Disco",
+      "trackId": "2XpmvDu0txCwC8jrCwqCfU",
+      "total": 994035,
+      "daily": 870
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Pensaba",
+      "trackId": "71lB4v2IMCTRp4mNoWrOte",
+      "total": 977991,
+      "daily": 796
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Imagínate",
+      "trackId": "0x02N2mbWdqGPMwz41qZMA",
+      "total": 920592,
+      "daily": 1821
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Perdonémonos 2",
+      "trackId": "3luKYPdlxd3BqfbgegqLda",
+      "total": 866519,
+      "daily": 1574
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Reggaeton ton ton",
+      "trackId": "58GHxZT8uKcwwHJJf9Ymmo",
+      "total": 864312,
+      "daily": 648
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "LA TV",
+      "trackId": "4KzVwJfvQjyHEsWtuB0chE",
+      "total": 850007,
+      "daily": 282
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "OH SHIT",
+      "trackId": "0BHMgC3FTBiFs1UAW6TuwI",
+      "total": 836062,
+      "daily": 2171
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "911 Bellako (feat. Dalay ADL)",
+      "trackId": "5xMn5sHygSWzSSuOEmuPzX",
+      "total": 790140,
+      "daily": 425
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Cochinadas",
+      "trackId": "4RT7qqEVp1YTol9JVx6BtC",
+      "total": 789741,
+      "daily": 339
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "3 x 3 (feat. Lexy Walter)",
+      "trackId": "7nQFKhrS6eN6xyQwnp3hjK",
+      "total": 785957,
+      "daily": 656
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Diosa",
+      "trackId": "3kSRTcNl7iAhO496NEtSwD",
+      "total": 715620,
+      "daily": 243
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Hola mami",
+      "trackId": "6T5cwfvRF5YdAx2CyG7u2C",
+      "total": 674100,
+      "daily": 1373
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "VEN HDP",
+      "trackId": "75HzemAyKWfPUAMHbuOZFR",
+      "total": 637647,
+      "daily": 437
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Se Le Nota",
+      "trackId": "1vKijSSF5CVwZOAjvDdkLu",
+      "total": 631466,
+      "daily": 517
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "La Bebe (David Guetta Remix) - Extended Version",
+      "trackId": "51BQZgx09nvoZJjUkOLY6x",
+      "total": 625328,
+      "daily": 170
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Se Porta Mal",
+      "trackId": "6zY5BPHLsFQjxedEvBN7e0",
+      "total": 563623,
+      "daily": 271
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Envidiosito",
+      "trackId": "2DB5yv3xvFsx6dDDaQfhU9",
+      "total": 554175,
+      "daily": 160
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Mimimi",
+      "trackId": "2w5KcI3DWJDtDIYjkbgm3I",
+      "total": 548397,
+      "daily": 649
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Las Nai",
+      "trackId": "6gHg7YWvuLAjVPot8zrxnS",
+      "total": 524037,
+      "daily": 146
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Peculiar (feat. Nova7siete)",
+      "trackId": "3LxZH0pqn65As6eCDRp4m0",
+      "total": 489777,
+      "daily": 329
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Dolche",
+      "trackId": "25WDOCITWIg6Nfz5wjkfBY",
+      "total": 481892,
+      "daily": 2039
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Bandolero",
+      "trackId": "5AgiZi38jepeaJQPb5JDDM",
+      "total": 461601,
+      "daily": 208
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Aprovecha",
+      "trackId": "39z0AaTWNLI8H07G90ySqo",
+      "total": 459291,
+      "daily": 357
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Te Vi",
+      "trackId": "06ktBWApwhIZrGELDHi4sN",
+      "total": 421205,
+      "daily": 496
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Party Party",
+      "trackId": "1HKobmaVvVP6irpZbsK7R6",
+      "total": 392692,
+      "daily": 599
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Tremenda",
+      "trackId": "5Wxdk7jhKAgPIuUZ0CFjO6",
+      "total": 345133,
+      "daily": 257
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Fvck Love",
+      "trackId": "46Rp6pNadoIUAcAvE38bla",
+      "total": 340191,
+      "daily": 408
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Como Tony",
+      "trackId": "4h1xBeWL6aPDkZc6JuSbAb",
+      "total": 327123,
+      "daily": 279
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Azules",
+      "trackId": "4JW9zR5jfH2jAu6lkpl2Ks",
+      "total": 323757,
+      "daily": 2612
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Mamasita bellaka",
+      "trackId": "1aQwaIr5KOF7AAWSivj84p",
+      "total": 319974,
+      "daily": 105
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Erótica",
+      "trackId": "3rq5eDUHiQ9rRWNYPubyIg",
+      "total": 297300,
+      "daily": 161
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Vuelve",
+      "trackId": "19UoErxcGaXQiMUC1oToYu",
+      "total": 296088,
+      "daily": 131
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "XANAX (feat. Ele O)",
+      "trackId": "7Dzqk1tj28FHMLxHFm82Ik",
+      "total": 290863,
+      "daily": 153
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Tu Cuerpo (feat. Leo Torrez)",
+      "trackId": "5EsuIRFPsfW1vMZIqLKuoZ",
+      "total": 272354,
+      "daily": 569
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Tú te tocas (feat. Ice Keed)",
+      "trackId": "1qimA7kgNYPbqmeLrmwvSS",
+      "total": 260133,
+      "daily": 269
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Intro",
+      "trackId": "6Km0ajAtmU5iMWDB2HIYiK",
+      "total": 259867,
+      "daily": 37
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Admitelo",
+      "trackId": "7ENlIXtlT858b2qgntZ0Qm",
+      "total": 252704,
+      "daily": 216
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Miento",
+      "trackId": "0egQAaiE06IjnMzVk6Ygua",
+      "total": 248969,
+      "daily": 303
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Malo Malo",
+      "trackId": "4Lp6g21jhwdJ0omSrBeLNk",
+      "total": 232557,
+      "daily": 38
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Y Sé",
+      "trackId": "6qMs5q27SLzWQvJ6U3rnc1",
+      "total": 226586,
+      "daily": 341
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Duro (feat. Ice Keed)",
+      "trackId": "73nfGV7UZE6kkEpFrIJWLE",
+      "total": 207982,
+      "daily": 193
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Pantyblue",
+      "trackId": "7vK7uAw183CuwkcCeGqK5h",
+      "total": 207977,
+      "daily": 73
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Sigo (feat. Leo Torrez & Cris Sour)",
+      "trackId": "6qM8WRDT8uXdYVsMrtXcVr",
+      "total": 205959,
+      "daily": 270
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "GaD #24",
+      "trackId": "3bYyFMBbSEKt1HdFmHtwA7",
+      "total": 201198,
+      "daily": 213
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Tomando Efecto",
+      "trackId": "2TruKzYtfjOKOEPBZTSjJM",
+      "total": 168932,
+      "daily": 89
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Tiki Titi",
+      "trackId": "76GRJxgH0PDsdey9higWpz",
+      "total": 156622,
+      "daily": 98
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "CHANEL REAL",
+      "trackId": "4YE774jIKvocYDSB7Jwa5W",
+      "total": 156085,
+      "daily": 20
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "La Santa",
+      "trackId": "0PqrALRqm2rkDlQ51KX2Av",
+      "total": 153457,
+      "daily": 202
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Cypher Morras (feat. EMJAY, Akasha & Lexy Walter)",
+      "trackId": "2WBZUJCRVosHj3NAH66fXe",
+      "total": 148087,
+      "daily": 109
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Vida Malfiosa (feat. Yeyo & Young Gallo)",
+      "trackId": "7EXNoKTCNLbPbfbwX03GKR",
+      "total": 144240,
+      "daily": 238
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Hoy (feat. Lexy Walter)",
+      "trackId": "3AKMpISP50jEhfgrKgmxrb",
+      "total": 143242,
+      "daily": 158
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "CUPIDO MADAFAKA",
+      "trackId": "1UZyy7C3QDZwhfTe5cO3Tl",
+      "total": 140746,
+      "daily": 40
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "THC 2",
+      "trackId": "4Am3gdxdpdJmkhOE7wxxjT",
+      "total": 135076,
+      "daily": 56
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Muñek",
+      "trackId": "56mOemvo7aEPjTxKc6OjCl",
+      "total": 133142,
+      "daily": 48
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "En$odado",
+      "trackId": "6ZlVIyLMQBP0MWkcQHko5y",
+      "total": 125140,
+      "daily": 8
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Superestrella",
+      "trackId": "2fhpelYPzSArKqr9peI2Sl",
+      "total": 121373,
+      "daily": 117
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "LA COMBI",
+      "trackId": "0Rln33v4BHHh76ah4jj8AO",
+      "total": 121197,
+      "daily": 292
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "Casa Sola",
+      "trackId": "4VO7pUsAqfKHHQFUi1VBw1",
+      "total": 103134,
+      "daily": 280
+    },
+    {
+      "artist": "Yng Lvcas",
+      "artistId": "1NNRWkhwmcXRimFYSBpB1y",
+      "trackName": "De Lao (feat. Sleezy O)",
+      "trackId": "5VVB69dUl7tkilt5LU5qNd",
+      "total": 100351,
+      "daily": 79
+    }
+  ]
+}

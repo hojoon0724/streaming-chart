@@ -1,0 +1,990 @@
+{
+  "artist": "Macklemore",
+  "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+  "songs": [
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Can't Hold Us (feat. Ray Dalton)",
+      "trackId": "22skzmqfdWrjJylampe0kt",
+      "total": 2925174177,
+      "daily": 1419456
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Thrift Shop (feat. Wanz)",
+      "trackId": "6CjtS2JZH9RkDz5UVInsa9",
+      "total": 1436122816,
+      "daily": 447520
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+      "trackId": "20ZP3Om9DvDazXrNUC7WM2",
+      "total": 1233636847,
+      "daily": 276251
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Glorious (feat. Skylar Grey)",
+      "trackId": "0CokSRCu5hZgPxcZBaEzVE",
+      "total": 1018139507,
+      "daily": 363372
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+      "trackId": "7Feaw9WAEREY0DUOSXJLOM",
+      "total": 700663904,
+      "daily": 172124
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Good Old Days (feat. Kesha)",
+      "trackId": "2Za1AlJNvksouPPWbXpR2X",
+      "total": 470144958,
+      "daily": 183643
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",
+      "trackId": "5pfJsMwoRYKampPay8amX0",
+      "total": 423329611,
+      "daily": 75815
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Same Love (feat. Mary Lambert)",
+      "trackId": "2SUbEGOWS0cUV19uFjQQxR",
+      "total": 349011198,
+      "daily": 45874
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "White Walls (feat. ScHoolboy Q & Hollis)",
+      "trackId": "1o1Pny4JcE3LdUBeBedbm6",
+      "total": 302220740,
+      "daily": 76260
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Wing$",
+      "trackId": "2NywFcoD8G4U5SyIh8CWQ3",
+      "total": 235175980,
+      "daily": 44747
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "I Don't Belong In This Club",
+      "trackId": "4Yo1ZTT9D7gUqyzgpVKkhQ",
+      "total": 195222147,
+      "daily": 12845
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "And We Danced (feat. Ziggy Stardust)",
+      "trackId": "1FCQEg7wOK9IIBuxx63krr",
+      "total": 177633015,
+      "daily": 39190
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Marmalade (feat. Lil Yachty)",
+      "trackId": "7bsnTsbiwOymZWjPF9v6Di",
+      "total": 176564387,
+      "daily": 17628
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Growing Up (feat. Ed Sheeran)",
+      "trackId": "44T13PWJ87jb3lFElhVIHx",
+      "total": 103164340,
+      "daily": 11589
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Dance Off (feat. Idris Elba & Anderson .Paak)",
+      "trackId": "7pDxNYVQLKzrbkCe8OCag3",
+      "total": 62838283,
+      "daily": 9402
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - Acoustic",
+      "trackId": "0qynC1yRTNWI7JEsKV9dwg",
+      "total": 60157117,
+      "daily": 11046
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "NO BAD DAYS (feat. Collett)",
+      "trackId": "5C8ySsx3AT121g24uYR823",
+      "total": 58971484,
+      "daily": 32791
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Willy Wonka (feat. Offset)",
+      "trackId": "7uKSil5r7uHexnM9lukPTc",
+      "total": 56846409,
+      "daily": 4488
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Ain't Gonna Die Tonight (feat. Eric Nally)",
+      "trackId": "1FgmP7AOTcn7MGYmImj0kn",
+      "total": 55734807,
+      "daily": 8505
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Corner Store (feat. Dave B & Travis Thompson)",
+      "trackId": "4m4aiyWCBH011DhxQeoWt1",
+      "total": 52711879,
+      "daily": 6126
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Make The Money",
+      "trackId": "0YnkUO5Pb02TyNtS9DpOd4",
+      "total": 49873128,
+      "daily": 3495
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Drug Dealer (feat. Ariana DeBoo)",
+      "trackId": "2zM1k4PnL573ayLHqpQaQN",
+      "total": 49023543,
+      "daily": 5458
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Shadow (feat. IRO) - From Songland",
+      "trackId": "09Hjv8GEDhzPxqiJCw8dSB",
+      "total": 44483780,
+      "daily": 4735
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "HIND'S HALL",
+      "trackId": "1zOgXnODZUp87IGbF3b8YB",
+      "total": 42874304,
+      "daily": 23270
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Starting Over (feat. Ben Bridwell)",
+      "trackId": "7gSyfcCtcnlHDbA8O3Lnls",
+      "total": 41551551,
+      "daily": 4591
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Thin Line (feat. Buffalo Madonna)",
+      "trackId": "2fydEzbtN7EkzbEC4iMYhn",
+      "total": 40115264,
+      "daily": 2526
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "CHANT (feat. Tones And I)",
+      "trackId": "7ICMhHYyv1vM3S1XzcEFIq",
+      "total": 39478538,
+      "daily": 17172
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Neon Cathedral (feat. Allen Stone)",
+      "trackId": "3VAXbgI4hKU3Dk7VWpFMMf",
+      "total": 35349579,
+      "daily": 2485
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Ten Thousand Hours",
+      "trackId": "5zfvGTlCAxY6GwZ9TkCZ4M",
+      "total": 34609272,
+      "daily": 3926
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Intentions (feat. Dan Caplen)",
+      "trackId": "51Bpjq1BdQlS3V852vJCw7",
+      "total": 33188310,
+      "daily": 4482
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Gold (feat. Eighty4 Fly)",
+      "trackId": "0a4CAmtWcIjhoAHASaA4pt",
+      "total": 31209647,
+      "daily": 2329
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Need To Know (feat. Chance The Rapper)",
+      "trackId": "1OsjZeUg7cGuiCr4E8schs",
+      "total": 30113706,
+      "daily": 2801
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "MANIAC (feat. Windser)",
+      "trackId": "06ncaphlb6ccM7tdUgGhW4",
+      "total": 27673164,
+      "daily": 8919
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - Tiësto Remix",
+      "trackId": "55nMnifaQWKe3f9cbwOXwx",
+      "total": 26420090,
+      "daily": 2295
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Ten Thousand Hours",
+      "trackId": "0dlxqODS4xOn7pwjKXZZuc",
+      "total": 26310459,
+      "daily": 999
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - AJR Remix",
+      "trackId": "4DMvvYvDNiEv2QUciZCyp7",
+      "total": 26201857,
+      "daily": 10705
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Brad Pitt's Cousin (feat. Xperience)",
+      "trackId": "3zg0RVk6GcXFvJG6BWVFre",
+      "total": 25408532,
+      "daily": 1659
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "A Wake (feat. Evan Roman)",
+      "trackId": "0f5leEKNHInbvCX5D09aZg",
+      "total": 24728496,
+      "daily": 1792
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Jimmy Iovine (feat. Ab-Soul)",
+      "trackId": "0s4NbQ0wejCPZu6aMrpVQM",
+      "total": 24714252,
+      "daily": 1465
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Irish Celebration",
+      "trackId": "2rLcR01HB0ScBAsgxX4Z62",
+      "total": 23928538,
+      "daily": 3100
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Over It (feat. Donna Missal)",
+      "trackId": "2JjkHuu2A0A0hvewiZKutV",
+      "total": 23432534,
+      "daily": 2544
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Kevin (feat. Leon Bridges)",
+      "trackId": "5qjWSyuU0rTLI8ohmx2K3Q",
+      "total": 23113202,
+      "daily": 2144
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Light Tunnels (feat. Mike Slap)",
+      "trackId": "6liGqN48zCba8OPKVu9oDn",
+      "total": 22072663,
+      "daily": 1319
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Cowboy Boots",
+      "trackId": "3EXsZpJ5081LaCrjuiDVkc",
+      "total": 21830336,
+      "daily": 1598
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Excavate (feat. Saint Claire)",
+      "trackId": "2KrMF8DGJrhADg3rPtWFZy",
+      "total": 21317866,
+      "daily": 2020
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "St. Ides",
+      "trackId": "7bkZhh7uKi9b60fjob2XGt",
+      "total": 20645795,
+      "daily": 3389
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Next Year (feat. Windser)",
+      "trackId": "4zncVqi72AX54I2JVIUq0N",
+      "total": 20145898,
+      "daily": 6100
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "BomBom (feat. The Teaching)",
+      "trackId": "0lqbeYBf3b3DQEageCXThv",
+      "total": 20009296,
+      "daily": 1196
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "The Town",
+      "trackId": "78wkOLqITJnDlAhvAclsb1",
+      "total": 19546239,
+      "daily": 1683
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Firebreather (feat. Reignwolf)",
+      "trackId": "2eucFttlfFNX5fRD78JBdI",
+      "total": 18950464,
+      "daily": 2139
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Wednesday Morning",
+      "trackId": "5Kuw0zF0A3nOSgwu8XLBsY",
+      "total": 18911576,
+      "daily": 2243
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "I Don't Belong In This Club - MOTi Remix",
+      "trackId": "6XUH4PVIMdHD6kr4ZXnU1X",
+      "total": 17976300,
+      "daily": 712
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "The Train (feat. Carla Morrison)",
+      "trackId": "1Xl0Rt4bMdEw5n0nMax2qH",
+      "total": 17723148,
+      "daily": 866
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "White Privilege II (feat. Jamila Woods)",
+      "trackId": "4QGJfw4TLQ07KM8m7Dq5Hu",
+      "total": 16632434,
+      "daily": 872
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "It's Christmas Time (feat. Dan Caplen)",
+      "trackId": "6skTvnm735GYcgiKaeDDPq",
+      "total": 15828707,
+      "daily": 259
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "My Oh My",
+      "trackId": "6Pi7FM06HeixUs0TChN1yh",
+      "total": 15637357,
+      "daily": 3172
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "FDT - Pt. 2",
+      "trackId": "5CnAvn2I4uQw2qxBRVebqF",
+      "total": 15592060,
+      "daily": 13748
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "How to Play the Flute (feat. King Draino)",
+      "trackId": "61LwlLA6HkrEcGp6kwKiGg",
+      "total": 15499462,
+      "daily": 1168
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "American",
+      "trackId": "5m4X2HQ0eiviwuKPoREanT",
+      "total": 15065101,
+      "daily": 1266
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Let's Eat (feat. Xperience)",
+      "trackId": "5uTKXcuypBLMtXbVaw9Bdt",
+      "total": 13980197,
+      "daily": 1014
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Levitate (feat. Otieno Terry)",
+      "trackId": "3S5foHRNI5lS6V3jZjTC4A",
+      "total": 13858708,
+      "daily": 1091
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Ten Million",
+      "trackId": "2vlWFxvJ1sapI9yULzm6ma",
+      "total": 13562782,
+      "daily": 986
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Penis Song",
+      "trackId": "1jcSttQBrx05TkPgnB9vZl",
+      "total": 13085766,
+      "daily": 1475
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Victory Lap",
+      "trackId": "4KMj9aLrNc45H9ETYz7IcE",
+      "total": 12885441,
+      "daily": 2101
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Church (feat. Xperience)",
+      "trackId": "3R68iUwgcJ6cXSbjt3kRjw",
+      "total": 12568153,
+      "daily": 1055
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Miracle (feat. Dan Caplen)",
+      "trackId": "7seAyaKcGBCEJff8Zf3YyU",
+      "total": 12549280,
+      "daily": 1170
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Fallin",
+      "trackId": "7nCYx2tac5Jl4GUhbleKNI",
+      "total": 12429771,
+      "daily": 953
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Zara (feat. Abir)",
+      "trackId": "4IlBZXHTwY7DoxA4piiHtM",
+      "total": 12047932,
+      "daily": 897
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Castle",
+      "trackId": "5Zr7Kzw91ragcuFOn7JECm",
+      "total": 11673282,
+      "daily": 1606
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "SORRY (feat. Livingston)",
+      "trackId": "2xdlnPo1FNocJFHrikJGQd",
+      "total": 11443094,
+      "daily": 10564
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - NEIKED Remix",
+      "trackId": "1ld1GrVodTteGGLDwbGHku",
+      "total": 11256740,
+      "daily": 1792
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Buckshot (feat. KRS-One & DJ Premier)",
+      "trackId": "3YZh2uUAZukJOF3WzHxiJP",
+      "total": 11147954,
+      "daily": 809
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "I Don't Belong In This Club - Breathe Carolina Remix",
+      "trackId": "7z33dsbWOTPU7L3MinymYc",
+      "total": 10326405,
+      "daily": 586
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Hold Your Head Up",
+      "trackId": "61hJaUtcgY2buPeBZz4jq7",
+      "total": 10060756,
+      "daily": 1429
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Bolo Tie (feat. YG)",
+      "trackId": "1yePDglJTWekynhdauhWQj",
+      "total": 9284102,
+      "daily": 587
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Inhale Deep",
+      "trackId": "6WzG7cTStIt9Cfp4lHu0CU",
+      "total": 8654013,
+      "daily": 1372
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - Haywyre Remix",
+      "trackId": "4yPWiRV6FrQTGm6qBX0WUV",
+      "total": 8542199,
+      "daily": 730
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "1984",
+      "trackId": "3qlcuL2Bse822wDSXmg1YE",
+      "total": 8317656,
+      "daily": 4360
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - Lost Frequencies Remix",
+      "trackId": "4y5aj99vmiUJWQH933sqZ7",
+      "total": 8004970,
+      "daily": 1222
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - R3hab Remix",
+      "trackId": "2cKejVBonhpu4kotJbWRHb",
+      "total": 7968597,
+      "daily": 375
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "HEROES (feat. DJ Premier)",
+      "trackId": "1fOmmZ1T1qHyhx5yt5IOS2",
+      "total": 7188668,
+      "daily": 2140
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Church (feat. Geo of Blue Scholars)",
+      "trackId": "3ra1jLBrMWFtvt0tFdfyyE",
+      "total": 7005635,
+      "daily": 196
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - Vintage Culture & Bruno Be Remix",
+      "trackId": "3vWtVy3fjfNzqQh7Je4l7Z",
+      "total": 6989606,
+      "daily": 888
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Fake ID",
+      "trackId": "4Jrhb8sADUDmY73ijCjwdg",
+      "total": 6678927,
+      "daily": 506
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "FAITHFUL (feat. NLE Choppa)",
+      "trackId": "3D34O76FhHzr5oFGpV3By4",
+      "total": 5903606,
+      "daily": 1108
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "White Privilege",
+      "trackId": "12pC5zaEg3DBUCBxaAT0Fc",
+      "total": 5874520,
+      "daily": 504
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Firse Machayenge (Remix)",
+      "trackId": "5c3wEyCcw1enilCGmC9czZ",
+      "total": 5359914,
+      "daily": 722
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "B-Boy",
+      "trackId": "2FxaIGILPih9SwIABfdvjk",
+      "total": 5342094,
+      "daily": 550
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Love Song",
+      "trackId": "6mnz2ZbmU7RKASBRBmiG4g",
+      "total": 5241490,
+      "daily": 1129
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "I Said Hey",
+      "trackId": "5IsiPwtgpvIcccb4TJYOU8",
+      "total": 4864871,
+      "daily": 306
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "DAY YOU DIE (feat. Sarah Barthel of Phantogram)",
+      "trackId": "1e2jQhHijtvLCNUTZ1MKbC",
+      "total": 4700989,
+      "daily": 2100
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "HIND'S HALL 2 (feat. anees, MC Abdul, & Amer Zahr)",
+      "trackId": "77BOEFqrLR4GorhMHwUYoG",
+      "total": 4358233,
+      "daily": 8232
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "I Love Myself (feat. Macklemore)",
+      "trackId": "2BlIvqI6iRD69wmbWEWJBQ",
+      "total": 4311103,
+      "daily": 384
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "I NEED",
+      "trackId": "2FYPMnyhe2SkiOhJcokfQd",
+      "total": 4073265,
+      "daily": 1185
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - Live from Abbey Road Studios",
+      "trackId": "1kgL8IliigJFgHSdROHAlz",
+      "total": 3852306,
+      "daily": 474
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "fucked up",
+      "trackId": "7iZwny5Hp9zUObbcDsGHzT",
+      "total": 2912142,
+      "daily": 10134
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "TAIL LIGHTS (feat. Morray)",
+      "trackId": "6qX6BPAAdY25dCjzKVLy33",
+      "total": 2894643,
+      "daily": 1309
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "I KNOW (feat. charlieonnafriday)",
+      "trackId": "4p6zi9wy7ehiOndEuMs9mG",
+      "total": 2708704,
+      "daily": 805
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - DJ Premier Remix",
+      "trackId": "1SImfatDnwyuiWtoDF1Zz9",
+      "total": 2607897,
+      "daily": 219
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "GRIME",
+      "trackId": "6G0znEydQMnf6pExz7uJHA",
+      "total": 2529525,
+      "daily": 826
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "NO BAD DAYS (feat. Armani White, Collett)",
+      "trackId": "3qrxa00Q7sONw0HuvDA3Pg",
+      "total": 2234931,
+      "daily": 1622
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "LOST/SUN COMES UP (feat. Jackson Lee Morgan)",
+      "trackId": "2QjDRI4Vwf20UeCBPOjhXV",
+      "total": 2149738,
+      "daily": 660
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Claiming the City",
+      "trackId": "2b2PPF2dMbgDZVIDsS5ZT5",
+      "total": 2046496,
+      "daily": 161
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Bush Song",
+      "trackId": "1QTaWQcd85fjVcVNiBkHxz",
+      "total": 1857175,
+      "daily": 179
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "City Don't Sleep",
+      "trackId": "63GKFKG3enu4dMhsil0QG0",
+      "total": 1845711,
+      "daily": 145
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "The Magic",
+      "trackId": "7tlFkEJZXoZmMbY8erwRN2",
+      "total": 1807171,
+      "daily": 172
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Ego",
+      "trackId": "3scmbeDBz5pzvYby4NW0LM",
+      "total": 1758237,
+      "daily": 146
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - Botnek Remix",
+      "trackId": "4a0iU7VTxdIUrEYG1TSKiM",
+      "total": 1728256,
+      "daily": 120
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "GOD'S WILL (feat. Vic Daggs II)",
+      "trackId": "32Pvw2mfdVkGJdxvj605do",
+      "total": 1728126,
+      "daily": 611
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "TEARS",
+      "trackId": "55cHcCOWhEJwQhApm6QOqI",
+      "total": 1712017,
+      "daily": 492
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "As Soon As I Wake Up",
+      "trackId": "3vzdUuDEKqOH6qnlMG6JRz",
+      "total": 1685554,
+      "daily": 140
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Contradiction",
+      "trackId": "3LMBDHdxjHWkYS0cICXRa7",
+      "total": 1520558,
+      "daily": 100
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Remember High School",
+      "trackId": "71RbfX7M0i6ueXWB8wdoi4",
+      "total": 1349444,
+      "daily": 101
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Good for You",
+      "trackId": "4Y3xAHzPolNwbf6TXQcxRh",
+      "total": 1320244,
+      "daily": 94
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Soldiers",
+      "trackId": "3AJQvNqdcfoBX12E5PvZIX",
+      "total": 1312392,
+      "daily": 106
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "My Language",
+      "trackId": "73Dz94EY2hY74udV4xaGQC",
+      "total": 1305614,
+      "daily": 91
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Intro",
+      "trackId": "5lB3pOFczckJmgFuiemvzL",
+      "total": 1179412,
+      "daily": 92
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - Rudimental VIP",
+      "trackId": "2MLis7d8LahXa4TFn3gr89",
+      "total": 1047516,
+      "daily": 98
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - Camelphat Remix",
+      "trackId": "0rxJu2e971ALojjfEXtY0N",
+      "total": 1018536,
+      "daily": 24
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - Junior Sanchez Remix",
+      "trackId": "4Seru3XCZsCP1lrbBaljwu",
+      "total": 732956,
+      "daily": 68
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "I Don't Belong In This Club - MIME Remix",
+      "trackId": "31XTdnZiWwKGOxthZg69C4",
+      "total": 653152,
+      "daily": 47
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - GRiZ Remix",
+      "trackId": "4Ugo71Vhp7QzvXToz5uIGs",
+      "total": 548005,
+      "daily": 46
+    },
+    {
+      "artist": "Macklemore",
+      "artistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - Mr. Jukes Remix",
+      "trackId": "6jMQUV0c5QJ2oeqGV8D8zF",
+      "total": 277324,
+      "daily": 31
+    }
+  ]
+}

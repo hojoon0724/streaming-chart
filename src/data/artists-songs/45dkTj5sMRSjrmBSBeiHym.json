@@ -1,0 +1,958 @@
+{
+  "artist": "Tate McRae",
+  "artistId": "45dkTj5sMRSjrmBSBeiHym",
+  "songs": [
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "greedy",
+      "trackId": "4kfSXPK13aXkLzuz02hCSC",
+      "total": 1840036652,
+      "daily": 1460676
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "you broke me first",
+      "trackId": "4l0RmWt52FxpVxMNni6i63",
+      "total": 1756799732,
+      "daily": 848770
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "10:35",
+      "trackId": "6BePGk3eCan4FqaW2X8Qy3",
+      "total": 710075488,
+      "daily": 406339
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "exes",
+      "trackId": "4E63weMCaNZuGPEFMnuEi8",
+      "total": 627061192,
+      "daily": 657323
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "she's all i wanna be",
+      "trackId": "7l9IqDtVWJurTvkQHq1BGh",
+      "total": 609614468,
+      "daily": 510909
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "that way",
+      "trackId": "7l97ElWmIdVHWUaOeeU5ZC",
+      "total": 553432582,
+      "daily": 344566
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Sports car",
+      "trackId": "4il87YHqSV9UqbBkXM7z7m",
+      "total": 381733051,
+      "daily": 1693940
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "You",
+      "trackId": "2cc8Sw1OnCuA5bV8nqWqpE",
+      "total": 354730693,
+      "daily": 127732
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "One Day",
+      "trackId": "4Ey0LK1HzksUqm9JLzzKuD",
+      "total": 324714118,
+      "daily": 112726
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "It's ok I'm ok",
+      "trackId": "3OfqwyE7RrZrtuxCRixfII",
+      "total": 318768105,
+      "daily": 833998
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "run for the hills",
+      "trackId": "51hyZpbJlIgZIaX3TtMxmu",
+      "total": 315550872,
+      "daily": 599621
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "feel like shit",
+      "trackId": "03zuGqxMwUFFmCwusq0WKE",
+      "total": 254974637,
+      "daily": 129373
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "stupid",
+      "trackId": "0gIxF0RR0miqWLs2fPQGBu",
+      "total": 250150160,
+      "daily": 65248
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Revolving door",
+      "trackId": "541sN2qNfIlllGn9nGOQoC",
+      "total": 233732904,
+      "daily": 1294286
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Teenage Mind",
+      "trackId": "1vdjJ55uw3WOuu7ZSyABFP",
+      "total": 206417064,
+      "daily": 55232
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "chaotic",
+      "trackId": "4bt7eqP7mfWduRBKEpCAzM",
+      "total": 173547827,
+      "daily": 107208
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "lie to me",
+      "trackId": "4f9IfFvBFm7Gsf1IVEudyf",
+      "total": 154981192,
+      "daily": 67798
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "2 hands",
+      "trackId": "0B7tnohfi83RQquo2JRHrL",
+      "total": 151909192,
+      "daily": 320164
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "uh oh",
+      "trackId": "6qmvAJSUfVGMubvI2awW7p",
+      "total": 136222889,
+      "daily": 173458
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "working",
+      "trackId": "31sSFHIe4NaxltVFOEIcTa",
+      "total": 131589583,
+      "daily": 35668
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "rubberband",
+      "trackId": "2E8IlL26PwtZq7CqAHBBUw",
+      "total": 120493251,
+      "daily": 66816
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "r u ok",
+      "trackId": "2ng0NW0HhJK0KTNZzZajRv",
+      "total": 107263093,
+      "daily": 27513
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "what would you do?",
+      "trackId": "4ewmHD3aRBmLyTsbGreNLw",
+      "total": 99195344,
+      "daily": 57977
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "slower",
+      "trackId": "4X3Br7EVc8oy44zUwU1z5w",
+      "total": 98908704,
+      "daily": 37378
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "I know love (feat. The Kid LAROI)",
+      "trackId": "4xvEn1vhrF9JbPFWqTXsH4",
+      "total": 94406083,
+      "daily": 363784
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "hurt my feelings",
+      "trackId": "4mFcwFOlSCxp6hjemRXwpd",
+      "total": 90645175,
+      "daily": 112622
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Dear god",
+      "trackId": "2ETQsbiuGm2WLOSOr2I19A",
+      "total": 84362522,
+      "daily": 340846
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "What I Want (feat. Tate McRae)",
+      "trackId": "04emojnbYkrRmv5qtJcgVP",
+      "total": 80940484,
+      "daily": 1728537
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "we're not alike",
+      "trackId": "0tFRxPQHvAUMTbWYRJUo8R",
+      "total": 80462217,
+      "daily": 100030
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "don't come back",
+      "trackId": "3RhyHYnYxuGnP8njFlNxHq",
+      "total": 79838557,
+      "daily": 49360
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "tear myself apart",
+      "trackId": "4AuYFl8wn6502LiHDTr0C9",
+      "total": 76816388,
+      "daily": 25720
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Miss possessive",
+      "trackId": "4Q9ExJGFgL9Jd9kmYH3nXs",
+      "total": 74360090,
+      "daily": 332565
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Purple lace bra",
+      "trackId": "2bqLj0NvdtGbPCl9PdBtP2",
+      "total": 73526943,
+      "daily": 290261
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "guilty conscience",
+      "trackId": "2wIcebwzceIwgonsDICx6P",
+      "total": 73087243,
+      "daily": 175322
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "all my friends are fake",
+      "trackId": "3xF2FcXiJjWQUqUYvrp4NT",
+      "total": 65120187,
+      "daily": 14721
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Boys Ain't Shit (feat. Tate McRae & Audrey Mika)",
+      "trackId": "7tMEUrMaMzE0YptCGfsXzt",
+      "total": 64500609,
+      "daily": 7617
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Siren sounds (bonus)",
+      "trackId": "6A18pcBX8QZGwI8EkR7aIP",
+      "total": 63919919,
+      "daily": 333286
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "u love u (with Tate McRae)",
+      "trackId": "4RCpHnkhMmm67EKbI4aEO7",
+      "total": 62669407,
+      "daily": 12312
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Just Keep Watching (From F1® The Movie)",
+      "trackId": "2yWlGEgEfPot0lv3OAjuG3",
+      "total": 61873527,
+      "daily": 2385869
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "cut my hair",
+      "trackId": "2byJqu4cw657Y7G6nFogkG",
+      "total": 61873107,
+      "daily": 66516
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "bloodonmyhands (feat. Flo Milli)",
+      "trackId": "0DA8aZZvG73AijDYT00ki1",
+      "total": 59536655,
+      "daily": 292656
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "that way - with Jeremy Zucker",
+      "trackId": "6W4SftknKhWj0iFoHN7aYU",
+      "total": 57044231,
+      "daily": 10576
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "grave",
+      "trackId": "6jDT7DB6k0psPX0nWNDI1K",
+      "total": 56774187,
+      "daily": 65798
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "think later",
+      "trackId": "44c9MsAwxoAdAYpCVRBAG1",
+      "total": 52538401,
+      "daily": 86547
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "bad ones",
+      "trackId": "6CYT0souHUHKTO4EMzTUFg",
+      "total": 50437843,
+      "daily": 28623
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "wish i loved you in the 90s",
+      "trackId": "2wkIdVB8HsWyMur3Q4shlZ",
+      "total": 44549621,
+      "daily": 32153
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "vicious",
+      "trackId": "7nIPkUEV3HYE7yzXHvGOVB",
+      "total": 43894841,
+      "daily": 29661
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Signs",
+      "trackId": "6DDEfqOoLlasIbPdzboOu4",
+      "total": 41592495,
+      "daily": 135358
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "go away",
+      "trackId": "40yVW4Ywyxz8xkNcuLbP1N",
+      "total": 40006886,
+      "daily": 26710
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "what's your problem?",
+      "trackId": "3yoIliXhnorEdfTZ93W2YL",
+      "total": 39609877,
+      "daily": 42928
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "messier",
+      "trackId": "53H3ajzHjI5M9ZeewvRO3h",
+      "total": 38736123,
+      "daily": 54376
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "you broke me first - Luca Schreiner Remix",
+      "trackId": "0kTIH2zbc1jvIHoCOCoNnr",
+      "total": 38087137,
+      "daily": 11877
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "plastic palm trees",
+      "trackId": "7Moee27EB8Qc4pNTzB870r",
+      "total": 36529179,
+      "daily": 46497
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Heather - Spotify Singles",
+      "trackId": "2GSLoT7abyYGchSSDCpWEI",
+      "total": 36447041,
+      "daily": 20782
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "calgary",
+      "trackId": "01BDK4Skxzh5mqnTbQzWGy",
+      "total": 36093829,
+      "daily": 37747
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Greenlight",
+      "trackId": "56LQyaXsYWQZ2b7OPLAKEO",
+      "total": 34569975,
+      "daily": 132186
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "stay done",
+      "trackId": "2zScQCfO2BKtR0Yk8dtELN",
+      "total": 33498704,
+      "daily": 36080
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Like I do",
+      "trackId": "6jp9WjJtKF0Fgks0Y9Kkni",
+      "total": 33187894,
+      "daily": 133974
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Means I care",
+      "trackId": "63bgBHUBX1rutghlrXZrvp",
+      "total": 32834325,
+      "daily": 114998
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "You - Topic Remix",
+      "trackId": "5bbtc9t6FcerXp732H2XNu",
+      "total": 31649219,
+      "daily": 4721
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "greedy sped up",
+      "trackId": "6y6KaCid6AI0P5h8ozb0eZ",
+      "total": 30818594,
+      "daily": 16220
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "No I'm not in love",
+      "trackId": "7a1D1K7sgFtumXN02ZdbUd",
+      "total": 30799073,
+      "daily": 121238
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "want that too",
+      "trackId": "5BLxf0dPOTKMFFgUEp8M6T",
+      "total": 29248335,
+      "daily": 32697
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Hung up on You",
+      "trackId": "3r2FIyRibvMaevfGdOGLQ0",
+      "total": 28585969,
+      "daily": 5484
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Nostalgia",
+      "trackId": "1YZOcaGiN1cCwANvG3Ib9G",
+      "total": 27652793,
+      "daily": 103806
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "10:35 (feat. Tate McRae) - Joel Corry Remix",
+      "trackId": "5b9DCQzPV6KEg9b6WB8v4e",
+      "total": 25111707,
+      "daily": 10012
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Slip",
+      "trackId": "1RI4G0KZES2ZQgKCF3mgOQ",
+      "total": 24869168,
+      "daily": 21099
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "don't be sad",
+      "trackId": "02iW5boMzeBDVRI0dRE1Yw",
+      "total": 24116971,
+      "daily": 4913
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "you broke me first - Gryffin Remix",
+      "trackId": "3Ni9jLlq3xPoOKv1HYlQrH",
+      "total": 24079915,
+      "daily": 7960
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "boy x",
+      "trackId": "4UbItCyP9q7MvuVogbDCgC",
+      "total": 22762517,
+      "daily": 15748
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "i'm so gone",
+      "trackId": "6uNv4npQ8FZLsH7naE9GK4",
+      "total": 22312638,
+      "daily": 14408
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "hate myself",
+      "trackId": "1bXm6XU3SYSqQGLTRhUSfm",
+      "total": 22006013,
+      "daily": 16205
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "you're so cool",
+      "trackId": "5XLgE4yoU9MyR5vkjNxpdF",
+      "total": 19398944,
+      "daily": 14882
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Shoulder to Shoulder",
+      "trackId": "4XWhsNPaqAbZR7hIhx2bSE",
+      "total": 18886549,
+      "daily": 5359
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "you broke me first - Spotify Singles",
+      "trackId": "4SBahN5KfX1RLG9XLNIlJA",
+      "total": 17182817,
+      "daily": 4198
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "happy face",
+      "trackId": "28QGhVCx80IcpEb1Gswdk0",
+      "total": 16899543,
+      "daily": 5189
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "greedy - cassö remix",
+      "trackId": "4MhxagNeAqtTdy9ht8tQo5",
+      "total": 16196137,
+      "daily": 29527
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Distant",
+      "trackId": "2fHttjIlcNo8rGCUZVMY1B",
+      "total": 15115475,
+      "daily": 3908
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "i still say goodnight",
+      "trackId": "2RwpoqhsYOZSGsF69KqjwP",
+      "total": 14449865,
+      "daily": 11041
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "greedy - Alok remix",
+      "trackId": "1RhdVvfQwmQp0bg7NF58k0",
+      "total": 14089079,
+      "daily": 24713
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "she's all i wanna be - Acoustic",
+      "trackId": "3iJVCCW5equhyyZcxrMABz",
+      "total": 13822348,
+      "daily": 9438
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Kids Are Alright",
+      "trackId": "3OXjT67T0GiQk2IcVbsmgE",
+      "total": 13657413,
+      "daily": 2685
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Drown",
+      "trackId": "7zmGroa83F8IqoGdN36Anr",
+      "total": 13504215,
+      "daily": 4535
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "exes - Regard Remix",
+      "trackId": "4NXziaKXuKQAuuJ1Sjk5yA",
+      "total": 11869156,
+      "daily": 9892
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "greedy acoustic",
+      "trackId": "7LoyqdrF51XVflrSKFHH1a",
+      "total": 10904512,
+      "daily": 27703
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Hard to Find",
+      "trackId": "0CRgOVkJY7kO8FkJ4DCUG4",
+      "total": 9932145,
+      "daily": 2149
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "10:35 (feat. Tate McRae) - Tiësto’s New Year’s Eve VIP Remix",
+      "trackId": "3CKbz7DsOPl94W9duLx9HK",
+      "total": 9787960,
+      "daily": 3031
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Can't Get It Out",
+      "trackId": "5jaeLgE8u1dJjgfLST8BPM",
+      "total": 7592884,
+      "daily": 2130
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "You - Acoustic",
+      "trackId": "7IoyTDxOTWYkHx1f3oWhtt",
+      "total": 7501790,
+      "daily": 3846
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "what would you do? - Galantis Remix",
+      "trackId": "7CNnr17XNq6rvU2LM3H7MD",
+      "total": 7341317,
+      "daily": 1766
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Darkest Hour - from the Amazon Original Series PANIC",
+      "trackId": "3gHMshV2IfQAM3YWwKXOlQ",
+      "total": 7010475,
+      "daily": 2717
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "slower - NOTD Remix",
+      "trackId": "4JtQe8OMIC2HufEbxj7gAK",
+      "total": 6718995,
+      "daily": 3805
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "working (feat. Khalid) - TELYKast Summer Remix",
+      "trackId": "1SyK3kEq2TN5MV0eGGjvjx",
+      "total": 5515953,
+      "daily": 1517
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "2 hands - Don Diablo remix",
+      "trackId": "1y8vNextjCzt568k6cHAjx",
+      "total": 5495370,
+      "daily": 17693
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "It's ok I'm ok - Live From Madison Square Garden",
+      "trackId": "1lSQtKJ5PlGvZqV4YzDafS",
+      "total": 5446140,
+      "daily": 18188
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "run for the hills (Spotify OUTSIDE Version) - Live from Malibu",
+      "trackId": "1gMv5QSRDJ6SwcQGbTtAtB",
+      "total": 4988912,
+      "daily": 3906
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "that way - Jonasu Remix",
+      "trackId": "6Asu7oyQxcmONn4HypXV7n",
+      "total": 4720158,
+      "daily": 889
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "It's ok I'm ok - Ian Asher remix",
+      "trackId": "6GAvlyyIZM9uvNa5VPSFMK",
+      "total": 4617076,
+      "daily": 7758
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "It's ok I'm ok - slowed down",
+      "trackId": "0Urf6H1DAxvQXpD7sjsvKe",
+      "total": 4194560,
+      "daily": 11988
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "You - KC Lights Remix",
+      "trackId": "0ZxvazjsaB9sdRxaKcJBVx",
+      "total": 3801747,
+      "daily": 366
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "exes - Syn Cole Remix",
+      "trackId": "2YyWiAibyL5Eo18x4kkE4b",
+      "total": 3542597,
+      "daily": 1888
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "greedy - Ian Asher Remix",
+      "trackId": "3qsiiKAipvnDao6NuAzlTQ",
+      "total": 3145940,
+      "daily": 8242
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "10:35 (feat. Tate McRae) - PAJANE Remix",
+      "trackId": "3LEn9BtosyUSvQRfMlAcFE",
+      "total": 2715440,
+      "daily": 537
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Sports car - TELYKAST Remix",
+      "trackId": "0ghc4iHJEZTAIAKUI7YxA7",
+      "total": 2008013,
+      "daily": 15124
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "greedy slowed down",
+      "trackId": "2OoIhKYzzN5s6pzGZKdiM1",
+      "total": 1857820,
+      "daily": 1500
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "10:35 (feat. Tate McRae) - Sped Up Version",
+      "trackId": "2k9Mr714fkxzFvZYSKBdsv",
+      "total": 1738204,
+      "daily": 439
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "It's ok I'm ok - sped up",
+      "trackId": "1fUjDb9ZYdGFbHBQOrK6oy",
+      "total": 1214787,
+      "daily": 2439
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "slower - Moore Kismet Remix",
+      "trackId": "58j9yvUXGuQiCEHBDdwRDB",
+      "total": 690847,
+      "daily": 320
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "10:35 - Mixed",
+      "trackId": "6tRjzIqlyNyVcNvZYPYHvl",
+      "total": 589540,
+      "daily": 510
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Revolving door - Lavern remix",
+      "trackId": "6AiZxO930ZHxwyYjigyCgc",
+      "total": 483553,
+      "daily": 7475
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Sports car - Devault Remix",
+      "trackId": "2fhM3JCr2cPEgwXvHzJOcr",
+      "total": 360915,
+      "daily": 5164
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "It's ok I'm ok - instrumental",
+      "trackId": "0p6pbPGJgWyhiskzD2CZlQ",
+      "total": 355208,
+      "daily": 1027
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Greenlight - Sirius XM live in LA",
+      "trackId": "2dzndAE1Z8RLznB7Ou1JFD",
+      "total": 260850,
+      "daily": 2299
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Sports car - slowed down",
+      "trackId": "4xMpu2ybzt1m9Q8GpgA0se",
+      "total": 210239,
+      "daily": 2019
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "It's ok I'm ok - Sirius XM live in LA",
+      "trackId": "6hrisLEKPTgVhxwZKH8Bif",
+      "total": 197931,
+      "daily": 1493
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Sports car - sped-up",
+      "trackId": "6mHGj1DDjm2XXxj4QWlcBx",
+      "total": 170869,
+      "daily": 1322
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Revolving door - slowed down",
+      "trackId": "0oER2Qw5Xq72SIOsJeZSvG",
+      "total": 147623,
+      "daily": 2026
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Revolving door - Louis The Child remix",
+      "trackId": "6hSzNFmW6LIGDzasoz2Rax",
+      "total": 103784,
+      "daily": 1381
+    },
+    {
+      "artist": "Tate McRae",
+      "artistId": "45dkTj5sMRSjrmBSBeiHym",
+      "trackName": "Revolving door - sped-up",
+      "trackId": "4nvvPQ01t8wKia9zUTCHmT",
+      "total": 101085,
+      "daily": ""
+    }
+  ]
+}

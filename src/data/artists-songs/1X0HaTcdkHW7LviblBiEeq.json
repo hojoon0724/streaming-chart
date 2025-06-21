@@ -1,0 +1,30 @@
+{
+  "artist": "Rosa Walton",
+  "artistId": "1X0HaTcdkHW7LviblBiEeq",
+  "songs": [
+    {
+      "artist": "Rosa Walton",
+      "artistId": "1X0HaTcdkHW7LviblBiEeq",
+      "trackName": "I Really Want to Stay at Your House",
+      "trackId": "7mykoq6R3BArsSpNDjFQTm",
+      "total": 308932005,
+      "daily": 239582
+    },
+    {
+      "artist": "Rosa Walton",
+      "artistId": "1X0HaTcdkHW7LviblBiEeq",
+      "trackName": "Turning Up The Flowers",
+      "trackId": "3GPJ5PAuo7cwYtcl0wgVYz",
+      "total": 3814595,
+      "daily": 9752
+    },
+    {
+      "artist": "Rosa Walton",
+      "artistId": "1X0HaTcdkHW7LviblBiEeq",
+      "trackName": "blow - Rosa Let's Eat Grandma Rework",
+      "trackId": "0zdz2Ugr8AAkiYUjKvC31c",
+      "total": 1119441,
+      "daily": 376
+    }
+  ]
+}

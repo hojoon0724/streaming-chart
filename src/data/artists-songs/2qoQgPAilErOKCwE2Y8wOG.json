@@ -1,0 +1,878 @@
+{
+  "artist": "GloRilla",
+  "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+  "songs": [
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+      "trackId": "3tFed7YsjGnIfxeLEQwx3R",
+      "total": 378655553,
+      "daily": 636274
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Yeah Glo!",
+      "trackId": "5A8xI7PN4WDe9e61xEdt94",
+      "total": 279045621,
+      "daily": 267610
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Tomorrow 2 (with Cardi B)",
+      "trackId": "0WNfQxDGaPTl0yogcMR5v1",
+      "total": 209143287,
+      "daily": 135285
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Wanna Be (with Megan Thee Stallion)",
+      "trackId": "7mOC6phfrfz3jfigg1aGsE",
+      "total": 207805550,
+      "daily": 221329
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "TGIF",
+      "trackId": "31TVho4kOuAeRmLYGIEuWn",
+      "total": 200860609,
+      "daily": 314935
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "trackId": "5xeSd4HgzrYpNLEf3LfYLK",
+      "total": 195535098,
+      "daily": 416189
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "F.N.F (Let's Go)",
+      "trackId": "3ChelBY31YVMgmdaVkqyaZ",
+      "total": 87610097,
+      "daily": 32757
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "BOP (feat. GloRilla)",
+      "trackId": "0mpDXW1y4X7MlyPecWAlzJ",
+      "total": 51200050,
+      "daily": 72763
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "On Wat U On (with GloRilla)",
+      "trackId": "2Q2mcoXVkioh4OBcL8mm4p",
+      "total": 38429757,
+      "daily": 21776
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "HOLLON",
+      "trackId": "1Tt4m8l00BI85uOr5EqXUh",
+      "total": 34071347,
+      "daily": 46224
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Leave the Club (feat. Lil Durk & GloRilla)",
+      "trackId": "0zP8VSgyYSVqrSXTYTn9Su",
+      "total": 34020746,
+      "daily": 17324
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "I LUV HER (feat. T-Pain)",
+      "trackId": "6jQeSeqn9AdsCe0NMrylxH",
+      "total": 31432744,
+      "daily": 72667
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Lick Or Sum",
+      "trackId": "132Yd321hAG0oOz3lbiqig",
+      "total": 29965728,
+      "daily": 19367
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "F.N.F. (Let's Go) - Remix",
+      "trackId": "0TiYaeTyGaRgKPPlAQuxw0",
+      "total": 29621860,
+      "daily": 11963
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "LET HER COOK",
+      "trackId": "1nF1SpkNfgPPozcXh2hvGU",
+      "total": 29475160,
+      "daily": 95282
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Wanna Be (with Megan Thee Stallion & Cardi B) - Remix",
+      "trackId": "089Xku2o3MyCSJ2JT38ACf",
+      "total": 28845595,
+      "daily": 39062
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Killin' It Girl (feat. GloRilla)",
+      "trackId": "2GzwtXPlI0gZEOS6xFOZ2j",
+      "total": 22636948,
+      "daily": ""
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "ILBB2 (feat. GloRilla)",
+      "trackId": "6rqskah6GlMDlWAvkUym0C",
+      "total": 21122356,
+      "daily": 94775
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "In My Bag (feat. GloRilla)",
+      "trackId": "0C5StZvfdm8pjnZP7Yh3pw",
+      "total": 20690195,
+      "daily": 38117
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "All Dere (feat. Moneybagg Yo)",
+      "trackId": "0KLbL3svWeZyhE02nSW8QG",
+      "total": 18523647,
+      "daily": 26950
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "She Got It (feat. Coco Jones & GloRilla)",
+      "trackId": "68TlifACKo87EevLEQd1HV",
+      "total": 16932944,
+      "daily": 68324
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Redbone (with GloRilla)",
+      "trackId": "3HicVYRwRPSUWUMQW4tv2F",
+      "total": 16877149,
+      "daily": 48353
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Shake Dat Ass (Twerk Song) (feat. GloRilla)",
+      "trackId": "37cZknur7pj0jhWkHyAf44",
+      "total": 16745256,
+      "daily": 73231
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "HOW I LOOK (feat. Megan Thee Stallion)",
+      "trackId": "5JeRMplL0U8IWbC3ZTaxLX",
+      "total": 15733756,
+      "daily": 27325
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Blessed",
+      "trackId": "2PlPqt4Jm809dxUo91i5di",
+      "total": 13431063,
+      "daily": 8128
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Keep Dat Nigga (Part 2) (feat. GloRilla, Kali & Big Boss Vette)",
+      "trackId": "4pgeI9ohPGzSDeKE1D4dYf",
+      "total": 13392799,
+      "daily": 6267
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Bad Bih 4 Ya (feat. Boston Richey)",
+      "trackId": "6oXwnROJNUkozh28jT9O1V",
+      "total": 13099286,
+      "daily": 47117
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "FTCU (feat. GloRilla & Gangsta Boo)",
+      "trackId": "4lxTmHPgoRWwM9QisWobJL",
+      "total": 13057396,
+      "daily": 3262
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Can You Please (feat. GloRilla)",
+      "trackId": "3bOFohnWrp5aPXKaPVAWVj",
+      "total": 11492553,
+      "daily": 36371
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Accent (feat. GloRilla)",
+      "trackId": "2ubbNWdUiMvqyMMzN7U5ev",
+      "total": 11234689,
+      "daily": 10482
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "WYD (with GloRilla & Big Boogie)",
+      "trackId": "4Z3xZgvuCVn5ds2YdpZVaS",
+      "total": 10783465,
+      "daily": 31286
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Internet Trolls (feat. Hitkidd)",
+      "trackId": "7KA9GDEQiMeiuBKunBdwNk",
+      "total": 9695260,
+      "daily": 1731
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Finesse (feat. GloRilla)",
+      "trackId": "6zdGkPEBTBojHWZmEDU8zE",
+      "total": 9605508,
+      "daily": 6503
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Tomorrow",
+      "trackId": "7v6B1kRUvNbkVGfqSkrwuS",
+      "total": 9528802,
+      "daily": 2539
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "PROCEDURE (feat. Latto)",
+      "trackId": "0NrMjaEIssvhuzUhQOEwmJ",
+      "total": 9403844,
+      "daily": 18333
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Wrong One (GloRilla, Gloss Up, Slimeroni feat. K Carbon, Aleza, Tay Keith)",
+      "trackId": "5QashJL2US3XEfkJk1q74y",
+      "total": 7476461,
+      "daily": 3492
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Lay Down (feat. GloRilla) - Remix",
+      "trackId": "65XnjGELsYIUOLsEYZKwKn",
+      "total": 7175939,
+      "daily": 18396
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Bad Kids (feat. GloRilla)",
+      "trackId": "0ZiBuLalszaqnmfQ7XrfZn",
+      "total": 7091719,
+      "daily": 10634
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Unh Unh",
+      "trackId": "6NBGEI2cU71eT8wM98bF2d",
+      "total": 6525091,
+      "daily": 1478
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Nut Quick",
+      "trackId": "5HlRNODfFSmMcKJkO3zJzv",
+      "total": 6251055,
+      "daily": 2726
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Ex’s (Phatnall Remix) (with Lil Durk)",
+      "trackId": "7M3h8JeDhIQIsdQdMrWohi",
+      "total": 6216777,
+      "daily": 1075
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Pop It (GloRilla, Mike WiLL Made-It)",
+      "trackId": "55fvRisws7J3AdprlckwRs",
+      "total": 5551373,
+      "daily": 8670
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "STEP (feat. BossMan Dlow)",
+      "trackId": "4agcKl7c21pVR2SIkjag40",
+      "total": 5401194,
+      "daily": 7048
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "JUST SAY THAT (feat. GLORILLA)",
+      "trackId": "1GumJnMqknYzRT9pyGOU7Z",
+      "total": 5283321,
+      "daily": 2005
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "DON’T DESERVE (feat Muni Long)",
+      "trackId": "3e5Hzj05PYJKvNHd5gBuRc",
+      "total": 4630603,
+      "daily": 5974
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "I AIN’T GOING",
+      "trackId": "0xpzphW5eqBZkBFG5Miwcf",
+      "total": 4326053,
+      "daily": 4559
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "No Bih",
+      "trackId": "3WnxnjGIwQ7rJ7igCOu93l",
+      "total": 4198740,
+      "daily": 4710
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "STOP PLAYING",
+      "trackId": "0fuRuaV8XYN6h5kWrJ57rQ",
+      "total": 4182612,
+      "daily": 4177
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
+      "trackId": "5y2cCCIlatBeApYP5G8sEM",
+      "total": 4135352,
+      "daily": 5615
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Typa",
+      "trackId": "08L2vgqPpiLt7PpwMHbbk1",
+      "total": 4119156,
+      "daily": 231142
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "NEVER FIND (feat. K Carbon)",
+      "trackId": "059ND5uzljir164IZK7yHa",
+      "total": 3999853,
+      "daily": 11740
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Finesse Da Glo (feat. Finesse2Tymes)",
+      "trackId": "1nKgk560ybSt7eZLtFAa9p",
+      "total": 3918405,
+      "daily": 4475
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "TGIF - Extended",
+      "trackId": "0JBBjOk9bkqNmKBAiygfoP",
+      "total": 3824826,
+      "daily": 6451
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Opp Shit",
+      "trackId": "2lynIxLBNW2SrBeDOVpxyB",
+      "total": 3516307,
+      "daily": 2648
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Get In There (feat. GloRilla)",
+      "trackId": "5BZzWEWIncSWZyytL5sBmg",
+      "total": 3441641,
+      "daily": 5652
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Outside",
+      "trackId": "5wm2Frah0BusBBWHP10Dkh",
+      "total": 3328865,
+      "daily": 1252
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "No More Love",
+      "trackId": "4LDsVBEtxW7Y2liU2wJokp",
+      "total": 3118657,
+      "daily": 2549
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Never Need (feat. GloRilla & KARRAHBOOO)",
+      "trackId": "2G2uOM1Jex8jtjt4Skqr2c",
+      "total": 3064302,
+      "daily": 33453
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Out Loud Thinking",
+      "trackId": "0EF2x6DfhDECvRVTdJvBDs",
+      "total": 2683931,
+      "daily": 2780
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "INTRO",
+      "trackId": "0dRbvh8sbJXB6craHlcmKv",
+      "total": 2664918,
+      "daily": 2299
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "QUEEN OF MEMPHIS (feat. Fridayy)",
+      "trackId": "3dMkQMdFGFUNZXpHjK2Bch",
+      "total": 2609199,
+      "daily": 2583
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Leave My Baby Tonight (feat. GloRilla)",
+      "trackId": "79Az2dOKvoR2hfVEIRZd1D",
+      "total": 2581537,
+      "daily": 3828
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Set The Tone",
+      "trackId": "0MSe6jp83mHI6jqZqoyeZz",
+      "total": 2527846,
+      "daily": 707
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "GLO’S PRAYER",
+      "trackId": "2buNNRK3YGD3l6OBe9rqTO",
+      "total": 2387247,
+      "daily": 2686
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Mama (with Skilla Baby feat. GloRilla) (Remix)",
+      "trackId": "62Vzyj4Nyy7DeBF2q21dYG",
+      "total": 2371361,
+      "daily": 6325
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Don't Know (GloRidaz Bonus)",
+      "trackId": "0GBGLP9DxzTzbaeYzGjW48",
+      "total": 2324578,
+      "daily": 2913
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "In Dat Mode",
+      "trackId": "0SNIukv9BX1Sv9YGpsokgN",
+      "total": 2191628,
+      "daily": 2180
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "JUST SAY THAT (Remix) (feat. Quavo & GloRilla)",
+      "trackId": "3g9CkAfcdZlBhoLvJqIRGc",
+      "total": 2015328,
+      "daily": 322
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Cha Cha Cha (GloRilla, Fivio Foreign)",
+      "trackId": "4E2MniqsgYJttFb3ajhKWL",
+      "total": 1963177,
+      "daily": 553
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Nun Of Dem",
+      "trackId": "76ENXK6WuaJ07V86r3WY4g",
+      "total": 1811978,
+      "daily": 994
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "High AF",
+      "trackId": "6IXjdjcau3mJ1MMX3mTKCw",
+      "total": 1783565,
+      "daily": 1134
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "GMFU - Pt. 2",
+      "trackId": "7ubbOAVhD9wGmacOPt8pno",
+      "total": 1765934,
+      "daily": 1653
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Aite (feat. Kevo Muney)",
+      "trackId": "6yJbMJVWxeW9oWLM15KLGN",
+      "total": 1646136,
+      "daily": 1105
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Yeah Glo! - Extended",
+      "trackId": "0LMjw0jQOXHURTpkPLzoEC",
+      "total": 1551584,
+      "daily": 1530
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Hell Woods 2",
+      "trackId": "0vJyvI6FzFIOU08H99xFZR",
+      "total": 1444695,
+      "daily": 7674
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "PHATNALL",
+      "trackId": "3HEiAAH5AdjA3ac3aVTQpE",
+      "total": 1361890,
+      "daily": 467
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Overstood (GloRilla)",
+      "trackId": "5lx8A2SK5CXkgn5wRw5B3A",
+      "total": 1360244,
+      "daily": 942
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Outside",
+      "trackId": "6dzhoFsAUAbTAeJgL7gMaG",
+      "total": 1318572,
+      "daily": 1755
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Xmas Time (with Kehlani)",
+      "trackId": "1zDUOwDpazLaWjPdQVVsC5",
+      "total": 1230953,
+      "daily": 622
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Show Dat Work (feat. GloRilla & Rob49)",
+      "trackId": "2i1TYlcibhGgY5y7uC4QMh",
+      "total": 1109953,
+      "daily": 1864
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Get That Money (feat. Niki Pooh)",
+      "trackId": "0EC9HpKL4bS8O9ANKXLnE2",
+      "total": 1004265,
+      "daily": 661
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Cowboy (with GloRilla) - GloRilla Remix",
+      "trackId": "0OXYEWAt2zwWjJJsASxY2A",
+      "total": 977426,
+      "daily": 6388
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "In The Trunk (feat. GloRilla)",
+      "trackId": "6srN4L7q0KzHeXFbi5K2pd",
+      "total": 891191,
+      "daily": 375
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Embarrassing (feat. GloRilla)",
+      "trackId": "6PH3PORMEN2f90BjBbEmY2",
+      "total": 845872,
+      "daily": 370
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Out Loud Thinking - A COLORS SHOW",
+      "trackId": "1Bt1YcOxhB6VZbrO12QFXn",
+      "total": 671039,
+      "daily": 317
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Big Shit - Prod. by Sunny Gob",
+      "trackId": "7LrEMRvMU0UnNWjuZuHacj",
+      "total": 626638,
+      "daily": 345
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Better Thangs (Remix) [feat. GloRilla]",
+      "trackId": "2t3qyCCIED79uoZtUNHAQp",
+      "total": 526299,
+      "daily": 405
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Afford Me",
+      "trackId": "6zNYUZJGEs70HIH40SFhYX",
+      "total": 498143,
+      "daily": 244
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Killin' It Girl (feat. GloRilla) (Brazilian Phonk Remix)",
+      "trackId": "3WyHtWdrnpBQtpKBsuUueV",
+      "total": 413752,
+      "daily": ""
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Yeah Glo! - Chopped And Screwed",
+      "trackId": "0YruqzNIDVQls499iM64js",
+      "total": 378539,
+      "daily": 188
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Killin' It Girl (feat. GloRilla) (Band Remix)",
+      "trackId": "3C3jJzmpCUH9jVUL6tiT60",
+      "total": 329787,
+      "daily": ""
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Killin' It Girl (feat. GloRilla) (West Coast Remix)",
+      "trackId": "3vXMSMouIhvnb0KTRzqE6S",
+      "total": 279690,
+      "daily": ""
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Killin' It Girl (feat. GloRilla) (Boom Bap Remix)",
+      "trackId": "04ib0wHoOgkSKZwkaHajIJ",
+      "total": 276678,
+      "daily": ""
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Killin' It Girl (feat. GloRilla) (Soul Remix)",
+      "trackId": "4u5xlxTTTZaeXnwYnhv1wH",
+      "total": 271754,
+      "daily": ""
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Wanna Be (with Megan Thee Stallion & Cardi B) - Extended Remix",
+      "trackId": "7CfUTS1Pel6sgKHUgAsdRe",
+      "total": 266866,
+      "daily": 306
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Yeah Glo! - Sped Up",
+      "trackId": "0tVdmTMQxuxxB9KUIBrTxF",
+      "total": 258360,
+      "daily": 181
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Killin' It Girl (feat. GloRilla) (Electro Pop Remix)",
+      "trackId": "3dcqHcDLnCvhlGVD9fYlQ3",
+      "total": 257637,
+      "daily": ""
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Killin' It Girl (feat. GloRilla) (Instrumental)",
+      "trackId": "3IJnQiiyZPpoMM1J615R6K",
+      "total": 248079,
+      "daily": ""
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "HOLLON - Extended",
+      "trackId": "1F7ks58RLmP1pM9jbC1dUK",
+      "total": 231842,
+      "daily": 426
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Wanna Be (with Megan Thee Stallion & Cardi B) - Chopped And Screwed Remix",
+      "trackId": "62sCfmnmxzoOJrGbSgDQtL",
+      "total": 222111,
+      "daily": 143
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Wanna Be (with Megan Thee Stallion) - Sped Up",
+      "trackId": "2Odr1wkg5UDBprNgqtOxyZ",
+      "total": 217867,
+      "daily": 127
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Wanna Be (with Megan Thee Stallion) - Chopped And Screwed",
+      "trackId": "749QqTdl7DkQYBLSzItfBS",
+      "total": 212810,
+      "daily": 92
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "TGIF - Slowed",
+      "trackId": "4U2MD84a7TXAq3wqmQGw8b",
+      "total": 197088,
+      "daily": 368
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Get That Money (feat. Gloss Up & NikiPooh) - Remix",
+      "trackId": "31pXxD40i6f6Ed9Rkahqsj",
+      "total": 175300,
+      "daily": 193
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Yeah Glo! - Extended",
+      "trackId": "3bL0OJIuyUAs9mOB9QwuUS",
+      "total": 162105,
+      "daily": 583
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Wanna Be (with Megan Thee Stallion) - Extended",
+      "trackId": "5EgH1ASUPGSborrpTJrFPZ",
+      "total": 158022,
+      "daily": 208
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "TGIF - Sped Up",
+      "trackId": "78ZNsczPIHAIQmwGxRAu5K",
+      "total": 132781,
+      "daily": 195
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Wanna Be (with Megan Thee Stallion & Cardi B) - Sped Up Remix",
+      "trackId": "13VsWjfs4msep28fE41MbC",
+      "total": 106868,
+      "daily": 77
+    },
+    {
+      "artist": "GloRilla",
+      "artistId": "2qoQgPAilErOKCwE2Y8wOG",
+      "trackName": "Wanna Be (with Megan Thee Stallion) - Extended",
+      "trackId": "30f8kouoHxz9CxOpnORAiI",
+      "total": 100068,
+      "daily": ""
+    }
+  ]
+}

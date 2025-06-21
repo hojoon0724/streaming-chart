@@ -1,0 +1,798 @@
+{
+  "artist": "NIKI",
+  "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+  "songs": [
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "lowkey",
+      "trackId": "7ipqVwkp2MhZv0Ojzqy1NV",
+      "total": 571501462,
+      "daily": 343601
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Every Summertime",
+      "trackId": "68HocO7fx9z0MgDU0ZPHro",
+      "total": 491788370,
+      "daily": 283969
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Take A Chance With Me",
+      "trackId": "21acb66djKRlDPJOXRBCkc",
+      "total": 329854299,
+      "daily": 390380
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "La La Lost You - Acoustic Version",
+      "trackId": "0e2wfbDK7ppotqyUWD7qs8",
+      "total": 301068685,
+      "daily": 257933
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Backburner",
+      "trackId": "7gqdZpe7MlTLA59viClLoY",
+      "total": 259596575,
+      "daily": 475156
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Oceans & Engines",
+      "trackId": "0XZW4ZKXOwo9kCyDpXGNc7",
+      "total": 256343914,
+      "daily": 300011
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "You'll Be in My Heart",
+      "trackId": "1UPB5rYJ0bzn6mNSoAHrZC",
+      "total": 227551311,
+      "daily": 1944654
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "I Like U",
+      "trackId": "1ctbkptXLNIoEVTNAFYV4d",
+      "total": 197061672,
+      "daily": 80482
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "High School in Jakarta",
+      "trackId": "0mzJCOzvOJUC4w0C1JuGbO",
+      "total": 188683510,
+      "daily": 85486
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Lose",
+      "trackId": "6VwjXwvVej8TVyYniIVDPJ",
+      "total": 156408640,
+      "daily": 59583
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "urs",
+      "trackId": "4EMTe461jubpxPqFfVA0Rp",
+      "total": 148109439,
+      "daily": 64907
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "La La Lost You",
+      "trackId": "0QZLSImbxep9NyhhlCGOWh",
+      "total": 143299053,
+      "daily": 110930
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Indigo",
+      "trackId": "24zNdHON322WeczF1Qk19h",
+      "total": 138285643,
+      "daily": 34424
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Vintage",
+      "trackId": "1dgXgUbDPavCqQoJ9sS6XP",
+      "total": 79975832,
+      "daily": 24546
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Anaheim",
+      "trackId": "5GoY2ioRnfQayqsNx4HaXh",
+      "total": 77134046,
+      "daily": 87316
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Autumn",
+      "trackId": "0W5o1Kxw1VlohSajPqeBMF",
+      "total": 75719763,
+      "daily": 165507
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "The Apartment We Won't Share",
+      "trackId": "2uOEendbLHR18khIbwooJ1",
+      "total": 63718108,
+      "daily": 135190
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "California (feat. Warren Hue)",
+      "trackId": "7qmqC8dgl2BXWgJRW4xseD",
+      "total": 61696201,
+      "daily": 19924
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "La Cienega",
+      "trackId": "1EbxyKoc74jf36JkZ31Frx",
+      "total": 60828787,
+      "daily": 13338
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Chilly",
+      "trackId": "2WrZX7qILvKZkw0tldzkmP",
+      "total": 58103324,
+      "daily": 10779
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Before",
+      "trackId": "2OpC6XGVzBxV8bMz5n0gp4",
+      "total": 50499000,
+      "daily": 40812
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Around",
+      "trackId": "3UIxHki9PY9pWZI925dPFr",
+      "total": 50136856,
+      "daily": 15686
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Did You Like Her In The Morning?",
+      "trackId": "1PASE7Ext8mjvfNE6UtApD",
+      "total": 45676758,
+      "daily": 121259
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Split",
+      "trackId": "4Bz72Fo4teXVMvDUi8xuw7",
+      "total": 45670439,
+      "daily": 33997
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "COMING HOME (feat. NIKI)",
+      "trackId": "7yUUviOIM0l9tnFAaw7mqE",
+      "total": 44307302,
+      "daily": 21491
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Keeping Tabs",
+      "trackId": "5VmmiUJ1lU7EqOxgXzI8gM",
+      "total": 42822833,
+      "daily": 29556
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "See U Never",
+      "trackId": "2MSP40OG9ENSpsDhTj6Yf8",
+      "total": 32444376,
+      "daily": 11030
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Warpaint",
+      "trackId": "25aZPPiiVCHnbBpY4dh9Zk",
+      "total": 27114848,
+      "daily": 2340
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "On The Drive Home",
+      "trackId": "6b9yQhy8XyaeadWPlFYSDE",
+      "total": 26726055,
+      "daily": 44201
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Newsflash!",
+      "trackId": "4O06hd5uspDmGI5mZA6wps",
+      "total": 26725382,
+      "daily": 5124
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Plot Twist",
+      "trackId": "5thBzOSPr0VlurlkJg8mXk",
+      "total": 25371478,
+      "daily": 17500
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "move!",
+      "trackId": "2dzBlKG2szcUn3OUGuMIiO",
+      "total": 25260113,
+      "daily": 4212
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Tsunami",
+      "trackId": "7gfaEnAudTJn6rv3y5i3sg",
+      "total": 25129201,
+      "daily": 44627
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Plans (feat. Vory)",
+      "trackId": "3FX4Tc5jbcfQ26Pw4AEemW",
+      "total": 24757484,
+      "daily": 3454
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Shouldn't Couldn't Wouldn't",
+      "trackId": "6gGgWXoJ4VB0HCX3zWPpGr",
+      "total": 24540263,
+      "daily": 5250
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Little Prince (feat. NIKI)",
+      "trackId": "3jKJnHixssQxdCShjpirKQ",
+      "total": 23907507,
+      "daily": 3259
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Strange Land",
+      "trackId": "2PGB0U1z6IZ5GpfOYIVrbV",
+      "total": 22991943,
+      "daily": 6741
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Facebook Friends",
+      "trackId": "1KKDfiHxJWk3VyOkcEzVOa",
+      "total": 22803611,
+      "daily": 38111
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Dancing with the Devil",
+      "trackId": "7ttsFGLq5qALPx8u3jouUL",
+      "total": 22649769,
+      "daily": 5836
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Say My Name",
+      "trackId": "18t2y3Uy5oiZDYV1OUiHpL",
+      "total": 21278022,
+      "daily": 5228
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Paths",
+      "trackId": "71dNE5qakgHQvGzVPGHGyJ",
+      "total": 21235340,
+      "daily": 49381
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Milk Teeth",
+      "trackId": "6WULAoRlrwuPliyVKbT31S",
+      "total": 19572394,
+      "daily": 27629
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Shouldn't Couldn't Wouldn't - Acoustic Version",
+      "trackId": "3hS9i4opEzwjNHCTtktWWS",
+      "total": 19332205,
+      "daily": 11071
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Buzz",
+      "trackId": "4YueiihFNJ5pHEjEpprYje",
+      "total": 19245447,
+      "daily": 21742
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Spell",
+      "trackId": "0IGknPywRZrcd8JiGhhyNj",
+      "total": 18365771,
+      "daily": 8823
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Switchblade",
+      "trackId": "6RufIITrVLg4TI8toUNMBd",
+      "total": 17918949,
+      "daily": 3534
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Too Much Of A Good Thing",
+      "trackId": "5mJtwrGKTDTXknkbuIx1Vp",
+      "total": 17623667,
+      "daily": 18137
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Blue Moon",
+      "trackId": "08yqkfNPKMQLTFikFxZdSE",
+      "total": 17620603,
+      "daily": 22267
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Selene",
+      "trackId": "7mZHJ0sWqpP9SxZJtnoITM",
+      "total": 17438321,
+      "daily": 3761
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Strange Land - Acoustic Version",
+      "trackId": "5HsDHCyy4NUSaU4WBNj2uu",
+      "total": 16535062,
+      "daily": 7891
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "odds",
+      "trackId": "67iT31uHTE3XeIhADNmbgH",
+      "total": 16346104,
+      "daily": 6320
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Sugarplum Elegy",
+      "trackId": "2QrXCvTNJghI9sIKa9oqcC",
+      "total": 15693850,
+      "daily": 2362
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Magnets",
+      "trackId": "2r08E0h3dkYtdFCV3Ur4uK",
+      "total": 14181923,
+      "daily": 24551
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Focus",
+      "trackId": "3iCMEaw7QifhYSternQlYw",
+      "total": 13675386,
+      "daily": 23483
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Colossal Loss",
+      "trackId": "1whZWNSJ4kXNDRRMrVb5FF",
+      "total": 12723035,
+      "daily": 24680
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "California (feat. Jackson Wang & Warren Hue) - [Remix]",
+      "trackId": "1SZcEr3Wo7vvK4UUn3bi8v",
+      "total": 11889028,
+      "daily": 5606
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Pandemonium",
+      "trackId": "27ogrfmzztbJUg4i6AUrE2",
+      "total": 11371274,
+      "daily": 6839
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Swan Song",
+      "trackId": "790TzR1UxBXVMFSGq8p7bv",
+      "total": 10855188,
+      "daily": 2104
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Strong Girl",
+      "trackId": "4lPEq0ktoAHh7Tdd67hWUd",
+      "total": 9752496,
+      "daily": 18522
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "I Want In",
+      "trackId": "5BTQU3DyAgbUH3t4WTeGO3",
+      "total": 9521419,
+      "daily": 1403
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Always Rising",
+      "trackId": "7m4xUEEivwPGz4U0TA1TWD",
+      "total": 9508430,
+      "daily": 1522
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Friends",
+      "trackId": "2u59vEDAsOBJapsV675cd7",
+      "total": 9362328,
+      "daily": 2192
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Take Care",
+      "trackId": "28jtlpjqjubsGlly6caVwL",
+      "total": 9204609,
+      "daily": 12745
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Pools",
+      "trackId": "1MSDRUa7aaVd4hdm2LvJnL",
+      "total": 9200321,
+      "daily": 2154
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Hallway Weather",
+      "trackId": "2IivBdD5BJfKLea1IzOKJy",
+      "total": 9020253,
+      "daily": 4684
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Poolside Manor",
+      "trackId": "0Lytvn2YtyVLgvw8NSQFXR",
+      "total": 8818461,
+      "daily": 1264
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Heirloom Pain",
+      "trackId": "3fmkR5xKi6V0UyZ00TCAIn",
+      "total": 8553987,
+      "daily": 12486
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "24",
+      "trackId": "1dODOcUBb5SrXflh3L4zjE",
+      "total": 8251760,
+      "daily": 5097
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Before - Acoustic Version",
+      "trackId": "2KJQiHAk6KXgvl4fWdQjNo",
+      "total": 6846485,
+      "daily": 20234
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Nothing Can",
+      "trackId": "2vis83Q06byY4yYOILzkub",
+      "total": 6612464,
+      "daily": 10319
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "COMING HOME (feat. NIKI) - Long Distance Recording",
+      "trackId": "7DpIa709SGPD6T5tuOVXgc",
+      "total": 6594108,
+      "daily": 8166
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "If There's Nothing Left...",
+      "trackId": "7lQ82gxuQStX6KWIsCf43k",
+      "total": 6381645,
+      "daily": 2928
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Drive On",
+      "trackId": "60oXtDeytkwvxIvLADDrjt",
+      "total": 6330930,
+      "daily": 2753
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "No More (feat. NIKI)",
+      "trackId": "5ZDz93QwAJl7FY3T0pFkOo",
+      "total": 5926109,
+      "daily": 1340
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Clocked Out!",
+      "trackId": "4aZXxStzucuminkE8up916",
+      "total": 5526938,
+      "daily": 1123
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Nightcrawlers",
+      "trackId": "5SJXaqIaHdj5cPaqVqGaMH",
+      "total": 4570831,
+      "daily": 1180
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Backburner - Live at The Wiltern",
+      "trackId": "1si6omu7DE4Lbe8XwQdUlw",
+      "total": 4145113,
+      "daily": 3965
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "California (feat. Warren Hue) [Acoustic Live Version]",
+      "trackId": "3QW4daKISDdPbYc7m24915",
+      "total": 3798494,
+      "daily": 1336
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Wide Open (Foreword)",
+      "trackId": "2SjFI1pJscRu7y64iO89cP",
+      "total": 3021988,
+      "daily": 914
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Tide",
+      "trackId": "69Nx9GiFBSWEqhICaBEmmq",
+      "total": 2808275,
+      "daily": 884
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Keeping Tabs - Live at The Wiltern",
+      "trackId": "1gy4cc7UWZ8hW47SoJkmte",
+      "total": 2271523,
+      "daily": 1585
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "lowkey - Live at The Wiltern",
+      "trackId": "47D6kchIHSqk2jJJ7IsKE7",
+      "total": 2241982,
+      "daily": 1739
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Anaheim - Live at The Wiltern",
+      "trackId": "6NCd68XTktl59lixmE3kWN",
+      "total": 2152124,
+      "daily": 2143
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "The Apartment We Won't Share - Live at The Wiltern",
+      "trackId": "5PEZxy0cvFiWc9A2CcWipW",
+      "total": 2121150,
+      "daily": 2937
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "La La Lost You - Live at The Wiltern",
+      "trackId": "3S6M5oUNQ9gBnI76nYJQfx",
+      "total": 2016315,
+      "daily": 1792
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Around - Live at The Wiltern",
+      "trackId": "15z7G1timzbpHEKfmBkW8C",
+      "total": 2012775,
+      "daily": 1287
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Oceans & Engines - Live at The Wiltern",
+      "trackId": "1zawRShskhVLqcbDJjhhhL",
+      "total": 1888971,
+      "daily": 2061
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Vintage - Live at The Wiltern",
+      "trackId": "1vNlDf9jgcCnCMukMwUZso",
+      "total": 1797360,
+      "daily": 1155
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "urs - Live at The Wiltern",
+      "trackId": "2vKVrk2WdrVcUvd2bsIsr9",
+      "total": 1689936,
+      "daily": 1176
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "High School in Jakarta - Live at The Wiltern",
+      "trackId": "3yW45dYn9d0FPHgSyN5vjb",
+      "total": 1589441,
+      "daily": 1117
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Selene - Live at The Wiltern",
+      "trackId": "1LxQxX0ce4Q2jmlqdiPIUX",
+      "total": 1508010,
+      "daily": 982
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Lose - Live at The Wiltern",
+      "trackId": "6KQ0NxrOiD2cuafKilTh9D",
+      "total": 1498621,
+      "daily": 1139
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Before - Live at The Wiltern",
+      "trackId": "75dDRiGlTFi5vnLX0w9qIp",
+      "total": 1488148,
+      "daily": 2181
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Intro - Live at The Wiltern",
+      "trackId": "5I8sAY5ll9YWHOwYl0RqTa",
+      "total": 1365929,
+      "daily": 858
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "I Like U - Live at The Wiltern",
+      "trackId": "3nsFmJNRpy4XwCV1nZuDlc",
+      "total": 1338713,
+      "daily": 996
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Facebook Friends - Live at The Wiltern",
+      "trackId": "0RtFqgQIB655Ae8DUDJYW8",
+      "total": 1337488,
+      "daily": 1320
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Split - Live at The Wiltern",
+      "trackId": "64Z5S2oDnFP6b8AR9g3OmG",
+      "total": 1292203,
+      "daily": 945
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Every Summertime - Live at The Wiltern",
+      "trackId": "08gzPoSnI1NJgyPpfbTChk",
+      "total": 1077935,
+      "daily": 776
+    },
+    {
+      "artist": "NIKI",
+      "artistId": "2kxP07DLgs4xlWz8YHlvfh",
+      "trackName": "Indigo - Live at The Wiltern",
+      "trackId": "2ox0MmkQKtPHdAQK7WLmnv",
+      "total": 992953,
+      "daily": 671
+    }
+  ]
+}

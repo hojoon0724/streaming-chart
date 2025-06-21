@@ -1,0 +1,46 @@
+{
+  "artist": "Jona Lewie",
+  "artistId": "3nohf4qILMr5aUSOsolwxB",
+  "songs": [
+    {
+      "artist": "Jona Lewie",
+      "artistId": "3nohf4qILMr5aUSOsolwxB",
+      "trackName": "Stop The Cavalry",
+      "trackId": "2bPQuniBB9x0fRtxDly0kr",
+      "total": 101517889,
+      "daily": 2474
+    },
+    {
+      "artist": "Jona Lewie",
+      "artistId": "3nohf4qILMr5aUSOsolwxB",
+      "trackName": "You'll Always Find Me In The Kitchen At Parties",
+      "trackId": "4ZHPfdvTgCDGIeP8fAUVpG",
+      "total": 11882183,
+      "daily": 3123
+    },
+    {
+      "artist": "Jona Lewie",
+      "artistId": "3nohf4qILMr5aUSOsolwxB",
+      "trackName": "Louise",
+      "trackId": "5F99qb2X04oBp3BwDObrNw",
+      "total": 206391,
+      "daily": 99
+    },
+    {
+      "artist": "Jona Lewie",
+      "artistId": "3nohf4qILMr5aUSOsolwxB",
+      "trackName": "Louise - Single Version",
+      "trackId": "6cUldJDpvqqrk75Fx40ydo",
+      "total": 179835,
+      "daily": 55
+    },
+    {
+      "artist": "Jona Lewie",
+      "artistId": "3nohf4qILMr5aUSOsolwxB",
+      "trackName": "Stop The Cavalry - Sped Up",
+      "trackId": "1x2fYXGYcV3Owo0fE08uXy",
+      "total": 137660,
+      "daily": 31
+    }
+  ]
+}

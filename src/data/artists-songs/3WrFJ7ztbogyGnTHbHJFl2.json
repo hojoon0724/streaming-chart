@@ -1,0 +1,4006 @@
+{
+  "artist": "The Beatles",
+  "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+  "songs": [
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Here Comes The Sun - Remastered 2009",
+      "trackId": "6dGnYIeXmHdcikdzNNDMm2",
+      "total": 1614624343,
+      "daily": 701132
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Come Together - Remastered 2009",
+      "trackId": "2EqlS6tkEnglzr7tkKAAYD",
+      "total": 852382926,
+      "daily": 312247
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Let It Be - Remastered 2009",
+      "trackId": "7iN1s7xHE4ifF5povM6A48",
+      "total": 823643244,
+      "daily": 377418
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Yesterday - Remastered 2009",
+      "trackId": "3BQHpFgAp4l80e1XslIjNI",
+      "total": 771792443,
+      "daily": 257776
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Hey Jude - 2015 Mix",
+      "trackId": "1RP85mAmvJ8baqjP53kFJu",
+      "total": 674383008,
+      "daily": 245797
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Twist And Shout - Remastered 2009",
+      "trackId": "5ZBeML7Lf3FMEVviTyvi8l",
+      "total": 604041595,
+      "daily": 214166
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Blackbird - Remastered 2009",
+      "trackId": "5jgFfDIR6FR0gvlA56Nakr",
+      "total": 581543766,
+      "daily": 266968
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "In My Life - Remastered 2009",
+      "trackId": "3KfbEIOC7YIv90FIfNSZpo",
+      "total": 523135297,
+      "daily": 239130
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Want To Hold Your Hand - Remastered 2009",
+      "trackId": "5Qe7NHxeLAn8KoLTNLSdwe",
+      "total": 484700090,
+      "daily": 140947
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Something - Remastered 2009",
+      "trackId": "0pNeVovbiZHkulpGeOx1Gj",
+      "total": 407051943,
+      "daily": 233488
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Help! - Remastered 2009",
+      "trackId": "7DD7eSuYSC5xk2ArU62esN",
+      "total": 367993015,
+      "daily": 107468
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Eleanor Rigby - Remastered 2009",
+      "trackId": "5GjPQ0eI7AgmOnADn1EO6Q",
+      "total": 326305771,
+      "daily": 100172
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "While My Guitar Gently Weeps - Remastered 2009",
+      "trackId": "389QX9Q1eUOEZ19vtzzI9O",
+      "total": 314393985,
+      "daily": 127586
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Ob-La-Di, Ob-La-Da - Remastered 2009",
+      "trackId": "1gFNm7cXfG1vSMcxPpSxec",
+      "total": 309137853,
+      "daily": 129103
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "And I Love Her - Remastered 2009",
+      "trackId": "65vdMBskhx3akkG9vQlSH1",
+      "total": 277129376,
+      "daily": 192719
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Love Me Do - Remastered 2009",
+      "trackId": "3VbGCXWRiouAq8VyMYN2MI",
+      "total": 270210804,
+      "daily": 96676
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "A Hard Day's Night - Remastered 2009",
+      "trackId": "5J2CHimS7dWYMImCHkEFaJ",
+      "total": 250194396,
+      "daily": 84311
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Norwegian Wood (This Bird Has Flown) - Remastered 2009",
+      "trackId": "1H7gMYGykdtwZOV6s1N0by",
+      "total": 249521740,
+      "daily": 88825
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Strawberry Fields Forever - Remastered 2009",
+      "trackId": "3Am0IbOxmvlSXro7N5iSfZ",
+      "total": 238699326,
+      "daily": 104455
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "All You Need Is Love - 2015 Mix",
+      "trackId": "1oycjiD4UpkHWxlegeYGzB",
+      "total": 226094305,
+      "daily": 84020
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Get Back - Remastered 2009",
+      "trackId": "4MLBqAEzNN89o2M9h92Z26",
+      "total": 218923190,
+      "daily": 82032
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "All My Loving - Remastered 2009",
+      "trackId": "4joiWvli4qJVEW6qZV2i2J",
+      "total": 218081486,
+      "daily": 80655
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Saw Her Standing There - Remastered 2009",
+      "trackId": "3KiexfmhxHvG5IgAElmTkd",
+      "total": 205134512,
+      "daily": 60661
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Lucy In The Sky With Diamonds - Remastered 2009",
+      "trackId": "25yQPHgC35WNnnOUqFhgVR",
+      "total": 204702138,
+      "daily": 62907
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Don't Let Me Down - Remastered 2009",
+      "trackId": "3evG0BIqEFMMP7lVJh1cSf",
+      "total": 202542510,
+      "daily": 116985
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Day Tripper - Remastered 2009",
+      "trackId": "3hNUYt4dMM9RhcWmty8oKF",
+      "total": 197104000,
+      "daily": 57900
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Can't Buy Me Love - Remastered 2009",
+      "trackId": "3SdingSsFcZDZAyvcJbgAw",
+      "total": 189137510,
+      "daily": 63299
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "She Loves You - Mono Version / Remastered 2009",
+      "trackId": "0qsS2A3hwicJCLtcaR6JRQ",
+      "total": 185815287,
+      "daily": 50394
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Ticket To Ride - Remastered 2009",
+      "trackId": "7CZiDzGVjUssMSOXrDNYHL",
+      "total": 183006029,
+      "daily": 68277
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Penny Lane - Remastered 2009",
+      "trackId": "1h04XMpzGzmAudoI6VHBgA",
+      "total": 174582031,
+      "daily": 50222
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Oh! Darling - Remastered 2009",
+      "trackId": "2mxByJWOajjiVsLWjNXvDJ",
+      "total": 172152247,
+      "daily": 89336
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Michelle - Remastered 2009",
+      "trackId": "5By7Pzgl6TMuVJG168VWzS",
+      "total": 172052500,
+      "daily": 70200
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Eight Days A Week - Remastered 2009",
+      "trackId": "1Dg4dFJr3HW7sbA7vPejre",
+      "total": 166225235,
+      "daily": 35940
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Hello, Goodbye - 2015 Mix",
+      "trackId": "4DbwxGR1g52bhICLYdVjK1",
+      "total": 161150222,
+      "daily": 53333
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Across The Universe - Remastered 2009",
+      "trackId": "4dkoqJrP0L8FXftrMZongF",
+      "total": 160772605,
+      "daily": 56994
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Yellow Submarine - Remastered 2009",
+      "trackId": "50xwQXPtfNZFKFeZ0XePWc",
+      "total": 158362930,
+      "daily": 27791
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "With A Little Help From My Friends - Remastered 2009",
+      "trackId": "2RnPATK99oGOZygnD2GTO6",
+      "total": 153915095,
+      "daily": 45804
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "You've Got To Hide Your Love Away - Remastered 2009",
+      "trackId": "4F1AgKpuFRMLEgtPETVwZk",
+      "total": 151514767,
+      "daily": 48226
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Back In The U.S.S.R. - Remastered 2009",
+      "trackId": "0j3p1p06deJ7f9xmJ9yG22",
+      "total": 146184542,
+      "daily": 39109
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "A Day In The Life - Remastered 2009",
+      "trackId": "0hKRSZhUGEhKU6aNSPBACZ",
+      "total": 145894799,
+      "daily": 43715
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The Long And Winding Road - Remastered 2009",
+      "trackId": "3mlMpmY8oZIBFc39D9zLbh",
+      "total": 143143686,
+      "daily": 50781
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Will - Remastered 2009",
+      "trackId": "09x9v1o51dbqi5H0u7UGfp",
+      "total": 140387932,
+      "daily": 87652
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Golden Slumbers - Remastered 2009",
+      "trackId": "01SfTM5nfCou5gQL70r6gs",
+      "total": 140087597,
+      "daily": 59964
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "We Can Work It Out - Remastered 2009",
+      "trackId": "7LNiAjyg9P2GKINTtN6Yt8",
+      "total": 136870585,
+      "daily": 27629
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Hey Jude",
+      "trackId": "1eT2CjXwFXNx6oY5ydvzKU",
+      "total": 134871995,
+      "daily": 122670
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Drive My Car - Remastered 2009",
+      "trackId": "06ypiqmILMdVeaiErMFA91",
+      "total": 130642231,
+      "daily": 45327
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Here, There And Everywhere - Remastered 2009",
+      "trackId": "2B4Y9u4ERAFiMo13XPJyGP",
+      "total": 128689383,
+      "daily": 94703
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Revolution - Remastered 2009",
+      "trackId": "3UDmHZcBTQp8Iu8droNtUl",
+      "total": 122702181,
+      "daily": 24684
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Feel Fine - Remastered 2009",
+      "trackId": "4gxs9En3aoaOm2J5wNMMm9",
+      "total": 115941282,
+      "daily": 20524
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Octopus's Garden - Remastered 2009",
+      "trackId": "0suLngfo7rJoetk7Ub6N8l",
+      "total": 111829551,
+      "daily": 56791
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009",
+      "trackId": "4fUKE8EULjQdHF4zb0M8FO",
+      "total": 110205077,
+      "daily": 24712
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Am The Walrus - Remastered 2009",
+      "trackId": "6Pq9MmkDQYZiiCDpxnvrf6",
+      "total": 109730107,
+      "daily": 28719
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Nowhere Man - Remastered 2009",
+      "trackId": "5SUlhldQJtOhUr2GzH5RI7",
+      "total": 109591565,
+      "daily": 53495
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "When I'm Sixty Four - Remastered 2009",
+      "trackId": "1NrbnHlR2BFREcyWXHIHip",
+      "total": 106793248,
+      "daily": 24830
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "If I Fell - Remastered 2009",
+      "trackId": "1hgvykolO4kBIEozATmpyj",
+      "total": 103723240,
+      "daily": 49403
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Girl - Remastered 2009",
+      "trackId": "6tQvjqDIK9GXWIC6mejms8",
+      "total": 101225495,
+      "daily": 44142
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "For No One - Remastered 2009",
+      "trackId": "1kDkaFlmkdEZiVUogaP9OZ",
+      "total": 100414156,
+      "daily": 41139
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Till There Was You - Remastered 2009",
+      "trackId": "0ESIjVxnDnCDaTPo6sStHm",
+      "total": 97922170,
+      "daily": 39569
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Eleanor Rigby",
+      "trackId": "6EOKwO6WaLal58MSsi6U4W",
+      "total": 97187609,
+      "daily": 26837
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Now And Then",
+      "trackId": "7eT64Q8X2RsgMm4lqtWK4n",
+      "total": 94655817,
+      "daily": 59980
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Do You Want To Know A Secret - Remastered 2009",
+      "trackId": "7Aobt67JnaF7qN8jCCKvHq",
+      "total": 94091165,
+      "daily": 59439
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Helter Skelter - Remastered 2009",
+      "trackId": "0Bs0hUYxz7REyIHH7tRhL2",
+      "total": 92522612,
+      "daily": 29521
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Let It Be - 2021 Mix",
+      "trackId": "7jMkbyobeOAlyK2t0yt34L",
+      "total": 91048263,
+      "daily": 29729
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Want You (She's So Heavy) - Remastered 2009",
+      "trackId": "3Z25k4ZF6QENy2d9YatsM5",
+      "total": 89312406,
+      "daily": 38074
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Dear Prudence - Remastered 2009",
+      "trackId": "5NQYyej46WQkgCbnzGD21W",
+      "total": 86868502,
+      "daily": 24596
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I've Just Seen A Face - Remastered 2009",
+      "trackId": "788U1Sqej9M6c4iikuDGxO",
+      "total": 85117812,
+      "daily": 19793
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Paperback Writer - Remastered 2009",
+      "trackId": "3OtsmzTZs50ahEnHKVvozC",
+      "total": 83917293,
+      "daily": 17452
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Lady Madonna - 2015 Mix",
+      "trackId": "4oxfJlsIxYqG4jzcs1R8df",
+      "total": 82883431,
+      "daily": 19399
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I'll Follow The Sun - Remastered 2009",
+      "trackId": "45WX2cfbL8bCIqv3rOq1G3",
+      "total": 81452062,
+      "daily": 29405
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Carry That Weight - Remastered 2009",
+      "trackId": "5eZrW59C3UgBhkqNlowEID",
+      "total": 71662024,
+      "daily": 21758
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Yellow Submarine",
+      "trackId": "1tdltVUBkiBCW1C3yB4zyD",
+      "total": 70878196,
+      "daily": 35161
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "From Me To You - 2023 Mix",
+      "trackId": "0mSENYfJHYpzPCKe0K1MTJ",
+      "total": 70601668,
+      "daily": 17175
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "She's Leaving Home - Remastered 2009",
+      "trackId": "3PjMtNzwhDHqxoKudm6GvF",
+      "total": 70519254,
+      "daily": 17901
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Please Please Me - Remastered 2009",
+      "trackId": "6EHuOufBeL6vk3TvVJB5qo",
+      "total": 69668585,
+      "daily": 21731
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I'm Only Sleeping - Remastered 2009",
+      "trackId": "2ylCrFiBu98SC0vFfaCent",
+      "total": 67990405,
+      "daily": 17987
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Got To Get You Into My Life - Remastered 2009",
+      "trackId": "3tGhRLgcCP6SIZU3tbGl7l",
+      "total": 66525189,
+      "daily": 16748
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Taxman - Remastered 2009",
+      "trackId": "4BRkPBUxOYffM2QXVlq7aC",
+      "total": 64349333,
+      "daily": 16004
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Happiness Is A Warm Gun - Remastered 2009",
+      "trackId": "71LsKf3xISiOlY1mj7FFPP",
+      "total": 63480831,
+      "daily": 24896
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Should Have Known Better - Remastered 2009",
+      "trackId": "3pU1CUgPiFfxPCpscwIwQR",
+      "total": 61870077,
+      "daily": 18833
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Because - Remastered 2009",
+      "trackId": "1rxoyGj1QuPoVi8fOft1Kt",
+      "total": 61445203,
+      "daily": 18732
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Maxwell's Silver Hammer - Remastered 2009",
+      "trackId": "2S8xyNRJX1XQdo3qnTuovI",
+      "total": 59344031,
+      "daily": 19497
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Rocky Raccoon - Remastered 2009",
+      "trackId": "1ITQbrueGLl581a25XXm9c",
+      "total": 58969392,
+      "daily": 21335
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I'm Looking Through You - Remastered 2009",
+      "trackId": "5E3BVY66TEDexFutOO5GeS",
+      "total": 58768401,
+      "daily": 14685
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The Ballad Of John And Yoko - 2015 Mix",
+      "trackId": "5L3DSr5sb363knSKbGyQ7V",
+      "total": 57976710,
+      "daily": 20382
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "You Never Give Me Your Money - Remastered 2009",
+      "trackId": "1jOLTO379yIu9aMnCkpMQl",
+      "total": 57721873,
+      "daily": 20689
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Good Day Sunshine - Remastered 2009",
+      "trackId": "7HTH1ppjkkOe7RLoBDKXYJ",
+      "total": 57507712,
+      "daily": 13280
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The Fool On The Hill - Remastered 2009",
+      "trackId": "6rHh8urosEFRI67xVa6fzU",
+      "total": 52238829,
+      "daily": 18041
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "She Came In Through The Bathroom Window - Remastered 2009",
+      "trackId": "2jtUGFsqanQ82zqDlhiKIp",
+      "total": 51791529,
+      "daily": 20782
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Anna (Go To Him) - Remastered 2009",
+      "trackId": "2baEFuU0gQon0hgVRioI1o",
+      "total": 51320020,
+      "daily": 15048
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The End - Remastered 2009",
+      "trackId": "5aHHf6jrqDRb1fcBmue2kn",
+      "total": 49869755,
+      "daily": 19815
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "And Your Bird Can Sing - Remastered 2009",
+      "trackId": "4KRgqwb4kvBuTz1utbYxfb",
+      "total": 49659712,
+      "daily": 11859
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "You Won't See Me - Remastered 2009",
+      "trackId": "4LLBKnNCrSRrSjSTuiwjE9",
+      "total": 47892828,
+      "daily": 17453
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "You're Going To Lose That Girl - Remastered 2009",
+      "trackId": "70HNt0eoBVqr4ss68U8x3B",
+      "total": 45962321,
+      "daily": 11412
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I'm So Tired - Remastered 2009",
+      "trackId": "2X9H5BokS1u5O46YpNYNsZ",
+      "total": 45559789,
+      "daily": 17005
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Two Of Us - Remastered 2009",
+      "trackId": "0CaBBQsaAiRHhiLmzi7ZRp",
+      "total": 45324491,
+      "daily": 15239
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Getting Better - Remastered 2009",
+      "trackId": "3LtOmWpTXLhilL5odoKysR",
+      "total": 45207496,
+      "daily": 10902
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Sun King - Remastered 2009",
+      "trackId": "4nwKdZID1ht0lDBJ5h2p87",
+      "total": 44507002,
+      "daily": 15118
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Tomorrow Never Knows - Remastered 2009",
+      "trackId": "00oZhqZIQfL9P5CjOP6JsO",
+      "total": 44137319,
+      "daily": 14401
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Julia - Remastered 2009",
+      "trackId": "5FnpXVgDOk2sLT58qM22Of",
+      "total": 43139203,
+      "daily": 15023
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Fixing A Hole - Remastered 2009",
+      "trackId": "3pKKxkeB1pOUMHwWBmKc3Y",
+      "total": 43108777,
+      "daily": 10027
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Baby It's You - Remastered 2009",
+      "trackId": "2VmB1rF9FtfKUmFHDVnq8Q",
+      "total": 42570775,
+      "daily": 12286
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "You Really Got A Hold On Me - 2023 Mix",
+      "trackId": "2IHsEnguMjHIvemEcl50nE",
+      "total": 42381953,
+      "daily": 16241
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Glass Onion - Remastered 2009",
+      "trackId": "2jAojvUaPoHPFSPpF0UNRo",
+      "total": 42269646,
+      "daily": 13541
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Within You Without You - Remastered 2009",
+      "trackId": "3Umg8CDhO8dOSj7yBTInYb",
+      "total": 42254000,
+      "daily": 7577
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I'm Happy Just To Dance With You - Remastered 2009",
+      "trackId": "0gd50I2gKioJ59C827EdAY",
+      "total": 42127792,
+      "daily": 11982
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The Night Before - Remastered 2009",
+      "trackId": "5xcfepnz1v7a83T8An9gjw",
+      "total": 41733323,
+      "daily": 10338
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Martha My Dear - Remastered 2009",
+      "trackId": "1swmf4hFMJYRNA8Rq9PVaW",
+      "total": 40300745,
+      "daily": 14413
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Roll Over Beethoven - Remastered 2009",
+      "trackId": "3idqWaBn3mRdsIodCU6uBi",
+      "total": 40254129,
+      "daily": 7725
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I've Got A Feeling - Remastered 2009",
+      "trackId": "3gwRWIbr5ycEVLIAXrWaw7",
+      "total": 40049777,
+      "daily": 14309
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Baby, You're A Rich Man - Remastered 2009",
+      "trackId": "0JBvtprXP2Z0LP3jmzA7Xp",
+      "total": 39740136,
+      "daily": 11011
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "No Reply - Remastered 2009",
+      "trackId": "4ltC6PrqkTtpcRNi5lvS4z",
+      "total": 39494879,
+      "daily": 12906
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Run For Your Life - Remastered 2009",
+      "trackId": "4gUYV3ktbaOeAK5KrXMWV5",
+      "total": 39064475,
+      "daily": 9603
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Things We Said Today - Remastered 2009",
+      "trackId": "0voUr8lubIafUVJlauJxYF",
+      "total": 38179545,
+      "daily": 9773
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Mean Mr Mustard - Remastered 2009",
+      "trackId": "4JOyMhad5dD81uGYLGgKrS",
+      "total": 37766242,
+      "daily": 12189
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "It Won't Be Long - Remastered 2009",
+      "trackId": "4ekUX4pWizXXksJe0JfS9U",
+      "total": 37059873,
+      "daily": 11278
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "All I've Got To Do - Remastered 2009",
+      "trackId": "5tztLBvTlNC15Np2tnQ5Ll",
+      "total": 36833377,
+      "daily": 7946
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Polythene Pam - Remastered 2009",
+      "trackId": "1FTCA6wQwulQFokDddKE68",
+      "total": 36337464,
+      "daily": 11370
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Birthday - Remastered 2009",
+      "trackId": "1ABegtCPBMMJaMpfDyATjE",
+      "total": 35764514,
+      "daily": 12334
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Your Mother Should Know - Remastered 2009",
+      "trackId": "1dxbAIfCASqv6jix2R1Taj",
+      "total": 34227918,
+      "daily": 12055
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Please Mister Postman - Remastered 2009",
+      "trackId": "6wfK1R6FoLpmUA9lk5ll4T",
+      "total": 33998234,
+      "daily": 12318
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Mother Nature's Son - Remastered 2009",
+      "trackId": "6TjUg1cTUzWHbal6yQAi7c",
+      "total": 32635736,
+      "daily": 9963
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Me Mine - Remastered 2009",
+      "trackId": "2BMqay80iBzZTa608Y1eG1",
+      "total": 32441142,
+      "daily": 12620
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "She Said She Said - Remastered 2009",
+      "trackId": "3VSuWxZM6x6V3ig5nYtikL",
+      "total": 32110696,
+      "daily": 10833
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Magical Mystery Tour - Remastered 2009",
+      "trackId": "0qHMhBZqYb99yhX9BHcIkV",
+      "total": 31909599,
+      "daily": 13496
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Don't Bother Me - Remastered 2009",
+      "trackId": "7y1hMqXNa0dKQLZH7CKbUG",
+      "total": 31045512,
+      "daily": 9112
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Need You - Remastered 2009",
+      "trackId": "5EzvwjFwdP5Kfl5AZAemzu",
+      "total": 29843471,
+      "daily": 11579
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Lovely Rita - Remastered 2009",
+      "trackId": "6h9W5FxX4E9lUFsyq8j1AD",
+      "total": 29641379,
+      "daily": 8995
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Sexy Sadie - Remastered 2009",
+      "trackId": "2tBv9tAdqEbLNDi5smSjbg",
+      "total": 28938532,
+      "daily": 9935
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Lucy In The Sky With Diamonds - 2017 Mix",
+      "trackId": "4GX8I8c7gMZn7mZFM9QAs0",
+      "total": 27765246,
+      "daily": 12337
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Sgt. Pepper's Lonely Hearts Club Band - 2017 Mix",
+      "trackId": "5GuGzaaKHoOR3amXgvT2Pq",
+      "total": 26984974,
+      "daily": 11370
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The Continuing Story Of Bungalow Bill - Remastered 2009",
+      "trackId": "5Z3Rd1fMcaty8g5Pn7yhBQ",
+      "total": 26811373,
+      "daily": 8309
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Yer Blues - Remastered 2009",
+      "trackId": "2AsGApoUuN8pTM17Lq9eUd",
+      "total": 26587954,
+      "daily": 8553
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Revolution 1 - Remastered 2009",
+      "trackId": "1aOzDhi5a1RWWRy5dmYA8I",
+      "total": 26571099,
+      "daily": 6999
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Dig A Pony - Remastered 2009",
+      "trackId": "4OUmlC67FoPLvQNuE5C7kF",
+      "total": 26548774,
+      "daily": 8092
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "If I Needed Someone - Remastered 2009",
+      "trackId": "7C6hdDIz90Uf5YmdZnYbJJ",
+      "total": 25967981,
+      "daily": 10675
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "This Boy - 2023 Mix",
+      "trackId": "5P4CWxatRti2grRSn1mywW",
+      "total": 25801924,
+      "daily": 13179
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Penny Lane - 2017 Mix",
+      "trackId": "5M8s9X2vuW1tv52uv4meCt",
+      "total": 25783987,
+      "daily": 8044
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Hey Bulldog - Remastered 2009",
+      "trackId": "5xYC2ZJJ9TMJL8BOl85O2R",
+      "total": 25778631,
+      "daily": 7620
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Think For Yourself - Remastered 2009",
+      "trackId": "64bKVrkaXQAKx04dLHqCNz",
+      "total": 25600080,
+      "daily": 10475
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Being For The Benefit Of Mr. Kite! - Remastered 2009",
+      "trackId": "6W35n1UlkvqhfMZstB4BXs",
+      "total": 25577041,
+      "daily": 8566
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "With A Little Help From My Friends - 2017 Mix",
+      "trackId": "0Q6YQlQHdFd6NfXjcHtijM",
+      "total": 25204036,
+      "daily": 11469
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Why Don't We Do It In The Road? - Remastered 2009",
+      "trackId": "4eLIq1nQNwz2qLu8DeiWIp",
+      "total": 25169801,
+      "daily": 6426
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Don't Pass Me By - Remastered 2009",
+      "trackId": "4zq4rrfHZeZsTbo5vjJXSV",
+      "total": 24292485,
+      "daily": 7261
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Love You To - Remastered 2009",
+      "trackId": "4RdJFhfLQcezwN5LsXl4qP",
+      "total": 24237624,
+      "daily": 7149
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "It's Only Love - Remastered 2009",
+      "trackId": "2ue1KRstSKHF8jQkIJZiNC",
+      "total": 23681754,
+      "daily": 9624
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Wait - Remastered 2009",
+      "trackId": "0CGbof9amBnsNlRhZ8IY2H",
+      "total": 23651583,
+      "daily": 10175
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Piggies - Remastered 2009",
+      "trackId": "4ZmjfLdJXbqjAENqk7eWSE",
+      "total": 23597984,
+      "daily": 6535
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Don’t Let Me Down - First Rooftop Performance",
+      "trackId": "40XeGNGFchGYw7y0ue1GiG",
+      "total": 23591323,
+      "daily": 8127
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Oh! Darling - 2019 Mix",
+      "trackId": "0w5VRe56ikFZNWSpzOkOvK",
+      "total": 23387645,
+      "daily": 8013
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The Word - Remastered 2009",
+      "trackId": "4GBaPHvAyj4V2jeobD9tsy",
+      "total": 23143386,
+      "daily": 9333
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Rock And Roll Music - Remastered 2009",
+      "trackId": "7Ho3T7ERfooiAfvODaMQ2N",
+      "total": 23093123,
+      "daily": 9121
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Sgt. Pepper's Lonely Hearts Club Band - Reprise / Remastered 2009",
+      "trackId": "42ocGQCOT0xYtV3f5kJDsD",
+      "total": 22930543,
+      "daily": 6040
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Wild Honey Pie - Remastered 2009",
+      "trackId": "6j67aNAPeQ31uw4qw4rpLa",
+      "total": 22271636,
+      "daily": 5592
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Honey Pie - Remastered 2009",
+      "trackId": "1TPcNcmuKlq0PKpYOBgP1U",
+      "total": 22250727,
+      "daily": 7444
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Penny Lane",
+      "trackId": "1sjmKmR4u9xDeJHjDCn2bZ",
+      "total": 21874154,
+      "daily": 11341
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Long, Long, Long - Remastered 2009",
+      "trackId": "40d2EcaOOCUjDzzo2YvUWn",
+      "total": 21851495,
+      "daily": 7703
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Here Comes The Sun - 2019 Mix",
+      "trackId": "772dxxQxHg5uMOSFfwqpKQ",
+      "total": 21492037,
+      "daily": 9906
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Help!",
+      "trackId": "6EdSN1iGtLPhcz43QDRkdK",
+      "total": 21411371,
+      "daily": 7833
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "P.S. I Love You - Remastered 2009",
+      "trackId": "7Msq9qojB7yORuJvz49iUy",
+      "total": 20972191,
+      "daily": 8553
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Everybody's Got Something To Hide Except Me And My Monkey - Remastered 2009",
+      "trackId": "64P3zpRsDHIk7YTpRtaKYL",
+      "total": 20869250,
+      "daily": 5877
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Want To Tell You - Remastered 2009",
+      "trackId": "7orb0y6ySGdsYZywMoQtsD",
+      "total": 20721539,
+      "daily": 6089
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Cry Baby Cry - Remastered 2009",
+      "trackId": "5XmetMMUFNXClbiYnGdVmP",
+      "total": 20471505,
+      "daily": 7001
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "What Goes On - Remastered 2009",
+      "trackId": "19QXdPRZFHI5kNK3tN8Mh7",
+      "total": 20392000,
+      "daily": 8264
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Misery - Remastered 2009",
+      "trackId": "40qXGg5nRbcWzcFb26KWkQ",
+      "total": 20220762,
+      "daily": 7870
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Flying - Remastered 2009",
+      "trackId": "1itLKsCWHtLnxALkgBk1Fa",
+      "total": 19932806,
+      "daily": 6536
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Doctor Robert - Remastered 2009",
+      "trackId": "1ob06Ol8FMIPQgjpg7bMyk",
+      "total": 19663962,
+      "daily": 6418
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Real Love - Anthology 2 Version",
+      "trackId": "5frMgt4jqRGJk3yMKfqOyl",
+      "total": 19584592,
+      "daily": 10297
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Blue Jay Way - Remastered 2009",
+      "trackId": "0QIX9BS0AUCQcHYvyrsMkV",
+      "total": 19498569,
+      "daily": 6962
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "For You Blue - Remastered 2009",
+      "trackId": "5dpRJkvY8oWMQmQbEQTXhO",
+      "total": 19241475,
+      "daily": 5367
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "A Day In The Life - Remastered 2017",
+      "trackId": "18qhv7DD1sEpgWffovGnhn",
+      "total": 19218595,
+      "daily": 6938
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Maggie Mae - Remastered 2009",
+      "trackId": "2VsX1BoWSGiuVXGiFSUr6h",
+      "total": 18503905,
+      "daily": 4976
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Good Morning Good Morning - Remastered 2009",
+      "trackId": "0xIuNHHcKI1JDuBPlSwzb1",
+      "total": 18424022,
+      "daily": 5990
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "One After 909 - Remastered 2009",
+      "trackId": "50qHmeex1nPTyQTwBXjSE4",
+      "total": 18130015,
+      "daily": 5338
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Free As A Bird - Anthology 1 Version",
+      "trackId": "6hLY3Tz1Xt5kBuKNDTs4ib",
+      "total": 18096950,
+      "daily": 6178
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Come Together - 2019 Mix",
+      "trackId": "2oyiEA0mYPRAxGZwxNOScq",
+      "total": 17975994,
+      "daily": 4401
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I'll Be Back - Remastered 2009",
+      "trackId": "3lSi6qfnp2YZazTzcOLBZk",
+      "total": 17717859,
+      "daily": 6353
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "While My Guitar Gently Weeps",
+      "trackId": "0FzGKD3N0jK6nNOyOJBvNG",
+      "total": 17709130,
+      "daily": 6730
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Good Night - Remastered 2009",
+      "trackId": "3T4Kt51PV4k8tx6YCtBgcl",
+      "total": 17569305,
+      "daily": 5634
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "All You Need Is Love",
+      "trackId": "5zqJlEJcn0EfnvAScH8swK",
+      "total": 17287320,
+      "daily": 8503
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Savoy Truffle - Remastered 2009",
+      "trackId": "5iyCSUM7zzficwaGo8GIoc",
+      "total": 17017167,
+      "daily": 5712
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Something - 2019 Mix",
+      "trackId": "5lwhEPfBUN3ECthg5EeCg2",
+      "total": 16844222,
+      "daily": 5289
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Ask Me Why - Remastered 2009",
+      "trackId": "7529Z6b1rlGZFFPWjHPeV5",
+      "total": 16833877,
+      "daily": 7935
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Another Girl - Remastered 2009",
+      "trackId": "7hefVXaGsFPesbK6fKwS6F",
+      "total": 16674771,
+      "daily": 5756
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Boys - Remastered 2009",
+      "trackId": "7JxGM1R32ZqfwZou3VtnTg",
+      "total": 15993776,
+      "daily": 5523
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Tell Me Why - Remastered 2009",
+      "trackId": "0Wzp5pWPoX0YoBg002HXL9",
+      "total": 15644346,
+      "daily": 5495
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Act Naturally - Remastered 2009",
+      "trackId": "0IxxqsYBcCHEQ1HqLYJnwx",
+      "total": 15568066,
+      "daily": 5609
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Rain - Remastered 2009",
+      "trackId": "48TNLcToLs8DWkdj5vYdiW",
+      "total": 15478317,
+      "daily": 5173
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Any Time At All - Remastered 2009",
+      "trackId": "70XHAdaMaoLIOVb1hSaeJ4",
+      "total": 15168294,
+      "daily": 5472
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Money (That's What I Want) - Remastered 2009",
+      "trackId": "3zw4FTrVNfy2teEkV9FOvh",
+      "total": 14881061,
+      "daily": 5147
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Dig It - Remastered 2009",
+      "trackId": "0eRyOunOVBChlXxIvqwOxH",
+      "total": 14781864,
+      "daily": 3482
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "You Can't Do That - Remastered 2009",
+      "trackId": "5b9G4dtK3Tdguuy9BO3Nwo",
+      "total": 14467756,
+      "daily": 5627
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Revolution 9 - Remastered 2009",
+      "trackId": "5dZ8PeKKZJLIQAWNTdp8WX",
+      "total": 14248238,
+      "daily": 3441
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "There's A Place - Remastered 2009",
+      "trackId": "4dessGxnKXmTbHPhVgqODq",
+      "total": 14117327,
+      "daily": 5168
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Words Of Love - Remastered 2009",
+      "trackId": "42qkSeX6HNJYHxlk6cWoFe",
+      "total": 14105797,
+      "daily": 4599
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I'm A Loser - Remastered 2009",
+      "trackId": "7wC4EW11mBVxDK3xdC7FTf",
+      "total": 13971325,
+      "daily": 4536
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Hold Me Tight - Remastered 2009",
+      "trackId": "2RvKsA6Ho7VbJkVFiD4UQF",
+      "total": 13852498,
+      "daily": 5136
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "A Taste Of Honey - Remastered 2009",
+      "trackId": "7fh53ta3vAOGJMQ4i5tCHe",
+      "total": 13635890,
+      "daily": 5538
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "You Like Me Too Much - Remastered 2009",
+      "trackId": "0y1LLH0NiwOD5tM3aNMXTr",
+      "total": 13182751,
+      "daily": 4435
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "A Day In The Life",
+      "trackId": "4XiDAxr6alWzxm24i2Rt4K",
+      "total": 12912177,
+      "daily": 7217
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Wanna Be Your Man - Remastered 2009",
+      "trackId": "0sIZcoe69iSym9AecvZ7CT",
+      "total": 12894229,
+      "daily": 4619
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Chains - Remastered 2009",
+      "trackId": "3JQWLa88R35d971o5bIImd",
+      "total": 12581407,
+      "daily": 4493
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Dizzy Miss Lizzy - Remastered 2009",
+      "trackId": "70Dohn82wv6VtxGesqRzbZ",
+      "total": 12330110,
+      "daily": 3693
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Devil In Her Heart - Remastered 2009",
+      "trackId": "5maTh4fY9SlgR3FhRkf040",
+      "total": 12228450,
+      "daily": 4439
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Tell Me What You See - Remastered 2009",
+      "trackId": "2jnr9KaaMAmvk0zMcM9UzV",
+      "total": 12081147,
+      "daily": 4135
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Getting Better - Remastered 2017",
+      "trackId": "3jR8Xw0qPyGGv8bvFtNmDw",
+      "total": 12032160,
+      "daily": 4330
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "When I'm Sixty-Four - Remastered 2017",
+      "trackId": "0AvygKcKeMyZlFmDzbqcYK",
+      "total": 11451196,
+      "daily": 3943
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Baby's In Black - Remastered 2009",
+      "trackId": "7cb2SdLm1UMLwdUoWwrZN1",
+      "total": 11379716,
+      "daily": 4331
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Blackbird / Yesterday",
+      "trackId": "41ETKVJbZDSjATzW2wAqmc",
+      "total": 11269580,
+      "daily": 2664
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Strawberry Fields Forever",
+      "trackId": "1J7wMZrvCtWZlXBdMM25Ce",
+      "total": 11264345,
+      "daily": 4356
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "All Together Now - Remastered 2009",
+      "trackId": "2ck8lFrYAch2GPtdhpTHe3",
+      "total": 11194402,
+      "daily": 2297
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Not A Second Time - Remastered 2009",
+      "trackId": "5vl0sRtrQM1BTSAxQZFqEN",
+      "total": 10996320,
+      "daily": 4512
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "She's Leaving Home - Remastered 2017",
+      "trackId": "4Ggjly9D6YlPfywZOViMaG",
+      "total": 10807186,
+      "daily": 4157
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Love Me Do - 2023 Mix",
+      "trackId": "0BowNHHxtXVyLMXxS31LBe",
+      "total": 10697578,
+      "daily": 6293
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Get Back - Rooftop Performance / Take 2",
+      "trackId": "4z3RNAUb0whdaLAudM9EHE",
+      "total": 10589378,
+      "daily": 1311
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I'll Cry Instead - Remastered 2009",
+      "trackId": "01xMiErR26kH1KCif6uEYI",
+      "total": 10576846,
+      "daily": 3616
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Octopus's Garden - 2019 Mix",
+      "trackId": "25zD0MSS1r7sN6kk9uCl38",
+      "total": 10545740,
+      "daily": 3515
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Within You Without You - 2017 Mix",
+      "trackId": "6TiJhvluwaDgyymGDY2y3m",
+      "total": 10439774,
+      "daily": 4525
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Want You (She's So Heavy) - 2019 Mix",
+      "trackId": "3xw4UFPB1sa6oiz6ZoZSir",
+      "total": 10074439,
+      "daily": 3579
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Get Back",
+      "trackId": "7vubCYwMND42wTDf2ULHeZ",
+      "total": 9986581,
+      "daily": 2915
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Every Little Thing - Remastered 2009",
+      "trackId": "2CxTkdvhDuQrOxl8xXkdJS",
+      "total": 9845233,
+      "daily": 3439
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Don't Let Me Down - Naked Version / Remastered 2013",
+      "trackId": "5BhMoGrz5KzG2fA5uzHjZ1",
+      "total": 9820054,
+      "daily": 3144
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Lucy In The Sky With Diamonds",
+      "trackId": "5wLkhxwU7B9DNglfZAIrQ8",
+      "total": 9761856,
+      "daily": 2802
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Taxman - 2022 Mix",
+      "trackId": "4j2qqXrApwG8husuKLgopD",
+      "total": 9748040,
+      "daily": 3853
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Mr Moonlight - Remastered 2009",
+      "trackId": "6pPOkr2OxhQ6htrzOiDmq9",
+      "total": 9584116,
+      "daily": 3204
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Strawberry Fields Forever - 2015 Mix",
+      "trackId": "4JaTNsbucUxF3FtKqt3IY3",
+      "total": 9537608,
+      "daily": 6492
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Boys - Live / Remastered",
+      "trackId": "1dxwZJNoDbXn7zfKR2g1S5",
+      "total": 9493410,
+      "daily": 335
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Twist And Shout - Live / Remastered",
+      "trackId": "6CV4BNCI8xjHeYDR8eEriP",
+      "total": 9395058,
+      "daily": 700
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Want To Hold Your Hand",
+      "trackId": "5J3Mf6dyqeGy67yuQ7ql9B",
+      "total": 9273481,
+      "daily": 3162
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Here Comes The Sun / The Inner Light",
+      "trackId": "31f9rGz7b2rjAv7tg10iSp",
+      "total": 9104170,
+      "daily": 2052
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Kansas City / Hey-Hey-Hey-Hey - Medley / Remastered 2009",
+      "trackId": "5xf0zdP4KCfshyVn02D3Ea",
+      "total": 8937978,
+      "daily": 3071
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "When I Get Home - Remastered 2009",
+      "trackId": "4oLQ0imA5IDtNUnhFKY87q",
+      "total": 8935228,
+      "daily": 3154
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "What You're Doing - Remastered 2009",
+      "trackId": "6C6y4OWK1Ki3FVF1TIonxW",
+      "total": 8762315,
+      "daily": 3245
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Maxwell's Silver Hammer - 2019 Mix",
+      "trackId": "0fnY9xlLJCgtBUBX9rNzDJ",
+      "total": 8709357,
+      "daily": 2274
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Fixing A Hole - Remastered 2017",
+      "trackId": "6a98mDyXTsYugJhUs1tZr4",
+      "total": 8539807,
+      "daily": 2214
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Am The Walrus",
+      "trackId": "7qUPlJTYxDRnpw3FKoWhm1",
+      "total": 8507610,
+      "daily": 2178
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Everybody's Trying To Be My Baby - Remastered 2009",
+      "trackId": "4DZAH8eiqSAkMIE9l5D71U",
+      "total": 8202897,
+      "daily": 2378
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Don't Want To Spoil The Party - Remastered 2009",
+      "trackId": "3kQDIa85ZK8cKVn72NfBnl",
+      "total": 8090578,
+      "daily": 2843
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Hey Bulldog",
+      "trackId": "4epbwW20tHuF9Q6FufAn7Y",
+      "total": 7954287,
+      "daily": 2589
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Golden Slumbers - 2019 Mix",
+      "trackId": "4FWAzXcVNVIRVA4UQxhvbd",
+      "total": 7949043,
+      "daily": 2396
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The Long And Winding Road - Naked Version / Remastered 2013",
+      "trackId": "6p6E3pMc9moSp5kV3BLN0y",
+      "total": 7901608,
+      "daily": 3956
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Little Child - Remastered 2009",
+      "trackId": "0KogQrSowDnZoU8GSpaxkj",
+      "total": 7891194,
+      "daily": 2669
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "It's All Too Much - Remastered 2009",
+      "trackId": "2bQZ9BBhP7vSBiyDz7KXnv",
+      "total": 7806975,
+      "daily": 2017
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Yes It Is - Remastered 2009",
+      "trackId": "2rQvZscmpb6a7ejDiKprcL",
+      "total": 7806248,
+      "daily": 2588
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Eleanor Rigby - 2022 Mix",
+      "trackId": "1xcP3A3KSOcbR01iv0oD7H",
+      "total": 7761414,
+      "daily": 4630
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Only A Northern Song - Remastered 2009",
+      "trackId": "4phXWLTSlC1BEogSWhJMDD",
+      "total": 7738238,
+      "daily": 1702
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "You Never Give Me Your Money - 2019 Mix",
+      "trackId": "4kXXWWWIu0avePZXX7cBiW",
+      "total": 7726621,
+      "daily": 2239
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Honey Don't - Remastered 2009",
+      "trackId": "2d7GP7Fz1NrfPpo7MzWZgb",
+      "total": 7650193,
+      "daily": 2664
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Eleanor Rigby / Julia",
+      "trackId": "41a5geUkthuhkKG4eQrmwk",
+      "total": 7484184,
+      "daily": 1504
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Old Brown Shoe - Remastered 2009",
+      "trackId": "5WWclQRAdad9CwLV6rd8hX",
+      "total": 7384991,
+      "daily": 2005
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "She's A Woman - Remastered 2009",
+      "trackId": "6vsb1bU8oW7iqtjH2GeEaS",
+      "total": 7275968,
+      "daily": 2660
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Across The Universe - 2021 Mix",
+      "trackId": "37IbogAZ0XFuZA0npvUlfH",
+      "total": 7209035,
+      "daily": 3325
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Across The Universe - Naked Version / Remastered 2013",
+      "trackId": "4tnVkev96FKWFk1wLBYcJA",
+      "total": 7195483,
+      "daily": 3128
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Being For The Benefit Of Mr. Kite! - Remastered 2017",
+      "trackId": "65mQIDMBEI6KsCPphwWKrK",
+      "total": 7159528,
+      "daily": 2071
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Let It Be - 2021 Mix",
+      "trackId": "4r797jYkY09ilTg5SMCTnu",
+      "total": 7150104,
+      "daily": 2223
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Lovely Rita - Remastered 2017",
+      "trackId": "4gzLeEbCDmgK5XuhgXZt7x",
+      "total": 7073587,
+      "daily": 2081
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Let It Be - Naked Version / Remastered 2013",
+      "trackId": "5LMw7NqkEM9x2DPyAbVZGd",
+      "total": 6967908,
+      "daily": 2212
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "All Together Now",
+      "trackId": "4KELrBm2uoyn9tq6fZ5P98",
+      "total": 6810970,
+      "daily": 2575
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "All You Need Is Love",
+      "trackId": "3oGGipilQmZTol8qFTR6u1",
+      "total": 6649790,
+      "daily": 1747
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Carry That Weight - 2019 Mix",
+      "trackId": "7mBqyUKe8SUUoFBjTiY8Um",
+      "total": 6632103,
+      "daily": 1867
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Here, There And Everywhere - 2022 Mix",
+      "trackId": "4E8rZD1xKIbof0vUkyHJLn",
+      "total": 6626081,
+      "daily": 5932
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Getting Better",
+      "trackId": "1GqRv17EiYH30nM3MYE2h5",
+      "total": 6574477,
+      "daily": 477
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Because - 2019 Mix",
+      "trackId": "4Smnlr2WoaZa4CUs0isAPU",
+      "total": 6412757,
+      "daily": 1568
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Can't Buy Me Love - Anthology 1 Version",
+      "trackId": "51iWd8wHGP0N2UzRusTPBB",
+      "total": 6398147,
+      "daily": 465
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Revolution",
+      "trackId": "5KGLcZLBCAqdPP6sa5zLYs",
+      "total": 6390892,
+      "daily": 2201
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "She Came In Through The Bathroom Window - 2019 Mix",
+      "trackId": "52omU1KgD4yyRkXx2gDgZj",
+      "total": 6330936,
+      "daily": 1651
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "While My Guitar Gently Weeps - Anthology 3 Version",
+      "trackId": "6EUaGREjo3DA7ADpqzvXVQ",
+      "total": 6313390,
+      "daily": 2018
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Sun King - 2019 Mix",
+      "trackId": "0fdK9ykZqy0e3vn7LbluM1",
+      "total": 6247576,
+      "daily": 1611
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Get Back - Naked Version / Remastered 2013",
+      "trackId": "121AmMmQnBWZh8HNjZwuK6",
+      "total": 6226992,
+      "daily": 1672
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Long Tall Sally - Remastered 2009",
+      "trackId": "7ds98B8y5BQltzC60Gdkri",
+      "total": 6180199,
+      "daily": 2265
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The End - 2019 Mix",
+      "trackId": "481payDhvwK4SluEdw2o5v",
+      "total": 6148910,
+      "daily": 1768
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Because",
+      "trackId": "2VRNkdYbYUAOAcw71IqPBx",
+      "total": 6088275,
+      "daily": 1351
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Komm gib mir deine Hand - Remastered 2009",
+      "trackId": "6oUjSwtifVaM8iIN01KVzC",
+      "total": 6085695,
+      "daily": 1757
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The Long And Winding Road - 2021 Mix",
+      "trackId": "6zMgqzPhJW9A9ylqVzE0DC",
+      "total": 6078427,
+      "daily": 2253
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Sgt. Pepper's Lonely Hearts Club Band (Reprise) - Remastered 2017",
+      "trackId": "0SH68QO8BDQpxezIZE91Ba",
+      "total": 6026645,
+      "daily": 1654
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "A Hard Day's Night - Live / Remastered",
+      "trackId": "0P0Jm9mZi11ETImhECDhpq",
+      "total": 5790293,
+      "daily": 389
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Goodbye - Home Demo",
+      "trackId": "2cQGln8y7OgSOLxSHkgehd",
+      "total": 5767991,
+      "daily": 2173
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "When I'm Sixty Four",
+      "trackId": "1zdBFL2UtwbCEubEdcdSmU",
+      "total": 5762985,
+      "daily": 1969
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Two Of Us - Naked Version / Remastered 2013",
+      "trackId": "6uJwK7c62pfQrG9tTkHivn",
+      "total": 5714215,
+      "daily": 1855
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "She's A Woman - Live / Remastered",
+      "trackId": "6lynokJ0Ilm55qB4FdVeG7",
+      "total": 5592905,
+      "daily": 263
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Mean Mr Mustard - 2019 Mix",
+      "trackId": "25jKgfxWqISbOF5qjowYDa",
+      "total": 5575272,
+      "daily": 1276
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Besame Mucho - Anthology 1 Version",
+      "trackId": "2Qgak11t9BJHwkicG0WJQE",
+      "total": 5464869,
+      "daily": 3637
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I'm Only Sleeping - 2022 Mix",
+      "trackId": "5qxlyA8r2Hi5tQwBr6ikWP",
+      "total": 5454616,
+      "daily": 3794
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Lucy In The Sky With Diamonds",
+      "trackId": "068kw8ocU8Nqgk96slYAUK",
+      "total": 5421965,
+      "daily": 1228
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I'm Down - Remastered 2009",
+      "trackId": "5ovYFa8Em47SgPmhBlZb5N",
+      "total": 5379887,
+      "daily": 2453
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Drive My Car / The Word / What You're Doing",
+      "trackId": "62QN8Ib1QZbEF4yDwFSH1A",
+      "total": 5358413,
+      "daily": 1469
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Me Mine - 2021 Mix",
+      "trackId": "3o0lWzTEAHVJMjvkELl42J",
+      "total": 5328696,
+      "daily": 2270
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Polythene Pam - 2019 Mix",
+      "trackId": "7BavH3tDEsEDKnntiVTaAu",
+      "total": 5315896,
+      "daily": 1187
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Tomorrow Never Knows - Take 1",
+      "trackId": "7EmuX4xggBux5tRkiY7fFG",
+      "total": 5306614,
+      "daily": 874
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I've Got A Feeling - 2021 Mix",
+      "trackId": "4zCMgTJ4h916qOHgu1JyAL",
+      "total": 5294382,
+      "daily": 1698
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Help! - Live / Remastered",
+      "trackId": "55jAHaYaZtUImilMnroSna",
+      "total": 5247883,
+      "daily": 393
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Two Of Us - 2021 Mix",
+      "trackId": "2CEujT1Tuv3jIIjUyUvupg",
+      "total": 5240149,
+      "daily": 1337
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Can't Buy Me Love - Live / Remastered",
+      "trackId": "0WYxVnp9K6RETCRZbtlGHh",
+      "total": 5117989,
+      "daily": 353
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Something / Blue Jay Way",
+      "trackId": "0LnvAT4La0KdNk9oQScNTG",
+      "total": 5085786,
+      "daily": 1350
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Ticket To Ride - Live / Remastered",
+      "trackId": "2FP07Rr3ZwFmJZXsaj7hjE",
+      "total": 5080480,
+      "daily": 320
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Girl",
+      "trackId": "3wviriLUfnj7GkRjoN2wD8",
+      "total": 4982621,
+      "daily": 1724
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "With A Little Help From My Friends",
+      "trackId": "3M5PklZ0bZrjQBtPYyiz7F",
+      "total": 4978517,
+      "daily": 1301
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Good Morning Good Morning - Remastered 2017",
+      "trackId": "0ldihDAaEYrlk68C4oSewz",
+      "total": 4929113,
+      "daily": 1327
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Nowhere Man",
+      "trackId": "7qnX6mlylOFWHf75EkfGw7",
+      "total": 4783154,
+      "daily": 1594
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Come Together / Dear Prudence / Cry Baby Cry",
+      "trackId": "7hLRwxAazwahxdilR2vp3K",
+      "total": 4742483,
+      "daily": 1029
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Dizzy Miss Lizzy - Live / Remastered",
+      "trackId": "510F0QzxgNnfAVcCrYG2cv",
+      "total": 4732413,
+      "daily": 280
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I've Got A Feeling - Naked Version / Remastered 2013",
+      "trackId": "5OlB1bAkRhheDudIhWImFy",
+      "total": 4647862,
+      "daily": 1429
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Across The Universe - World Wildlife Fund Version / Remastered 2009",
+      "trackId": "691jw4auDZjaTOwUJmtoSy",
+      "total": 4614838,
+      "daily": 772
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Octopus's Garden",
+      "trackId": "4wKLjpjrCejAXF8vebREmm",
+      "total": 4581855,
+      "daily": 1490
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Something - Studio Demo",
+      "trackId": "4w4kzrDRJo9PEJGzh2uK49",
+      "total": 4567266,
+      "daily": 1034
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Being For The Benefit Of Mr Kite! / I Want You (She's So Heavy) / Helter Skelter",
+      "trackId": "2MAU8kcMbo0lHXWzZ19SNo",
+      "total": 4549231,
+      "daily": 1301
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Get Back - 2021 Mix",
+      "trackId": "47qD4mGcc6cS4PbkvoIcy9",
+      "total": 4545170,
+      "daily": 1376
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Glass Onion",
+      "trackId": "5Zlm8F6P7spQVplh2EERqP",
+      "total": 4540625,
+      "daily": 1065
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Sgt Pepper's Lonely Hearts Club Band",
+      "trackId": "2GfE6RKmU6xX6zvYmwTlpO",
+      "total": 4532202,
+      "daily": 1192
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Back In The U.S.S.R",
+      "trackId": "5rJjib4hv7JD1fpf5TzRcr",
+      "total": 4495449,
+      "daily": 1435
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Lady Madonna",
+      "trackId": "5l1eg7A2S6PtlIbo3Ms4dl",
+      "total": 4409653,
+      "daily": 1207
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Within You Without You / Tomorrow Never Knows",
+      "trackId": "7ABfgkjRNW5LwDzLIKcygW",
+      "total": 4369193,
+      "daily": 1129
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I'll Get You - Remastered 2009",
+      "trackId": "4VMOdHVfB57lNhSDadhOBc",
+      "total": 4362519,
+      "daily": 1672
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "All My Loving - Live / Remastered",
+      "trackId": "7j021TxcicWprdXpCcMBeH",
+      "total": 4351236,
+      "daily": 335
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Ain't She Sweet - Anthology 1 Version",
+      "trackId": "3OUpVpFeNx5jeInhHqiNfs",
+      "total": 4319186,
+      "daily": 1021
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Don't Let Me Down - Rooftop Performance / Take 1",
+      "trackId": "6Wjbtcnv4Yw92luvE1Y8tW",
+      "total": 4304329,
+      "daily": 2180
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Dig A Pony - 2021 Mix",
+      "trackId": "5pbQlOzqzTacF4wbzmWEeA",
+      "total": 4300866,
+      "daily": 1165
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "She Loves You - Live / Remastered",
+      "trackId": "0GUp9QOezipeh6BOV1kguV",
+      "total": 4261528,
+      "daily": 311
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "You Know My Name (Look Up The Number) - Remastered 2009",
+      "trackId": "2k7gS1tS9OHeS3e8MatzgJ",
+      "total": 4259458,
+      "daily": 1170
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Want To Hold Your Hand - Live / Bonus Track",
+      "trackId": "6ek0XTffa5eUTkwamO0q5B",
+      "total": 4242662,
+      "daily": 384
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Yellow Submarine - 2022 Mix",
+      "trackId": "3xbKxVoEsMmMl6BF1L5Rph",
+      "total": 4185055,
+      "daily": 3119
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Twist And Shout - 2023 Mix",
+      "trackId": "39js8qHOPRhKMxl6Qxg55F",
+      "total": 4158737,
+      "daily": 5979
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The Inner Light - Remastered 2009",
+      "trackId": "379hxtlY5LvbPQa5LL6dPo",
+      "total": 4079835,
+      "daily": 1222
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Call Your Name - Remastered 2009",
+      "trackId": "1QQSTB03vIsgjU67UnUPEL",
+      "total": 4072936,
+      "daily": 1582
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The Fool On The Hill",
+      "trackId": "2xnHP0XnnsLmtdaX8POQ4M",
+      "total": 4052567,
+      "daily": 1311
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Roll Over Beethoven - Live / Remastered",
+      "trackId": "3QiwPPktTczwleIy9jUMpS",
+      "total": 4022855,
+      "daily": 263
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Dig A Pony - Naked Version / Remastered 2013",
+      "trackId": "4Iv7cWRprWUT0ctTsg5s54",
+      "total": 3973660,
+      "daily": 1097
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Things We Said Today - Live / Remastered",
+      "trackId": "4hlVL09xDgvkoVSIu2zQwD",
+      "total": 3969338,
+      "daily": 208
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Me Mine - Naked Version / Remastered 2013",
+      "trackId": "2ISOWWoNh0lVz2XH6lXmrt",
+      "total": 3963580,
+      "daily": 1195
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "For No One - 2022 Mix",
+      "trackId": "6aVssog265SY3b7EuhLDPf",
+      "total": 3868126,
+      "daily": 2795
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Thank You Girl - Remastered 2009",
+      "trackId": "3k6zSunlStXxWF0s1063lk",
+      "total": 3860211,
+      "daily": 1887
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Got To Get You Into My Life - 2022 Mix",
+      "trackId": "6gJWjLemisO1rkZA0Gvxuz",
+      "total": 3839004,
+      "daily": 3116
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Golden Slumbers / Carry That Weight - Takes 1-3 / Medley",
+      "trackId": "5XtyUUmLmB7jniTWWo6NWI",
+      "total": 3750751,
+      "daily": 1692
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Want You (She's So Heavy) - Trident Recording Session & Reduction Mix",
+      "trackId": "3Tyb06JlXwzTiuiBI7PACU",
+      "total": 3726793,
+      "daily": 707
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Tomorrow Never Knows - 2022 Mix",
+      "trackId": "4MIJimOnq6Xb75YPdkYoOe",
+      "total": 3705117,
+      "daily": 3044
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Sgt. Pepper's Lonely Hearts Club Band - Reprise",
+      "trackId": "7DJOx5DO5MAAuy589sAXCg",
+      "total": 3700590,
+      "daily": 833
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Saw Her Standing There - 2023 Mix",
+      "trackId": "0KBiapvpNxIP3t96GCNYF4",
+      "total": 3694111,
+      "daily": 4797
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Here Comes The Sun - Take 9",
+      "trackId": "5M330VM7N8gPrYfia5nf25",
+      "total": 3581117,
+      "daily": 1308
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Something - Anthology 3 Version",
+      "trackId": "1CDC3DToJYG3957RqVlJMD",
+      "total": 3553857,
+      "daily": 1033
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The Ballad Of John And Yoko - Take 7",
+      "trackId": "7Cuklz7fuYfBvSlo7PcRaL",
+      "total": 3551734,
+      "daily": 933
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Her Majesty - Takes 1-3",
+      "trackId": "52hm7o5MPKymBUmSJadwve",
+      "total": 3532044,
+      "daily": 1863
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "For You Blue - Naked Version / Remastered 2013",
+      "trackId": "23DgBX8Q1n4GW2jN3qSSxn",
+      "total": 3511971,
+      "daily": 871
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Get Back - Rooftop Performance / Take 1",
+      "trackId": "4bVT9bpThKnkFtl1xeB2bh",
+      "total": 3432272,
+      "daily": 930
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Strawberry Fields Forever - Take 1 / Anthology 2 Version",
+      "trackId": "0g2CVTmqfWaVg4GrcztwnU",
+      "total": 3394948,
+      "daily": 997
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Get Back - Take 8",
+      "trackId": "4Nv5jaoI3rsX5JauuCfZ2f",
+      "total": 3385700,
+      "daily": 518
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Gnik Nus",
+      "trackId": "2KGVVXu3ikPXBVL8Fi9ym4",
+      "total": 3373934,
+      "daily": 752
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "It's All Too Much",
+      "trackId": "1ntoOW2GNFCnSO7mmabrTU",
+      "total": 3346377,
+      "daily": 870
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "She Loves You - 2023 Mix",
+      "trackId": "01K1zFyjJhG2Qk7PIkSAEA",
+      "total": 3343736,
+      "daily": 4574
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Long Tall Sally - Live / Remastered",
+      "trackId": "3gluwLob4WQKYDPDKi09Ql",
+      "total": 3342125,
+      "daily": 216
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "One After 909 - Naked Version / Remastered 2013",
+      "trackId": "2lq81FsCIMHXxONi1cTx71",
+      "total": 3340997,
+      "daily": 1382
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Want To Hold Your Hand - 2023 Mix",
+      "trackId": "0g1NjFyzJ6FFEOTsuiJLdv",
+      "total": 3274818,
+      "daily": 4373
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I've Got A Feeling - Rooftop Performance / Take 1",
+      "trackId": "06rGbrn3Vhp6CeByhZboOT",
+      "total": 3271945,
+      "daily": 1080
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Love You To",
+      "trackId": "69c15XPo8sYUqmnngPtFWj",
+      "total": 3240863,
+      "daily": 812
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "You Can't Do That - Live / Bonus Track",
+      "trackId": "4Dw9HFzXqmdJRM8vfc1FId",
+      "total": 3225536,
+      "daily": 180
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Oh! Darling - Take 4",
+      "trackId": "5mIcEMUJvJgXF3GohggEWl",
+      "total": 3221702,
+      "daily": 605
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Bad Boy - Remastered 2009",
+      "trackId": "7iTjGs5z7opNGCXyurs0Q7",
+      "total": 3211266,
+      "daily": 1289
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Baby You're A Rich Man",
+      "trackId": "2JigRzQ3AWCd4BSJoAI0vR",
+      "total": 3172056,
+      "daily": 975
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Happy Birthday Dear Saturday Club - Live At The BBC For \"Saturday Club\" / 5th October, 1963",
+      "trackId": "2UpYmhDZVmzfdsgvLavmfj",
+      "total": 3120800,
+      "daily": 654
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "All My Loving - 2023 Mix",
+      "trackId": "72cBk2iqWcax9eoIXGNVM6",
+      "total": 3105152,
+      "daily": 4082
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Good Day Sunshine - 2022 Mix",
+      "trackId": "6MFGQhBwQIACyGGBtmbhC3",
+      "total": 3071579,
+      "daily": 2193
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Please Please Me - 2023 Mix",
+      "trackId": "6dCq7bLa4j3ZFkOGeUbInk",
+      "total": 3070547,
+      "daily": 3782
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "She Said She Said - 2022 Mix",
+      "trackId": "7BPRbnF4rPWtanG6hpRSWT",
+      "total": 3067509,
+      "daily": 2199
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Baby's In Black - Live / Bonus Track",
+      "trackId": "5tc3aFZhTcW46vRIk23T6e",
+      "total": 3040420,
+      "daily": 181
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Slow Down - Remastered 2009",
+      "trackId": "2x7vw79tKsW99s8sbyuvPM",
+      "total": 3035802,
+      "daily": 1127
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "And Your Bird Can Sing - 2022 Mix",
+      "trackId": "4P3VPAvME1i9qVk0MIubTa",
+      "total": 3033475,
+      "daily": 1995
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "One After 909 - 2021 Mix",
+      "trackId": "6z5yUc4pks98Lo6YaMraq0",
+      "total": 3023953,
+      "daily": 801
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Love You To - 2022 Mix",
+      "trackId": "0NT88kD8fIXuwBOuXlPcmx",
+      "total": 3003814,
+      "daily": 2024
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Yesterday - Anthology 2 Version",
+      "trackId": "5pAtqxDnVQFsZrc3SviBHt",
+      "total": 2972670,
+      "daily": 611
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Strawberry Fields Forever - Take 7",
+      "trackId": "2EiX1YuNGYn4AeMKwfrZdF",
+      "total": 2965764,
+      "daily": 839
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Think For Yourself",
+      "trackId": "0JRBoJ0LwENEiSqaaqbEeG",
+      "total": 2964166,
+      "daily": 855
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Sgt. Pepper's Lonely Hearts Club Band - Take 9 And Speech",
+      "trackId": "33M8Tg2vvZYsmJIuGa3zZd",
+      "total": 2957860,
+      "daily": 511
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Back In The U.S.S.R. - Esher Demo",
+      "trackId": "2uaSMUAgYqmbsdbO9F9bPN",
+      "total": 2929307,
+      "daily": 412
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Paperback Writer - 2022 Mix",
+      "trackId": "0u4Fzy1lOdhIMQW3iibRfT",
+      "total": 2827797,
+      "daily": 2943
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "For You Blue - 2021 Mix",
+      "trackId": "0CnmMTr6dpvnPUANh3rUOw",
+      "total": 2810291,
+      "daily": 818
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Across The Universe - Take 2 / Anthology 2 Version",
+      "trackId": "00fyPXxe2SCBHnFwEO9Eh1",
+      "total": 2750518,
+      "daily": 517
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Let It Be / Please Please Me / Let It Be - Take 10",
+      "trackId": "15tcqNCx9skvXmmlscpAjF",
+      "total": 2745582,
+      "daily": 378
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Hey Bulldog - 2023 Mix",
+      "trackId": "3iGns07SjzqHZGn6h8FKVS",
+      "total": 2715991,
+      "daily": 2277
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Everybody’s Trying To Be My Baby - Live / Bonus Track",
+      "trackId": "1WoLOPeSqaijOuhi9Wm7V1",
+      "total": 2683068,
+      "daily": 144
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The Long One - Comprising of ‘You Never Give Me Your Money’, ’Sun King’/’Mean Mr Mustard’, ‘Her Maj",
+      "trackId": "7e5QyScdgY4UFu3eYgy71w",
+      "total": 2637121,
+      "daily": 850
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "While My Guitar Gently Weeps - Esher Demo",
+      "trackId": "1Ov0M27IkghTJT00xvmlSO",
+      "total": 2633062,
+      "daily": 518
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Dig It - 2021 Mix",
+      "trackId": "211vMasdcN1n4Xy4ci76Eq",
+      "total": 2546013,
+      "daily": 435
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Only A Northern Song",
+      "trackId": "2upaZFZApLrvmkBzBFFS9m",
+      "total": 2543976,
+      "daily": 777
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Come Together - Take 5",
+      "trackId": "5c6gzvWGw9EZ7qMxfH9HVy",
+      "total": 2538441,
+      "daily": 394
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Sie liebt dich - Remastered 2009",
+      "trackId": "5rkgbGIOTBGlKTAawWb06X",
+      "total": 2535764,
+      "daily": 722
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Old Brown Shoe - Take 2",
+      "trackId": "6sgXMz3lsYChhFLr2Zzuio",
+      "total": 2494506,
+      "daily": 422
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Maggie Mae - 2021 Mix",
+      "trackId": "6A0igdiVHc0Tftp9jDb5UU",
+      "total": 2447224,
+      "daily": 425
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "And I Love Her - 2023 Mix",
+      "trackId": "5VTVK2RtOj6tKH9OPKMht7",
+      "total": 2440020,
+      "daily": 2962
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "With A Little Help From My Friends - Take 1 / False Start And Take 2 / Instrumental",
+      "trackId": "2gawXn44H4l6M5rUT26uZC",
+      "total": 2418337,
+      "daily": 367
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Hey Jude - Take 1",
+      "trackId": "2L3Wla7ci7snkAa3JTENkZ",
+      "total": 2412928,
+      "daily": 480
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Ob-La-Di, Ob-La-Da - Esher Demo",
+      "trackId": "4xNXqEBx1VXuph56zyUzBg",
+      "total": 2392976,
+      "daily": 406
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "One After 909 - Anthology 1 Version / Complete",
+      "trackId": "20wb8OyRt37vzWLC8QjmLX",
+      "total": 2377468,
+      "daily": 470
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Twist And Shout - Live At The BBC For \"Pop Go The Beatles\" / 6th August, 1963",
+      "trackId": "5RByFPf1KIxItpeG3dvtBv",
+      "total": 2368351,
+      "daily": 714
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Hey Jude - Anthology 3 Version",
+      "trackId": "4z1fjA4YfSqZBWWfLiiJoV",
+      "total": 2367745,
+      "daily": 472
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "A Hard Day's Night - 2023 Mix",
+      "trackId": "7nGA8YRPmsDmLZ55DIGEdC",
+      "total": 2350115,
+      "daily": 2896
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Something - Take 39 / Instrumental / Strings Only",
+      "trackId": "7kGfipuAU4F7t5cJUsjAmX",
+      "total": 2347670,
+      "daily": 734
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "That Means A Lot - Anthology 2 Version",
+      "trackId": "5845nYfGBbBomqEnf7pC7Q",
+      "total": 2329085,
+      "daily": 607
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Octopus's Garden - Take 9",
+      "trackId": "2b80n2fAvK0tGMmmIYutjs",
+      "total": 2292623,
+      "daily": 368
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Matchbox - Remastered 2009",
+      "trackId": "4jXXFZtmxoYU15WKTIiYrE",
+      "total": 2289631,
+      "daily": 855
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "A Day In The Life - 2017 Remix",
+      "trackId": "58XoFUU8BAw3HIfMLSIxiL",
+      "total": 2288716,
+      "daily": 2764
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I'm Looking Through You - Anthology 2 Version",
+      "trackId": "4ZVCvXESAicU8SiPiAxRy7",
+      "total": 2286074,
+      "daily": 450
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "You Never Give Me Your Money - Take 36",
+      "trackId": "6wvoGE5Y4BeJ0SeUdr8mfd",
+      "total": 2279645,
+      "daily": 385
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Strawberry Fields Forever - Take 26",
+      "trackId": "7FtyTMUpyHr8sur6DLiTHD",
+      "total": 2279119,
+      "daily": 617
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Child Of Nature - Esher Demo",
+      "trackId": "1MQhdLXEHmUWLF0bu7uVff",
+      "total": 2276237,
+      "daily": 594
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "All Things Must Pass - Anthology 3 Version",
+      "trackId": "25RYJGPnetSkV8le7TeJnR",
+      "total": 2269586,
+      "daily": 579
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Tomorrow Never Knows - Take 1 / Anthology 2 Version",
+      "trackId": "0xIgBJDW61Di0kYra3pP6H",
+      "total": 2259249,
+      "daily": 748
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Dear Prudence - Esher Demo",
+      "trackId": "0dPsctAum4J6B9Z2xTRz2A",
+      "total": 2248738,
+      "daily": 493
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Being For The Benefit Of Mr Kite!",
+      "trackId": "6UuPrHr8Ik947c4tBDuHZe",
+      "total": 2239866,
+      "daily": 237
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Roll Over Beethoven - 2023 Mix",
+      "trackId": "5EOkqZJqOHQPNf2sLwhXyY",
+      "total": 2228309,
+      "daily": 2631
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Can't Buy Me Love - 2023 Mix",
+      "trackId": "4iVudOuRcKPGK8y7GqSZKP",
+      "total": 2221945,
+      "daily": 2850
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Day Tripper - 2023 Mix",
+      "trackId": "1YrtoC1dvKbr5F05dFxUDa",
+      "total": 2218452,
+      "daily": 2878
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Am The Walrus - 2023 Mix",
+      "trackId": "64djpfqsxS3NG8Mofw3PGT",
+      "total": 2205762,
+      "daily": 2473
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Like Dreamers Do - Anthology 1 Version",
+      "trackId": "3eSgAvKnHbQNLdkVY7eagU",
+      "total": 2202898,
+      "daily": 1316
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Soldier Of Love - Live At The BBC For \"Pop Go The Beatles\" / 16th July, 1963",
+      "trackId": "1QnLZL2cCxNUCdWgo3AYR0",
+      "total": 2200800,
+      "daily": 1355
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Doctor Robert - 2022 Mix",
+      "trackId": "1umzslyJ3pAk8dfQSmopbf",
+      "total": 2185287,
+      "daily": 1245
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "In My Life - 2023 Mix",
+      "trackId": "6QIuTKc3HWxN35oQZOkL8k",
+      "total": 2173473,
+      "daily": 2828
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "One After 909 - Rooftop Performance",
+      "trackId": "4MBeqWnCdIMcEexCNbNqRt",
+      "total": 2152467,
+      "daily": 594
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Dig A Pony - Rooftop Performance",
+      "trackId": "1miMoESDA7rXcNIyiiTeaF",
+      "total": 2149141,
+      "daily": 574
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Want To Tell You - 2022 Mix",
+      "trackId": "6qBlZMIYjIe1VFMcMYqBaq",
+      "total": 2146592,
+      "daily": 1299
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Lucy In The Sky With Diamonds - Take 1",
+      "trackId": "3BrTDY7Lpwm7UqC1pdnbaQ",
+      "total": 2141178,
+      "daily": 279
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Got To Get You Into My Life - Second Version / Unnumbered Mix",
+      "trackId": "7fuR1Ez3DQlgGG1Q5zjmwG",
+      "total": 2119644,
+      "daily": 590
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Yesterday - 2023 Mix",
+      "trackId": "5u02N7tBZT9ckaUcbcgkZa",
+      "total": 2108808,
+      "daily": 2578
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The Long And Winding Road - Anthology 3 Version",
+      "trackId": "3ZrzaOfVkXwiqW9agBgH0E",
+      "total": 2102947,
+      "daily": 434
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Blackbird - Esher Demo",
+      "trackId": "3VcZIqs8e3S830haKWlg35",
+      "total": 2098091,
+      "daily": 414
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Help! - 2023 Mix",
+      "trackId": "0bGiTPrxCIFs7lZS9knvRS",
+      "total": 2096451,
+      "daily": 2610
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Feel Fine - 2023 Mix",
+      "trackId": "3NbnuZ27ZmUqspAVnGfHOu",
+      "total": 2077738,
+      "daily": 2493
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "When I'm Sixty-Four - Take 2",
+      "trackId": "7jREybynLwTN2T91oUWqyG",
+      "total": 2068349,
+      "daily": 441
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Come And Get It - Studio Demo",
+      "trackId": "75qAS9R2kZJbQxApjlfkWA",
+      "total": 2058575,
+      "daily": 541
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Ticket To Ride - 2023 Mix",
+      "trackId": "76mwkosKfiwvEy9hLHqJAX",
+      "total": 2053280,
+      "daily": 2518
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Eight Days A Week - Anthology 1 Version / Complete",
+      "trackId": "1uMIhr3GL5CBKPaOyO39tx",
+      "total": 2042324,
+      "daily": 296
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Eight Days A Week - 2023 Mix",
+      "trackId": "39erXhIEghGjVMcRl9bRRf",
+      "total": 2024270,
+      "daily": 2452
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Revolution - 2023 Mix",
+      "trackId": "480xRq7FAfpALfOtysLj1T",
+      "total": 2018610,
+      "daily": 2618
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Not Guilty - Anthology 3 Version",
+      "trackId": "39QrPQjBJKKw3KPy6sUrCM",
+      "total": 1998039,
+      "daily": 466
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Ob-La-Di, Ob-La-Da - Anthology 3 Version",
+      "trackId": "3P6dbrX6Eoj8Lvj7XjRh2b",
+      "total": 1996122,
+      "daily": 519
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "You Can't Do That - 2023 Mix",
+      "trackId": "1XkKiB77jpcBytfc8jWS2V",
+      "total": 1991785,
+      "daily": 2293
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "And Your Bird Can Sing - Take 2 / Anthology 2 Version",
+      "trackId": "4gBHbKEHw2QjmgYkS9ixKJ",
+      "total": 1988996,
+      "daily": 963
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Blackbird - Anthology 3 Version",
+      "trackId": "7eM5b2b7rBUNdWGh6auW7I",
+      "total": 1983264,
+      "daily": 483
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Blue Moon - Studio Jam",
+      "trackId": "0gTzMvctZAfkIcvaaTrPne",
+      "total": 1982193,
+      "daily": 491
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "We Can Work It Out - 2023 Mix",
+      "trackId": "5g4XkGje1MTzjWz8B5mI5i",
+      "total": 1974091,
+      "daily": 2434
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Don't Let Me Down - Rooftop Performance / Take 2",
+      "trackId": "1DXRq9lDPvNqujisRKR6VA",
+      "total": 1967602,
+      "daily": 768
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Morning Camera / Two Of Us - Take 4",
+      "trackId": "05wq8YTQE3UDL8yd9R79c7",
+      "total": 1966506,
+      "daily": 312
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Come And Get It - Anthology 3 Version",
+      "trackId": "5i20MCj9bBNGeFUcN1xTk1",
+      "total": 1966431,
+      "daily": 520
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "She's Leaving Home - Take 1 / Instrumental",
+      "trackId": "1w344nykRKrqN2JsMIUlvR",
+      "total": 1944230,
+      "daily": 341
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "She Came In Through The Bathroom Window - Take 27",
+      "trackId": "00nQV5fxvY0Gg9wKbuD3Uk",
+      "total": 1926775,
+      "daily": 400
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Maxwell's Silver Hammer - Take 12",
+      "trackId": "4MZyEFyYr3feWTONqH5Lsl",
+      "total": 1910538,
+      "daily": 316
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Across The Universe - Take 6",
+      "trackId": "08Y5zkeNXQ08OuFnaRldLQ",
+      "total": 1881388,
+      "daily": 414
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Saw Her Standing There - Anthology 1 Version",
+      "trackId": "07Kp7Sn7REnKZJ4bsqsYMO",
+      "total": 1875145,
+      "daily": 1107
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Drive My Car - 2023 Mix",
+      "trackId": "63WdZfK7rtG65yDhlVsBcb",
+      "total": 1871359,
+      "daily": 2304
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Norwegian Wood (This Bird Has Flown) - 2023 Mix",
+      "trackId": "5ve5WY2v6gHzIbOWFwaE0f",
+      "total": 1858306,
+      "daily": 2391
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The Fool On The Hill - 2023 Mix",
+      "trackId": "4L3YeW5FI2GrRuL1dfr483",
+      "total": 1826991,
+      "daily": 2126
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Norwegian Wood (This Bird Has Flown) - Take 1 / Anthology 2 Version",
+      "trackId": "3jleJdmTQKNUeupoZd1WVX",
+      "total": 1823509,
+      "daily": 605
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "You've Got To Hide Your Love Away - Take 5 / Anthology 2 Version",
+      "trackId": "0uEW2HfyPuREnnMzFxmdbH",
+      "total": 1819186,
+      "daily": 483
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Michelle - 2023 Mix",
+      "trackId": "3ZALSaLOyv8D7fqbpmXlAY",
+      "total": 1805908,
+      "daily": 2221
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Don’t Let Me Down - 2021 Mix",
+      "trackId": "5yaOfpqLhytIGYwzUNxhSQ",
+      "total": 1802909,
+      "daily": 2313
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Helter Skelter - Anthology 3 Version",
+      "trackId": "5HJIo3WgbXMLkKTWygD3Sp",
+      "total": 1796646,
+      "daily": 403
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Nowhere Man - 2023 Mix",
+      "trackId": "6kSD6SG8tkNLTaBP2b43Wq",
+      "total": 1766325,
+      "daily": 2026
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "My Bonnie - Anthology 1 Version",
+      "trackId": "2jlGyLNsfSRdcTynI1D08K",
+      "total": 1765504,
+      "daily": 532
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "If You've Got Trouble - Anthology 2 Version",
+      "trackId": "4H01EkzG7KtRdcz5JP6xFa",
+      "total": 1764960,
+      "daily": 391
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Magical Mystery Tour - 2023 Mix",
+      "trackId": "6QisqlBqPXRSKv2YxYDN03",
+      "total": 1758031,
+      "daily": 1976
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Getting Better - Take 1 / Instrumental And Speech At The End",
+      "trackId": "4YrNun99hnmXEeo4HwMKV7",
+      "total": 1755377,
+      "daily": 287
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Fixing A Hole - Speech And Take 3",
+      "trackId": "3jropE4BAPdywe8r42Yhxx",
+      "total": 1742907,
+      "daily": 290
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "And I Love Her - Anthology 1 Version",
+      "trackId": "74Z5zhIzC2X2UQPS4OLNNp",
+      "total": 1730833,
+      "daily": 1080
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Penny Lane - Take 6 / Instrumental",
+      "trackId": "2ac3duEVpfrlgx4FGoPvxA",
+      "total": 1722434,
+      "daily": 329
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "While My Guitar Gently Weeps - Acoustic Version / Take 2",
+      "trackId": "3WI9MiICexrmvgCjqfMOcw",
+      "total": 1696639,
+      "daily": 331
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Junk - Anthology 3 Version",
+      "trackId": "4A8lVcz8tx8hx5PVEnZTst",
+      "total": 1695174,
+      "daily": 637
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "You've Got To Hide Your Love Away - 2023 Mix",
+      "trackId": "7HeVQBucviBGrBtRyWoCDH",
+      "total": 1694608,
+      "daily": 2060
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Yes It Is - Anthology 2 Version",
+      "trackId": "4QejjzjGI7oysGZ9tDIAqF",
+      "total": 1683120,
+      "daily": 527
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I'm Down - Take 1 / Anthology 2 Version",
+      "trackId": "7DHWYI1t2GDsNszCVy3VUk",
+      "total": 1670311,
+      "daily": 943
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Octopus's Garden - Anthology 3 Version",
+      "trackId": "09Q1WMIt0SDMPJV32MDzFD",
+      "total": 1655521,
+      "daily": 251
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Leave My Kitten Alone - Anthology 1 Version",
+      "trackId": "4iR7Jx9E4zY0Q7AwMyFpZZ",
+      "total": 1649235,
+      "daily": 311
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "One After 909 - Take 3",
+      "trackId": "4SxEh486t821JJniUtyNGf",
+      "total": 1638437,
+      "daily": 196
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I've Got A Feeling - Rooftop Performance / Take 2",
+      "trackId": "51SAMQm9TKtfQnfLR0ORy4",
+      "total": 1635357,
+      "daily": 440
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Revolution - Esher Demo",
+      "trackId": "1rk6mhy7dajKBKFXJ61ODy",
+      "total": 1626853,
+      "daily": 284
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Junk - Esher Demo",
+      "trackId": "367pXH5eEqHPYvbee1VxrC",
+      "total": 1626172,
+      "daily": 350
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "The End - Take 3",
+      "trackId": "4WAPgDAPLTmf7e8TnIOUCw",
+      "total": 1620767,
+      "daily": 246
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I'm So Tired - Esher Demo",
+      "trackId": "3W4s5oTDnVTO0jYGkTKksZ",
+      "total": 1620423,
+      "daily": 406
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Golden Slumbers / Carry That Weight - Take 17 / Instrumental / Strings & Brass Only",
+      "trackId": "2XNU2CkuFyVzRKyZu35zxV",
+      "total": 1617177,
+      "daily": 362
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Strawberry Fields Forever - Take 1",
+      "trackId": "5jPBdSu6u9ZDpKFVseumIv",
+      "total": 1615300,
+      "daily": 664
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Lovely Rita - Speech And Take 9",
+      "trackId": "2PplbC8NQBWvFLSTzJUmAS",
+      "total": 1603398,
+      "daily": 272
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Because - Take 1 / Instrumental",
+      "trackId": "1p5uLmWgLUh7vWjPwOwLac",
+      "total": 1601354,
+      "daily": 247
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Being For The Benefit Of Mr. Kite! - Speech From Before Take 1 / Take 4 And Speech At End",
+      "trackId": "01zDLN3daHhDgsJhqY9QRn",
+      "total": 1597326,
+      "daily": 266
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I've Got A Feeling - Anthology 3 Version",
+      "trackId": "5O4gF6ZXR1ZPU8bsQ8GBpf",
+      "total": 1593295,
+      "daily": 536
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "For You Blue - 1969 Glyn Johns Mix",
+      "trackId": "7nsz7tDgAhg2uMQjnljKlS",
+      "total": 1587136,
+      "daily": 186
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "It's Only Love - Anthology 2 Version",
+      "trackId": "2lC0VVD7xHu1IOIOVrLrj5",
+      "total": 1584859,
+      "daily": 522
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Glass Onion - Esher Demo",
+      "trackId": "6a6XoJzGeBIDy9pcDSrOgQ",
+      "total": 1583626,
+      "daily": 216
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Girl - 2023 Mix",
+      "trackId": "1DBR2OSwXTbjXeRsszp9v6",
+      "total": 1578114,
+      "daily": 1848
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Get Back - Rooftop Performance / Take 3",
+      "trackId": "1W0V3qwghnFsm6DqzwtQ3w",
+      "total": 1570209,
+      "daily": 454
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Within You Without You - Take 1 / Indian Instruments",
+      "trackId": "4GKAZbOP8bx93464aL0hk9",
+      "total": 1561523,
+      "daily": 256
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Mr Moonlight - Anthology 1 Version",
+      "trackId": "7LGm6D1BMBnM3J2FouLvOE",
+      "total": 1559678,
+      "daily": 224
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Maggie Mae / Fancy My Chances With You - Mono",
+      "trackId": "2rnSCXAsw7pU1dmHkm1XpD",
+      "total": 1547903,
+      "daily": 283
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "A Day In The Life - Take 1 With Hums",
+      "trackId": "2i9KZZlTOYfX7EtMHtX5NS",
+      "total": 1545824,
+      "daily": 220
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Sun King - Take 20",
+      "trackId": "4cvkXxJ42tghGVKsY01CZQ",
+      "total": 1542010,
+      "daily": 247
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Happiness Is A Warm Gun - Esher Demo",
+      "trackId": "2TqrXEPZiEwiNgEBpX0uXV",
+      "total": 1534436,
+      "daily": 253
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Happiness Is A Warm Gun - Anthology 3 Version",
+      "trackId": "64hXk7WAGOxtcmWLcZNqVO",
+      "total": 1529908,
+      "daily": 310
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Eleanor Rigby - Strings Only / Anthology 2 Version",
+      "trackId": "7zu69MoR2wxz9rvcxcqD9I",
+      "total": 1526348,
+      "daily": 386
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "I Am The Walrus - Take 16 / Anthology 2 Version",
+      "trackId": "39ErQSYqHIo3egPF6dm090",
+      "total": 1525392,
+      "daily": 229
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Rain - 2022 Stereo Mix",
+      "trackId": "3ZZ7z7hgG9PHaCW4CYyZiI",
+      "total": 1505860,
+      "daily": 1626
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Can You Dig It?",
+      "trackId": "51g1inQV6DC4WZWlGXeFHs",
+      "total": 1505285,
+      "daily": 262
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Hello Little Girl - Anthology 1 Version",
+      "trackId": "0F3N8OIn6obTkJfZWbOMrm",
+      "total": 1503320,
+      "daily": 458
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Polythene Pam - Take 27",
+      "trackId": "1x4O1rJd1Yz1z6ozW5nK97",
+      "total": 1501425,
+      "daily": 242
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Good Morning Good Morning - Take 8",
+      "trackId": "0ms3Eay3tRafE9yOiSS3Km",
+      "total": 1493901,
+      "daily": 245
+    },
+    {
+      "artist": "The Beatles",
+      "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
+      "trackName": "Twist And Shout - Anthology 1 Version / Live At The Prince Of Wales Theatre, London/1963",
+      "trackId": "4NWtcNvngYIZELhLqbK7ai",
+      "total": 1475455,
+      "daily": 326
+    }
+  ]
+}

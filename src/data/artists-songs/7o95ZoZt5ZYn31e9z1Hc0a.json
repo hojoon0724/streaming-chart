@@ -1,0 +1,846 @@
+{
+  "artist": "Natasha Bedingfield",
+  "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+  "songs": [
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Unwritten",
+      "trackId": "3U5JVgI2x4rDyHGObzJfNf",
+      "total": 1458467577,
+      "daily": 1326044
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Pocketful of Sunshine",
+      "trackId": "1uigwk5hNV84zRd5YQQRTk",
+      "total": 449315680,
+      "daily": 516022
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "These Words",
+      "trackId": "6MFQeWtk7kxWGydnJB2y36",
+      "total": 191645909,
+      "daily": 126230
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "These Words",
+      "trackId": "7leW1Dmvs9A4oDh9i5Qwpz",
+      "total": 183906716,
+      "daily": 215669
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Jet Lag (feat. Natasha Bedingfield)",
+      "trackId": "0peSmoFiYGaCkHibhLBGq2",
+      "total": 122343818,
+      "daily": 68597
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Love Like This (feat. Sean Kingston)",
+      "trackId": "49ppqF73rOz5Nyt1paRxIF",
+      "total": 64664543,
+      "daily": 34075
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Between The Raindrops",
+      "trackId": "1nxGSNnFCpDLwm3umCOUpi",
+      "total": 56990653,
+      "daily": 9710
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Soulmate",
+      "trackId": "3DuHOCe1dbf3XKF8uoc5oM",
+      "total": 40475000,
+      "daily": 11085
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Easy",
+      "trackId": "7jkWXm5j2er2KfsCRPwWfy",
+      "total": 40239071,
+      "daily": 6441
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Shake up Christmas 2011 (Official Coca-Cola Christmas Song)",
+      "trackId": "57fDcLa203GnDF9OYJd6mV",
+      "total": 39308976,
+      "daily": 159
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Wild Horses",
+      "trackId": "46S6HjiiqyMNwE3xXv1nPH",
+      "total": 23228918,
+      "daily": 2993
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Love Song to the Earth",
+      "trackId": "2Rbq28aQomoEswOXeK27CE",
+      "total": 20962149,
+      "daily": 3540
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Little Too Much",
+      "trackId": "0eRUvq2nZmHoS9c21BKXtN",
+      "total": 11999913,
+      "daily": 1551
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Last Chance",
+      "trackId": "44nucsmobhGoNDgQFTI0Ok",
+      "total": 10709432,
+      "daily": 2273
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Single",
+      "trackId": "7ru6nBaxYqdeuLLUdVgjgb",
+      "total": 10268364,
+      "daily": 2490
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Strip Me",
+      "trackId": "4vj4okOxlFrGPaXd5nytPl",
+      "total": 9432037,
+      "daily": 1183
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Neon Lights",
+      "trackId": "0qdvjMaCxBwTDaZlS9DVNf",
+      "total": 8138637,
+      "daily": 1035
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "I Bruise Easily",
+      "trackId": "7AYZesFgO8XEXRVUhWo7zu",
+      "total": 7888746,
+      "daily": 2490
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Unwritten (The 2019 Remix)",
+      "trackId": "4YmFFoEWvK1Ktf7l0xF91T",
+      "total": 6770239,
+      "daily": 5562
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Who I Am - (From “The Pirate Fairy”)",
+      "trackId": "6O6XoC9c65AKdFifSMOnsl",
+      "total": 6402708,
+      "daily": 2998
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Bruised Water - Michael Woods Edit",
+      "trackId": "2NbnWUdAJmdPwtMunH4lis",
+      "total": 6227701,
+      "daily": 1758
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "I Wanna Have Your Babies",
+      "trackId": "4kfnqBl1tInBUTqheJOQbB",
+      "total": 5064808,
+      "daily": 1301
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Unwritten (Acoustic)",
+      "trackId": "1asIbRzmsjHJtGxGm0Euxm",
+      "total": 4333017,
+      "daily": 6539
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "More of Me - From \"Tangled: Before Ever After\"",
+      "trackId": "5abIQwl4xFlyqjiK0Qb0jn",
+      "total": 4252916,
+      "daily": 987
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Weightless",
+      "trackId": "7A9a7cUjgacNgOkhVg5SpL",
+      "total": 4205108,
+      "daily": 1012
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Happy",
+      "trackId": "6z9r12PJfgnCz9BWtqdNwb",
+      "total": 3698131,
+      "daily": 1312
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Let Go",
+      "trackId": "0cubprlovs2l7EQjlPviv8",
+      "total": 3572445,
+      "daily": 259
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Who Knows?",
+      "trackId": "2oIa9Jgsx6JxuDngHEsmsg",
+      "total": 2930569,
+      "daily": 1402
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Put Your Arms Around Me",
+      "trackId": "5PVQ3JpBE2vFtaIlS2EYdG",
+      "total": 2852085,
+      "daily": 421
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Angel",
+      "trackId": "1pJJcWEtSpbv8UAom5bkvW",
+      "total": 2848612,
+      "daily": 909
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Bruised Water",
+      "trackId": "7kkBiwZh8ARKwRorakQvi5",
+      "total": 2763051,
+      "daily": 1366
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Together In This - From The Jungle Beat Motion Picture",
+      "trackId": "0x9p2PjS0t9DbwqK4vgtWR",
+      "total": 2643353,
+      "daily": 709
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Touch",
+      "trackId": "0dymxo2LSNSMvs6n2PVe90",
+      "total": 2231588,
+      "daily": 277
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "I Bruise Easily",
+      "trackId": "4b6jR1sF5FS0Db2q9AWyMX",
+      "total": 2104438,
+      "daily": 194
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Freckles",
+      "trackId": "6w7L2n21X3yS2u0uRZmCpk",
+      "total": 1761631,
+      "daily": 329
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "The Scientist - Live At the Nokia Theatre, New York",
+      "trackId": "25Mg2Nsohxmo53WgJa6Z15",
+      "total": 1713292,
+      "daily": 389
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Weightless - Less is More Version",
+      "trackId": "6GP9YTKejlcbrcf9swB773",
+      "total": 1680030,
+      "daily": 530
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "The Sign (feat. Natasha Bedingfield)",
+      "trackId": "4S4P7LwGTjyH68I0VFwwWb",
+      "total": 1577326,
+      "daily": 302
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "All I Need (feat. Kevin Rudolf)",
+      "trackId": "5KXDzvcyItmvwFsD4LROIs",
+      "total": 1452414,
+      "daily": 257
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Recover",
+      "trackId": "36hLJAvOlMOzXmqv6VuOCv",
+      "total": 1422609,
+      "daily": 116
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Bruised Water - Adam K & Soha Club Mix",
+      "trackId": "4Rp1SgBamZVL5NeBe9iU4k",
+      "total": 1390772,
+      "daily": 664
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Kick It",
+      "trackId": "2bBM2NtU58cTnzL0dERbn0",
+      "total": 1357540,
+      "daily": 248
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "If You're Gonna Jump",
+      "trackId": "7HMH3NwqkPN7TLAR4CCeAF",
+      "total": 1341808,
+      "daily": 413
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Say It Again",
+      "trackId": "5t5heF9Z533SG1j2KpV5Ys",
+      "total": 1308341,
+      "daily": 364
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "I'm A Bomb",
+      "trackId": "5Vi31yLEk4epwSnjImurf4",
+      "total": 1290259,
+      "daily": 385
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Alibi (feat. Rudimental) - The Other Girl Version",
+      "trackId": "7JnN2GeisFVdQjghlVbWQD",
+      "total": 1270600,
+      "daily": 868
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Frogs And Princes",
+      "trackId": "2s8sIdbGQ33Z533diAmhgy",
+      "total": 1261316,
+      "daily": 297
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Adorable",
+      "trackId": "576cGYBC1nWuQwLhLfurmw",
+      "total": 1248839,
+      "daily": 196
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "These Words - Extended Mix",
+      "trackId": "0zV6O1Fr2FhgscanTcZZKl",
+      "total": 1244375,
+      "daily": 2341
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "No Mozart",
+      "trackId": "21F19ohTjsZbwlSXhisMPn",
+      "total": 1164926,
+      "daily": 116
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Unwritten - sped up",
+      "trackId": "3YfN4FJ9k10ZQFFrZEZsz9",
+      "total": 1135851,
+      "daily": 1387
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Silent Movie",
+      "trackId": "1LrO5T9OfcsGWqQPK3pgJj",
+      "total": 1123099,
+      "daily": 373
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Size Matters",
+      "trackId": "710sAaQ1JuL7v9X13BqO9r",
+      "total": 1119951,
+      "daily": 215
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Run-Run-Run",
+      "trackId": "2LRto381CfaHNvoL3qtkpQ",
+      "total": 1076927,
+      "daily": 116
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Try",
+      "trackId": "5LwqLJulabQK4SeLT3zqE3",
+      "total": 1050850,
+      "daily": 103
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Peace Of Me",
+      "trackId": "3GxGPFgIkqFzx7BJAmyCnE",
+      "total": 1040427,
+      "daily": 236
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "We're All Mad In Our Way",
+      "trackId": "4sDc3WiAGu5IXzG1Uq5L1i",
+      "total": 1040128,
+      "daily": 293
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Can't Fall Down",
+      "trackId": "5HWMpZzC3UzFNnUELbgrBK",
+      "total": 1008215,
+      "daily": 96
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Drop Me In The Middle",
+      "trackId": "2vzjgoPW8qyUNpgebGmMuj",
+      "total": 963869,
+      "daily": 228
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Pirate Bones",
+      "trackId": "09m83lmdIU5Io7qdZ2eGks",
+      "total": 898349,
+      "daily": 234
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Help From Heaven",
+      "trackId": "1hVlhkBQWKQUcFmcCWGzDf",
+      "total": 885832,
+      "daily": 55
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Piece of Your Heart",
+      "trackId": "1EQMbroCBmLE170p8Af53S",
+      "total": 781925,
+      "daily": 229
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Break Thru",
+      "trackId": "3gbP63XL6lUrIDYvNyyBjJ",
+      "total": 755881,
+      "daily": 68
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Backyard",
+      "trackId": "47J6neU3IlNPoSXl1QXBjn",
+      "total": 698914,
+      "daily": 187
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Not Givin' Up",
+      "trackId": "2hsDscoPrmvXzTji3EZSJK",
+      "total": 695121,
+      "daily": 183
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Roller Skate",
+      "trackId": "2puMUS0ajphG0VRWLrqEUP",
+      "total": 582401,
+      "daily": 250
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Bruised Water - Original Mix",
+      "trackId": "1jq2VcSoRe7SVkqLRkJn7h",
+      "total": 526979,
+      "daily": 189
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Bruised Water - Chicane Rework Mix",
+      "trackId": "6rjfP3AYguVJQBqbONWmz6",
+      "total": 522761,
+      "daily": 130
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Unwritten - Live At the Nokia Theatre, New York",
+      "trackId": "1nOUjtBkbq1ihSjbgp0NgO",
+      "total": 458405,
+      "daily": 271
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "These Words - T-Ray Remix",
+      "trackId": "6dzclKnUYOU2tdsxmXDUIN",
+      "total": 444557,
+      "daily": 301
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Lighthearted",
+      "trackId": "1IzJW06RPq7Yg3h72XLW8m",
+      "total": 439037,
+      "daily": 90
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Everybody Come Together (Ft. Angel Haze)",
+      "trackId": "1JydkWLSDanIAwssw1gmu7",
+      "total": 422270,
+      "daily": 155
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "How Do You Do",
+      "trackId": "4Pmb6gCdSl7WbBKZ3SKkhR",
+      "total": 390373,
+      "daily": 138
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Still Here",
+      "trackId": "5S1kyHznJzFrWh4PaGAfdG",
+      "total": 380699,
+      "daily": 117
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Unexpected Hero",
+      "trackId": "5v9HQYjVFrPgcsvqkCodYY",
+      "total": 352742,
+      "daily": 30
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Ain't Nobody (feat. Daniel Bedingfield) - (BRITS Performance 2005) [Live]",
+      "trackId": "2zajncuwdRubKRZrXXf5Th",
+      "total": 341454,
+      "daily": 80
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Missing (feat. Natasha Bedingfield)",
+      "trackId": "3KeQpD0MPR9Xc73xjdCNJz",
+      "total": 330343,
+      "daily": 101
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Sojourn",
+      "trackId": "6e9varW4GlMWbuoc53W5QS",
+      "total": 244125,
+      "daily": 131
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Unwritten - Johnny Vicious Club Mix",
+      "trackId": "5zWI1waCFcb9CbSR6luY9P",
+      "total": 238599,
+      "daily": 149
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Smell The Roses",
+      "trackId": "7m9UVE52lqrliTF8iUbsdP",
+      "total": 232639,
+      "daily": 48
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Tricky Angel",
+      "trackId": "0IRcqYJEgff7yt8D3pfrLY",
+      "total": 218610,
+      "daily": 52
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Wild Horses - Live In Sydney",
+      "trackId": "1GZTclW0dSkdFRlB2yAi3l",
+      "total": 212772,
+      "daily": 18
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "When You Know You Know",
+      "trackId": "33Sjbk4gbsTmyzsTl5qMN3",
+      "total": 212407,
+      "daily": 69
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Bruised Water - Michael Woods Full Vocal",
+      "trackId": "5LMywJCaCf1jZjXmpiok6Y",
+      "total": 208690,
+      "daily": 33
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Your Child My Child",
+      "trackId": "1EY1kQmfFy8vsgdczLm6Ac",
+      "total": 204096,
+      "daily": 109
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "These Words - Lenny B Radio Mix",
+      "trackId": "7IkoaSU9YBOFucWwQ2KKGn",
+      "total": 193085,
+      "daily": 91
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "(No More) What Ifs (feat. Eve)",
+      "trackId": "2jQtXYNpZVOP7wqIl5bQFp",
+      "total": 185039,
+      "daily": 47
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Kick It (Radio Edit)",
+      "trackId": "4yHkgzdluqPit3sTplDSsU",
+      "total": 180113,
+      "daily": 16
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "King Of The World",
+      "trackId": "7woXZwZxbE5tcTXJ5V3xSI",
+      "total": 177920,
+      "daily": 69
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Hey Papa",
+      "trackId": "3IOU9sPdL3s4RVqZLhuDIk",
+      "total": 171991,
+      "daily": 68
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Unwritten - Manny Marroquin Mix",
+      "trackId": "3BcsRXLw7Edx55Iiq7qsum",
+      "total": 169352,
+      "daily": 29
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Bruised Water - Mischa Daniels Club Mix",
+      "trackId": "0OxbgHSQSzCHIcN7N1kzz5",
+      "total": 166184,
+      "daily": 17
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "It Could Be Love",
+      "trackId": "3nPRRywOXKzxBKvkEc6GFR",
+      "total": 162466,
+      "daily": 114
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Bruised Water - Michael Woods Remix Dub",
+      "trackId": "1miiz1L2I3yEb2GcDSQkcn",
+      "total": 159671,
+      "daily": 25
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "These Words - Plantlife Remix",
+      "trackId": "1hvuV87oqV8bYQU0PAw7rl",
+      "total": 159460,
+      "daily": 45
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Pocketful Of Sunshine - Johnny Vicious Radio Mix",
+      "trackId": "4HZggggPgBEybGYtv970c9",
+      "total": 150825,
+      "daily": 45
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Can't Let Go",
+      "trackId": "6tOSTlLNXoheEvS1PX8Nra",
+      "total": 148102,
+      "daily": 46
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Soulmate - (AOL Session) [Live]",
+      "trackId": "5bvYNxqXyhzyaCrUp3wYXu",
+      "total": 142351,
+      "daily": 13
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "I Feel You",
+      "trackId": "3WU6AHdq10vbOgLXBfVlwh",
+      "total": 119939,
+      "daily": 37
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Love Like This - Johnny Vicious Club Vox",
+      "trackId": "6SQbAwJWkH0vtBOxiaHVKE",
+      "total": 119714,
+      "daily": 80
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Where We Going Now",
+      "trackId": "3Rgg3byFG3yvFN40LlCaIX",
+      "total": 111836,
+      "daily": 42
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Sweet Nothing",
+      "trackId": "5UuSh12K5xveccJF4LGBip",
+      "total": 109617,
+      "daily": 38
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "No Man I See",
+      "trackId": "7KD7nVdg6Fga1C2O236Srd",
+      "total": 107064,
+      "daily": 38
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Stumble",
+      "trackId": "59nBe48r1c5Je9vPZBommk",
+      "total": 105459,
+      "daily": 3
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "artistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Can't Look Away",
+      "trackId": "1P1vY0Us9RapWSI2WZ8QRD",
+      "total": 102223,
+      "daily": 46
+    }
+  ]
+}
