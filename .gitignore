@@ -42,3 +42,6 @@ next-env.d.ts
 
 # source folder
 /git_ignore
+
+# local env files
+/.venv
