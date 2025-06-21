@@ -16,6 +16,36 @@ error_urls = []
 # Make a folder to store the HTML files
 os.makedirs("git_ignore/downloaded_html", exist_ok=True)
 
+
+# Function to check if a file contains valid HTML
+def is_valid_html_file(filepath):
+    try:
+        if not os.path.exists(filepath):
+            return False
+
+        with open(filepath, "r", encoding="utf-8") as f:
+            content = f.read(500)  # Read first 500 chars
+
+        # Check for common HTML indicators
+        if len(content) < 50:
+            return False
+
+        # Look for HTML tags or structure
+        html_indicators = ["<html", "<head", "<body", "<!doctype", "<title", "<div", "<span"]
+        return any(indicator in content.lower() for indicator in html_indicators)
+    except:
+        return False
+
+
+# Clean up any corrupted files from previous runs
+print("Checking for corrupted files from previous downloads...")
+for filename in os.listdir("git_ignore/downloaded_html"):
+    if filename.endswith(".html"):
+        filepath = os.path.join("git_ignore/downloaded_html", filename)
+        if not is_valid_html_file(filepath):
+            print(f"Removing corrupted file: {filename}")
+            os.remove(filepath)
+
 # Create a requests session for connection reuse
 session = requests.Session()
 
@@ -32,12 +62,15 @@ for i, url in enumerate(urls, 1):
         filename = url.replace("https://", "").replace("http://", "").replace("/", "_") + ".html"
         filepath = os.path.join("git_ignore/downloaded_html", filename)
 
-        # Check if file already exists
-        if os.path.exists(filepath):
+        # Check if file already exists and is valid
+        if os.path.exists(filepath) and is_valid_html_file(filepath):
             print(f"[{i}/{len(urls)}] Already downloaded, skipping: {url}")
             downloaded_urls.append(url)
             remaining_urls.remove(url)
             continue
+        elif os.path.exists(filepath):
+            print(f"[{i}/{len(urls)}] Found corrupted file, re-downloading: {url}")
+            os.remove(filepath)
 
         headers = {
             "User-Agent": random.choice(USER_AGENTS),
@@ -52,9 +85,24 @@ for i, url in enumerate(urls, 1):
         response = session.get(url, headers=headers, timeout=10)
         response.raise_for_status()
 
+        # Ensure proper encoding
+        if response.encoding is None or response.encoding == "ISO-8859-1":
+            response.encoding = "utf-8"
+
+        # Get the decoded text content
+        content = response.text
+
+        # Verify we got actual HTML content (not binary gibberish)
+        if len(content) < 100 or not any(tag in content.lower() for tag in ["<html", "<head", "<body", "<!doctype"]):
+            print(f"Warning: Content doesn't appear to be valid HTML for {url}")
+            # Still save it but mark as potential error
+            error_urls.append(url)
+            remaining_urls.remove(url)
+            continue
+
         # Save HTML to file
         with open(filepath, "w", encoding="utf-8") as f:
-            f.write(response.text)
+            f.write(content)
 
         # Mark as successfully downloaded
         downloaded_urls.append(url)
