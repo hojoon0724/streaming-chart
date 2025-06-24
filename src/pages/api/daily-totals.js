@@ -1,4 +1,4 @@
-import dailyTotals from "../../data/global_daily_totals.json";
+import dailyTotals from "../../data/weekly/global_daily_totals.json";
 
 export default function handler(req, res) {
   if (req.method !== "GET") {

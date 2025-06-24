@@ -1,0 +1,542 @@
+{
+  "artist": "DJ Jazzy Jeff & The Fresh Prince",
+  "artistId": "1mG23iQeR29Ojhq89D5gbh",
+  "songs": [
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "The Fresh Prince of Bel-Air",
+      "trackId": "0UREO3QWbXJW3gOUXpK1am",
+      "total": 129669000,
+      "daily": 22242
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Summertime",
+      "trackId": "6Iblet1QGgY8TLPZ7GxFPZ",
+      "total": 118453186,
+      "daily": 48438
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Summertime",
+      "trackId": "3AECt6RHTcNvQ99JhJQy4N",
+      "total": 41556721,
+      "daily": 8409
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Boom! Shake the Room",
+      "trackId": "5Ym0hfphSIy5sCl45fE49A",
+      "total": 36600194,
+      "daily": 10205
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "A Nightmare on My Street",
+      "trackId": "3acL1MPwxFQ3ACzDrSFGzT",
+      "total": 19270779,
+      "daily": 785
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Parents Just Don't Understand - Single Edit",
+      "trackId": "0sXvUgyTlvIAt9puHKrP03",
+      "total": 10286109,
+      "daily": 1359
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Girls Ain't Nothing But Trouble - 1988 Extended Remix",
+      "trackId": "2hdORQrsFcE0nm3rzLcfg9",
+      "total": 8361854,
+      "daily": 1832
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Brand New Funk",
+      "trackId": "3z2Pfg3D6IlAHinPSpevzM",
+      "total": 3952159,
+      "daily": 927
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "A Nightmare On My Street",
+      "trackId": "5EuQzakrNyaOLsVS4pi1Az",
+      "total": 2238408,
+      "daily": 536
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Parents Just Don't Understand",
+      "trackId": "4vEWRakctkzouRwOeR6BRQ",
+      "total": 1145783,
+      "daily": 811
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "I'm Looking For The One (To Be With Me)",
+      "trackId": "7351lA69VXW1TLs0OgP0Ad",
+      "total": 1001048,
+      "daily": 499
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Pump Me Up",
+      "trackId": "2wh3UefJia91wbjirdGqEM",
+      "total": 951841,
+      "daily": 222
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Ring My Bell",
+      "trackId": "5l7XmwM537PxROfhKfpBjc",
+      "total": 936316,
+      "daily": 204
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Summertime - DJ Jazzy Jeff's Mix",
+      "trackId": "4vUiUHGwRsBo6M5pB641Wk",
+      "total": 781381,
+      "daily": 215
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "A Touch of Jazz",
+      "trackId": "5pGQIJsax8VsJ8eqIxdMiU",
+      "total": 718861,
+      "daily": 116
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "I Think I Can Beat Mike Tyson",
+      "trackId": "5r14UAf83VYOYaCGESCm2S",
+      "total": 715342,
+      "daily": 140
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "You Saw My Blinker",
+      "trackId": "2Qa1zJ7bB81VQ68DQwFP2V",
+      "total": 618194,
+      "daily": 159
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "I'm All That",
+      "trackId": "1HZekcKRfsEhlDSVKdgys3",
+      "total": 525105,
+      "daily": 115
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Yo Home to Bel-Air - Extended Version",
+      "trackId": "0XsMR5jdR5nCXfJrB3Wfk9",
+      "total": 509862,
+      "daily": 158
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Summertime '98 - Soul Power Remix",
+      "trackId": "3fkGhjhAEeVc1MxDP8SPV5",
+      "total": 491337,
+      "daily": 227
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Girls Ain't Nothing But Trouble",
+      "trackId": "3MlbfAiLlOMI9xeKy8csqs",
+      "total": 467835,
+      "daily": 45
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Ring My Bell - Mr. Lee's Radio Mix",
+      "trackId": "0NWBBv7ExqaV1GduHUYGXq",
+      "total": 463173,
+      "daily": 78
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Summertime - Extended Club Mix",
+      "trackId": "3cZjBqoNVqpf43qSdhrNQT",
+      "total": 396355,
+      "daily": 836
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Time to Chill",
+      "trackId": "6Ina8ZI2Ykw182vaNuPxPu",
+      "total": 394787,
+      "daily": 96
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Here We Go Again",
+      "trackId": "0qwC69bFqEP6RVzs8lm52j",
+      "total": 380842,
+      "daily": 98
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "The Magnificent Jazzy Jeff",
+      "trackId": "28A9ok3Qy837lpOZcuLCdv",
+      "total": 359687,
+      "daily": 81
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "The Things That U Do",
+      "trackId": "6mhv6qAp56balDTJdJOmtA",
+      "total": 347065,
+      "daily": 91
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Can't Wait To Be With You",
+      "trackId": "28cbmhlRwv4AOZxY10yFYT",
+      "total": 300046,
+      "daily": 136
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "I Wanna Rock",
+      "trackId": "4EFfnAo9Bx2vMz1rMdGrhk",
+      "total": 293977,
+      "daily": 129
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "He's the DJ, I'm the Rapper",
+      "trackId": "4WpNAzyYdo45RsBuaRBTj4",
+      "total": 293336,
+      "daily": 42
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Rock The House",
+      "trackId": "29gaZ9w4Vgs6kIBWb5NFDE",
+      "total": 292868,
+      "daily": 44
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Lovely Daze - Candyhill Mix",
+      "trackId": "10QuJy6Jq6WlTSHUsIKcgm",
+      "total": 287226,
+      "daily": 55
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Pump Up the Bass",
+      "trackId": "2mLsYhxC1094aZ6a6s2Lt2",
+      "total": 268827,
+      "daily": 41
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Code Red",
+      "trackId": "6sXIcg64xIYIkDp9OtYEkc",
+      "total": 255824,
+      "daily": 73
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Charlie Mack (The First Out the Limo)",
+      "trackId": "6VEB6rNqDCbmdDYH2eaV5b",
+      "total": 251715,
+      "daily": 63
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Just One Of Those Days",
+      "trackId": "2zB6Q8c86SxS5f3udn5eVj",
+      "total": 245868,
+      "daily": 39
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Somethin' Like Dis",
+      "trackId": "5FAzAZ8E2611bVaxvNHhVN",
+      "total": 238033,
+      "daily": 56
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "This Boy Is Smooth",
+      "trackId": "0L1ScRSyE2WimLdsKdV9kT",
+      "total": 229906,
+      "daily": 47
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "As We Go - Edit",
+      "trackId": "48HVaJ8c9Bf033rNIqVWtG",
+      "total": 218002,
+      "daily": 36
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "I Wanna Rock - Radio Edit",
+      "trackId": "1clsHG3v2cXa3bva1xIK5J",
+      "total": 211085,
+      "daily": 12
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Summertime - Instrumental",
+      "trackId": "6zR2636p2Tg1ckJdBAt4bR",
+      "total": 207526,
+      "daily": 317
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "I'm Looking for the One (To Be with Me)",
+      "trackId": "3hdG10y4aLANkVEpBHHzU9",
+      "total": 204427,
+      "daily": 14
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Summertime (Reprise)",
+      "trackId": "3c27daCP7YuADzNuLj7dUy",
+      "total": 202081,
+      "daily": 85
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Boom! Shake The Room - Street Remix",
+      "trackId": "1aWCMWDtsBV0SfLWSvGScO",
+      "total": 190962,
+      "daily": 53
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Jazzy's Groove",
+      "trackId": "3bXv6bXs8bNNXthRhVZ24S",
+      "total": 190051,
+      "daily": 99
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Then She Bit Me",
+      "trackId": "1J5E9EL1WAmfILucYzf6yz",
+      "total": 173716,
+      "daily": 35
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "1998 - Clean Radio Edit",
+      "trackId": "3JuqIfjEYfRg8UBR2MEUsD",
+      "total": 172223,
+      "daily": 33
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Who Stole My Car?",
+      "trackId": "2OQLIXwYV942slP5hmHi5A",
+      "total": 171769,
+      "daily": 22
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Just Kickin' It",
+      "trackId": "02QPB63arI6PDIhkHlpEGs",
+      "total": 167374,
+      "daily": 41
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "A Dog Is A Dog",
+      "trackId": "5vJqij8rV53u4p11OuBFME",
+      "total": 157633,
+      "daily": 27
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "The Girlie Had A Mustache",
+      "trackId": "5eb77oGmBbqeiL2iRQfRdS",
+      "total": 154189,
+      "daily": 26
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "The Things That U Do - Hula Radio Remix",
+      "trackId": "6o8Yria3rzVakjh3ltd2wq",
+      "total": 151746,
+      "daily": 16
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "The Groove (Jazzy's Groove) (feat. Grover Washington, Jr.) - Single Version",
+      "trackId": "5eUJezCkpiYk9uJwKpPeRn",
+      "total": 148528,
+      "daily": 13
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Caught In The Middle - Love and Life",
+      "trackId": "62XD9DWiq4mqYRblA8g8P4",
+      "total": 147548,
+      "daily": 27
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Twinkle Twinkle (I'm Not A Star)",
+      "trackId": "2iN7uicGlRaXo2FKPedw8L",
+      "total": 144868,
+      "daily": 33
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Trapped On The Dance Floor",
+      "trackId": "3mX3ahIYqaIeDxvtQGELUJ",
+      "total": 142726,
+      "daily": 27
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Rhythm Trax (House Party Style)",
+      "trackId": "6QzZILRWhJ4vuX3NKZCmDl",
+      "total": 129922,
+      "daily": 34
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "The Magnificent Jazzy Jeff - single edit",
+      "trackId": "2RxqMXYaxwI7zv1z0MrIlW",
+      "total": 128596,
+      "daily": 5
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Live at Union Square, November 1986 - Live",
+      "trackId": "6M659EDCxgcvYjOTornyYJ",
+      "total": 127352,
+      "daily": 29
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "I Think I Can Beat Mike Tyson - Radio Mix",
+      "trackId": "0mJujmisDCVnOa3MJnjRD9",
+      "total": 123932,
+      "daily": 7
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Who Stole The DJ",
+      "trackId": "23J0RpGUwAm58pElm5kPyy",
+      "total": 115608,
+      "daily": 23
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Dumb Dancin'",
+      "trackId": "0R5ZfI1X7AsR6eh8ZUkDSU",
+      "total": 112283,
+      "daily": 20
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Ain't No Place Like Home",
+      "trackId": "6CASZ35F875myaOv52sm6a",
+      "total": 111456,
+      "daily": 26
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Hip Hop Dancer's Theme - Edit",
+      "trackId": "3NZRmjNG2h2r7az5p46yxZ",
+      "total": 109070,
+      "daily": 24
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Let's Get Busy Baby",
+      "trackId": "34jiqdW0BY1vC2gYyhewP7",
+      "total": 108700,
+      "daily": 22
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Guys Ain't Nothing But Trouble (feat. Ice Cream Tee)",
+      "trackId": "7cqJidKBAnKEz0yJPcybjI",
+      "total": 108646,
+      "daily": 16
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "artistId": "1mG23iQeR29Ojhq89D5gbh",
+      "trackName": "Human Video Game - Edit",
+      "trackId": "3dSCWoboQhmsUmUF4IdL8Z",
+      "total": 107918,
+      "daily": 15
+    }
+  ]
+}

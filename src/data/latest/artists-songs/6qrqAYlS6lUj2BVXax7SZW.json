@@ -1,0 +1,814 @@
+{
+  "artist": "Mc Jacaré",
+  "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+  "songs": [
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Toma Tapa",
+      "trackId": "2Vl7x4BkNhhJkEmQQMcV0V",
+      "total": 182714166,
+      "daily": 56667
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Vento Forte",
+      "trackId": "5PSkF3QpVMlAx8U5Inxj39",
+      "total": 182438279,
+      "daily": 53094
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Comprei um Lança",
+      "trackId": "12v6LfkX9YIR3uLefIAAYZ",
+      "total": 138219288,
+      "daily": 27740
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Boca de Mel",
+      "trackId": "7yYrG1nIPeZdLoA9tfU8LL",
+      "total": 86529344,
+      "daily": 32886
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Pinxadão",
+      "trackId": "4t4V2ptzeV94uXjUS1X18F",
+      "total": 63037246,
+      "daily": 60085
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Senta Pro Bruto",
+      "trackId": "5cA1ZrIefkDvs4AIUqCx67",
+      "total": 58929534,
+      "daily": 18555
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "A Culpa Não É Minha",
+      "trackId": "1XOKY4UYNqYFBIozWe9Fr7",
+      "total": 48949713,
+      "daily": 28638
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Senta e Cala a Boca",
+      "trackId": "2ZrC9CTs01XkbFPtLbpHzl",
+      "total": 38511732,
+      "daily": 462473
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Pelo Menos",
+      "trackId": "1STXKGtCJeeP791CzEAqf5",
+      "total": 38006067,
+      "daily": 48846
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Senta no Fazendeiro",
+      "trackId": "1wsL4Lgoo27ETnLt6svbnT",
+      "total": 29222328,
+      "daily": 4823
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Desilusão (MTG) (feat. Loirin Prod)",
+      "trackId": "4dSDTAZ7ohybHBonbtMBpP",
+      "total": 28700412,
+      "daily": 13321
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Tchau Voltei a Ser Lixo Light",
+      "trackId": "043UqjcBUxcuoKfaxujfLA",
+      "total": 27280183,
+      "daily": 7551
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Terror da Cidade",
+      "trackId": "6YYCK0t9NAz1p7cXLe4xqL",
+      "total": 26502954,
+      "daily": 5370
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Se Solta",
+      "trackId": "03qlAYKt8pzZfDDS52dNDz",
+      "total": 25753403,
+      "daily": 9570
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Vem Sentar pro Pai",
+      "trackId": "6ozMR6SxO2xmRV90y4HJgj",
+      "total": 22642842,
+      "daily": 23835
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Outro Mundo",
+      "trackId": "3HnJEC10c6kk425o1dfe7G",
+      "total": 20989498,
+      "daily": 6049
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Emocionou",
+      "trackId": "4WtWrOHAEAFL7aOWJKQnGN",
+      "total": 20611292,
+      "daily": 9258
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Poupa no Chão",
+      "trackId": "6BR3F1EMqqrntg6pXpYUfO",
+      "total": 18751449,
+      "daily": 15037
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Pula Pula",
+      "trackId": "7GugV6zAaQoJLOLh5oF62Q",
+      "total": 17105484,
+      "daily": 4285
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Pequi de Goiás",
+      "trackId": "292ypJvjQin21i3qYsbmjU",
+      "total": 16780848,
+      "daily": 4504
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Macho Preferido",
+      "trackId": "4D4yBfKqS2aBblJyVlpA7i",
+      "total": 16466764,
+      "daily": 2712
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Sentar pro Trem",
+      "trackId": "11s2M1WFIZ5r04porN58m2",
+      "total": 14575727,
+      "daily": 64732
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Motel Barato",
+      "trackId": "1Pu1wSBO0rSiyQxukxlOqj",
+      "total": 13763443,
+      "daily": 3578
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Lombradão",
+      "trackId": "10L5MDuR6Arqcr67iDbf2T",
+      "total": 13718312,
+      "daily": 2675
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Mostra Seu Talento",
+      "trackId": "1JI65naYLy6AbKFkF04Fek",
+      "total": 12617781,
+      "daily": 15085
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Cai na Vara",
+      "trackId": "4ppA03g9iJmiLitOUYdGCL",
+      "total": 11148466,
+      "daily": 8220
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Toma Sua Cavalona - Remix",
+      "trackId": "1INBfzwQCrB4P3M7vPfRes",
+      "total": 10005627,
+      "daily": 1138
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Cavucando",
+      "trackId": "0hCtgc0s1EgxqhlTleIkDS",
+      "total": 9382639,
+      "daily": 2210
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Fé Pra Tu Maluca",
+      "trackId": "6MFe0s8JHF5XtoRdMPtYN8",
+      "total": 9376476,
+      "daily": 3932
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Eu Até Gosto de Você",
+      "trackId": "5pFKYnVJvof8TZb2wQdCG4",
+      "total": 9130230,
+      "daily": 144257
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Mortal Kombat",
+      "trackId": "06mMc8CW2iaStm5WRRfC4I",
+      "total": 8773512,
+      "daily": 2779
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Vem Sentar pro Pai",
+      "trackId": "3w10AjqINdrCSI3LXLG8B3",
+      "total": 8723445,
+      "daily": 3654
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Senta e Cala a Boca",
+      "trackId": "0QfAYccg9XiiTTxKOforDM",
+      "total": 8561634,
+      "daily": 90460
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Perdemos Mais Um Guerreiro",
+      "trackId": "34de8gtEnKxnBVDA8FPWuO",
+      "total": 7795144,
+      "daily": 14731
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Novinha de Goiânia",
+      "trackId": "2bFvR7J6rGp9kCClvVOrJR",
+      "total": 7773749,
+      "daily": 5315
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Pra Melhorar Meu Dia",
+      "trackId": "6CBh5LjGeyxjOim5Nv1OV0",
+      "total": 6732908,
+      "daily": 342
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Se Gostou de Mim Fé",
+      "trackId": "6arlz22a92MTF50WT0B2qe",
+      "total": 6623975,
+      "daily": 4675
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Cala a Boca",
+      "trackId": "4AdUWS7lUkNjVHrjJlacKL",
+      "total": 6541742,
+      "daily": 6612
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Tô Confuso",
+      "trackId": "66W9xkKoZeJlhTQdq7lL8w",
+      "total": 6511785,
+      "daily": 23664
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Imagina Eu",
+      "trackId": "2rC5A2A3fZv9jmU8egt8BN",
+      "total": 5923147,
+      "daily": 4384
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "A Culpa É Sua",
+      "trackId": "4o24GkCO1634mJxffQA4AO",
+      "total": 5760882,
+      "daily": 15906
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Lombradão",
+      "trackId": "55nat4t9qEmToduKhY9zpq",
+      "total": 5349464,
+      "daily": 3382
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Batatinha Frita 1, 2, 3",
+      "trackId": "3M0mrdp5lRUpe132IKFCYE",
+      "total": 4886853,
+      "daily": 1976
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Jacaré 1000%",
+      "trackId": "0MRjtHRyCTvYISL4KUSPDC",
+      "total": 4884799,
+      "daily": 2770
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Trenzin - Ao Vivo",
+      "trackId": "5AktnRlqQvYGlJaz2RN1BI",
+      "total": 3928002,
+      "daily": 918
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "A Culpa é Sua (De Conveniência em Conveniência)",
+      "trackId": "6DAuZb4ygq2kxNA6uG5tuB",
+      "total": 3353427,
+      "daily": 4634
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Vem Com o Bonde",
+      "trackId": "27pKWnzHPgtF5lUTUoZOCq",
+      "total": 3284432,
+      "daily": 2262
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Vem Sentar pro Pai",
+      "trackId": "2DyGmccrHyeATwX2mCgM2r",
+      "total": 3074164,
+      "daily": 591
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Aumenta o Som",
+      "trackId": "7bPh3Szrx77T1DDg6VuCAn",
+      "total": 2978594,
+      "daily": 2309
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Vem Pro Vuk Vuk",
+      "trackId": "3qjGusFqGOGfiOEgJklgsT",
+      "total": 2778353,
+      "daily": 922
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Que Raba É Essa",
+      "trackId": "39B1nbKKunUUR5DHwVtUhU",
+      "total": 2622433,
+      "daily": 496
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Vento Forte - Piseiro",
+      "trackId": "6NtlIm4za7PXYVAFMYonHb",
+      "total": 2619738,
+      "daily": 784
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Comprei um Lança - R3HAB Remix",
+      "trackId": "5WnhHS07vDSPJIRo2pteyF",
+      "total": 2500645,
+      "daily": 123
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Pra Melhorar Meu Dia Vs Vapo Alien (feat. DF SHEIK)",
+      "trackId": "4AlHDi84NMfJSAo1h1M75e",
+      "total": 2359831,
+      "daily": 1444
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Fica de 4 e Toma",
+      "trackId": "64yPWMLcWURWqvYLBReFid",
+      "total": 1957320,
+      "daily": 172
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Toma Sua Cavalona - Remix Funk",
+      "trackId": "1JrDfVvKtTVkgsOQ60F9cs",
+      "total": 1949928,
+      "daily": 111
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Cobra D'água",
+      "trackId": "0dcXkpnF0mwyCFl27oq7gT",
+      "total": 1702338,
+      "daily": 12237
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Mtg - Toma Sua Cavalona Vs Fode Gostoso",
+      "trackId": "14xHV73eApSXwsz2DtTG7y",
+      "total": 1335010,
+      "daily": 148
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Olhar Singelo",
+      "trackId": "3UDDHdgDywM0AaUV6BUybB",
+      "total": 1120228,
+      "daily": 372
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Então Desce",
+      "trackId": "2pvkqVX2ydWr8yksziTRwj",
+      "total": 1067033,
+      "daily": 238
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Set do Imperador",
+      "trackId": "2duPxY3QFJUaW37JcJg5eb",
+      "total": 1039241,
+      "daily": 638
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Influencer Digital",
+      "trackId": "7qi0QO42ENMv5Np4k767BS",
+      "total": 1010426,
+      "daily": 120
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Atrás do Caminhão",
+      "trackId": "0FHiu5IxTzHB4drqKecqzZ",
+      "total": 876683,
+      "daily": 366
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Balança",
+      "trackId": "1CnrHWxuQBqGnTOsOB2olf",
+      "total": 788776,
+      "daily": 95
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Um Cara da Noite",
+      "trackId": "20HF8BenPsDluTouAkT7eg",
+      "total": 725958,
+      "daily": 823
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Se Solta",
+      "trackId": "5d70RRpAznLXZVBdGinLq5",
+      "total": 697746,
+      "daily": 409
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Primeira Vez",
+      "trackId": "4d12Cqgb5tyZgGxZMIiAqf",
+      "total": 693536,
+      "daily": 566
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Mega Funk Bumbum Vs Toma Sua Cavalona",
+      "trackId": "2HsLEYciEXAi2PXVx3F5K2",
+      "total": 688342,
+      "daily": 86
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Poupa no Chão",
+      "trackId": "4H0eYY24dRtYzab4ZOEiDC",
+      "total": 669205,
+      "daily": 1330
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Saudade Né",
+      "trackId": "4qcMJckTgR83ySW31QBMu0",
+      "total": 646775,
+      "daily": 109
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Cachorrona",
+      "trackId": "3ariA2tDut4LI2yFJpOjqc",
+      "total": 642591,
+      "daily": 577
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Falso Milionário",
+      "trackId": "2Jbun4RbhWupD0JZhGVcYE",
+      "total": 611699,
+      "daily": 703
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Perigosa",
+      "trackId": "5r5ytLsP5em3o3yxN65lsc",
+      "total": 607602,
+      "daily": 93
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Pitbull Bolado",
+      "trackId": "1w8haKkWAsT1WdM6wonYNc",
+      "total": 581404,
+      "daily": 60
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Ritmada Na Onda",
+      "trackId": "0STszOn1RMC6xU2Tvc1Emq",
+      "total": 475734,
+      "daily": 66
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Bandida",
+      "trackId": "401dxM69OXiI0KSUe0jJO9",
+      "total": 469938,
+      "daily": 78
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Paga Mil",
+      "trackId": "073i4RVUsn7yg6EIaTz7C6",
+      "total": 414919,
+      "daily": 1112
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Pelada",
+      "trackId": "5JqG54fSz4XO09WpGCNFcR",
+      "total": 394715,
+      "daily": 47
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Como É Que Pode",
+      "trackId": "4CI9dJppTOvo8WmGfs7kIB",
+      "total": 367087,
+      "daily": 185
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Sempre Fui Assim",
+      "trackId": "4WcXDqb0Y0r8CMLVmQRIeQ",
+      "total": 292649,
+      "daily": 3
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Raridade",
+      "trackId": "5HND90BfFdxZ0MDf5q5V2T",
+      "total": 289497,
+      "daily": 3445
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Toma Sua Cavalona",
+      "trackId": "2Kn7tEeaL2w6oQE8QhVwQ2",
+      "total": 269547,
+      "daily": 42
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Polo da Lálá",
+      "trackId": "4EWePfOqf7m6k9ooUsWuNi",
+      "total": 269424,
+      "daily": 55
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Amizade Colorida",
+      "trackId": "1ogcS5OPeW2QK4tDwlQbXi",
+      "total": 253827,
+      "daily": 36
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "De Rotina",
+      "trackId": "6M2b2NkYKZQ6WHLFpOfKpZ",
+      "total": 249383,
+      "daily": 251
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Fetiche",
+      "trackId": "2xE9AJDoCANadqONBSbTiW",
+      "total": 247995,
+      "daily": 4
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Deixa",
+      "trackId": "4OcboyogThPUuHeW5S7VNu",
+      "total": 233526,
+      "daily": 20
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "De Rotina - Remix",
+      "trackId": "6ZpbR5zumiLKGZCzy6QwB5",
+      "total": 204880,
+      "daily": 24
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Senta No Cacete",
+      "trackId": "5UsOc4x7cY6sEaMlAKBb55",
+      "total": 199435,
+      "daily": 17
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "A Bunda Dela Bate Forte",
+      "trackId": "44AktVXLwxTPpmnBlcO6dj",
+      "total": 195683,
+      "daily": 27
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Toma Sua Cavalona - Js Remix",
+      "trackId": "7HoLrIUWqxRnYZ4P1px4aW",
+      "total": 189273,
+      "daily": 6
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Trenzin - Remix",
+      "trackId": "34YjCiM8nVfPWQFvi8MIFU",
+      "total": 172564,
+      "daily": 62
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Ela Quer Foder Pelada",
+      "trackId": "2YOOB2ZCiQV6PWxqZmM4x5",
+      "total": 172520,
+      "daily": 43
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Lance Antigo",
+      "trackId": "5qb7F4UGpR2j1JU2agM4CS",
+      "total": 170173,
+      "daily": 35
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Senta e Cala e Boca",
+      "trackId": "1q4oqHNgUdWZQXOQXN06YK",
+      "total": 167858,
+      "daily": 3038
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Toma Sua Cavalona (feat. Mc Jacaré)",
+      "trackId": "73NUA7PA0zmDfw7bDHRQPg",
+      "total": 154812,
+      "daily": 12
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Ela Tá Carente",
+      "trackId": "0J84gt8JLrcBEXtlMVrURT",
+      "total": 142419,
+      "daily": 36
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Piseiro de Cria",
+      "trackId": "7Cv5Jcs3ZT2FsoH0Rw3WU7",
+      "total": 137316,
+      "daily": 8
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Acabou",
+      "trackId": "3vOsj6lddQCuGE2HCi2RfE",
+      "total": 135102,
+      "daily": 1
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Cancela",
+      "trackId": "2j2LHfJ93MShWNDAzuqpv7",
+      "total": 114627,
+      "daily": 4
+    },
+    {
+      "artist": "Mc Jacaré",
+      "artistId": "6qrqAYlS6lUj2BVXax7SZW",
+      "trackName": "Lugar Legal",
+      "trackId": "5eHIkYy1OWZGzljVpIFKap",
+      "total": 102684,
+      "daily": 33
+    }
+  ]
+}

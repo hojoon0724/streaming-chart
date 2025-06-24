@@ -1,4 +1,4 @@
-import chartsData from "../../../data/global_charts_by_date.json";
+import chartsData from "../../../data/weekly/global_charts_by_date.json";
 
 export default function handler(req, res) {
   if (req.method !== "GET") {

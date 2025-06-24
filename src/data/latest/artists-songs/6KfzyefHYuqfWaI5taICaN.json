@@ -1,0 +1,22 @@
+{
+  "artist": "Band Aid 30",
+  "artistId": "6KfzyefHYuqfWaI5taICaN",
+  "songs": [
+    {
+      "artist": "Band Aid 30",
+      "artistId": "6KfzyefHYuqfWaI5taICaN",
+      "trackName": "Do They Know It's Christmas? - 2014",
+      "trackId": "6MAwuKSMaiWS2N40ncEdEc",
+      "total": 69989855,
+      "daily": 724
+    },
+    {
+      "artist": "Band Aid 30",
+      "artistId": "6KfzyefHYuqfWaI5taICaN",
+      "trackName": "Do They Know It's Christmas? - Deutsche Version / 2014",
+      "trackId": "7uV2omSb3YVgIbWWyQESuk",
+      "total": 758046,
+      "daily": 16
+    }
+  ]
+}

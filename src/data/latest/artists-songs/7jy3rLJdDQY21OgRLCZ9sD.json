@@ -1,0 +1,1982 @@
+{
+  "artist": "Foo Fighters",
+  "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+  "songs": [
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Everlong",
+      "trackId": "07q6QTQXyPRCf7GbLakRPr",
+      "total": 1451059856,
+      "daily": 737348
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Pretender",
+      "trackId": "6HNruFQlzQx4ulL4ppRLYI",
+      "total": 909826159,
+      "daily": 356634
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Best of You",
+      "trackId": "1sn6iOK93jnp0Hn5BnNOXy",
+      "total": 722887985,
+      "daily": 243409
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Learn to Fly",
+      "trackId": "5OQsiBsky2k2kDKy2bX2eT",
+      "total": 678140615,
+      "daily": 275917
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "My Hero",
+      "trackId": "7u5dBtASrtOuBTTZjJrvuJ",
+      "total": 514194528,
+      "daily": 262757
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "All My Life",
+      "trackId": "2HbVINmehEbPmjlcueXEJJ",
+      "total": 440496934,
+      "daily": 156673
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Times Like These",
+      "trackId": "4xanWVQIzdCf51mg8cd1cQ",
+      "total": 269374985,
+      "daily": 107825
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Walk",
+      "trackId": "76Je5Wklky23mVoxiRszcN",
+      "total": 269325459,
+      "daily": 79645
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Monkey Wrench",
+      "trackId": "43TxY9bYSyZ4QRPA0UJddL",
+      "total": 263714642,
+      "daily": 87070
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Everlong - Acoustic Version",
+      "trackId": "3QmesrvdbPjwf7i40nht1D",
+      "total": 260180221,
+      "daily": 76604
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Sky Is A Neighborhood",
+      "trackId": "3kdMzXOcrDIdSWLdONHNK5",
+      "total": 165521786,
+      "daily": 29498
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "These Days",
+      "trackId": "2kN05N1AQQplsgFweFAqYb",
+      "total": 128719258,
+      "daily": 39917
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Run",
+      "trackId": "1wLQwg0mloy3yXjL0jPE0N",
+      "total": 123013085,
+      "daily": 18118
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Big Me",
+      "trackId": "04Jk0uP8SbDHLyAKfRctNQ",
+      "total": 120549052,
+      "daily": 36673
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Wheels",
+      "trackId": "3KsatAMRt1a7iryhWt5I8U",
+      "total": 111359044,
+      "daily": 31996
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Breakout",
+      "trackId": "2kh0u2d2YKQ7BCqeLPdHk6",
+      "total": 91166156,
+      "daily": 26823
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Rope",
+      "trackId": "7v0mtl6oInUtHOmTk2b0gC",
+      "total": 89793782,
+      "daily": 23308
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Something from Nothing",
+      "trackId": "6REiraH7Pe3akd0mkFA4l9",
+      "total": 88461573,
+      "daily": 11523
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "This Is a Call",
+      "trackId": "1KZVbkPnQYwaN5OeAHGa4P",
+      "total": 83757180,
+      "daily": 26083
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Long Road To Ruin",
+      "trackId": "4Hv5jUXVQveCj36wN6dPmD",
+      "total": 78377282,
+      "daily": 19622
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Arlandria",
+      "trackId": "5TOYgNohZAFEPOtnchPhZS",
+      "total": 64915683,
+      "daily": 14011
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Saint Cecilia",
+      "trackId": "7bdUH0npz854dv3plG8ieT",
+      "total": 60543376,
+      "daily": 9757
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Bridge Burning",
+      "trackId": "0bHD1nLe7Nhw55ZGJ92332",
+      "total": 58480210,
+      "daily": 14243
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "I'll Stick Around",
+      "trackId": "4LGKzrdEeBwR9UHCGlDT0W",
+      "total": 56084992,
+      "daily": 22241
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Let It Die",
+      "trackId": "2XvrMHbSO077Ajg7QTTNdY",
+      "total": 52990821,
+      "daily": 11240
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Stranger Things Have Happened",
+      "trackId": "7zaZlzl0XhthNwH3GQcyZ0",
+      "total": 48194268,
+      "daily": 10753
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "DOA",
+      "trackId": "1QZFn6QUNHfCp8s06C91hw",
+      "total": 47483327,
+      "daily": 14032
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Waiting On A War",
+      "trackId": "4tA8lpQoWkMRWOZ29HbR86",
+      "total": 44994058,
+      "daily": 10002
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "No Way Back",
+      "trackId": "2MKEQhvPb2VaJXjx5X8Yg6",
+      "total": 44957346,
+      "daily": 10759
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Dear Rosemary",
+      "trackId": "6HeFCUg1F1v0bnE3JFTlxz",
+      "total": 42512930,
+      "daily": 7904
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Walking After You",
+      "trackId": "7pS2OVdIWviLpz5GOtJLzz",
+      "total": 42049651,
+      "daily": 11145
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Congregation",
+      "trackId": "40cLVGkjzcZ5FJ3vHkXB0e",
+      "total": 41637638,
+      "daily": 4642
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Times Like These - Acoustic Version",
+      "trackId": "1pXgBjIvALm97lDhroan2E",
+      "total": 39545571,
+      "daily": 22681
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Feast and The Famine",
+      "trackId": "1M4Wy6jRce1x17qyE7yQAB",
+      "total": 39448832,
+      "daily": 3055
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Rescued",
+      "trackId": "3nDstVXtr6xbCZKs5Ka2rZ",
+      "total": 37604749,
+      "daily": 13235
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Outside",
+      "trackId": "5BfbdJLRp9gUyyxeGJUECL",
+      "total": 36453607,
+      "daily": 2951
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Under You",
+      "trackId": "6vWu5uWlox5TVDPl3LvoG3",
+      "total": 36323486,
+      "daily": 16356
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Shame Shame",
+      "trackId": "21Qmkbvp6GvZdO0IMQtae5",
+      "total": 36132377,
+      "daily": 6805
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Home",
+      "trackId": "2fDVMNQmFuMORDD3dP7GkN",
+      "total": 35846916,
+      "daily": 7101
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Hey, Johnny Park!",
+      "trackId": "0M5xRyxGpFFDfzN2x0wdpH",
+      "total": 34029684,
+      "daily": 11861
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Generator",
+      "trackId": "592nTDJAy8AucV4KKIDCmA",
+      "total": 33724276,
+      "daily": 10715
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Stacked Actors",
+      "trackId": "1vziI0NCJKrqKiG94COHBa",
+      "total": 31367820,
+      "daily": 7979
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Come Alive",
+      "trackId": "4P4s2KHOw0uISbLI3zkHtD",
+      "total": 30667743,
+      "daily": 6374
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Aurora",
+      "trackId": "7dIh8FF0EzYKS8STv3v4F4",
+      "total": 30040292,
+      "daily": 10424
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "White Limo",
+      "trackId": "57dem1V7wz8owejklpELCh",
+      "total": 28673881,
+      "daily": 5092
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Making A Fire",
+      "trackId": "2u8NmvhYX6wiviyxJTOhEi",
+      "total": 28293169,
+      "daily": 3928
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Line",
+      "trackId": "7hlLPJo0pxh1jQUERqf5O2",
+      "total": 27911634,
+      "daily": 2110
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Doll",
+      "trackId": "2KvhVhBR7MIMZUQNRBiY2k",
+      "total": 27767051,
+      "daily": 7883
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "I Am A River",
+      "trackId": "1jH0OiLvqyyhUOEUu61XPI",
+      "total": 27045548,
+      "daily": 3196
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "No Son Of Mine",
+      "trackId": "3jSRg3DPkvNX74Kx28PQnH",
+      "total": 26971597,
+      "daily": 6349
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Make It Right",
+      "trackId": "33OVwHAdsrJELptAp74TqW",
+      "total": 26490447,
+      "daily": 1587
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Sunday Rain",
+      "trackId": "1tDM9ElAIOimEPBEnkXqe2",
+      "total": 25943547,
+      "daily": 2634
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "In The Clear",
+      "trackId": "0MXosG7BdA9uukm88V7zAD",
+      "total": 25125723,
+      "daily": 2111
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Skin And Bones - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "1eoQNKgUm4dX9nk0876FsL",
+      "total": 24369888,
+      "daily": 2947
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Times Like These - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "06s6aloy62vytl3MnT6gfl",
+      "total": 23993377,
+      "daily": 4900
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "La Dee Da",
+      "trackId": "0MfVTButkC0WU7aUcIskU6",
+      "total": 23882971,
+      "daily": 2292
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "My Hero - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "0GE8sVpRYoMamNcfLGObxY",
+      "total": 22513791,
+      "daily": 6344
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Arrows",
+      "trackId": "6JSryEdVJTZq6YBn3wK2sn",
+      "total": 22394443,
+      "daily": 1534
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Back & Forth",
+      "trackId": "0xMgRt36DpWa7QKNYZy0e4",
+      "total": 21756782,
+      "daily": 2901
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "I Should Have Known",
+      "trackId": "042RaY48TNY9aesv8fqYTf",
+      "total": 20628443,
+      "daily": 3966
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Next Year",
+      "trackId": "1WwWjG2FGbBK6IkBBTknao",
+      "total": 20312811,
+      "daily": 6244
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Low",
+      "trackId": "3j8ja2Hq824OaRqIENJPTH",
+      "total": 20226736,
+      "daily": 7312
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Glass",
+      "trackId": "26iWAXoJRiUv9yYzxYBqSv",
+      "total": 19528088,
+      "daily": 8077
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "A Matter Of Time",
+      "trackId": "46GHi1UJz1yEumZcMkbJN9",
+      "total": 19283474,
+      "daily": 3097
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Alone + Easy Target",
+      "trackId": "5XUpAb2zC8G404RPkwb09H",
+      "total": 18991668,
+      "daily": 6358
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "T-Shirt",
+      "trackId": "3OG5wVO27N3HtdtxPLpPFt",
+      "total": 18537614,
+      "daily": 1310
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Best Of You - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "1152S957C8U9O5oFJxEQ8I",
+      "total": 18158743,
+      "daily": 3036
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Ain't It The Life",
+      "trackId": "2ifYUfvMNbXQDPJEyk68rP",
+      "total": 18080091,
+      "daily": 3229
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Dirty Water",
+      "trackId": "5lnsL7pCg0fQKcWnlkD1F0",
+      "total": 17508603,
+      "daily": 1664
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Virginia Moon",
+      "trackId": "2Ei5auE9kCmwKB2JZtKPKO",
+      "total": 17434772,
+      "daily": 3965
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Miss The Misery",
+      "trackId": "2u5OWZVjfuS85zTX3t4lbe",
+      "total": 17104690,
+      "daily": 2274
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "What Did I Do?/God As My Witness",
+      "trackId": "1cVRidDVfNJ61dlXhCagOT",
+      "total": 16886227,
+      "daily": 1303
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Word Forward",
+      "trackId": "74QDbj3qdHQhofu01RyFtT",
+      "total": 16614953,
+      "daily": 2602
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Come Back",
+      "trackId": "6FIJGWyovgbmDkjMp6a5x7",
+      "total": 14978096,
+      "daily": 2200
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "February Stars",
+      "trackId": "2ceA7CWWx6yIHdzppN8nLF",
+      "total": 14598217,
+      "daily": 3999
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Tired Of You",
+      "trackId": "4RH87gcPiBZneI200rM6C5",
+      "total": 14416350,
+      "daily": 1676
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "But, Honestly",
+      "trackId": "4SMbJ6BAY9LdudY8v7HJpH",
+      "total": 14329083,
+      "daily": 2932
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Up In Arms",
+      "trackId": "05TcC5ZN9rp8Glx8A9C2Nd",
+      "total": 14203516,
+      "daily": 4080
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Cold Day In The Sun",
+      "trackId": "02O71P5xudugRmFCFsQe9E",
+      "total": 14150570,
+      "daily": 2787
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Happy Ever After (Zero Hour)",
+      "trackId": "5jwCEcnS7IXWhD4KuunEDE",
+      "total": 13754935,
+      "daily": 1039
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Erase/Replace",
+      "trackId": "5t142J9jQl1aaajsbxGjwg",
+      "total": 13737403,
+      "daily": 2323
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Good Grief",
+      "trackId": "2styBKRBhlZwPl5geag8KJ",
+      "total": 13505003,
+      "daily": 3939
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Wind Up",
+      "trackId": "56ucsSaTrjiQaokbbDASOR",
+      "total": 13295297,
+      "daily": 3486
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "In Your Honor",
+      "trackId": "06LzBUkKZpPAWiEwB6iVri",
+      "total": 13148409,
+      "daily": 3634
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Subterranean",
+      "trackId": "3O2de2JdIqnVVb5SBpg6wm",
+      "total": 12809094,
+      "daily": 1451
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Show Me How",
+      "trackId": "0ypVld5cYlBkFQqh5KR9kn",
+      "total": 12570880,
+      "daily": 4200
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Summer's End",
+      "trackId": "0cA5yQFQAfKjf64QHbPqss",
+      "total": 12303627,
+      "daily": 2371
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Nothing At All",
+      "trackId": "0csL34JYEsHmFBAZ1fgf8G",
+      "total": 11837863,
+      "daily": 6478
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "My Poor Brain",
+      "trackId": "3yIUusX4NApzRSAkxZFrJg",
+      "total": 11711263,
+      "daily": 3365
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Love Dies Young",
+      "trackId": "5suO1J3cXSVWJ7ED3kasKQ",
+      "total": 11631028,
+      "daily": 3046
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Cheer Up, Boys (Your Make Up Is Running)",
+      "trackId": "5w4s2ccJcpiNlajHVGtHDg",
+      "total": 11408584,
+      "daily": 2105
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Chasing Birds",
+      "trackId": "2jKnUcyrCADkeSy6gcN1qa",
+      "total": 11127999,
+      "daily": 2019
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "See You",
+      "trackId": "48PrL49eJ5P15yTxjK0oW6",
+      "total": 10685272,
+      "daily": 2674
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Enough Space",
+      "trackId": "4JWRyetq4ALHAXm9ByOOEg",
+      "total": 10613427,
+      "daily": 2913
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Cloudspotter",
+      "trackId": "4evJYiyxBkHcYvljAXNWZo",
+      "total": 10564657,
+      "daily": 1487
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Resolve",
+      "trackId": "6Nt5aSBZC3Rs97mQeNzICw",
+      "total": 10561448,
+      "daily": 3235
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Hearing Voices",
+      "trackId": "4PTowPoeya2AITpeUCJLKN",
+      "total": 10449436,
+      "daily": 4609
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Concrete and Gold",
+      "trackId": "5Y1A4C3ojxHCadg0wMFlJ0",
+      "total": 10442149,
+      "daily": 765
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Medicine At Midnight",
+      "trackId": "4r843ZUQ2w8SRYYJHUFoNW",
+      "total": 10384740,
+      "daily": 1602
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Everlong - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "35OjTv3e5arNbGoCgfJ73Z",
+      "total": 10248181,
+      "daily": 2331
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Statues",
+      "trackId": "2OSFREMR9mE2kiByPL3g71",
+      "total": 10095593,
+      "daily": 1753
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "But Here We Are",
+      "trackId": "5s18NymFEHOtiUMfVr6E3H",
+      "total": 9837813,
+      "daily": 4448
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "New Way Home",
+      "trackId": "44yHNmayqe7dI9fHjAYPCl",
+      "total": 9653702,
+      "daily": 2884
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Gimme Stitches",
+      "trackId": "3zgFz1o1N0hMHDzXS0fpIp",
+      "total": 9159477,
+      "daily": 2365
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Razor",
+      "trackId": "3G6xjB96azqSKV3uU44Bmt",
+      "total": 8954999,
+      "daily": 1521
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Ballad Of The Beaconsfield Miners",
+      "trackId": "0CJuzA63oAQb8dJDY5IKhZ",
+      "total": 8854487,
+      "daily": 1186
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "For All the Cows",
+      "trackId": "6CbeOOrDFQuY1tXYscKqZQ",
+      "total": 8373657,
+      "daily": 2563
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Holding Poison",
+      "trackId": "5aEvbJQVI98ea9lxUsgdb8",
+      "total": 8110409,
+      "daily": 1376
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Last Song",
+      "trackId": "10gtVK2wMCv1HzjhHKnFnw",
+      "total": 7831940,
+      "daily": 1765
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Miracle",
+      "trackId": "48ktarzxsErc0CbMysLGDw",
+      "total": 7814957,
+      "daily": 1485
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Friend Of A Friend",
+      "trackId": "7cxAyJ1UcrkejC7fTTZcUV",
+      "total": 7611685,
+      "daily": 1599
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Have It All",
+      "trackId": "5f8vUklSZ6EoaqA4aZyeMj",
+      "total": 7537228,
+      "daily": 1637
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "What If I Do?",
+      "trackId": "3trcjkAjWu8qK60f4lKkGS",
+      "total": 7455510,
+      "daily": 1367
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Hell",
+      "trackId": "7xT9J7vWvVEx7AfrNZBcZR",
+      "total": 7426499,
+      "daily": 1623
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Teacher",
+      "trackId": "7buGBnA0vkYulQafSZnpHx",
+      "total": 7337887,
+      "daily": 3243
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Floaty",
+      "trackId": "5tULmRxZrbnzh32H3ZIghu",
+      "total": 7307349,
+      "daily": 2354
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "On The Mend",
+      "trackId": "39kHMfF3dBMZMbOtoit1XF",
+      "total": 6905656,
+      "daily": 1567
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Rope - deadmau5 mix",
+      "trackId": "26npsVbbxWeOlqcuUo0KiP",
+      "total": 6798138,
+      "daily": 790
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Headwires",
+      "trackId": "4yFrDbYg7uxKKn31CojuxG",
+      "total": 6749740,
+      "daily": 2235
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Colour And The Shape",
+      "trackId": "4ZnD7qmpP3NWA1ctUzeUIw",
+      "total": 6733010,
+      "daily": 1984
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "End Over End",
+      "trackId": "223Iqe4eRgg7ReO6JFCx8P",
+      "total": 6689973,
+      "daily": 1388
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Another Round",
+      "trackId": "7IznnRqG5qJihAFZFPOq5l",
+      "total": 6679979,
+      "daily": 1192
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "M.I.A.",
+      "trackId": "7kxTnvOsp5h9KlHxKNud0r",
+      "total": 6637229,
+      "daily": 1696
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Walking After You - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "4VdSBrdM55T8QXdjrOAXvD",
+      "total": 6600818,
+      "daily": 964
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Halo",
+      "trackId": "2j2XkrTVjq7i9GViOQPROS",
+      "total": 6543741,
+      "daily": 1227
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Weenie Beenie",
+      "trackId": "5FafTKnxl219ZUWFzaufRQ",
+      "total": 6468774,
+      "daily": 2166
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Disenchanted Lullaby",
+      "trackId": "3pFKhFvx9oVQMd0OOQ5Sqt",
+      "total": 6449544,
+      "daily": 1257
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Still",
+      "trackId": "2wvfMTbZDPzpZhOt7z6tVo",
+      "total": 6436014,
+      "daily": 1111
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Wattershed",
+      "trackId": "7lMGc58V3S7lD2SLNRdOKx",
+      "total": 6321816,
+      "daily": 1779
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Live-In Skin",
+      "trackId": "6olSqj5lSv0Fy8iB0MUU5c",
+      "total": 6216064,
+      "daily": 1554
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Exhausted",
+      "trackId": "5EwyzrFLXlcnPenrPQ9DlO",
+      "total": 6210036,
+      "daily": 2242
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Big Me - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "1yYYdQ94FEyWAt1XtldifW",
+      "total": 6201988,
+      "daily": 986
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Free Me",
+      "trackId": "6OuwrRwl7q5VVpPREsx4j7",
+      "total": 6068379,
+      "daily": 1446
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Deepest Blues Are Black",
+      "trackId": "7nO47INYJ98touXCXOM1ui",
+      "total": 5956289,
+      "daily": 1696
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Over And Out",
+      "trackId": "1ct1ICmKoBb5zsU4zc53bd",
+      "total": 5868690,
+      "daily": 1204
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Marigold - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "3ev3JkW4mCru1pwO3g4N8d",
+      "total": 5788969,
+      "daily": 807
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Next Year - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "1Kr0tmA5iWITCQljsOT32t",
+      "total": 5748871,
+      "daily": 829
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Overdrive",
+      "trackId": "5kxa7byBuZ5MuY7RrIyRL6",
+      "total": 5722578,
+      "daily": 1092
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Lonely As You",
+      "trackId": "4NPI2n6mINvcgNejPefpoY",
+      "total": 5681641,
+      "daily": 1005
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "X-Static",
+      "trackId": "7rKm5BfLqxYko007wiamnm",
+      "total": 5605604,
+      "daily": 1999
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Cold Day In The Sun - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "4uTi7sKEUmvVhSAqXJC5Kg",
+      "total": 5465130,
+      "daily": 1493
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Beyond Me",
+      "trackId": "17oFMOCRu6P4WLqSSNyKPC",
+      "total": 5452538,
+      "daily": 1657
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Oh, George",
+      "trackId": "1Oy0vCHc4rUCOphROBbPSd",
+      "total": 5309984,
+      "daily": 1754
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Rest",
+      "trackId": "2IgxiiF1VdAj9ZfQMTORAb",
+      "total": 5110146,
+      "daily": 2089
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Iron Rooster",
+      "trackId": "1WcJ8s2xDYguT7TOpgHnmH",
+      "total": 5057081,
+      "daily": 407
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Razor - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "6BDF9S8M9qU4jOd5IjxoFo",
+      "total": 5046347,
+      "daily": 574
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "February Stars - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "4yz18uIDy2g7gGH4wSfJTc",
+      "total": 4605251,
+      "daily": 602
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Better Off",
+      "trackId": "2opkTo5GwixTydOWOtWsgQ",
+      "total": 4408554,
+      "daily": 358
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Over And Out - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "47j1q4BTpQghINXlf5gTDH",
+      "total": 4360008,
+      "daily": 539
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Burn Away",
+      "trackId": "4fYaRsv3SeLuwbqImVvxJt",
+      "total": 4295257,
+      "daily": 715
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Neverending Sigh",
+      "trackId": "5wFajLDxgaUNFl0AdNKj0Y",
+      "total": 4275411,
+      "daily": 495
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Sean",
+      "trackId": "1T8ZHOyYzHFd0t4LvdIHfz",
+      "total": 4265747,
+      "daily": 353
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Another Round - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "35ZHzUnfmKA01F2GmEx6T5",
+      "total": 4115887,
+      "daily": 549
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Glass",
+      "trackId": "1Wm507fKIw4Un8x11ucO1W",
+      "total": 4090376,
+      "daily": 1442
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Making A Fire - Mark Ronson Re-Version",
+      "trackId": "647zO6cYp3i7kF1igIpHl2",
+      "total": 3703195,
+      "daily": 846
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The One",
+      "trackId": "1UbZVvN4mSOmDvn4er7IKB",
+      "total": 3590336,
+      "daily": 1077
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Friend Of A Friend - Live at the Pantages Theatre, Los Angeles, CA - August 2006",
+      "trackId": "2YVYq26E3XpUHjllzXHj8z",
+      "total": 3590004,
+      "daily": 480
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Savior Breath",
+      "trackId": "5wLiev106dJ4rdPfKt3ibp",
+      "total": 3354423,
+      "daily": 254
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Kids In America - Demo - 1991",
+      "trackId": "6gck0cfN6aOi205yajAU8l",
+      "total": 3176529,
+      "daily": 634
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Walking A Line",
+      "trackId": "1Q0KFOFDJLAhtlzWWXtC44",
+      "total": 2808293,
+      "daily": 721
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Sister Europe",
+      "trackId": "7CusfLU24r4xtaOccowvXb",
+      "total": 2667668,
+      "daily": 580
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Have A Cigar",
+      "trackId": "5ZGmJxWucdAJ4dGLx6P5gu",
+      "total": 2563216,
+      "daily": 983
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "My Hero - Live at Studio 606 West, Northridge, CA - September 2007",
+      "trackId": "6rlLQPXSkhTlcDgUkCfqOr",
+      "total": 2476556,
+      "daily": 1457
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Monkey Wrench - Live at Cold Live At The Chapel, Melbourne, Australia - Feb 2000",
+      "trackId": "0HHqPzcuK9902hbw9eF1RH",
+      "total": 2333740,
+      "daily": 796
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "How I Miss You",
+      "trackId": "4p03BEw6BXl8IxOxIhb3tP",
+      "total": 2140680,
+      "daily": 225
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Skin And Bones",
+      "trackId": "12NB90vCkFaZKagYCZC66c",
+      "total": 2137201,
+      "daily": 823
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Danny Says",
+      "trackId": "0TxxdiZgO92Q6L7M19PVWe",
+      "total": 2005399,
+      "daily": 408
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Everlong - Live at the Roundhouse, London, UK - July 2011",
+      "trackId": "5475cBaiwArWtN5z22ziom",
+      "total": 1962216,
+      "daily": 1090
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Life Of Illusion",
+      "trackId": "4IHPDCQEhk52UcJJFpdy5f",
+      "total": 1916965,
+      "daily": 494
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Making A Fire",
+      "trackId": "0p2tzBrHAB2xLzcZvkrUdc",
+      "total": 1848117,
+      "daily": 442
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Walking After You - Single Mix",
+      "trackId": "5DaQcH3Xc1gVGb4w3RJSmR",
+      "total": 1808648,
+      "daily": 1043
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "I'll Stick Around - Live at the Apollo, Manchester, UK May 1997",
+      "trackId": "4W3n1pkiNIRDPSMmnFcsof",
+      "total": 1740185,
+      "daily": 115
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Shame Shame",
+      "trackId": "01xRp7U9dmM0LjEE65F37T",
+      "total": 1728742,
+      "daily": 460
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Chasing Birds - Preservation Hall Jazz Band Re-Version",
+      "trackId": "4ca03o6ZZsFA0LB620kpKI",
+      "total": 1662379,
+      "daily": 131
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Waiting On A War",
+      "trackId": "3zJagkWmiE2cmfa1OKf0hw",
+      "total": 1642595,
+      "daily": 460
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Run Rudolph Run",
+      "trackId": "5q54Y9ZR4F0Nh8F83IJB9l",
+      "total": 1635654,
+      "daily": 146
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Big Me - Demo - 1994",
+      "trackId": "4UvRj9HwQBuiGD5zfH1tUD",
+      "total": 1602980,
+      "daily": 168
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Best Of You - Live at Quart Festival, Kristiansand, Norway - July 2005",
+      "trackId": "2aiBGwVav2yarNh2NDVmMr",
+      "total": 1578915,
+      "daily": 386
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Pretender - Live at the Roundhouse, London, UK - July 2011",
+      "trackId": "4QLnfYWKEwjwedKTlbURuf",
+      "total": 1484805,
+      "daily": 651
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "For All The Cows - Live In Amsterdam",
+      "trackId": "2HjXmTHd2UsGvwhuRzN1Ll",
+      "total": 1475683,
+      "daily": 570
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "No Son Of Mine",
+      "trackId": "3EiUzJKZrvz5vMFj9Gup9s",
+      "total": 1448706,
+      "daily": 390
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Spill",
+      "trackId": "1qnOSK66sfoUYAem5znP7v",
+      "total": 1439484,
+      "daily": 195
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Cloudspotter",
+      "trackId": "2J2KF3eNR6WmwCATsSevuM",
+      "total": 1351722,
+      "daily": 387
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "These Days - Live at the Roundhouse, London, UK - July 2011",
+      "trackId": "3ngdgaN2ZlVywtOABeKLk4",
+      "total": 1337963,
+      "daily": 448
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Empty Handed - Demo - 1992",
+      "trackId": "0ERqbie4A7xiqRuFrdDqfu",
+      "total": 1328619,
+      "daily": 122
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Alone + Easy Target - Demo - 1992",
+      "trackId": "0GJDaAc8Qqcy56RAtqR3sq",
+      "total": 1203854,
+      "daily": 161
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Walk - Live at the Roundhouse, London, UK - July 2011",
+      "trackId": "1mgu7j2I6s92RboqRMXWHB",
+      "total": 1139354,
+      "daily": 514
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Winnebago",
+      "trackId": "3R1NdCl4O34sHJAPYCbxr0",
+      "total": 1093566,
+      "daily": 272
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "I'm In Love With A German Film Star",
+      "trackId": "7r73WiEt7wpiD331EEivcp",
+      "total": 1056153,
+      "daily": 176
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Seda",
+      "trackId": "4ESDkswVtMloWU2DtjEQ3L",
+      "total": 862039,
+      "daily": 119
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Sign",
+      "trackId": "357EXy4Y7bL0urgaRTvKhz",
+      "total": 839302,
+      "daily": 182
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Born On The Bayou",
+      "trackId": "6ZpawOfaMeJmW4Z50tr3jg",
+      "total": 823038,
+      "daily": 367
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Keep The Car Running - Live at BBC Radio 1's Six Weeks Of Summer",
+      "trackId": "3LR0zMkAWQEaFSpj1VNaOr",
+      "total": 763663,
+      "daily": 153
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Holiday In Cambodia - Live from the 2007 MTV Music Awards",
+      "trackId": "1TIGc32z3eUSqjd35gUFyc",
+      "total": 733616,
+      "daily": 169
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Learn To Fly - Live at the Wiltern Theatre, Los Angeles, CA - October 2002",
+      "trackId": "4zOvPGaWBefSrx3xsmSYXS",
+      "total": 730753,
+      "daily": 365
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "If Ever",
+      "trackId": "6PWzvBTWkqGHuB4mVboPpQ",
+      "total": 719306,
+      "daily": 164
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Dear Lover",
+      "trackId": "25IMrAWadsRbutyn5sE57S",
+      "total": 704922,
+      "daily": 173
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Fraternity - Live at BBC Radio 1, Glasgow, Scotland - November 1999",
+      "trackId": "6HzrQKBKqRW2woOe3GFN8A",
+      "total": 703763,
+      "daily": 129
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Podunk",
+      "trackId": "6P08xqA7uBv6pr0294gMw1",
+      "total": 695248,
+      "daily": 125
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "All My Life - Live at Walker Air Force Base, Roswell, NM - June 2005",
+      "trackId": "3Z1pwrRNABKNPxTCb1FYOh",
+      "total": 630637,
+      "daily": 300
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Arlandria - Live at the Roundhouse, London, UK - July 2011",
+      "trackId": "0k6ky8E5lVd7Aea7L5Va5j",
+      "total": 626901,
+      "daily": 184
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Ozone",
+      "trackId": "3dq2a5m3CVMuH4EcgYJDNn",
+      "total": 616364,
+      "daily": 121
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Normal",
+      "trackId": "349Rf6yCuwbx5NvIfHu1bV",
+      "total": 607711,
+      "daily": 202
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "For All the Cows - Live at Reading Festival, London, UK - August 1995",
+      "trackId": "5buTBZ2BpInSXkjWvAcDqo",
+      "total": 601827,
+      "daily": 70
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Win Or Lose",
+      "trackId": "2VLMiDrkiAkdPCiyUmFWKZ",
+      "total": 594978,
+      "daily": 151
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Next Year - Live At The Chapel, Melbourne, Australia - Feb 2000",
+      "trackId": "6pf52yaQLMD8rSBHJq2EdG",
+      "total": 585553,
+      "daily": 111
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Big Me - Live at Studio 606 West, Northridge, CA - September 2007",
+      "trackId": "7Gj8lpTiduwy8dzzGHnHMQ",
+      "total": 574271,
+      "daily": 152
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "FFL (Fat Fucking Lie)",
+      "trackId": "7sqI7aeFT6y5czivjf41yl",
+      "total": 570472,
+      "daily": 138
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Up In Arms - Slow Version",
+      "trackId": "0iyMEgqoDdIDbTnLWIQVcm",
+      "total": 563302,
+      "daily": 409
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Iron and Stone",
+      "trackId": "5ys6waVo1hSshgR5dNko0v",
+      "total": 561103,
+      "daily": 112
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Pretender - Live at Studio 606 West, Northridge, CA - September 2007",
+      "trackId": "7ADJ1AZpqgRlNUAXce2aTg",
+      "total": 552173,
+      "daily": 141
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "DOA - Demo",
+      "trackId": "4n6G0XHyoJ5Jz3QpvmcBlV",
+      "total": 545173,
+      "daily": 108
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Disenchanted Lullaby - Live Acoustic",
+      "trackId": "6OPFA0EPkjHzKa0JHXMxBs",
+      "total": 544701,
+      "daily": 174
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Kiss The Bottle",
+      "trackId": "1hWu3B3sJmXjkzSc2I4Hbj",
+      "total": 536398,
+      "daily": 144
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Razor - Live Acoustic",
+      "trackId": "6FLh8gqNrQIjRbMPVq1NDM",
+      "total": 528008,
+      "daily": 199
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "White Limo - Live at the Roundhouse, London, UK - July 2011",
+      "trackId": "59D1o8pyRNYiVpH06BDCKl",
+      "total": 524675,
+      "daily": 149
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Monkey Wrench - Live at Walker Air Force Base, Roswell, NM - June 2005",
+      "trackId": "634ON1OX1BRSLcBkVMBzSV",
+      "total": 456438,
+      "daily": 188
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Come Alive - Demo Version",
+      "trackId": "4gHauXm9lHKJUjeE4NdZYM",
+      "total": 450243,
+      "daily": 77
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "See You - Acoustic",
+      "trackId": "503EAR0obBJvbjiHYw3FNI",
+      "total": 443334,
+      "daily": 104
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Planet Claire - Live at the Supper Club, New York, NY - October 2002",
+      "trackId": "2AvUs9pXpO9SiwBs3SIH2s",
+      "total": 434100,
+      "daily": 105
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Requiem - Live at the BBC, London, UK - May 1997",
+      "trackId": "1R96rTZhBE5wYPALEDu3vE",
+      "total": 428488,
+      "daily": 90
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Making A Fire - Track Commentary",
+      "trackId": "1eUZHSwa6S4NarNuW49lBh",
+      "total": 428350,
+      "daily": 116
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Shame Shame - Track Commentary",
+      "trackId": "6P5KUe81MMVXS1NNeXZCMK",
+      "total": 406136,
+      "daily": 106
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Make a Bet",
+      "trackId": "1twOdybvH81Cv4938YBVUv",
+      "total": 405096,
+      "daily": 99
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Ain't It The Life - Live at Wisseloord Studio, Hilversum, Netherlands - November 1999",
+      "trackId": "4TlUpll4FmqNOavtFRzyqQ",
+      "total": 400551,
+      "daily": 103
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Floaty - Live at Wisseloord Studio, Hilversum, Netherlands - November 1999",
+      "trackId": "6hj6niH2zCM4ZaQlyHZUkg",
+      "total": 386558,
+      "daily": 151
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Floaty - Live at BBC Evening Session, London, UK - November 1995",
+      "trackId": "7J15qva3gNvWdsGeFu8h0R",
+      "total": 386152,
+      "daily": 63
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Alone + Easy Target - Live at BBC Evening Session, London, UK - November 1995",
+      "trackId": "3A8xGP097M5Hb6g1jo6ON2",
+      "total": 384440,
+      "daily": 72
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Breakout - Live at BBC Radio 1, Glasgow, Scotland - November 1999",
+      "trackId": "1FnO4lU1goHu6ks1YyMpa5",
+      "total": 377615,
+      "daily": 138
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Cloudspotter - Track Commentary",
+      "trackId": "41W7rovqZNWXC8GEeMKOmp",
+      "total": 365484,
+      "daily": 98
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Waiting On A War - Track Commentary",
+      "trackId": "5eC4LHcTyN3BMMSwpJwgZn",
+      "total": 361971,
+      "daily": 101
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Learn To Fly - Live at Sydney Showground, Sydney, Australia - January 2000",
+      "trackId": "2a4SfXFzATNcWIrZOxrcJD",
+      "total": 354054,
+      "daily": 180
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Medicine At Midnight - Track Commentary",
+      "trackId": "2g56A3Xm5tDj2yJzElwDRs",
+      "total": 342366,
+      "daily": 91
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Cheer Up, Boys (Your Make Up Is Running) - Live at Studio 606 West, Northridge, CA - September 2007",
+      "trackId": "70hHBPlbBRkMybbUtSe0Pn",
+      "total": 331765,
+      "daily": 63
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "No Son Of Mine - Track Commentary",
+      "trackId": "4EtbTkJiucjLfORmi3qtJC",
+      "total": 328328,
+      "daily": 89
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "This Is A Call - Live at Walker Air Force Base, Roswell, NM - June 2005",
+      "trackId": "3axNapUfpLoNy74EgIC26f",
+      "total": 326973,
+      "daily": 123
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "World - Demo",
+      "trackId": "25Onfki1wCskbiiiE0ZQ2T",
+      "total": 322740,
+      "daily": 101
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Free Me - Live at Walker Air Force Base, Roswell, NM - June 2005",
+      "trackId": "6gZwGEK3URwVgeGKBBNrRJ",
+      "total": 307726,
+      "daily": 57
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Wattershed - Live at Reading Festival, London, UK - August 1995",
+      "trackId": "6MJMRQPQeJQy0VVZsuYDh4",
+      "total": 300001,
+      "daily": 66
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Holding Poison - Track Commentary",
+      "trackId": "5cTviVSVZyN6gtTPEZw2Un",
+      "total": 299125,
+      "daily": 80
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Love Dies Young - Track Commentary",
+      "trackId": "2VGsXNYW3ZQt2fOu8k0JvA",
+      "total": 286192,
+      "daily": 85
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Chasing Birds - Track Commentary",
+      "trackId": "46XoZRyLqn7RpZsmOF6FEV",
+      "total": 281679,
+      "daily": 76
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "In Your Honor - Live at Walker Air Force Base, Roswell, NM - June 2005",
+      "trackId": "467p1dTtGSUT66816OoCqb",
+      "total": 276286,
+      "daily": 62
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Home - Live at Studio 606 West, Northridge, CA - September 2007",
+      "trackId": "2KzW7OGFis5ISFEauwv7ME",
+      "total": 255552,
+      "daily": 80
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Stacked Actors - Live at Walker Air Force Base, Roswell, NM - June 2005",
+      "trackId": "4GxTFaIRyHwjwFqNgTO2Og",
+      "total": 251787,
+      "daily": 99
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "Stacked Actors - Live at Sydney Showground, Sydney, Australia - January 2000",
+      "trackId": "537OMiggLMrcICbVv2tZDG",
+      "total": 227513,
+      "daily": 79
+    },
+    {
+      "artist": "Foo Fighters",
+      "artistId": "7jy3rLJdDQY21OgRLCZ9sD",
+      "trackName": "The Last Song - Live at Walker Air Force Base, Roswell, NM - June 2005",
+      "trackId": "2uN54uD3aaRlPfSu6hUq0K",
+      "total": 198748,
+      "daily": 76
+    }
+  ]
+}

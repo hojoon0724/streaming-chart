@@ -1,0 +1,406 @@
+{
+  "artist": "The Mowgli's",
+  "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+  "songs": [
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "San Francisco",
+      "trackId": "2eQOMQkStoRUQyq6HGh1iG",
+      "total": 112401045,
+      "daily": 19160
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "I'm Good",
+      "trackId": "5KQDGl3vAkNGyfvSbaW89E",
+      "total": 90079250,
+      "daily": 9133
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "I Feel Good About This",
+      "trackId": "0XbNKiLVi5NnQ8sKvmoj14",
+      "total": 50812345,
+      "daily": 6437
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Say It, Just Say It",
+      "trackId": "2J3n32GeLmMjwuAzyhcSNe",
+      "total": 34882870,
+      "daily": 4906
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Kansas City",
+      "trackId": "2rsG2SwIMJ3iilQdTTWNYN",
+      "total": 21824075,
+      "daily": 1614
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Alone Sometimes",
+      "trackId": "0ne8iNLplH15M6EtgzPkf0",
+      "total": 21292347,
+      "daily": 2962
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Summertime",
+      "trackId": "53VPCNRpCj52gDgVrLtG5y",
+      "total": 14270756,
+      "daily": 759
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Whatever Forever",
+      "trackId": "2gXczlSLzhskaTRLdAwBEw",
+      "total": 9321632,
+      "daily": 823
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Bad Dream",
+      "trackId": "2wDSi9KYZKExnLJrU80yz2",
+      "total": 8704271,
+      "daily": 425
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "So What",
+      "trackId": "0wAbE8PmaALSdGEpfOuk6J",
+      "total": 7748285,
+      "daily": 487
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Spacin Out",
+      "trackId": "099NgYQditsnMhePFr61Fl",
+      "total": 6984618,
+      "daily": 546
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Real Good Life",
+      "trackId": "0S1JnYE1vnfDxD5gdQaWfN",
+      "total": 6265751,
+      "daily": 1129
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "The Great Divide",
+      "trackId": "3z8uqtPewsLn4E36L8fVSv",
+      "total": 4917287,
+      "daily": 260
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Through The Dark",
+      "trackId": "2l9cqukp4MDKzC2SHsMrNm",
+      "total": 4502806,
+      "daily": 147
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Freakin' Me Out",
+      "trackId": "4C8J2S0YHVwqdEmMLHhsXy",
+      "total": 4305403,
+      "daily": 137
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Automatic",
+      "trackId": "6YzO1Ndf7fbyPo4njTTAur",
+      "total": 4206780,
+      "daily": 296
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Bad Thing",
+      "trackId": "7BAHv3tBUPqyUpiUssJ6ht",
+      "total": 3741838,
+      "daily": 174
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "You're Not Alone",
+      "trackId": "5myFOTh0KEzMRakY9aYjBn",
+      "total": 3282164,
+      "daily": 293
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Time",
+      "trackId": "7Ld15g9uCZ65YJrmiFvFCD",
+      "total": 2653347,
+      "daily": 98
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Clean Light",
+      "trackId": "4UTZZBfVof2Atthem9Uoqg",
+      "total": 2534225,
+      "daily": 139
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "4AM",
+      "trackId": "6ZIFaKXP0zqSlPu9lffBTz",
+      "total": 2513026,
+      "daily": 153
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Slowly, Slowly",
+      "trackId": "6Ciren6AvLvg59NdpLj0Rb",
+      "total": 2204800,
+      "daily": 96
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Hi, Hey There, Hello",
+      "trackId": "1pqTwZjZQ2DukbY7NmGqqV",
+      "total": 2175567,
+      "daily": 147
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Love Me Anyway",
+      "trackId": "10P4pphovyx8PAoz4OPZ4L",
+      "total": 1932813,
+      "daily": 128
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Carry Your Will",
+      "trackId": "60ChsktpC4PREkvb6tbsU6",
+      "total": 1896111,
+      "daily": 70
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Waiting For The Dawn",
+      "trackId": "728BNlAdHFjxor5AmEshtw",
+      "total": 1867920,
+      "daily": 106
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Spiderweb",
+      "trackId": "3JSfJxzxCZeU6haPMl5NAT",
+      "total": 1849733,
+      "daily": 96
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Kids In Love",
+      "trackId": "4rzu9qNeDxBddDTPMuBd01",
+      "total": 1842475,
+      "daily": 177
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Emily",
+      "trackId": "4Grh85HvvCAyzUp6AydAjz",
+      "total": 1754908,
+      "daily": 89
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Love Is Easy",
+      "trackId": "5WhxWBhxK9ijr39r4Qnnq7",
+      "total": 1561060,
+      "daily": 71
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Leave It Up To Me",
+      "trackId": "5p11enG0zbGaTCUiyCOZen",
+      "total": 1410855,
+      "daily": 74
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Shake Me Up",
+      "trackId": "4kKNiyCWaWREbup7RfL3rW",
+      "total": 1204004,
+      "daily": 67
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "What's Going On",
+      "trackId": "7Hex9YermXG6YgzPn5pvNh",
+      "total": 1128558,
+      "daily": 48
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Make It Right",
+      "trackId": "7yfv3t9z41N9utNJ9jz19Z",
+      "total": 1017756,
+      "daily": 46
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Sunlight",
+      "trackId": "5EyQSl2RRqr8FhU42U7aRU",
+      "total": 1012497,
+      "daily": 55
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Monster",
+      "trackId": "7qUL03WHjBZVnZoqz1bmnA",
+      "total": 990769,
+      "daily": 98
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Best of Us",
+      "trackId": "1e56MVIaCEM7H75FrTlnW2",
+      "total": 982011,
+      "daily": 102
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "We Are Free",
+      "trackId": "2UyFP8Me2VQ9NTJKrNIaPu",
+      "total": 975337,
+      "daily": 39
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Home To You",
+      "trackId": "0XDGAYou9FoFumuGWQ0vVL",
+      "total": 871050,
+      "daily": 45
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Last Forever",
+      "trackId": "7djs5VEwwLEeMLKEw1y8yp",
+      "total": 682685,
+      "daily": 39
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Arms & Legs",
+      "trackId": "3kjGJgTyeKzgWiWsIhgZuc",
+      "total": 603204,
+      "daily": 27
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Times Are Still Changing",
+      "trackId": "0qmMRMyKXgVIx8Vv678Re6",
+      "total": 563560,
+      "daily": 33
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Open Energy",
+      "trackId": "6bNPJeN7equsCmuRCR8wGg",
+      "total": 545695,
+      "daily": 22
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "C O O L Santa Ana",
+      "trackId": "0N3cCu7pnQXhBETSaN7jYR",
+      "total": 333868,
+      "daily": 65
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "More Love",
+      "trackId": "4qAxCFim14QJtIO3lakriU",
+      "total": 265055,
+      "daily": 27
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Wasting Time - Split Party Remix",
+      "trackId": "6jHfyLd7cp6kLGU7yhx77E",
+      "total": 172723,
+      "daily": 7
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "The Ending",
+      "trackId": "27u1fSkB8zcxRbpH4br2Q0",
+      "total": 169964,
+      "daily": 36
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Vacation - DNA Remix",
+      "trackId": "3t6eRf2zkDPjg7WHYrQecu",
+      "total": 160188,
+      "daily": 5
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Mr. Telephone - WASI Remix",
+      "trackId": "5gsZ751PhcJMjACNRPNQJN",
+      "total": 147234,
+      "daily": 4
+    },
+    {
+      "artist": "The Mowgli's",
+      "artistId": "6AGUQK1EWK6nvN4pLIDQDQ",
+      "trackName": "Weight on Me - DNA Remix",
+      "trackId": "4J3lf9u5xtG9v4nrg7swwA",
+      "total": 137750,
+      "daily": 2
+    }
+  ]
+}

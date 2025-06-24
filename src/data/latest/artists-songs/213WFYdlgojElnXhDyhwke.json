@@ -1,0 +1,22 @@
+{
+  "artist": "Little Nell",
+  "artistId": "213WFYdlgojElnXhDyhwke",
+  "songs": [
+    {
+      "artist": "Little Nell",
+      "artistId": "213WFYdlgojElnXhDyhwke",
+      "trackName": "Time Warp",
+      "trackId": "4WFeJTXNHIS2wURtwlAkhu",
+      "total": 64387922,
+      "daily": 22992
+    },
+    {
+      "artist": "Little Nell",
+      "artistId": "213WFYdlgojElnXhDyhwke",
+      "trackName": "The Time Warp (Remix 1989 Extended Version)",
+      "trackId": "26tM97xgHCHoiQJtKGfV2w",
+      "total": 3999712,
+      "daily": 1359
+    }
+  ]
+}

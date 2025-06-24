@@ -1,0 +1,998 @@
+{
+  "artist": "Louane",
+  "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+  "songs": [
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Avenir - Radio Edit",
+      "trackId": "5iWMMihPvhjDTXME2aO8Sy",
+      "total": 99486042,
+      "daily": 19849
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "It Won’t Kill Ya",
+      "trackId": "3hGEVxlmuB1Wg8K2RGJeyW",
+      "total": 86437093,
+      "daily": 6068
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Secret",
+      "trackId": "7dISpxgINJOQSuXUTEfB9x",
+      "total": 74132598,
+      "daily": 36689
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Jour 1",
+      "trackId": "2SsYn9MxSz0Fxbzy99wTe1",
+      "total": 65110852,
+      "daily": 25468
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Derrière le brouillard",
+      "trackId": "6r6nk82xSKVf9SoJTY1w2p",
+      "total": 56052605,
+      "daily": 19337
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Si t'étais là",
+      "trackId": "3ghmFXEXTP6DdVOyvuPHpr",
+      "total": 54935037,
+      "daily": 30960
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Je vole",
+      "trackId": "5CLkunLzzmoI5vzwlR5QeV",
+      "total": 54274735,
+      "daily": 12241
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "On était beau",
+      "trackId": "10ZrEcxWcD9vOSUVhUH33O",
+      "total": 46938186,
+      "daily": 14847
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Tissues (with Louane) - French Version",
+      "trackId": "5LDUHtyFMHrH8VNNYNaEkU",
+      "total": 41809469,
+      "daily": 18730
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Aimer à mort",
+      "trackId": "2HENwndPLHINxHhQPMh8BE",
+      "total": 37962782,
+      "daily": 21276
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Pardonne-moi",
+      "trackId": "4UVK3rii1WShM3bmt9PEze",
+      "total": 29794411,
+      "daily": 10577
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Maman",
+      "trackId": "6pPWcY6UuJFkFqMbjhvzvB",
+      "total": 26739874,
+      "daily": 2
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Donne-moi ton cœur",
+      "trackId": "5amRIQxQgERN9wI1oMuRgw",
+      "total": 24535693,
+      "daily": 4546
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Les étoiles",
+      "trackId": "656reMy5BDuXUbNRr7oeg3",
+      "total": 17969921,
+      "daily": 9614
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "la pluie",
+      "trackId": "2yL7QawhJvx1MSVgiD4QDp",
+      "total": 16882475,
+      "daily": 18986
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "maman",
+      "trackId": "1FsIoCTWHx6lB0f3PgYdtz",
+      "total": 16752042,
+      "daily": 158825
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Avenir",
+      "trackId": "5vhLa5SMn0PJJd1GZIUitd",
+      "total": 15071752,
+      "daily": 9026
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Midi sur novembre",
+      "trackId": "6nU5jGlYp4k1ccElPaonOS",
+      "total": 14638296,
+      "daily": 2496
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "No",
+      "trackId": "5cKJAGScqqWHlkaPATkyg7",
+      "total": 14458092,
+      "daily": 4337
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Le bateau coule",
+      "trackId": "5LjlW19V9AQ4pg0ck0uvcO",
+      "total": 7924257,
+      "daily": 2593
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Immobile",
+      "trackId": "75R3c7Xs6qavq6SH7CusjF",
+      "total": 7468934,
+      "daily": 622
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Tornade",
+      "trackId": "0eKizgJSszV4hYWLmwhDOY",
+      "total": 6515246,
+      "daily": 899
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Désolée",
+      "trackId": "3IhBEAyxO7VwyiRGqkwqgy",
+      "total": 6098988,
+      "daily": 1391
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Tourne",
+      "trackId": "10Y02tHopUJca5EZuLRCU6",
+      "total": 5551015,
+      "daily": 615
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Jeune",
+      "trackId": "54wIgCEDASOltfZIOQWPZH",
+      "total": 5372575,
+      "daily": 480
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Santa Claus Is Coming To Town",
+      "trackId": "4CjxQFPWv4xkYYLE1r3I6a",
+      "total": 5174338,
+      "daily": 88
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Alien",
+      "trackId": "0aGfEkj4fcTNtYD3qo6x53",
+      "total": 5073112,
+      "daily": 1349
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Nos secrets",
+      "trackId": "0z9i1r62x1sgRzN6Q2K09T",
+      "total": 4971083,
+      "daily": 851
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "La fille",
+      "trackId": "21R5r41HQVuovQOKV8goZs",
+      "total": 4961548,
+      "daily": 2020
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Toute ma vie",
+      "trackId": "4D2dyA9sn2JRnqhSTpP4le",
+      "total": 4656218,
+      "daily": 1113
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "La mère à Titi",
+      "trackId": "6KcbEb75B6GpUyoXtuijTo",
+      "total": 4418884,
+      "daily": 880
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Jour de pluie",
+      "trackId": "3nyTPwlefKNUNu2tpmR194",
+      "total": 4338745,
+      "daily": 1279
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Chambre 12",
+      "trackId": "63rqE4dnzwF6heXlvvDPr0",
+      "total": 4259957,
+      "daily": 406
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Capitaine (feat. Styleto)",
+      "trackId": "1BOYCqaOdl35vpKC8bIHTf",
+      "total": 3712163,
+      "daily": 2789
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Tu m’as dit",
+      "trackId": "68IhP3YBOWnPT659LGxjz4",
+      "total": 3639521,
+      "daily": 2283
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Ecchymoses",
+      "trackId": "7nOv8czFq5g80gWZRSusYN",
+      "total": 3514149,
+      "daily": 608
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Les Montgolfières",
+      "trackId": "0ZHisJB7IPvhXl5dubBMBv",
+      "total": 3172431,
+      "daily": 2233
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Dans ma tête",
+      "trackId": "3qh90ItTcYceX08Z1ZpImM",
+      "total": 3135556,
+      "daily": 1398
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Midi sur novembre",
+      "trackId": "5QS7teWodwf4hWqkvgBNtM",
+      "total": 3070078,
+      "daily": 244
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Nuit pourpre",
+      "trackId": "3M7AxZeyEBeA41j0qFLORg",
+      "total": 2807388,
+      "daily": 386
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Non-sens",
+      "trackId": "26wR9J8FTCVXew5jH51icP",
+      "total": 2707273,
+      "daily": 237
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Jeune (j’ai envie)",
+      "trackId": "1uOXfNS6Rp6DRqmmW3gfxU",
+      "total": 2661849,
+      "daily": 350
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Tranquille",
+      "trackId": "1p6TenGrQh0RdUgx4K9P4s",
+      "total": 2604877,
+      "daily": 307
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Incontrôlable",
+      "trackId": "1cHv6ZrcScN3AH3SNqrHiU",
+      "total": 2557738,
+      "daily": 359
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Lego",
+      "trackId": "0yCV2ZmtsNtSlqVsRLRpeq",
+      "total": 2553857,
+      "daily": 194
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Sans arrêt",
+      "trackId": "1rXNEbHYZ5fBl9V29Rjljy",
+      "total": 2516481,
+      "daily": 346
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Pour oublier l’amour",
+      "trackId": "3KuRVcSh1LfsXzEmfCPWRH",
+      "total": 2514333,
+      "daily": 223
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Nous",
+      "trackId": "6SU21VC9cjgWvAE8c7w4L8",
+      "total": 2471807,
+      "daily": 250
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "When We Go Home",
+      "trackId": "0hjpNzORx5ViVqpzleRf2Z",
+      "total": 2237002,
+      "daily": 139
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Stp",
+      "trackId": "4YaqEAj2nWaPxTJjyES4tV",
+      "total": 2125984,
+      "daily": 637
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Du courage",
+      "trackId": "0NFM97xz9vosJuQMeYdMay",
+      "total": 2097053,
+      "daily": 199
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "soleil",
+      "trackId": "3fRDm7JqZUb1aUZoyltgiP",
+      "total": 2049967,
+      "daily": 2895
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "La fuite",
+      "trackId": "1Ez2RB0YhtJeVspJFnPi6C",
+      "total": 2021662,
+      "daily": 161
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Blonde",
+      "trackId": "7fnaRhyaN0wHEdMgc2l8Qj",
+      "total": 1988941,
+      "daily": 182
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Tourne - Radio Edit",
+      "trackId": "5HJCPXEzvvpxTDlsAP30YB",
+      "total": 1933472,
+      "daily": 277
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Poésie indécise",
+      "trackId": "7AvmsbqJuNKDVTMjETcefi",
+      "total": 1912172,
+      "daily": 289
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Aidez-moi",
+      "trackId": "2OY29pzwYCC4KzS0dWA06F",
+      "total": 1880876,
+      "daily": 1276
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Donne-moi ton co3ur",
+      "trackId": "3l4fjcABpznpJg8nMFQS0b",
+      "total": 1857595,
+      "daily": 313
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Rester seule",
+      "trackId": "0IkytNk7BwpBttWj6kBkQJ",
+      "total": 1844740,
+      "daily": 237
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Peut-être",
+      "trackId": "4iMEz13F8mZTZec5jTTaVw",
+      "total": 1790007,
+      "daily": 222
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Chambre 12 - Radio Edit",
+      "trackId": "3b7hsPH0UyAKBCAOdX62u8",
+      "total": 1707813,
+      "daily": 137
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Notre amour boit la tasse",
+      "trackId": "0ESs76q9vjokjNnUjyHdfa",
+      "total": 1665256,
+      "daily": 175
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "A quoi tu penses",
+      "trackId": "5ZDO86hxRahTYG2Jrm2p73",
+      "total": 1597302,
+      "daily": 692
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Secret - sad orchestra",
+      "trackId": "4NTbjURRAwOauFZ6crs6vJ",
+      "total": 1572861,
+      "daily": 1532
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Fais le bien",
+      "trackId": "6VLf6lyjxzOYhyl57N5XNn",
+      "total": 1477216,
+      "daily": 134
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "A l’autre",
+      "trackId": "18lb9EdCvE2tZzRQLxbeIn",
+      "total": 1355164,
+      "daily": 391
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Je me demande (feat. Louane)",
+      "trackId": "5BgR2DVIzZipmmQQ0yuiJZ",
+      "total": 1292243,
+      "daily": 2657
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "A quoi tu penses vraiment",
+      "trackId": "2WnU5xzBjLg9waNoHAiSi2",
+      "total": 1281473,
+      "daily": 1308
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "La beauté (d'être à part) (feat. Louane)",
+      "trackId": "78xSLxwjbqKqOo6ZA9ixdA",
+      "total": 1280542,
+      "daily": 756
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Tu me manques",
+      "trackId": "1y3do9f08kOPUs7rtCR5xj",
+      "total": 1268765,
+      "daily": 531
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Avant",
+      "trackId": "6MIPTU4OJxuFrZ0tCnPJfW",
+      "total": 1257985,
+      "daily": 457
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Corps à Cœurs",
+      "trackId": "4oCTzqoafxrvhNghwXFXf4",
+      "total": 1221425,
+      "daily": 601
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Comment Faire",
+      "trackId": "4VsjpGyWYaHOa5lDN9uAma",
+      "total": 1191431,
+      "daily": 216
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Pleure",
+      "trackId": "0Q6rJikW7ssUpX0DZi2lJY",
+      "total": 1173334,
+      "daily": 147
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "J'peux pas",
+      "trackId": "0pYObZyugVk5T7A0IpuVb7",
+      "total": 1106444,
+      "daily": 303
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Songes",
+      "trackId": "0M7MoP5enuhLhII07vH8Ul",
+      "total": 1097915,
+      "daily": 126
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Les gens du Nord (with Louane) - Live",
+      "trackId": "58JeYMFMOXSd8eScnGkeC0",
+      "total": 1061321,
+      "daily": 653
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Love",
+      "trackId": "0OiNRgeL1K507JtdWuryHI",
+      "total": 980669,
+      "daily": 173
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Sans ta voix",
+      "trackId": "3ovlfbZ1j24cFvUNSKw1JV",
+      "total": 956580,
+      "daily": 304
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Sans repères",
+      "trackId": "2vAiu9Dsqwz6fUrTaLvl8l",
+      "total": 931817,
+      "daily": 189
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "3919",
+      "trackId": "09sVguNy7gJ5p7xLTepEwK",
+      "total": 807368,
+      "daily": 121
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Ok très bien (feat. Louane)",
+      "trackId": "08kYnV0Acua0D1LxkElDXP",
+      "total": 761261,
+      "daily": 4846
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Nuages",
+      "trackId": "0Pwzpiaz9trKeROSPBk7aU",
+      "total": 573937,
+      "daily": 289
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "douce",
+      "trackId": "5KA8nEY48sErUTEeIoh1dg",
+      "total": 568018,
+      "daily": 1022
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Ta peau",
+      "trackId": "7ciI7UQeilB7jgzhhmUqOP",
+      "total": 552244,
+      "daily": 79
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Les excuses",
+      "trackId": "70yhPBF2nUJePf7EcrtwkH",
+      "total": 543686,
+      "daily": 294
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Mademoiselle tout le monde",
+      "trackId": "5nEb8qe4cdnubGhEi6yQsZ",
+      "total": 523416,
+      "daily": 71
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "My Own Beat (feat. Clean Bandit)",
+      "trackId": "1z0DPEm8Wo6i7THiO19I0o",
+      "total": 519373,
+      "daily": 262
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Secret - Session rue Boyer",
+      "trackId": "1NhCMRKgo9UpYpMqQi2V0U",
+      "total": 512063,
+      "daily": 161
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Hey Beautiful (with Louane & Tiny Habits)",
+      "trackId": "4apbWcMX0yV7eE4orbPH2K",
+      "total": 503179,
+      "daily": 7566
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "It's Beginning To Look A Lot Like Christmas",
+      "trackId": "4atGh9eYTDpqRbK0E9Huiw",
+      "total": 482358,
+      "daily": 13
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "et si",
+      "trackId": "3v5wpxSp7GB5Jc1bKX8mim",
+      "total": 446834,
+      "daily": 1173
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Tu m'as dit - P3gase remix",
+      "trackId": "5Rtq4AGHfMjInRc7XxefuT",
+      "total": 446283,
+      "daily": 292
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "rien ne dure",
+      "trackId": "7w8MHxxawVX2xbGhptlV1A",
+      "total": 421710,
+      "daily": 598
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "toi",
+      "trackId": "78quoZ1Wy8kxRFLgXVvb6w",
+      "total": 421278,
+      "daily": 812
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Parano",
+      "trackId": "7KVcJaiv7MLlORNso1mvLt",
+      "total": 420482,
+      "daily": 154
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "monde",
+      "trackId": "4DcymTSS3s6CGCHLBLVXGn",
+      "total": 419163,
+      "daily": 737
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Jour 1 - Birthday Party Version",
+      "trackId": "57uocoFnJf73IwBEb1wwa3",
+      "total": 408229,
+      "daily": 207
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "la pluie - Aeroplane Remix",
+      "trackId": "6D7OUCulJM787b14njwOWx",
+      "total": 393076,
+      "daily": 1278
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Les Gens",
+      "trackId": "1TtoiyfkPPnbGUL9bP3Qio",
+      "total": 381173,
+      "daily": 53
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Le bateau coule - Session rue Boyer",
+      "trackId": "1IEEwcm2bizVt3SreoGnxP",
+      "total": 372932,
+      "daily": 128
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "La fille - Session rue Boyer",
+      "trackId": "2ertmsGuSQI370G82WILmc",
+      "total": 366313,
+      "daily": 128
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "maman - acoustique",
+      "trackId": "5aid0JQwWcCihZuWQTZOmF",
+      "total": 350673,
+      "daily": 2613
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "souvenirs",
+      "trackId": "0WBCK3b7UHvNsoiZ7rNsaZ",
+      "total": 337751,
+      "daily": 642
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "reste",
+      "trackId": "2wEjSnIk68uTUB9HoyyBMy",
+      "total": 336001,
+      "daily": 432
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Avant - Session rue Boyer",
+      "trackId": "6zfsP1aObOexGbp0M7PLDd",
+      "total": 323749,
+      "daily": 103
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "quand tu mens",
+      "trackId": "4AdhIQStwqZVFpiSPLZ042",
+      "total": 312459,
+      "daily": 482
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Pardonne-moi - Acoustique version",
+      "trackId": "4440CCAwCRLX9bPsDRhOBE",
+      "total": 309928,
+      "daily": 172
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Pour oublier l’amour - La gaminerie Remix",
+      "trackId": "5vWoxFOu82xfWR1DWsOe13",
+      "total": 308498,
+      "daily": 25
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "maman - English Version",
+      "trackId": "3xsLfPgxpvLIBd5Go3aZqK",
+      "total": 272820,
+      "daily": 2139
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "demain",
+      "trackId": "60dZkEvS4oeIdW7NoIpvyt",
+      "total": 262848,
+      "daily": 617
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "sens",
+      "trackId": "7ao3dn7Aeueftz22R5v4ht",
+      "total": 260615,
+      "daily": 454
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Secret - English version",
+      "trackId": "1LwxEz4gjHsiprO43p3DAQ",
+      "total": 258242,
+      "daily": 234
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "je pleure",
+      "trackId": "0tJ9mWyYeGW1GLhV5eh1V8",
+      "total": 256781,
+      "daily": 425
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Secret - Instrumental",
+      "trackId": "0ZI4zmH5vr3EICfaGLYDPI",
+      "total": 252943,
+      "daily": 95
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "solo",
+      "trackId": "4p6oYHnLRJeDX6e2LRF2Zu",
+      "total": 222162,
+      "daily": 348
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "tu l’sais déjà",
+      "trackId": "3qfV0y8gEjOmLGzSh27UAh",
+      "total": 218041,
+      "daily": 329
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "kiss or kill her",
+      "trackId": "6FHS9sfsKEASHX5BukE3S2",
+      "total": 215424,
+      "daily": 267
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Nuages - Acoustique version",
+      "trackId": "2Yz7qXg4slKKo8p4dvyX6A",
+      "total": 211887,
+      "daily": 97
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "Thérapie",
+      "trackId": "0a5h1aTI7vGJaqdV6HP06D",
+      "total": 204038,
+      "daily": 31
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "C’est Nouveau",
+      "trackId": "6kOFGblB4YKix7Nmt8RezA",
+      "total": 183160,
+      "daily": 40
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "la pluie - dj watchout remix",
+      "trackId": "7KSzYaX8koVCJpemaqsepH",
+      "total": 118262,
+      "daily": 74
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "maman - live from stade de france",
+      "trackId": "5UEgSKkAJEMXvki8XSiBZq",
+      "total": 113831,
+      "daily": 743
+    },
+    {
+      "artist": "Louane",
+      "artistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "la pluie - Simon Le Saint Remix",
+      "trackId": "0RbOgFHlQvMbIfcMHnwOrk",
+      "total": 106731,
+      "daily": 103
+    }
+  ]
+}

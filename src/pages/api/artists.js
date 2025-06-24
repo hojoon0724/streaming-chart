@@ -1,4 +1,4 @@
-import chartsData from "../../data/global_charts_by_date.json";
+import chartsData from "../../data/weekly/global_charts_by_date.json";
 
 // Cache the processed artist data to avoid reprocessing on every request
 let cachedArtistData = null;

@@ -19,7 +19,7 @@ export default function handler(req, res) {
 
   try {
     // Path to artist-songs directory
-    const artistSongsDir = path.join(process.cwd(), "src", "data", "artists-songs");
+    const artistSongsDir = path.join(process.cwd(), "src", "data", "latest", "artists-songs");
     const files = fs.readdirSync(artistSongsDir).filter((file) => file.endsWith(".json"));
 
     // Aggregate total plays by artist from all JSON files

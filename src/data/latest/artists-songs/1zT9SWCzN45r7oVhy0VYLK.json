@@ -1,0 +1,726 @@
+{
+  "artist": "S10",
+  "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+  "songs": [
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "De Diepte",
+      "trackId": "0NJjllXf03AeUX5GrB1ciW",
+      "total": 60450812,
+      "daily": 19281
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Adem Je In - Remix",
+      "trackId": "5F469F5Dk2Zzm6BpP0OhVq",
+      "total": 29213867,
+      "daily": 7119
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "De Leven",
+      "trackId": "0mhBjNCCWqTrUt78San1wV",
+      "total": 22018207,
+      "daily": 11169
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Ik Haat Hem Voor Jou",
+      "trackId": "6MInvBXcXszdbK0g5895oR",
+      "total": 21063896,
+      "daily": 38395
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Schaduw",
+      "trackId": "3dTHX7KYgKKhCRP0cN1Rb5",
+      "total": 18976242,
+      "daily": 7589
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Nooit Meer Spijt",
+      "trackId": "2h6HTbs5OeIyxsUa6kUeAL",
+      "total": 17125577,
+      "daily": 8181
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Adem Je In",
+      "trackId": "3YKAKQVZBybMEWpUtQ1HAW",
+      "total": 15124281,
+      "daily": 9430
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Zonder Gezicht",
+      "trackId": "0KAqcZyd6eiKjyneZRmePT",
+      "total": 13433615,
+      "daily": 4738
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Laat Me Los",
+      "trackId": "1G7e24hHShCgVSDrtu9k9k",
+      "total": 11254787,
+      "daily": 9258
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Hart In Brand",
+      "trackId": "30k0WUGuf3QCotkXbxnrOx",
+      "total": 8038524,
+      "daily": 148461
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "De Ergste Dag",
+      "trackId": "0xKKs27xVmFug8P9bHYyFy",
+      "total": 5386288,
+      "daily": 1836
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Vooruitzicht",
+      "trackId": "0vRhn2uMErREFnhiy0fD3f",
+      "total": 5374503,
+      "daily": 827
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Hoor Je Mij",
+      "trackId": "5Tq1M5F1nV66RDh5Q1dD3q",
+      "total": 4678679,
+      "daily": 20299
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "De Leven",
+      "trackId": "1RA3cTcU9xGnT5GNi6y7dO",
+      "total": 4507858,
+      "daily": 1436
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Onderweg",
+      "trackId": "1VH71xfEX5MBOyEXelDC7h",
+      "total": 3164541,
+      "daily": 604
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Sorry",
+      "trackId": "0YVD0L3nppaLwb9yEtOgaQ",
+      "total": 2983495,
+      "daily": 741
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Flemming",
+      "trackId": "6rXBU7UOqIzH2tiy5LvNFn",
+      "total": 2679971,
+      "daily": 8699
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Codes",
+      "trackId": "5lCatCx2PuKbDiSQ9tWmn9",
+      "total": 2626992,
+      "daily": 268
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Diamonds",
+      "trackId": "4O1HrsjTG3kC78vEc6Vk7t",
+      "total": 2175827,
+      "daily": 226
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Ochtend/Avond",
+      "trackId": "315teAdSiOTn0niPZSdLlN",
+      "total": 2078527,
+      "daily": 407
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Maria",
+      "trackId": "3eGrcAaHAWBpnFYZnPXYqT",
+      "total": 1974293,
+      "daily": 701
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Ik Haat Hem Voor Jou - LAMMER Remix",
+      "trackId": "6Y8iJn929nH6dSDy348ink",
+      "total": 1718610,
+      "daily": ""
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "For Days",
+      "trackId": "5LaljjrflwfOlDYCKzXjus",
+      "total": 1639607,
+      "daily": 393
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Mijn Haren Ruiken Naar Vuur",
+      "trackId": "6f6bK3KrsbCF8ul6HriH6P",
+      "total": 1553067,
+      "daily": 3195
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Niet Bang Zijn",
+      "trackId": "3lAIpSW4NcfweYPau3FtwN",
+      "total": 1483098,
+      "daily": 904
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Wat Is Real",
+      "trackId": "2DU0fcsleelHI0IqRuUwIs",
+      "total": 1406770,
+      "daily": 253
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Jupiter",
+      "trackId": "4ShC0e4YRhtqYywvyBuXBx",
+      "total": 1302881,
+      "daily": 930
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Eenzame Hoogte",
+      "trackId": "3naDSAnzPl0BGMXnfJFJif",
+      "total": 1266304,
+      "daily": 842
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Handen Van Mijn Moeder",
+      "trackId": "70jAnTv1oOfiNfeS9iUUJB",
+      "total": 1204032,
+      "daily": 347
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Wat Als Niemand Op Mij Wacht",
+      "trackId": "2UDTa5s3LQC1n5iK7ZAQZu",
+      "total": 1197484,
+      "daily": 489
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Achter Ramen",
+      "trackId": "1zjdjSNExHYua3FmTAQwmY",
+      "total": 1187951,
+      "daily": 972
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Joanne",
+      "trackId": "7t8ihQir5D6X8jxztFc9q9",
+      "total": 1134611,
+      "daily": 5585
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Lies",
+      "trackId": "3icEiDUPWOufUfT12TxBXL",
+      "total": 1042029,
+      "daily": 306
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Duik Diep",
+      "trackId": "2kVMR21UlDn5yFCTMvRIZZ",
+      "total": 869772,
+      "daily": 371
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Have Fun",
+      "trackId": "65j6SlOgsiRVTQ94rHuPUL",
+      "total": 868347,
+      "daily": 1663
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Gelogen",
+      "trackId": "40UhtphUBCNs45F4Tum46F",
+      "total": 816737,
+      "daily": 631
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Zondagskind",
+      "trackId": "5hWgdvdXXvq6l9ezrFeI8F",
+      "total": 801999,
+      "daily": 547
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Masker Af",
+      "trackId": "5fV5oLB2YFFmBjqHG2Op79",
+      "total": 786542,
+      "daily": 418
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Alles",
+      "trackId": "15GrS3BRyZNy6M6SC7UCTz",
+      "total": 782877,
+      "daily": 6948
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Weer Verliefd",
+      "trackId": "382bIgVx578F9aKeu4JfXZ",
+      "total": 771225,
+      "daily": 2626
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Wat Ze Willen",
+      "trackId": "6treoMt7kbhbuUDMKegEty",
+      "total": 763087,
+      "daily": 166
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Laat Mij Niet Gaan",
+      "trackId": "6eTn643NVWa22Hgd7xrU1n",
+      "total": 745114,
+      "daily": 121
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Dans Mij Naar Huis",
+      "trackId": "2HGdDDIe1USvXLuzwMcGWy",
+      "total": 736286,
+      "daily": 319
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Alleen",
+      "trackId": "4jS5znOCNbd2qzVjoSVaau",
+      "total": 725490,
+      "daily": 259
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Chimi",
+      "trackId": "49PYPQFSqEvwaKn5VS7QkZ",
+      "total": 709218,
+      "daily": 317
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Vleugels",
+      "trackId": "5IR2Pb8mXT1haK4TEGicx1",
+      "total": 696889,
+      "daily": 431
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Soms",
+      "trackId": "4Mr38pUbuWn2BHH3cqqpWc",
+      "total": 685808,
+      "daily": 366
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "FunX Hitje",
+      "trackId": "6010Jorfq3LwbgWhrtL6Ox",
+      "total": 670249,
+      "daily": 213
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "De Leukste Mensen Zijn Raar",
+      "trackId": "4p9SEcp2k72lytt8xctZ7T",
+      "total": 616385,
+      "daily": 2594
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "De Straten Versieren Met Bloemen",
+      "trackId": "2R2JajrfSdr3lP4LQiob7i",
+      "total": 615463,
+      "daily": 308
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Mis",
+      "trackId": "404H9QuRwVi2akcBl5wMDj",
+      "total": 524337,
+      "daily": 281
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Al Lang Niet Meer Mij",
+      "trackId": "0c94iwo3ng7hTlfggd2dMN",
+      "total": 523315,
+      "daily": 112
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Snowsniper",
+      "trackId": "3jHvuEKhKsWLsJDQf0kvFP",
+      "total": 506406,
+      "daily": 195
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Wacht Op Mij",
+      "trackId": "3FtIGiA3xnA91hBNQOZ5nM",
+      "total": 493671,
+      "daily": 367
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Vlucht",
+      "trackId": "1B6xLbGzEfVcDsRVWHlhXX",
+      "total": 469713,
+      "daily": 110
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Maak Me Wakker",
+      "trackId": "3mYhYc5Zfu4JVscASzfbvM",
+      "total": 444738,
+      "daily": 184
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Licht",
+      "trackId": "67AhSqUNrg3Kp15CPs40sk",
+      "total": 417564,
+      "daily": 175
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Alsof Het Weer Gister Is",
+      "trackId": "1PwHKf1daWWtaxJGKpalXk",
+      "total": 405887,
+      "daily": 384
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Insane",
+      "trackId": "4U7luB15IM2CRl1zV6pRCz",
+      "total": 386586,
+      "daily": 67
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Crystal Clear",
+      "trackId": "4Pb7GQMt0nmwbPI4YqQNEg",
+      "total": 384389,
+      "daily": 126
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Toxic",
+      "trackId": "702cC4DJzsNIQxbxKjKWz8",
+      "total": 357401,
+      "daily": 63
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Kapot",
+      "trackId": "1m9ipVJb1GPiORLFhGDxvD",
+      "total": 347328,
+      "daily": 207
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Psychoses",
+      "trackId": "3S5f2uqoWPi6TKdinmGqcR",
+      "total": 343947,
+      "daily": 92
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Topsport",
+      "trackId": "6q0tqA0JUmeuDK80vJojwg",
+      "total": 330578,
+      "daily": 38
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Met Mij",
+      "trackId": "4dVxLKVLtz3Z4FHOuCEwQA",
+      "total": 302315,
+      "daily": 59
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Van Kant",
+      "trackId": "5JlgOBa48f48b9lOguh2wS",
+      "total": 299549,
+      "daily": 62
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Noem Me Wild",
+      "trackId": "4CaH02vGzrELIPblrZcdlO",
+      "total": 293400,
+      "daily": 1668
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Donkerblauw",
+      "trackId": "1NKtPF9p3VWv8ExJohewoi",
+      "total": 293034,
+      "daily": 1628
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Vergeet Me Niet",
+      "trackId": "72emNNHW7iJZbayz2Rmv6K",
+      "total": 286679,
+      "daily": 151
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Zo Zijn",
+      "trackId": "6Z4UygK8aFUttqLbfKsL6o",
+      "total": 281072,
+      "daily": 78
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Antipsychotica",
+      "trackId": "4xPSFXH6KJ2b4qxW3AeMl7",
+      "total": 274087,
+      "daily": 50
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Vul De Ruimte",
+      "trackId": "4hxxAJQxPaTm6YFtYbccOs",
+      "total": 268997,
+      "daily": 100
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Zonder Reden",
+      "trackId": "4q00THnkBmjxfE9Mqtra2q",
+      "total": 267170,
+      "daily": 44
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Kijk Me Aan",
+      "trackId": "40ZtRWEOVvxp5aG0EePigS",
+      "total": 262046,
+      "daily": 55
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Doorweekt, Voldaan",
+      "trackId": "1fw8CwbQyHsg2Br1rP0Snq",
+      "total": 259623,
+      "daily": 1282
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Moskou",
+      "trackId": "4DOqWQSr67X3LO2hjDn51L",
+      "total": 248856,
+      "daily": 38
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Gucci Belt",
+      "trackId": "1kWbs58BpJFem4u8Gpf0nT",
+      "total": 240091,
+      "daily": 34
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Mysterie",
+      "trackId": "4sz74bHOFvusfvXLxExGgV",
+      "total": 233702,
+      "daily": 47
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Kan Het Leven Vandaag Beginnen",
+      "trackId": "26ejQ1Cr0CO18flmP9uAYE",
+      "total": 231395,
+      "daily": 1154
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Huis In Mijn Hoofd",
+      "trackId": "7FSNEO3yrjTLxHhcJAnnEg",
+      "total": 230304,
+      "daily": 1208
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Voel Me Goed",
+      "trackId": "2Do1TkkoRcmQBx12LhW7zv",
+      "total": 209969,
+      "daily": 963
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "STFU",
+      "trackId": "45UyWEaJPkv6beYlJ91zhF",
+      "total": 193700,
+      "daily": 43
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Snowsniper Interlude",
+      "trackId": "3e8HykWoU7gHzWiShIdMXA",
+      "total": 193623,
+      "daily": 35
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Diamonds Interlude",
+      "trackId": "25OH3UkhpvlObfwehhT66u",
+      "total": 166659,
+      "daily": 33
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Chimi - Pt 2 (Drift Away)",
+      "trackId": "3U4DlbhR0eIqWsKjT0uvVQ",
+      "total": 162021,
+      "daily": 34
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Outro",
+      "trackId": "0gvebYA2WjRzckUARszxof",
+      "total": 138543,
+      "daily": 39
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Positief",
+      "trackId": "2L5Yvmq5Q68GMBhVVKdzj7",
+      "total": 134836,
+      "daily": 38
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Filosofie",
+      "trackId": "7ppeJyt2dum20tmy2Dzjao",
+      "total": 122975,
+      "daily": 32
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Intro",
+      "trackId": "1568FmdH69RNQjW4ItHDqd",
+      "total": 119044,
+      "daily": 32
+    },
+    {
+      "artist": "S10",
+      "artistId": "1zT9SWCzN45r7oVhy0VYLK",
+      "trackName": "Ik Haat Hem Voor Jou - Zonderling Mengeling",
+      "trackId": "0nGYqOydGnlhTDOtLfiseg",
+      "total": 109555,
+      "daily": ""
+    }
+  ]
+}

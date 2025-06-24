@@ -1,0 +1,982 @@
+{
+  "artist": "Michael Schulte",
+  "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+  "songs": [
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Falling Apart",
+      "trackId": "1faR6MU7novR5GvtlnPk4f",
+      "total": 244525677,
+      "daily": 105186
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "You Said You'd Grow Old with Me",
+      "trackId": "0UpyeTkZwjM0MxM7vo94dZ",
+      "total": 162512140,
+      "daily": 23239
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Waterfall",
+      "trackId": "09EhgVA4blwhSic4hF2TFZ",
+      "total": 113049136,
+      "daily": 47947
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Back to the Start",
+      "trackId": "3rAyyKRZMj6b77vebFgxKd",
+      "total": 104856600,
+      "daily": 19563
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "You Let Me Walk Alone",
+      "trackId": "07qlsG6DYRLBbovwca9Vbr",
+      "total": 97108145,
+      "daily": 11806
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "The Love You Left Behind",
+      "trackId": "490iZ2A2GU28mWiofSqftl",
+      "total": 65401807,
+      "daily": 5282
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "For a Second",
+      "trackId": "5qYf19BLOheApfe6NqhDPg",
+      "total": 50386189,
+      "daily": 5870
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Keep Me Up",
+      "trackId": "7oG9uCPYIRXZQiXM1NW9qF",
+      "total": 35569757,
+      "daily": 4259
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Stay",
+      "trackId": "6EiciPnoJR1o4D0vtaHqjl",
+      "total": 29434231,
+      "daily": 3759
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "All I Need",
+      "trackId": "3yNG2p269kqWICyP2dIfYy",
+      "total": 26056844,
+      "daily": 3525
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Bye Bye Bye",
+      "trackId": "5b8lPz18QA1UhEcMlDPhSS",
+      "total": 24933302,
+      "daily": 3007
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "With You",
+      "trackId": "0gNmXbG9WieRMVZSMx5Ciq",
+      "total": 16704192,
+      "daily": 6970
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Better Me",
+      "trackId": "1bXXncvQipWmG8kOpQqaYM",
+      "total": 14668544,
+      "daily": 5455
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "More To This Life",
+      "trackId": "6gr8wwlzWru8fA4xrQNPad",
+      "total": 14582985,
+      "daily": 4972
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Here Goes Nothing",
+      "trackId": "1cF0H4DL6TNut1wz0DignZ",
+      "total": 13536350,
+      "daily": 5257
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Remember Me",
+      "trackId": "4C4okqIHZPMZN56MveQn5S",
+      "total": 12252785,
+      "daily": 4225
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Beautiful Reason",
+      "trackId": "13lJN9FLQ6Unk70LhhdnxX",
+      "total": 10071791,
+      "daily": 39030
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Remember Yesterday (feat. Perttu & Michael Schulte)",
+      "trackId": "4LxEcrNGH58qoeNML6qGVc",
+      "total": 8966448,
+      "daily": 359
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Never Let You Down",
+      "trackId": "1zPzWCaB9LNc2q7IRbqFWb",
+      "total": 8529334,
+      "daily": 530
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "You'll Be Okay - Acoustic",
+      "trackId": "7EukGv752j2LFD2ct69y64",
+      "total": 7356387,
+      "daily": 442
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Broken Sunshine",
+      "trackId": "0dN8k9rJg8uQnERTw5w5Vy",
+      "total": 7152158,
+      "daily": 21981
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Waking up Without You",
+      "trackId": "1a3vvFtc8MhzYthIB6V0W9",
+      "total": 5463090,
+      "daily": 366
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Someone",
+      "trackId": "5BvgXGcLKnMGtf3irvFA8b",
+      "total": 4568570,
+      "daily": 1014
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Heard You Crying",
+      "trackId": "3NtyonbixxZrgsJLxGR5Oz",
+      "total": 4148840,
+      "daily": 473
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Waterfall - R3HAB VIP Remix",
+      "trackId": "3ZHcWGuyhixevRKtAWQaaL",
+      "total": 4035504,
+      "daily": 1258
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Thoughts",
+      "trackId": "3HKz3rHgJh9vOVKzUPmEbZ",
+      "total": 3628323,
+      "daily": 286
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "HEY",
+      "trackId": "6t2Z3t8SypWCsyLYkp5baw",
+      "total": 3497357,
+      "daily": 2658
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Wrong Direction",
+      "trackId": "5ZqLbovyw7WCCXwfhGRL8w",
+      "total": 3457271,
+      "daily": 600
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "If you love me",
+      "trackId": "1u2PALe54ded9KMIhb9chD",
+      "total": 3174797,
+      "daily": 1635
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Let It Go",
+      "trackId": "3svOpX4WPGJk9ZQ34D3c9s",
+      "total": 3064714,
+      "daily": 95
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "End of My Days",
+      "trackId": "74z76XZtrIZVLsB9bxpWfJ",
+      "total": 2898942,
+      "daily": 344
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "The Maze",
+      "trackId": "3FGwN7y07JfdrpAVlUd0je",
+      "total": 2319351,
+      "daily": 462
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Summer Storm (feat. Michael Schulte)",
+      "trackId": "6JZ7tKI1HqkPw1iL0IwxCV",
+      "total": 2049420,
+      "daily": 181
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Dear Doubt",
+      "trackId": "66VJPAbc7LnCeu5BkAI89L",
+      "total": 1773465,
+      "daily": 223
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Rock and Scissors",
+      "trackId": "5bWm25XxZ7Wq36b88J44Si",
+      "total": 1463534,
+      "daily": 116
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Hey Ya - Live",
+      "trackId": "09LWjIRUtPJb0v58T6DZbG",
+      "total": 1371704,
+      "daily": 44
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Leaving to New York (feat. Michael Schulte)",
+      "trackId": "0CLm5OmsPml8sxDuosco2Y",
+      "total": 1344773,
+      "daily": 74
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Troublemaker",
+      "trackId": "7JuEmC1e1OFNiFRHevPW4n",
+      "total": 1292769,
+      "daily": 667
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Afterlife",
+      "trackId": "0mpzNuhGbzP1ffZuf8IZ5S",
+      "total": 1151172,
+      "daily": 14224
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Dir gehört mein Herz",
+      "trackId": "706paVGPJgXn6Vm3tNEhsT",
+      "total": 1029910,
+      "daily": 852
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Highs & Lows",
+      "trackId": "39mE2sK0Opsn1QXI3BQHND",
+      "total": 952553,
+      "daily": 220
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Flicker",
+      "trackId": "4Sv76aC2DWuL7p6tFU6Gcs",
+      "total": 913593,
+      "daily": 244
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Being Home",
+      "trackId": "6h5AFaqj4utSyAI4idj5SR",
+      "total": 907115,
+      "daily": 55
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Holding Back the Fire - Acoustic",
+      "trackId": "3r9xdRIxr1XupVihUmj4RK",
+      "total": 798620,
+      "daily": 81
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "What Heroes Do",
+      "trackId": "6yUkO3tKZJZYmYWME7GYHz",
+      "total": 781214,
+      "daily": 824
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Watcha Say - Live",
+      "trackId": "3JGSbur5E7Ont470brJMk6",
+      "total": 781191,
+      "daily": 13
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Take Me as I Am",
+      "trackId": "6fPAj0uO7uzOoGfb9Z2Iyh",
+      "total": 697919,
+      "daily": 109
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Rusted Blood",
+      "trackId": "1gS0GEeRCywRgLjUCiM4Xg",
+      "total": 688187,
+      "daily": 81
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Knockin' on Heaven's Door - Live",
+      "trackId": "6J1Had5NNMKwcmRFRbhTAp",
+      "total": 668592,
+      "daily": 134
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "The Deep",
+      "trackId": "5jLLfc3JpO40Z1ifP3VdB2",
+      "total": 659851,
+      "daily": 31
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Lovers On The Run",
+      "trackId": "1sG2kNmnl81zgbyPd70YTo",
+      "total": 639487,
+      "daily": 571
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "1999",
+      "trackId": "6DKBFV9wr51mNtmDPwg9HC",
+      "total": 585501,
+      "daily": 141
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "You Let Me Walk Alone - Acoustic",
+      "trackId": "3oNAGvDEB5k6yFIeiRnUnq",
+      "total": 572161,
+      "daily": 80
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Silence",
+      "trackId": "2M9k5cQD4FhiF5O1gbQv6t",
+      "total": 561940,
+      "daily": 29
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Yellow - Live",
+      "trackId": "0JY6NSvPUxnRAQSylciFdp",
+      "total": 527100,
+      "daily": 21
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "9 Crimes - Live",
+      "trackId": "2kleQOqIRsmhQdq4EK35hJ",
+      "total": 522861,
+      "daily": 14
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Every Little Piece",
+      "trackId": "0JWJ6Cf64swEcjygexBd0B",
+      "total": 477501,
+      "daily": 65
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Hold the Rhythm",
+      "trackId": "1kzxfnAc5AIDSk40yy3BeN",
+      "total": 455935,
+      "daily": 252
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Wide Awake",
+      "trackId": "3LXFPorBaNXDzVcr2jBSMf",
+      "total": 440108,
+      "daily": 74
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Are You In, Are You Out",
+      "trackId": "5sWOrevgpqNR8YkdE4yywC",
+      "total": 434258,
+      "daily": 639
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "My Love",
+      "trackId": "5EpnvIhc2DxtHlfyf2HMvU",
+      "total": 419542,
+      "daily": 130
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Keep You Close",
+      "trackId": "2AxZwqalfUVRVfn0tQITDl",
+      "total": 410162,
+      "daily": 61
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "I Never Said I Loved You",
+      "trackId": "2gA2EWGMuNOuBSSveXLCsH",
+      "total": 393657,
+      "daily": 63
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Sophie",
+      "trackId": "6fXZn097khztc0LrCUAeEA",
+      "total": 392901,
+      "daily": 24
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Collide",
+      "trackId": "5yR8OeL88VRYuuezwFlJrn",
+      "total": 391719,
+      "daily": 86
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Take It All Away",
+      "trackId": "2cHoPUzJGeOQHtZgaU3Fx3",
+      "total": 391689,
+      "daily": 21
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Pocket Full of Gold",
+      "trackId": "7B83R5BF03qRilF8YtRw1t",
+      "total": 391468,
+      "daily": 111
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "With You - Piano Version",
+      "trackId": "6NadAMgF3bmMI5qitHMhhi",
+      "total": 389006,
+      "daily": 90
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Zombie - Live",
+      "trackId": "0DEo9nWqzHAFWA67cP2Jhi",
+      "total": 386437,
+      "daily": 15
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Dreaming out Loud",
+      "trackId": "4wBfpMpxzKvLu0S5FmR3SL",
+      "total": 382440,
+      "daily": 57
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "The Arising",
+      "trackId": "78gHRwhafEc85CbYAWB9x2",
+      "total": 380056,
+      "daily": 28
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Auld Lang Syne",
+      "trackId": "73x867eRmSAWUVC962T5tf",
+      "total": 372072,
+      "daily": 7
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Far Away",
+      "trackId": "4szDMIPROnCmMaDNU15jCX",
+      "total": 366216,
+      "daily": 43
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Beautiful Mistake",
+      "trackId": "16dai1FBqsOYAd2pzK07FX",
+      "total": 360949,
+      "daily": 15
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Lighthouse",
+      "trackId": "5lrinna4vVwr1Yob6XePlg",
+      "total": 346454,
+      "daily": 77
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Stay - Pianoversion",
+      "trackId": "5OUrvsfZ61KbvFHelVunFE",
+      "total": 338537,
+      "daily": 85
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Mad World - Live",
+      "trackId": "3E1KcvD8bzPvCtGz2SDxAa",
+      "total": 337151,
+      "daily": 7
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Jump Before We Fall",
+      "trackId": "6219z45yytaYVxF8SNklC4",
+      "total": 330746,
+      "daily": 39
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Let It Snow",
+      "trackId": "2kfu7vtp14N2yGCVsyy2DI",
+      "total": 318007,
+      "daily": 1
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Tears in Heaven - Live",
+      "trackId": "18hPRm8mNUPal0pQw2Qk99",
+      "total": 301867,
+      "daily": 3
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Run Away",
+      "trackId": "1nfsSRXGqlsAYr4XAHJdee",
+      "total": 297638,
+      "daily": 37
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Mountain Spring",
+      "trackId": "0oH2uL77QlIRglq8qbRihP",
+      "total": 295733,
+      "daily": 19
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Warm in December",
+      "trackId": "0FsVNLVxKVdkMNLO9nekgg",
+      "total": 282643,
+      "daily": 40
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Frozen Over",
+      "trackId": "49sUfzXeq2iBO7iZwWmuoh",
+      "total": 281092,
+      "daily": 8
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Rolling in the Deep - Live",
+      "trackId": "2Dlii78nXDw6uqff4nTg9r",
+      "total": 280423,
+      "daily": 11
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Lows & Highs",
+      "trackId": "48m6NHR51vvGIWJ1hZ3tAJ",
+      "total": 275588,
+      "daily": 49
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "I'm Not Gonna Find You",
+      "trackId": "6JQuIRzKyqV7v1iLTDbn1g",
+      "total": 264144,
+      "daily": 32
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "The Funeral - Live",
+      "trackId": "2b9XWaDRKNLoNmOaYJdRtk",
+      "total": 259087,
+      "daily": 6
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Nothing Left Of Me",
+      "trackId": "5EbEhE0J2lpovNBnx5Yjaf",
+      "total": 258654,
+      "daily": 253
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "You Said You'd Grow Old with Me - Acoustic",
+      "trackId": "5npaPR6ZuWBgdqiLMSMNqD",
+      "total": 245658,
+      "daily": 23
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Don't You Let Me Go",
+      "trackId": "0zfNwaBsB7xj8xBtvIsPBZ",
+      "total": 242168,
+      "daily": 21
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Babylon",
+      "trackId": "08Bp7lmnRuFAbsHrT5M3Kj",
+      "total": 240564,
+      "daily": 36
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "True Colors - Live",
+      "trackId": "0Oq6TQWYAdtZN8zNPbao1I",
+      "total": 237928,
+      "daily": 24
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Higher",
+      "trackId": "2a6bOe73N8adcduqG1pAbK",
+      "total": 229403,
+      "daily": 29
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Price Tag - Live",
+      "trackId": "43morawU8jQ2FQBarz4pop",
+      "total": 223771,
+      "daily": 5
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Hallelujah - Live",
+      "trackId": "4VjBkRdkZD5o5YBbDorvz3",
+      "total": 195706,
+      "daily": 3
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Beautiful Life",
+      "trackId": "3hf17LwT7cyUeS2eCisIQX",
+      "total": 182514,
+      "daily": 25
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Set Fire to the Rain - Live",
+      "trackId": "05io77O1Q5XlZr63Bon7ad",
+      "total": 178473,
+      "daily": 3
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Slowly",
+      "trackId": "58Yd1jWveKg8do6ylBGtY8",
+      "total": 176332,
+      "daily": 123
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Give Me Love - Live",
+      "trackId": "38iJpYJxB09rO3C5zVsBIS",
+      "total": 170217,
+      "daily": 2
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "One More Day",
+      "trackId": "0NM5A4cOfsdyHPSl5NcxvB",
+      "total": 163966,
+      "daily": 128
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "I Follow Rivers - Live",
+      "trackId": "1QjHeHqeS5GG4C6wYmqRnQ",
+      "total": 162734,
+      "daily": 9
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Book of Love - Live",
+      "trackId": "3zRUvGqDN99OAimgGF2bOh",
+      "total": 155785,
+      "daily": 6
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "A Drop in the Ocean - Live",
+      "trackId": "4UEKpNYqsuHX1xg4eGncq3",
+      "total": 150337,
+      "daily": 40
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Army of Hope",
+      "trackId": "7nspebnHnu5o41HgEHzLQI",
+      "total": 145645,
+      "daily": 25
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Hopeless Heart",
+      "trackId": "7tA9R2mvrZ3gNHlXycsIIz",
+      "total": 145146,
+      "daily": 5
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Skinny Love - Live",
+      "trackId": "4CeA6CpMCge2nQHPfF4ajf",
+      "total": 144452,
+      "daily": 3
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Dreamers",
+      "trackId": "1xG6v0xBRJMDg0WbQZaSGU",
+      "total": 140663,
+      "daily": 3
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Marching Man",
+      "trackId": "4Tek7BH8cFf3QyTdBllyzr",
+      "total": 137784,
+      "daily": 6
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Hallelujah",
+      "trackId": "1A3EGPyLfVmjI1q6GCrzEg",
+      "total": 127562,
+      "daily": 22
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "The First Noel",
+      "trackId": "4nZmS9gRS4ZVf0hGxmMHII",
+      "total": 125762,
+      "daily": 4
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Last Christmas",
+      "trackId": "0g0DVpYNotIPPLsjqh5E7w",
+      "total": 123527,
+      "daily": 2
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Somebody That I Used to Know - Live",
+      "trackId": "0LZ0spyAeiLbLtSQA8yMyb",
+      "total": 123289,
+      "daily": 9
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Creep - Live",
+      "trackId": "1ce4zArppVhWZ1VZ56AcDB",
+      "total": 123100,
+      "daily": 5
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Somewhere over the Rainbow - Live",
+      "trackId": "4BS207PjEieVozv5BLuZsv",
+      "total": 123044,
+      "daily": 2
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Streets of London - Live",
+      "trackId": "2lGvwHxWxwABOvCX1xxMvD",
+      "total": 121874,
+      "daily": 3
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Und wenn ein Lied - Live",
+      "trackId": "6HKOvxu0rz5qhe4XjzsfYl",
+      "total": 114070,
+      "daily": 3
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "No Woman No Cry - Live",
+      "trackId": "5MXkljHcTFnBEhlvGGg682",
+      "total": 112041,
+      "daily": 3
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Wind of Change - Live",
+      "trackId": "4atyyxIPIeHc9S1huI1Wug",
+      "total": 111230,
+      "daily": 5
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Thinking About You",
+      "trackId": "0hCgkgUs4WW7Dmi6B2KvBM",
+      "total": 105326,
+      "daily": 2
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "Keep Holding On - Live",
+      "trackId": "35ySIIRPrBGBfS0GvYHLvr",
+      "total": 104691,
+      "daily": 7
+    },
+    {
+      "artist": "Michael Schulte",
+      "artistId": "21aa4pj9BvbFB2iT8kRpnq",
+      "trackName": "We Are the World - Live",
+      "trackId": "4yJWrTb2ZyBlx2zqop3odl",
+      "total": 102519,
+      "daily": 3
+    }
+  ]
+}

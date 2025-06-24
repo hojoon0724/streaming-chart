@@ -1,31 +1,31 @@
-import { Calendar, CirclePlusIcon, Music, User } from "lucide-react";
+import { Calendar, Music, User } from "lucide-react";
 import { useRouter } from "next/router";
 import Header from "../components/Header";
 
 export default function HomePage() {
   const router = useRouter();
 
-  const navigateToArtist = () => {
-    router.push("/by-artist");
+  // Show artist's all-songs-performance, ranked by aggregate
+  const navigateToFullArtistCatalog = () => {
+    router.push("/full-artist-catalog");
   };
 
-  const navigateToWeek = () => {
-    router.push("/by-date");
+  // Only shows numbers from charted songs
+  const navigateToLatestSongData = () => {
+    router.push("/latest-song-data");
   };
 
-  const navigateToAggregate = () => {
-    router.push("/by-song");
+  // const navigateToArtistChartedOnly = () => {
+  //   router.push("/artist-charted-only");
+  // };
+
+  const navigateToWeeklyCharts = () => {
+    router.push("/weekly-charts");
   };
 
-  const navigateToAggregateArtist = () => {
-    router.push("/aggregate-artist");
-  };
-
-  const navigateToAggregateSong = () => {
-    router.push("/aggregate-song");
-  };
-  const navigateToAggregateEverything = () => {
-    router.push("/aggregate-everything");
+  // Shows songs' performance
+  const navigateToSongWeeklyPerformance = () => {
+    router.push("/song-weekly-performance");
   };
 
   return (
@@ -105,7 +105,7 @@ export default function HomePage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             {/* Aggregate Artist Button */}
             <button
-              onClick={navigateToAggregateArtist}
+              onClick={navigateToFullArtistCatalog}
               className="group p-3 rounded-lg hover:shadow-sm transition-all duration-200 border-2 border-gray-200 dark:border-gray-700 hover:border-blue-500 dark:hover:border-blue-400 focus:outline-none focus:ring-2 focus:ring-blue-500 dark:focus:ring-blue-400 focus:ring-offset-2 dark:focus:ring-offset-gray-900 cursor-pointer bg-blue-600 dark:bg-blue-400 hover:scale-105"
             >
               <div className="flex flex-row justify-center items-center text-center gap-4">
@@ -116,21 +116,12 @@ export default function HomePage() {
 
             {/* Aggregate Song Button */}
             <button
-              onClick={navigateToAggregateSong}
+              onClick={navigateToLatestSongData}
               className="group p-3 rounded-lg hover:shadow-sm transition-all duration-200 border-2 border-gray-200 dark:border-gray-700 hover:border-slate-500 dark:hover:border-slate-400 focus:outline-none focus:ring-2 focus:ring-slate-500 dark:focus:ring-slate-400 focus:ring-offset-2 dark:focus:ring-offset-gray-900 cursor-pointer bg-slate-600 dark:bg-slate-400 hover:scale-105"
             >
               <div className="flex flex-row justify-center items-center text-center gap-4">
                 <Music className="h-12 w-12 text-gray-100 dark:text-gray-900 " />
                 <h3 className="text-xl font-semibold text-gray-200 dark:text-gray-900">By Song</h3>
-              </div>
-            </button>
-            <button
-              onClick={navigateToAggregateEverything}
-              className="group p-3 rounded-lg hover:shadow-sm transition-all duration-200 border-2 border-gray-200 dark:border-gray-700 hover:border-stone-500 dark:hover:border-stone-400 focus:outline-none focus:ring-2 focus:ring-stone-500 dark:focus:ring-stone-400 focus:ring-offset-2 dark:focus:ring-offset-gray-900 cursor-pointer bg-stone-600 dark:bg-stone-400 hover:scale-105"
-            >
-              <div className="flex flex-row justify-center items-center text-center gap-4">
-                <CirclePlusIcon className="h-12 w-12 text-gray-100 dark:text-gray-900 " />
-                <h3 className="text-xl font-semibold text-gray-200 dark:text-gray-900">Everything</h3>
               </div>
             </button>
           </div>
@@ -209,20 +200,9 @@ export default function HomePage() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-            {/* By Artist Button */}
-            <button
-              onClick={navigateToArtist}
-              className="group p-3 rounded-lg hover:shadow-sm transition-all duration-200 border-2 border-gray-200 dark:border-gray-700 hover:border-red-500 dark:hover:border-red-400 focus:outline-none focus:ring-2 focus:ring-red-500 dark:focus:ring-red-400 focus:ring-offset-2 dark:focus:ring-offset-gray-900 cursor-pointer bg-red-600 dark:bg-red-400 hover:scale-105"
-            >
-              <div className="flex flex-row justify-center items-center text-center gap-4">
-                <User className="h-12 w-12 text-gray-100 dark:text-gray-900 " />
-                <h3 className="text-xl font-semibold text-gray-200 dark:text-gray-900">By Artist</h3>
-              </div>
-            </button>
-
             {/* By Week Button */}
             <button
-              onClick={navigateToWeek}
+              onClick={navigateToWeeklyCharts}
               className="group p-3 rounded-lg hover:shadow-sm transition-all duration-200 border-2 border-gray-200 dark:border-gray-700 hover:border-yellow-500 dark:hover:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-500 dark:focus:ring-yellow-400 focus:ring-offset-2 dark:focus:ring-offset-gray-900 cursor-pointer bg-yellow-600 dark:bg-yellow-400 hover:scale-105"
             >
               <div className="flex flex-row justify-center items-center text-center gap-4">
@@ -231,14 +211,14 @@ export default function HomePage() {
               </div>
             </button>
 
-            {/* Aggregate Button */}
+            {/* By song with weekly performance */}
             <button
-              onClick={navigateToAggregate}
+              onClick={navigateToSongWeeklyPerformance}
               className="group p-3 rounded-lg hover:shadow-sm transition-all duration-200 border-2 border-gray-200 dark:border-gray-700 hover:border-green-500 dark:hover:border-green-400 focus:outline-none focus:ring-2 focus:ring-green-500 dark:focus:ring-green-400 focus:ring-offset-2 dark:focus:ring-offset-gray-900 cursor-pointer bg-green-600 dark:bg-green-400 hover:scale-105"
             >
               <div className="flex flex-row justify-center items-center text-center gap-4">
                 <Music className="h-12 w-12 text-gray-100 dark:text-gray-900 " />
-                <h3 className="text-xl font-semibold text-gray-200 dark:text-gray-900">By Song</h3>
+                <h3 className="text-xl font-semibold text-gray-200 dark:text-gray-900">Weekly Performance</h3>
               </div>
             </button>
           </div>

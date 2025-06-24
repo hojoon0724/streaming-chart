@@ -1,0 +1,4006 @@
+{
+  "artist": "Johnny Cash",
+  "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+  "songs": [
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Hurt",
+      "trackId": "28cnXtME493VX9NOw9cIUh",
+      "total": 683534130,
+      "daily": 195933
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ring of Fire",
+      "trackId": "6YffUZJ2R06kyxyK6onezL",
+      "total": 417583758,
+      "daily": 145480
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Highwayman",
+      "trackId": "7jWbXvrgdbkajU8L28ahn5",
+      "total": 299364965,
+      "daily": 130303
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "trackId": "2fDHuS1PTkHBbCWWZF1ph9",
+      "total": 263473834,
+      "daily": 78096
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "God's Gonna Cut You Down",
+      "trackId": "6jXPZid0KLorvgIDP6TiSo",
+      "total": 225476414,
+      "daily": 89001
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Walk the Line",
+      "trackId": "7hxZF4jETnE5Q75rKQnMjE",
+      "total": 210454412,
+      "daily": 61327
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Girl from the North Country",
+      "trackId": "4K1imZQQ0yKtJ40vGmUajS",
+      "total": 186540077,
+      "daily": 64417
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Walk The Line - Single Version",
+      "trackId": "6uya0AiJA1Avd4DY2XFlVm",
+      "total": 161572076,
+      "daily": 94848
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Jackson",
+      "trackId": "5fcxVCOtfesNzI2n4Y4kiJ",
+      "total": 133377821,
+      "daily": 46293
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "(Ghost) Riders in the Sky",
+      "trackId": "3I1vEQhGwRK7URrTq4BqNl",
+      "total": 129902419,
+      "daily": 62654
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Man Comes Around",
+      "trackId": "3Jq9rsqmRtqcVKtzP9dnxZ",
+      "total": 123730338,
+      "daily": 39851
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "trackId": "5xMNjx7uqCzMpJZSo4Wq55",
+      "total": 113829304,
+      "daily": ""
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I've Been Everywhere",
+      "trackId": "2vLPGv0TAzbY68zYBbRCD3",
+      "total": 91104566,
+      "daily": 35506
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Personal Jesus",
+      "trackId": "5dcwiQFqn0mTcWewYIv7MV",
+      "total": 84291217,
+      "daily": 29817
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Folsom Prison Blues",
+      "trackId": "1Vw5YUBbtlUmkhEnee55Zo",
+      "total": 82885015,
+      "daily": 27095
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Get Rhythm",
+      "trackId": "2aq1oBnP7Q176mZw5P6eUk",
+      "total": 77789037,
+      "daily": 25372
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ain't No Grave",
+      "trackId": "1xADYlM5rjnbJvAW2tc0qF",
+      "total": 76223226,
+      "daily": 21050
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Won't Back Down",
+      "trackId": "6b0AtCzgnYrb7T84o18V4l",
+      "total": 74566804,
+      "daily": 33180
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Folsom Prison Blues",
+      "trackId": "0LTSNmOLBt25GMjHlxp9OR",
+      "total": 70925943,
+      "daily": 43850
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "One Piece at a Time",
+      "trackId": "1sueD22EyCamMjdQu9Kuo3",
+      "total": 68389582,
+      "daily": 32973
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "American Remains",
+      "trackId": "0ayQNplOTAVg6RoulWIeEO",
+      "total": 66845945,
+      "daily": 36476
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Cocaine Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "trackId": "6i8SZ4NIrYeyrbBOoRSC9z",
+      "total": 63867010,
+      "daily": 21418
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Man in Black",
+      "trackId": "7wL9EVloIobMw22rT7Ve8x",
+      "total": 63284334,
+      "daily": 24416
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Daddy Sang Bass",
+      "trackId": "6cyQhHuw8lEXgHGJlXUiR9",
+      "total": 55972443,
+      "daily": 19303
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "One",
+      "trackId": "5KLhtfSmFinTMkR4hhaOZa",
+      "total": 55718062,
+      "daily": 18293
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Rusty Cage",
+      "trackId": "5l7KTwdgBLrx2PhFHnYoQ4",
+      "total": 54970243,
+      "daily": 17087
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Little Drummer Boy",
+      "trackId": "7FIcV2kEiO2mvvMbxU5Jkn",
+      "total": 53917217,
+      "daily": 480
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Cry! Cry! Cry!",
+      "trackId": "0i0kLLNXBnX31p1vWb69jr",
+      "total": 52485048,
+      "daily": 16114
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "You Are My Sunshine",
+      "trackId": "76pllrWpfiCoLGhijQBYhO",
+      "total": 51655097,
+      "daily": 12155
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "She Used to Love Me a Lot",
+      "trackId": "4yEvfGgJ9tYfyfXXMLza1V",
+      "total": 45190014,
+      "daily": 8899
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Big River - Remastered 2023",
+      "trackId": "1tN6YgMidk5i0k23gGyIOB",
+      "total": 41661560,
+      "daily": 17578
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Sunday Morning Coming Down - Live at Ryman Auditorium, Nashville, TN - July 1970",
+      "trackId": "5KF3zQP0cqLklYnF6riogg",
+      "total": 39072397,
+      "daily": 14283
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Hung My Head",
+      "trackId": "3iBemYZi4lw53UYDlxqMlw",
+      "total": 38594296,
+      "daily": 11324
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Silver Stallion",
+      "trackId": "6ivUoajqXRNVIyEGhRkucw",
+      "total": 38394865,
+      "daily": 21833
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Heart Of Gold",
+      "trackId": "6p6LQkPZFP8MLCFT1tRpZw",
+      "total": 37638016,
+      "daily": 12504
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Walk the Line",
+      "trackId": "0SHqu1Nlm2Cu6eNbmxHvRA",
+      "total": 37317672,
+      "daily": 7852
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Solitary Man",
+      "trackId": "3SURw8tyyU8bQ0Nm4pLhKq",
+      "total": 35724487,
+      "daily": 10015
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "A Thing Called Love",
+      "trackId": "4Zy3y23RJDQEohBZFu94v1",
+      "total": 33042461,
+      "daily": 7673
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "It Ain't Me, Babe",
+      "trackId": "7t4ICcvjp5OplAxpcavAGc",
+      "total": 32210487,
+      "daily": 7962
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The General Lee",
+      "trackId": "6r4k7KQ0o3Mia57QCjlWNO",
+      "total": 31284430,
+      "daily": 9958
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Don't Take Your Guns To Town",
+      "trackId": "6OITYoG02JlOPRNcfdspx4",
+      "total": 30202179,
+      "daily": 8820
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Against the Wind",
+      "trackId": "3Q3R4fUAI7Lz1PEowFjK11",
+      "total": 29711465,
+      "daily": 15944
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "In My Life",
+      "trackId": "7Dprt8s1FohodJYtCNcM4a",
+      "total": 29102151,
+      "daily": 7831
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Hey Porter",
+      "trackId": "4I1HdMmTo3gh01CWwmMMMh",
+      "total": 25856776,
+      "daily": 8895
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ragged Old Flag",
+      "trackId": "3lUizfXlBYvhDTYXk2X96w",
+      "total": 24239327,
+      "daily": 7141
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "There Ain't No Good Chain Gang (with Waylon Jennings)",
+      "trackId": "5B5iKxCoj1ny3yzeXkABgA",
+      "total": 24207654,
+      "daily": 9491
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Five Feet And Rising",
+      "trackId": "6rHbrABalqlEysIK0VVEsd",
+      "total": 23903010,
+      "daily": 9828
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "(Ghost) Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "3ST1SVHTxxiGodhUeASN3h",
+      "total": 23468554,
+      "daily": 16409
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Got Stripes",
+      "trackId": "4OKUxr7cAmMtNwptXlc25j",
+      "total": 22800853,
+      "daily": 3669
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "We'll Meet Again",
+      "trackId": "6SCgT1QDWcsnMusKYua9eE",
+      "total": 22488926,
+      "daily": 7015
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Further On Up The Road",
+      "trackId": "7wnWqdOIM00a2OGkV22KVf",
+      "total": 22452958,
+      "daily": 8328
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Chicken in Black",
+      "trackId": "6rb2YiWI5xJCPs1XfFz3Xz",
+      "total": 21354935,
+      "daily": 23842
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "If I Were a Carpenter",
+      "trackId": "1UN6NjkwkztYxl6XzIp0pJ",
+      "total": 21234410,
+      "daily": 4083
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Out Among the Stars",
+      "trackId": "7FiJpVqkeiMHH3AzUgyJqx",
+      "total": 20743760,
+      "daily": 2761
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Bridge Over Troubled Water",
+      "trackId": "3e0qSxu1fNPzDlwqWN3cBD",
+      "total": 20517337,
+      "daily": 5255
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Big River",
+      "trackId": "1ip07xbQWgehduEDY6j8r8",
+      "total": 19610758,
+      "daily": 9853
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Tennessee Stud",
+      "trackId": "5mRBBpUjXN3jHFT5GYNrrk",
+      "total": 19026864,
+      "daily": 3723
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "So Doggone Lonesome",
+      "trackId": "2H78V3gdaz62dBEl2wzlBt",
+      "total": 18350161,
+      "daily": 16831
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Orange Blossom Special - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "trackId": "1qrtIWJwS62EVVv976tYXh",
+      "total": 18008307,
+      "daily": 5702
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Ballad of Boot Hill",
+      "trackId": "5ZSBTVyiOYBaE4snfIeLHs",
+      "total": 17615277,
+      "daily": 73800
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Cat's In The Cradle",
+      "trackId": "6d18gEB8RdjyfPmQZm9aDn",
+      "total": 17281148,
+      "daily": 8480
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Give My Love To Rose",
+      "trackId": "3Prk96Esj2yy7RHfseIWOG",
+      "total": 17136528,
+      "daily": 3434
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Redemption Day",
+      "trackId": "3yiIyJMMR5rbAQFWXYrsdj",
+      "total": 17039654,
+      "daily": 3610
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Born and Raised in Black and White",
+      "trackId": "6AEPHlvR4jgwXe2J0vM1Sl",
+      "total": 16415855,
+      "daily": 9131
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Guess Things Happen That Way",
+      "trackId": "4yRHEJN1VBch740866DNeQ",
+      "total": 16061884,
+      "daily": 4269
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ballad Of A Teenage Queen re-recording",
+      "trackId": "4UhCn9rExTVYzLhr10Giyf",
+      "total": 15447164,
+      "daily": 3331
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I See A Darkness",
+      "trackId": "6duDmFwanTY6zaMS9sTM5h",
+      "total": 14632941,
+      "daily": 3346
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Big Iron",
+      "trackId": "1hkuQmFxGs85zE6dyofTPY",
+      "total": 14247116,
+      "daily": 4374
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Flesh and Blood",
+      "trackId": "3cmS0fJIpGyUipk3iVg5vM",
+      "total": 13747648,
+      "daily": 3327
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "There You Go re-recording",
+      "trackId": "3wf3qrKCRO368eyuq3WQJz",
+      "total": 13532817,
+      "daily": 2340
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Baby Ride Easy (with June Carter Cash)",
+      "trackId": "3uktHVijqOMqLKhXQSTmrY",
+      "total": 13486384,
+      "daily": 1280
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Devil's Right Hand",
+      "trackId": "3NGzaY9pJjoMvP4gnnajGF",
+      "total": 13146226,
+      "daily": 6495
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March",
+      "trackId": "4yxlMScRJzhghqmccPhgQP",
+      "total": 12820643,
+      "daily": 6900
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Mercy Seat",
+      "trackId": "0L1B0rdj6oL7B5Injkhtsd",
+      "total": 12703829,
+      "daily": 2443
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Wayfaring Stranger",
+      "trackId": "5kRuOwy6c8MAx8RdGj3c2f",
+      "total": 12435164,
+      "daily": 4468
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I'm Movin' On (with Waylon Jennings)",
+      "trackId": "3xKLRPj0ZgrvPng2QIXtll",
+      "total": 12295282,
+      "daily": 879
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Danny Boy",
+      "trackId": "5o4SqGekEfvdkNuOVx5d3S",
+      "total": 12237461,
+      "daily": 2708
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Still Miss Someone",
+      "trackId": "5cbcZOuu19b5zkiJMEdLHn",
+      "total": 11997103,
+      "daily": 1845
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Cocaine Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "trackId": "7xrODhgXFNVsRtKoyt5rJo",
+      "total": 11909218,
+      "daily": 4318
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Tennessee Flat-Top Box",
+      "trackId": "7robBaDSeyFRaxT0QhBifa",
+      "total": 11585925,
+      "daily": 2243
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Last Cowboy Song",
+      "trackId": "2zfK1yLW1HzHGbmYx6X9F8",
+      "total": 11491106,
+      "daily": 5796
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Desperado",
+      "trackId": "58QomoMiMPhWfZwrqOmUt0",
+      "total": 11394813,
+      "daily": 4274
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Ballad of Ira Hayes",
+      "trackId": "0BtqwFxTqPoMIRNq6Og77I",
+      "total": 11256381,
+      "daily": 5278
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Walk The Line (Revisited)",
+      "trackId": "0OYjF6kMkFBl5mOtTRvh7C",
+      "total": 11123578,
+      "daily": 2318
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "City of New Orleans - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "6FaNaSx1Z2WwdQIeqePjto",
+      "total": 10776543,
+      "daily": 6432
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Busted - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "trackId": "3bMp2CgMtlWDqfG4rAE4nK",
+      "total": 10748613,
+      "daily": 623
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Redemption Song",
+      "trackId": "6ArficY3dtVMWYkyTYkAJP",
+      "total": 10599304,
+      "daily": 3470
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Father And Son",
+      "trackId": "7m1LJZXuC5Ua59Zmxo325O",
+      "total": 10531163,
+      "daily": 3173
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Rock Island Line (1958 Recording Remastered)",
+      "trackId": "1Bh7LVKVt6ZxUTOgHkRKcX",
+      "total": 10493841,
+      "daily": 3026
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Dark as the Dungeon - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "trackId": "0rE8nugfCMtsC3mzNukV8Z",
+      "total": 10378130,
+      "daily": 2167
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Still Miss Someone - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "trackId": "2dLzyrwHEEK8umYoOYaSPc",
+      "total": 10318574,
+      "daily": 2144
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Drove Her Out of My Mind",
+      "trackId": "7g0vEUHzcgDDvasACM3YfR",
+      "total": 10159991,
+      "daily": 933
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Joy to the World",
+      "trackId": "1PF8biSmFr9WHN4buuA5Su",
+      "total": 10063652,
+      "daily": 44
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Wanted Man",
+      "trackId": "6e9EpB4p33BTNxJBb1OKxR",
+      "total": 9881484,
+      "daily": 2056
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Desperados Waiting for a Train",
+      "trackId": "1OQbJRt29UGZ5d8YGjWiDK",
+      "total": 9872890,
+      "daily": 3965
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "If I Told You Who It Was",
+      "trackId": "4Dlb3TR2DCRHUz35WYG9qO",
+      "total": 9810012,
+      "daily": 684
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Long Black Veil",
+      "trackId": "6VefT0jLDsYCQtlVFhPkic",
+      "total": 9336545,
+      "daily": 1910
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "All Over Again",
+      "trackId": "76CbOXTXJpDSKplGwgUHiB",
+      "total": 8846686,
+      "daily": 6366
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "25 Minutes to Go - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "trackId": "6uwERhh3sBcQ9eLcfIBmFV",
+      "total": 8466761,
+      "daily": 1723
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ring Of Fire - 1988 Version",
+      "trackId": "1sYx5lpCHEEKRI0pPeilQH",
+      "total": 8457909,
+      "daily": 1058
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "First Time Ever I Saw Your Face",
+      "trackId": "6fT2eO0goE6IV9ByaASiam",
+      "total": 8443224,
+      "daily": 2140
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Satisfied Mind",
+      "trackId": "4i5U0edk7EZFrgbrV5CiZ6",
+      "total": 8312073,
+      "daily": 1106
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Cocaine Blues",
+      "trackId": "1I6JYb1GfXpWfKY4VHKtaY",
+      "total": 7882887,
+      "daily": 1901
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "If You Could Read My Mind",
+      "trackId": "0xTggtP2weZNXgY7s0dh2b",
+      "total": 7653936,
+      "daily": 1948
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Me and Bobby McGee - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "0Hb9GMc1lWt8FTnBCzELtr",
+      "total": 7614768,
+      "daily": 2755
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Gambler",
+      "trackId": "1oQnkSQhOQSSPCN0Hb9DCf",
+      "total": 7525392,
+      "daily": 2260
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The One on the Right Is on the Left",
+      "trackId": "1EYl3ASOxlK4Fk4Q1bhDh4",
+      "total": 7503468,
+      "daily": 1235
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Understand Your Man - Stereo Version",
+      "trackId": "1oM4t0qaBbG3IabKOgns4B",
+      "total": 7400394,
+      "daily": 941
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Wanderer",
+      "trackId": "4163s5AIcfezLq6kpncyvB",
+      "total": 7143534,
+      "daily": 1942
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Sixteen Tons",
+      "trackId": "7oRhPLG0SE4hawbLwVmnZS",
+      "total": 7100039,
+      "daily": 4168
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Home Of The Blues",
+      "trackId": "0PMb8MpB3fNgoIaeAtmPqh",
+      "total": 7082937,
+      "daily": 2074
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "It Ain't Me Babe",
+      "trackId": "0TDlaRlo5DnfW9LUfPvf3b",
+      "total": 6990959,
+      "daily": 3340
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Delia's Gone",
+      "trackId": "1wzAWWkIbvZzfjCdDF4PME",
+      "total": 6958984,
+      "daily": 2420
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Rebel - Johnny Yuma",
+      "trackId": "3ymAVAlTxYDyVIbwqueaHE",
+      "total": 6626151,
+      "daily": 1901
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I'm So Lonesome I Could Cry",
+      "trackId": "3iehS49kD0gDoHSK7zCpE8",
+      "total": 6584609,
+      "daily": 1961
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Were You There (When They Crucified My Lord)",
+      "trackId": "6FQ36fnytRtVALIpsBwXBv",
+      "total": 6398697,
+      "daily": 2217
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "For The Good Times",
+      "trackId": "5NcDqg45xfB80huD6X503f",
+      "total": 6334737,
+      "daily": 1233
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Sam Hall",
+      "trackId": "3s9GpTdrLjmU798zi77NcP",
+      "total": 6297223,
+      "daily": 1482
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Don't Take Your Guns to Town",
+      "trackId": "6DQeWECybR1XV74yLRJiZn",
+      "total": 6296907,
+      "daily": 2341
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Wall - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "trackId": "28q8XYvQtuRtTnkZoKBTB1",
+      "total": 6200286,
+      "daily": 1063
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Send a Picture of Mother - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "trackId": "40kj6F2dst12FXtRW7mqOc",
+      "total": 6097277,
+      "daily": 1026
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Songs That Make a Difference",
+      "trackId": "7pcpTlDSjqceuUHWqFiMLf",
+      "total": 6079891,
+      "daily": 1378
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Are You Sure Hank Done It This Way - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "7ATWHFSb8bWHTFyQ30t1Qf",
+      "total": 6078150,
+      "daily": 1280
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Night Hank Williams Came To Town",
+      "trackId": "2SkYxSabTplvQaduOaxi16",
+      "total": 5943217,
+      "daily": 1755
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Streets Of Laredo",
+      "trackId": "1ZhTHkB1Kt7qO4MP5uZlX6",
+      "total": 5846490,
+      "daily": 1655
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Jackson (with June Carter Cash) - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "trackId": "676TpHR9B00OL20I54KoOh",
+      "total": 5772276,
+      "daily": 588
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Tennessee",
+      "trackId": "4jCoczfqIvz2pg60UIBgBR",
+      "total": 5733043,
+      "daily": 687
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Beast In Me",
+      "trackId": "3HQpVLPyjvQBe4spn05zmx",
+      "total": 5534179,
+      "daily": 4853
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Wanderer (with Johnny Cash)",
+      "trackId": "3yPXx7FPJvBoL1rdsatgIU",
+      "total": 5407777,
+      "daily": ""
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Long-Legged Guitar Pickin' Man",
+      "trackId": "1wb0dzBIHsYgw5CR4ygdic",
+      "total": 5407018,
+      "daily": 1900
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Cocaine Blues - Bear's Sonic Journals: Live At The Carousel Ballroom, April 24 1968",
+      "trackId": "2NhHbd9UbBroa2yKfquLMy",
+      "total": 5364572,
+      "daily": 2912
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Song of the Patriot (with Marty Robbins)",
+      "trackId": "5l4NBdjwWqoIX6l7zAQsfl",
+      "total": 5223673,
+      "daily": 1900
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "25 Minutes to Go - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "trackId": "2EaCm5PYjpwuIvRo3ZfEFe",
+      "total": 5217216,
+      "daily": 1867
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Deportee (Plane Wreck at Los Gatos)",
+      "trackId": "0SjDshX9dKeY73Pf512FMU",
+      "total": 5018134,
+      "daily": 2231
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Rose Of My Heart",
+      "trackId": "2BnUU3ryk4834bVbGq4usB",
+      "total": 4830187,
+      "daily": 951
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Still Miss Someone",
+      "trackId": "7fa5Zih5w1KXqWjAdX60vf",
+      "total": 4770470,
+      "daily": 2346
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Don't Think Twice, It's All Right",
+      "trackId": "1t42JUmuj7QnaoypQ35PyD",
+      "total": 4768779,
+      "daily": 2958
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Call Your Mother",
+      "trackId": "1Zafhe6hrQtd8IVTFIBNeH",
+      "total": 4738151,
+      "daily": 212
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Highwayman - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "2cGE8dHjB7C8vGlgB1Y5KA",
+      "total": 4733627,
+      "daily": 2550
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "After All",
+      "trackId": "35LKy2VxStGr6hRme7ENlL",
+      "total": 4700823,
+      "daily": 144
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Wanted Man - Take 1",
+      "trackId": "3w5ecYEMUouguLjRh7CvsB",
+      "total": 4628673,
+      "daily": 2066
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Orange Blossom Special - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "trackId": "5AgYgGjaWzPIOCVJgIuPGJ",
+      "total": 4553713,
+      "daily": 471
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I'll Fly Away",
+      "trackId": "4eYzFuEX4ONGRb7CGF84hV",
+      "total": 4548238,
+      "daily": 1658
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "San Quentin - Live at San Quentin State Prison, San Quentin, CA - February 1969 (Version 1)",
+      "trackId": "1MfrVfuY5ql27i45rfIXzN",
+      "total": 4537558,
+      "daily": 499
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Country Boy",
+      "trackId": "4mJkawQEuz9BArGmDy53Ah",
+      "total": 4531616,
+      "daily": 1331
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Don't Hurt Anymore",
+      "trackId": "53pjh5NBTCDYb829Cdzjjx",
+      "total": 4506281,
+      "daily": 558
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Tear Stained Letter",
+      "trackId": "22pv6hn68zJu5xKKlwbLQO",
+      "total": 4477321,
+      "daily": 1159
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Got Stripes - Live at Folsom State Prison, Folsom, CA (2nd Show) - January 1968",
+      "trackId": "0ry355UoTbc3NScBC2F3jA",
+      "total": 4389268,
+      "daily": 1451
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Will the Circle Be Unbroken (with Johnny Cash)",
+      "trackId": "0QpactOWKs6d2vbTdDyVsS",
+      "total": 4347750,
+      "daily": 2766
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Sea Of Heartbreak",
+      "trackId": "3LtQFkTESnyalJrfqzNJkH",
+      "total": 4343083,
+      "daily": 1403
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Train of Love",
+      "trackId": "32mVbp33PXBGxbErQ3Fqo7",
+      "total": 4271485,
+      "daily": 764
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Living Legend",
+      "trackId": "4iXbVCLRijzZGCSb3g6FtB",
+      "total": 4268129,
+      "daily": 2157
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I'm Going To Memphis - Bear's Sonic Journals: Live At The Carousel Ballroom, April 24 1968",
+      "trackId": "4nw8R6ZytsPggpsMD0IjEL",
+      "total": 4233434,
+      "daily": 1969
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Sunday Morning Coming Down - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "3RkGXLC07QFcGhouHox2cM",
+      "total": 4118516,
+      "daily": 929
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Folsom Prison Blues - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "0NTN3g4W3DMqwA8Cy0KrCK",
+      "total": 4060776,
+      "daily": 1442
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Well Alright",
+      "trackId": "1AwcKKubFUGmgL0t1EOVuM",
+      "total": 3912500,
+      "daily": 2813
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Jackson - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "trackId": "41HOgdemYjFSPffuBMdwzG",
+      "total": 3886727,
+      "daily": 1470
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Don't You Think It's Come Our Time (with June Carter Cash)",
+      "trackId": "5aUtBOsa4bVpMugy7t4kOy",
+      "total": 3853151,
+      "daily": 222
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "September When It Comes",
+      "trackId": "11RbkUO6eJh7Eg9Qnmh5HS",
+      "total": 3790297,
+      "daily": 1433
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "That Old Wheel",
+      "trackId": "4aSAKwqAUzvlQm9KbVeaDW",
+      "total": 3789658,
+      "daily": 3293
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Thirteen",
+      "trackId": "4QH3P5D3aXAtZP2XPkUjnM",
+      "total": 3770912,
+      "daily": 1076
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "She Used to Love Me a Lot - JC/EC Version",
+      "trackId": "0JZGsl4TMNQaDWGvxVSgjm",
+      "total": 3768615,
+      "daily": 263
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "(I Heard That) Lonesome Whistle",
+      "trackId": "0lQTYhuhcQ9nzyIrgKLYZI",
+      "total": 3728071,
+      "daily": 1557
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Was There When It Happened",
+      "trackId": "0xrelU3p2ePPNmcO874eBC",
+      "total": 3716227,
+      "daily": 1471
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Rock and Roll Shoes",
+      "trackId": "5LkTlcCQpV21BYpSIkL3Q1",
+      "total": 3629718,
+      "daily": 146
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Can't Help But Wonder Where I'm Bound",
+      "trackId": "1RhWXQMyTtPxWHpMPwp0aK",
+      "total": 3623770,
+      "daily": 519
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Angels Love Bad Men",
+      "trackId": "4erMZWKJDVPko0AQtWD5ZR",
+      "total": 3608382,
+      "daily": 1241
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Big River - Take 1",
+      "trackId": "0CS4pwHml8LCSdVJ1gIKU3",
+      "total": 3588257,
+      "daily": 1769
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "It's All Over",
+      "trackId": "0BDEK8FwLf51O2vrc5dBBW",
+      "total": 3571539,
+      "daily": 1221
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Redemption Day",
+      "trackId": "2P0JnRD9evlIeKj9119LjH",
+      "total": 3516018,
+      "daily": 443
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Help Me",
+      "trackId": "7MWG6YWT02pqLcKQZzln0t",
+      "total": 3478738,
+      "daily": 880
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Baron",
+      "trackId": "7gNXxAvRBZxBhfv0HSUF2z",
+      "total": 3446968,
+      "daily": 1268
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Like The 309",
+      "trackId": "14Rd49dUe8MKOCK1ZUBfq5",
+      "total": 3435305,
+      "daily": 759
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Long Black Veil - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "trackId": "1MD5D5cFRKBAwbooPvifjN",
+      "total": 3422732,
+      "daily": 1188
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Came to Believe",
+      "trackId": "5oK8gsRe38XNrEvfyacDC3",
+      "total": 3405910,
+      "daily": 325
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Ways Of A Woman In Love",
+      "trackId": "6b2QE9J9y0LX6vMZNx6mO2",
+      "total": 3324621,
+      "daily": ""
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Wreck of the Old 97",
+      "trackId": "24ynTOmBCZPaqdhq3JngeK",
+      "total": 3289163,
+      "daily": 1064
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Waymore's Blues",
+      "trackId": "6H4VUEzTOX4ngFBzuKiPCn",
+      "total": 3268411,
+      "daily": 1437
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "That Christmasy Feeling",
+      "trackId": "28lWAOcNZRnYvSLRMUws0p",
+      "total": 3222924,
+      "daily": 50
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Running Kind",
+      "trackId": "2nNaEXJ7K6JQZ4eaideb6B",
+      "total": 3082827,
+      "daily": 767
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Legend of John Henry's Hammer",
+      "trackId": "1rxkJt6AldTgLzCm9s4Tue",
+      "total": 3055111,
+      "daily": 950
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Oh, Lonesome Me (2017 Remaster)",
+      "trackId": "2mcFYvqOXkWtXDVWpHVLZv",
+      "total": 3003363,
+      "daily": 534
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Corinthians 15:55",
+      "trackId": "6T44Iyxz2LJlLUTlGnOXHp",
+      "total": 2996588,
+      "daily": 335
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Aloha Oe",
+      "trackId": "6tgwbG4LAHuKeTjgR7BRFP",
+      "total": 2986192,
+      "daily": 426
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Rowboat",
+      "trackId": "6PSQXLJ32A7Ra9kfKP4q3M",
+      "total": 2970302,
+      "daily": 482
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Dirty Old Egg-Suckin' Dog - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "trackId": "2DATiJtJ75vDhCL59LWhlI",
+      "total": 2918938,
+      "daily": 896
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Give My Love to Rose - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "trackId": "7D5WsIISgiaBTfgubAuU4Z",
+      "total": 2890020,
+      "daily": 981
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Luther Played the Boogie",
+      "trackId": "3zd1jUS9StV2HTHWeJmiMC",
+      "total": 2885457,
+      "daily": 634
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Swing Low, Sweet Chariot",
+      "trackId": "4ouRy2y1A34GcHhouzkls0",
+      "total": 2831595,
+      "daily": 1436
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Walk The Line - 1988 Version",
+      "trackId": "4Iu0t1rUcbcZHhIgmVAGm1",
+      "total": 2809166,
+      "daily": 419
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Green, Green Grass of Home - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "trackId": "49NfiXJHlZoexjMjqWIPQQ",
+      "total": 2783824,
+      "daily": 1059
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Give My Love To Rose",
+      "trackId": "2EJ8NkwATJHsWHX6EKKItq",
+      "total": 2768662,
+      "daily": 386
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Greystone Chapel - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "trackId": "529UhNRfvKmId4ZL7cvRDm",
+      "total": 2767144,
+      "daily": 959
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Love's Been Good To Me",
+      "trackId": "4HZZtjCEUkB5780Wnuy1lh",
+      "total": 2730184,
+      "daily": 787
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "In the Jailhouse",
+      "trackId": "7jcReGdGSIdPKiqVHX2Ahm",
+      "total": 2711029,
+      "daily": 721
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Bird On A Wire",
+      "trackId": "4tgmhUojs58r0l46TBHMwJ",
+      "total": 2705335,
+      "daily": 771
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Crazy Old Soldier",
+      "trackId": "60RvwGTTNtBilC1SwJMt4B",
+      "total": 2667272,
+      "daily": 1684
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Help Me Make It Through the Night - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "6LVPKE3YlFHPWtYJJ4YWHm",
+      "total": 2596157,
+      "daily": 1012
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Next In Line re-recording",
+      "trackId": "4GDKP1eBGNsS7tWhAx8dIN",
+      "total": 2575185,
+      "daily": 434
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Cool Water",
+      "trackId": "779PpyAE2reFY9BpVxZsix",
+      "total": 2570156,
+      "daily": 330
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "In The Garden",
+      "trackId": "3KeKcTEO8WTd7J4rfJV3wc",
+      "total": 2524388,
+      "daily": 747
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Drive On",
+      "trackId": "18G7C4uElv5Be4rpVCUjOZ",
+      "total": 2494240,
+      "daily": 844
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Silent Night",
+      "trackId": "1ow71uSJ6MNKEyLgteQ0Aa",
+      "total": 2482865,
+      "daily": 13
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "On The Evening Train",
+      "trackId": "0tQNIld29koMPGdsuQr9Fp",
+      "total": 2471626,
+      "daily": 544
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Last Night I Had The Strangest Dream",
+      "trackId": "2q6qz5PfBJFjWvhsAL31eP",
+      "total": 2449559,
+      "daily": 242
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Highway Patrolman",
+      "trackId": "1GalAzXQW0EB8YhqPHnzFS",
+      "total": 2414642,
+      "daily": 684
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "In The Sweet By And By",
+      "trackId": "7nkMR0oxSeZekvql4aGcU6",
+      "total": 2403612,
+      "daily": 814
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Greatest Cowboy of Them All",
+      "trackId": "6FInvIIXuiOaLsmW1H6lfN",
+      "total": 2359420,
+      "daily": 1252
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Four Strong Winds",
+      "trackId": "2ERJZhlJF34AOBkZz0o4fA",
+      "total": 2349181,
+      "daily": 564
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "All I Do Is Drive",
+      "trackId": "1c81daqs0Us5SYY1FVGPbW",
+      "total": 2347477,
+      "daily": 2810
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Nobody",
+      "trackId": "4FwimZt3qt6gGTBqutKgP1",
+      "total": 2338856,
+      "daily": 547
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Mean Eyed Cat",
+      "trackId": "7rxy6xPflCCqrHno0UXcwp",
+      "total": 2337368,
+      "daily": 473
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Lumberjack",
+      "trackId": "69WjO90WyjR8HmoitIbkDz",
+      "total": 2310041,
+      "daily": 1987
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "You're The Nearest Thing To Heaven re-recording",
+      "trackId": "6PZB7pYNTr3BZVKxwhm53E",
+      "total": 2300533,
+      "daily": 490
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Doin' My Time",
+      "trackId": "60ycSxOTYihu5GjKfo4hkr",
+      "total": 2300299,
+      "daily": 732
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Spotlight",
+      "trackId": "6Nem4lLUMFfJciok5yzbSW",
+      "total": 2290260,
+      "daily": 1706
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "That Lucky Old Sun (Just Rolls Around Heaven All Day)",
+      "trackId": "6o66qxtmliABr64UgEQv4S",
+      "total": 2254140,
+      "daily": 507
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Trouble Man - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "677WxxyEWuf2Re4SaxjPGH",
+      "total": 2233439,
+      "daily": 1120
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "What Do I Care",
+      "trackId": "172tOpuxcdARN92RIFvZaq",
+      "total": 2202286,
+      "daily": 331
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Do Lord",
+      "trackId": "6HvoIgkOtZtk21zmmNmyz8",
+      "total": 2193506,
+      "daily": 731
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ring of Fire - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "221HM7lAwnJ6pKhwFx47Ey",
+      "total": 2177221,
+      "daily": 810
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "A Legend In My Time",
+      "trackId": "7yLJDoshavibFtN78fSZES",
+      "total": 2171919,
+      "daily": 522
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Man Comes Around - Early Take",
+      "trackId": "3VQ3F8favjWJrljy0kgone",
+      "total": 2169749,
+      "daily": 324
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Flushed from the Bathroom of Your Heart - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "trackId": "59n3HqfAMEpFFEAuBQQCOC",
+      "total": 2161747,
+      "daily": 773
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Don't Make Me Go",
+      "trackId": "0WRihaxlyHaejaJsk4l5IC",
+      "total": 2150663,
+      "daily": 248
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Oney",
+      "trackId": "2p9cD6MdK6vZkj7GhXJCZj",
+      "total": 2131151,
+      "daily": 808
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Country Trash",
+      "trackId": "6ULnTHk2zJCk7RNM9EVoLH",
+      "total": 2118142,
+      "daily": 497
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Welfare Line",
+      "trackId": "771dOzG2KWfpaETh5IlhKJ",
+      "total": 2085572,
+      "daily": 809
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Folsom Prison Blues - 1988 Version",
+      "trackId": "6tGTLthg2flK4eRLmw67Ie",
+      "total": 2064528,
+      "daily": 393
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Hey Porter",
+      "trackId": "2OuLaNiveO5Xlos4VGWTVj",
+      "total": 2061590,
+      "daily": 160
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "San Quentin - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "trackId": "2g34T4Zs54pTRR1AYTjobc",
+      "total": 2061187,
+      "daily": 977
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Hey Good Lookin' re-recording",
+      "trackId": "2Zq19vYHX521ubY9CS1kuE",
+      "total": 2026863,
+      "daily": 611
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Sunday Morning Coming Down - 1988 Version",
+      "trackId": "42mli9hhUrcZT9OHjQVa2P",
+      "total": 2016633,
+      "daily": 1117
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "There Ain't No Good Chain Gang - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "6qU4M7bih0zCgGrwKajYr3",
+      "total": 2003220,
+      "daily": 746
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Coming Home",
+      "trackId": "2CdRH622jUyOTrS6ULOVHK",
+      "total": 1978808,
+      "daily": 801
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Big River",
+      "trackId": "7qphvcn2xFN8C0paZaF2AT",
+      "total": 1977525,
+      "daily": 2349
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Jim, I Wore a Tie Today",
+      "trackId": "7mlWXXM4qSF3faqxmc2XuM",
+      "total": 1973911,
+      "daily": 573
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Remember Me",
+      "trackId": "0Re2FcYRWeJZ1sSm9KCo5L",
+      "total": 1970805,
+      "daily": 755
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Shall Not Be Moved",
+      "trackId": "3fPKD08xUkftAX03Yqstqt",
+      "total": 1966674,
+      "daily": 628
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Amazing Grace",
+      "trackId": "72VXZ13HqysGEB4ga75EUj",
+      "total": 1954058,
+      "daily": 1108
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Came To Believe",
+      "trackId": "5tfuXLlyWNK1BEO9JTIC0m",
+      "total": 1952627,
+      "daily": 460
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Swing Low, Sweet Chariot",
+      "trackId": "1uyadn2cQ8NrBtyBWzETEQ",
+      "total": 1932289,
+      "daily": 202
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Hello Out There",
+      "trackId": "0x1u8snNiyKqfmYmyQg3Kr",
+      "total": 1931254,
+      "daily": 2704
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Country Boy",
+      "trackId": "4cg3c4YwqtzU8Coq6yQNLP",
+      "total": 1926652,
+      "daily": 358
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Daddy Sang Bass - from the Johnny Cash TV show",
+      "trackId": "758chcDK6L0n6vrtMqmWv5",
+      "total": 1920423,
+      "daily": 399
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Rockabilly Blues (Texas 1955)",
+      "trackId": "5rjJzse6JQDei4q2mOxrum",
+      "total": 1914706,
+      "daily": 262
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Last Gunfighter Ballad",
+      "trackId": "72Tff5TvTSvEI8R4gqmdH8",
+      "total": 1907603,
+      "daily": 1455
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "When The Roll Is Called Up Yonder",
+      "trackId": "7B8MBeKxvItlQaMXV7C8hr",
+      "total": 1901568,
+      "daily": 596
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "On the Road Again - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "6kiBHtPe8GfNhLygAO2jiv",
+      "total": 1892714,
+      "daily": 941
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Come in Stranger",
+      "trackId": "1nPYfGi4zkUaDIirBvFmG9",
+      "total": 1891897,
+      "daily": 367
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "(Ghost) Riders In The Sky - Live",
+      "trackId": "3x5XHovPSX83yJgRgEbM3j",
+      "total": 1887954,
+      "daily": 444
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Heard the Bells on Christmas Day",
+      "trackId": "1hzaPTuYsam6rtpm8pyt00",
+      "total": 1883517,
+      "daily": 34
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Why Me Lord",
+      "trackId": "7Ce4eXNLASw51FI5KF899o",
+      "total": 1883418,
+      "daily": 737
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Long Black Veil",
+      "trackId": "5U2g1j2zkUH5wgU4lBySCv",
+      "total": 1877088,
+      "daily": 390
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Got a Boy and His Name Is John (with June Carter Cash)",
+      "trackId": "2HCxr7MRt7iTevb58uwd9o",
+      "total": 1867083,
+      "daily": 148
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ring Of Fire - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "0B9YJhupDe97mRHTdvS1p4",
+      "total": 1860246,
+      "daily": 119
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Would You Lay With Me (In A Field Of Stone)",
+      "trackId": "7lf7nJbZ6CAHCMOr8TMCqp",
+      "total": 1849504,
+      "daily": 447
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Folsom Prison Blues - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "2AHyFtybhpD8PtOZRgS6Ir",
+      "total": 1843090,
+      "daily": 125
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Thanks a Lot",
+      "trackId": "4MzmsCm9pKRnZr1e2hx2Uw",
+      "total": 1828677,
+      "daily": 335
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Heard the Bells On Christmas Day",
+      "trackId": "2s7rn7BTwqXLy22JSyzR3t",
+      "total": 1817546,
+      "daily": 13
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Love You Because re-recording",
+      "trackId": "4zzlnIWvQgpnRyqcR9GP7Z",
+      "total": 1806677,
+      "daily": 360
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Goodbye Little Darlin'",
+      "trackId": "6OJILpZ7TmXyIi2XXpiLSs",
+      "total": 1793872,
+      "daily": 310
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "One Too Many Mornings",
+      "trackId": "2NjpbHabSugcmezxmKrLgw",
+      "total": 1790229,
+      "daily": 1776
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I'm Leavin' Now",
+      "trackId": "4TpwxtLdy67v1J4xpUlbIH",
+      "total": 1789806,
+      "daily": 572
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Dark As A Dungeon",
+      "trackId": "37ZYjiEPRvsw5iXassQPhk",
+      "total": 1777411,
+      "daily": 495
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Let The Train Blow The Whistle",
+      "trackId": "6U0AcWEsl1NxeERRS5j31m",
+      "total": 1774813,
+      "daily": 434
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Luckenbach, Texas (Back to the Basics of Love) - Live at Nassau Coliseum, Uniondale, NY - March 199",
+      "trackId": "2wkfdRXeYncUBraBBjeMoI",
+      "total": 1755041,
+      "daily": 638
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Redemption",
+      "trackId": "2JA3h28ZS6mrvaxt2j8v3X",
+      "total": 1737015,
+      "daily": 501
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Wish I Was Crazy Again (with Waylon Jennings)",
+      "trackId": "4M475Uj0GpD0Wc8OAL8tSN",
+      "total": 1730071,
+      "daily": 823
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "If the Good Lord's Willing",
+      "trackId": "2LPMCSIczNJXIsl6otfpqc",
+      "total": 1709499,
+      "daily": 614
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Katy Too",
+      "trackId": "7ztxvuGxJGS7vt2YNg8KqF",
+      "total": 1703943,
+      "daily": 376
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ring of Fire - with The Royal Philharmonic Orchestra",
+      "trackId": "5XPmajGxMTOCdzYquKwbdN",
+      "total": 1681510,
+      "daily": 313
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Hey Porter",
+      "trackId": "6YqBrjO9nTlp2kjlvU0QCK",
+      "total": 1680437,
+      "daily": 865
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I'm Free From The Chain Gang Now",
+      "trackId": "6Dj6VXIzD3rengpLUsicqP",
+      "total": 1671475,
+      "daily": 359
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Field Of Diamonds",
+      "trackId": "2KaXlUg5w8IlW50bLwxye7",
+      "total": 1670227,
+      "daily": 354
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The King Is Gone (So Are You) - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "3YC9uw9YpebrmlWCHxFuSd",
+      "total": 1668442,
+      "daily": 838
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Good Hearted Woman - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "20rwu3jnCV05wsyYkSKPky",
+      "total": 1662581,
+      "daily": 585
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Wabash Cannonball",
+      "trackId": "2gd6DqPN4zXs1ATMCX463v",
+      "total": 1653848,
+      "daily": 624
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Southern Accents",
+      "trackId": "2EEaI6c8cY4TLbUNSjKDGG",
+      "total": 1652841,
+      "daily": 375
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Got Stripes - 1988 Version",
+      "trackId": "3UPBvxaqaPbNIB2psvicso",
+      "total": 1648203,
+      "daily": 302
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Even Cowgirls Get the Blues",
+      "trackId": "5OcAxgyGshmjrzf6MwCMD7",
+      "total": 1644614,
+      "daily": 692
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ballad Of A Teenage Queen",
+      "trackId": "1BhmfliUArArZy4l1fWPJC",
+      "total": 1639086,
+      "daily": 913
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Cry! Cry! Cry! (Alternate Version, Extended Take 1) (2017 Remaster)",
+      "trackId": "4wx7PQXybVqn1bD60WE7Sx",
+      "total": 1630065,
+      "daily": 176
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "If I Give My Soul",
+      "trackId": "2ga8Pzht7XhCpzN9OXMTor",
+      "total": 1624101,
+      "daily": 360
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Get Rhythm - 1988 Version",
+      "trackId": "5OQoWynAuzSjWoQRbKGjLR",
+      "total": 1593106,
+      "daily": 363
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "A Backstage Pass",
+      "trackId": "6Wc594riVZB35dbCDLru3m",
+      "total": 1573250,
+      "daily": 622
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Blue Eyes Crying in the Rain - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "025G8GdUUwSo3lCgM4Bbk2",
+      "total": 1569336,
+      "daily": 612
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Softly And Tenderly",
+      "trackId": "78AndWN3wdl1uLsGwm9fEk",
+      "total": 1566664,
+      "daily": 578
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Blue Christmas",
+      "trackId": "1cbJaIb5DaDN458uCOm5vq",
+      "total": 1544078,
+      "daily": 15
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Before My Time",
+      "trackId": "6NaYgjXhXO2E9Gvm5xfhaU",
+      "total": 1527460,
+      "daily": 343
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "A Boy Named Sue - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "4qhtY6ld2B5lAl9jmAMg1d",
+      "total": 1521181,
+      "daily": 742
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Where We'll Never Grow Old",
+      "trackId": "3iokFwBDCK655ojxc5KWWl",
+      "total": 1521073,
+      "daily": 309
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Blue Train",
+      "trackId": "0kQXwZicoFT43iKYQIMsxs",
+      "total": 1513718,
+      "daily": 439
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Night They Drove Old Dixie Down",
+      "trackId": "4EbpJPuvnhDGZGbixDK3ZI",
+      "total": 1511742,
+      "daily": 648
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Casey Jones",
+      "trackId": "79uFb5EFV8GzeUJLbrzFwA",
+      "total": 1491730,
+      "daily": 520
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Loving Her Was Easier (Than Anything I'll Ever Do Again) - Live at Nassau Coliseum, Uniondale, NY -",
+      "trackId": "1snDHCmpOo1xjiQmuEYp7T",
+      "total": 1477533,
+      "daily": 686
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "What Is Truth",
+      "trackId": "3BMlbInPv46OC2NPxvIwyJ",
+      "total": 1474545,
+      "daily": 449
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Committed to Parkview",
+      "trackId": "1xX8dxNWis44stjKleAtAp",
+      "total": 1464293,
+      "daily": 467
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "It Was Jesus",
+      "trackId": "0IV98sjYwGBF4Zy9tm91ae",
+      "total": 1460646,
+      "daily": 662
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Straight As In Love re-recording",
+      "trackId": "3cn7061owqzsyHHUU3R0uF",
+      "total": 1457167,
+      "daily": 263
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "If We Never Meet Again This Side Of Heaven",
+      "trackId": "1W7O3vqrSclDI9GxJbi7eY",
+      "total": 1448645,
+      "daily": 345
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Sugartime",
+      "trackId": "5gh7re7V6bo3Y3kpe5eubo",
+      "total": 1434175,
+      "daily": 257
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Christmas with You",
+      "trackId": "3ggooJ5M01lYENMQz1XZdR",
+      "total": 1430497,
+      "daily": 11
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Walk the Line - with The Royal Philharmonic Orchestra",
+      "trackId": "4YL9pO6ZFWkKfaGxUGllGO",
+      "total": 1429282,
+      "daily": 224
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Battle Of New Orleans",
+      "trackId": "0iZoPlEjN6vLx8NrvQMfS9",
+      "total": 1426563,
+      "daily": 295
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Man Who Couldn't Cry",
+      "trackId": "6D2XZmzgLhZxXOZDl2Gsvi",
+      "total": 1426239,
+      "daily": 358
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Spiritual",
+      "trackId": "2GB03NLW0gSD7z0EDKPNK9",
+      "total": 1413963,
+      "daily": 405
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Gentle On My Mind",
+      "trackId": "2adBKwqiheE8TJhfpHE9x6",
+      "total": 1410325,
+      "daily": 314
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Frankie And Johnny",
+      "trackId": "22z1UmQOqk5zfJ7MnythcP",
+      "total": 1407425,
+      "daily": 155
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Keep My Motor Running",
+      "trackId": "3sZAxeTexVuS189dh9xO9G",
+      "total": 1404043,
+      "daily": 319
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "These Are My People",
+      "trackId": "19ERYZcHroEO0uayq04nud",
+      "total": 1402155,
+      "daily": 201
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Twentieth Century Is Almost Over",
+      "trackId": "0G2VRCXmSmW7pyBz93NmuJ",
+      "total": 1390689,
+      "daily": 409
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Just The Other Side Of Nowhere",
+      "trackId": "3uBD3MlgyMfVtu1wklsnaj",
+      "total": 1389390,
+      "daily": 341
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Where The Soul Of Man Never Dies",
+      "trackId": "12lwHyutrrUDbtZPuC84Ax",
+      "total": 1388011,
+      "daily": 403
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ghost Riders In The Sky - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "4eeZGrpp1tj1pNdJvYcUph",
+      "total": 1385894,
+      "daily": 143
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I've Been Everywhere - from the Johnny Cash TV show",
+      "trackId": "4MqcS6CT8SO8moKoxAzrDp",
+      "total": 1374026,
+      "daily": 135
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Just As I Am",
+      "trackId": "3o56qdTlBCQ3w5pWQE6pOC",
+      "total": 1366011,
+      "daily": 342
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Mary Of The Wild Moor",
+      "trackId": "3bB0Zdv1ERR9Cmx2hgEKB1",
+      "total": 1364552,
+      "daily": 278
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Always on My Mind - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "55vm7aqauYw5yDTbtM4w8S",
+      "total": 1352565,
+      "daily": 551
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Amanda - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "7uDlsxGkbp4bEuAO6NtdoE",
+      "total": 1340811,
+      "daily": 496
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Am A Pilgrim",
+      "trackId": "7L6pPxHzEVzKlYw8e5A8Xq",
+      "total": 1340304,
+      "daily": 316
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Silver Stallion - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "5mf5w1hWr2rtG3VZLfNtv7",
+      "total": 1339666,
+      "daily": 614
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Blue Suede Shoes - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "trackId": "0WX2E105LedqAkjzj5fe2r",
+      "total": 1335944,
+      "daily": 342
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Unchained",
+      "trackId": "2sUVkR2TRQIqnnOjYht4qs",
+      "total": 1319254,
+      "daily": 394
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "It's Just About Time",
+      "trackId": "185RyaGfeQDqxLCw6LvI3R",
+      "total": 1315328,
+      "daily": 322
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The City of New Orleans",
+      "trackId": "6REXN2cbzrYGifT3cAARjR",
+      "total": 1310500,
+      "daily": 606
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Understand Your Man",
+      "trackId": "0RzxO7sT52X5tjymDpZsDw",
+      "total": 1303098,
+      "daily": 204
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Shall Be Free",
+      "trackId": "7cJ5KL00U3PyWeJWpfINoV",
+      "total": 1299854,
+      "daily": 150
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Sunday Morning Coming Down - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "4KP5A3pQSBGldEk74eMwZ8",
+      "total": 1292814,
+      "daily": 116
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Never Picked Cotton",
+      "trackId": "4HP2Op5tQqWE6tZh8GEWAj",
+      "total": 1286039,
+      "daily": 481
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Like A Soldier",
+      "trackId": "68PMsNfPiq27aYV1NYxhoU",
+      "total": 1281853,
+      "daily": 370
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Sixteen Candles",
+      "trackId": "1wlYQrN2BqJrW6rnfR2iYc",
+      "total": 1281477,
+      "daily": 122
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Understand Your Man",
+      "trackId": "13kfQhv7drKlGtbfSz0H0u",
+      "total": 1278236,
+      "daily": 693
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Banks Of The Ohio",
+      "trackId": "6ttP6qHNA1g8nuWtgb1Dff",
+      "total": 1272830,
+      "daily": 240
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Christmas Spirit",
+      "trackId": "52xFCPMPgG3TSAgAxVWIxK",
+      "total": 1266933,
+      "daily": 11
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Wichita Lineman",
+      "trackId": "1GCGtmwEAcrc3xDrG4Zjnp",
+      "total": 1261857,
+      "daily": 479
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Bonanza!",
+      "trackId": "2HR7vkmbt2jrNdYbi7Hh5d",
+      "total": 1261429,
+      "daily": 247
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Two Stories Wide",
+      "trackId": "673LeigxlaoCkxPaIyv5Sc",
+      "total": 1243531,
+      "daily": 653
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Jackson - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "7p21Wf2mosV18MwYV4vbse",
+      "total": 1240812,
+      "daily": 92
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Oh, Bury Me Not (Introduction: A Cowboy's Prayer)",
+      "trackId": "28dTKDjKmRsFICWwyvZIYj",
+      "total": 1234970,
+      "daily": 341
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Mean Eyed Cat",
+      "trackId": "54tTJahEPbBgdthT2cjZGB",
+      "total": 1232771,
+      "daily": 318
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Life's Railway To Heaven - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "5a6zETwxHrQY9Prk3xC1Ot",
+      "total": 1231958,
+      "daily": 63
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Christmas Guest",
+      "trackId": "4YhNy3QoygdrUrVJySU77I",
+      "total": 1230406,
+      "daily": 94
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The One Rose (That's Left In My Heart)",
+      "trackId": "64ody3f4LFNp4WveE7WMa2",
+      "total": 1228091,
+      "daily": 224
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Just Thought You'ld Like To Know re-recording",
+      "trackId": "2u8I0HwsjsUZOvQ5SS0mum",
+      "total": 1227242,
+      "daily": 255
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "You'll Never Walk Alone",
+      "trackId": "5esYVKIJAUHYDHwgDEFJ1Z",
+      "total": 1213789,
+      "daily": 221
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Guess Things Happen That Way - 1988 Version",
+      "trackId": "6IhAfCH2HfpzZEuJNmMTdo",
+      "total": 1210765,
+      "daily": 190
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "He Stopped Loving Her Today",
+      "trackId": "4kTSIhFk6dueIfdbDYXfXJ",
+      "total": 1199894,
+      "daily": 267
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "A Boy Named Sue - Live at Channel DR-TV, Copenhagen, Denmark - September 1971",
+      "trackId": "2yyc9xyofimvRpUuJTjoGJ",
+      "total": 1197775,
+      "daily": ""
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Still Miss Someone - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "6PzYsse8w1UkFBIuCwpeBX",
+      "total": 1192880,
+      "daily": 565
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Don't Think Twice, It's All Right - Bear's Sonic Journals: Live At The Carousel Ballroom, April 24",
+      "trackId": "7CZtEeIePRsAACpeosOICo",
+      "total": 1191290,
+      "daily": 212
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "A Wonderful Time Up There - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "4vU4lMJ3HE3BakMA1k9rvs",
+      "total": 1191241,
+      "daily": 66
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "25 Minutes to Go",
+      "trackId": "1eF0kl9Z76WsGAK6yEewQK",
+      "total": 1189388,
+      "daily": 447
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Forgot to Remember to Forget",
+      "trackId": "08He0VyksRLjxlAT3wVhyC",
+      "total": 1187444,
+      "daily": 282
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Tennessee Flat-Top Box (1961 Recording Remastered)",
+      "trackId": "261qFEqaqBUuOl16oWevkI",
+      "total": 1178768,
+      "daily": 395
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Birth Of Rock And Roll",
+      "trackId": "5rQ8CMhaYF799fXzekl6Xc",
+      "total": 1175243,
+      "daily": 290
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Legend of John Henry's Hammer - Live at Folsom State Prison, Folsom, CA (1st Show) - January 19",
+      "trackId": "1mZwScTO9xOyxizjQIugn7",
+      "total": 1170013,
+      "daily": 231
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Let The Lower Lights Be Burning",
+      "trackId": "3aSs1TeCPGUZAHuFHTfRQ8",
+      "total": 1169643,
+      "daily": 266
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Mystery Train - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "4ZMIr6IlSlllMsWmdOtoIy",
+      "total": 1164036,
+      "daily": 317
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "'Cause I Love You",
+      "trackId": "4ZlZMTYO7oTv8DWlA20Z2j",
+      "total": 1153007,
+      "daily": 194
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Walk The Line - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "3AZP6KY9ZinUQkxCUZVDr8",
+      "total": 1150637,
+      "daily": 102
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "(There'll Be) Peace In the Valley (For Me) (with The Carter Family)",
+      "trackId": "0VBvfzawnoYVVXsHLF5jwK",
+      "total": 1143730,
+      "daily": 316
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Cotton Fields (The Cotton Song)",
+      "trackId": "6MzFFsGm5dqf4iGQpK8BDI",
+      "total": 1141350,
+      "daily": 306
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Goodnight Irene - Remastered 2024",
+      "trackId": "2Qx1hzOgprLL31UY1ACLRY",
+      "total": 1132876,
+      "daily": 248
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Old Chunk Of Coal",
+      "trackId": "4YF9beTEYh1p07lIMFcelv",
+      "total": 1129918,
+      "daily": 317
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Wanderer - From “Faraway, So Close!” Soundtrack",
+      "trackId": "2UD6TlYQwyRYkXzRj3EvDf",
+      "total": 1129626,
+      "daily": 1295
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Memories Are Made Of This",
+      "trackId": "20p5bOHyrQeDRdWB6nNuGI",
+      "total": 1121191,
+      "daily": 258
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Long Black Veil - 1988 Version",
+      "trackId": "1hXmdZ74nfGygAI4sgGVZV",
+      "total": 1115979,
+      "daily": 210
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Best of All Possible Worlds - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "29Lch9NqBzQbuYo0gXRNK9",
+      "total": 1106403,
+      "daily": 397
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Life Goes On",
+      "trackId": "2v57wcxNM7Lq8Shytf1cM9",
+      "total": 1106363,
+      "daily": 244
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Christmas Time's a-Comin'",
+      "trackId": "05h8f3QbPYg3DKGSwc2Lsf",
+      "total": 1103980,
+      "daily": 11
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Pocahontas",
+      "trackId": "7vOnYOHpO8cOJRVVQIlcfh",
+      "total": 1102447,
+      "daily": 167
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Highway Man - with The Royal Philharmonic Orchestra",
+      "trackId": "61ABqc7aUcFRoaB4hGFseE",
+      "total": 1100421,
+      "daily": 248
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Down There By The Train",
+      "trackId": "0Kqm9hqzrOtJFiIvaVZvgv",
+      "total": 1093462,
+      "daily": 294
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I'm Bound For The Promised Land",
+      "trackId": "0RQNaycLu1kIR8LS476aQI",
+      "total": 1082711,
+      "daily": 236
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ring of Fire - Live",
+      "trackId": "52UQOvBafkLaG9BHGqodaB",
+      "total": 1079955,
+      "daily": 116
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Wreck of the Old 97 - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "trackId": "3p7OmxLI7uasPg2WP0eqoN",
+      "total": 1079387,
+      "daily": 294
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Big River - Live",
+      "trackId": "7gn9zeTiQ8P9XGxkH504E7",
+      "total": 1078604,
+      "daily": 73
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Honky Tonk Girl",
+      "trackId": "4Kj0rFJJdULZTZucyPsKwM",
+      "total": 1072630,
+      "daily": 209
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "New Mexico - Remastered 2024",
+      "trackId": "7JVkU7bNR51P4dGMho6QDg",
+      "total": 1069853,
+      "daily": 243
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Heavy Metal (Don't Mean Rock And Roll To Me)",
+      "trackId": "1J2tMgCzHq9wneQTkCdp0a",
+      "total": 1062313,
+      "daily": 343
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Bad News",
+      "trackId": "4ThKC6bEyWbEmNRx0fM4qP",
+      "total": 1058102,
+      "daily": 387
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "When He Reached Down",
+      "trackId": "7KrF9a8pNeYUG1HIJ1PdnR",
+      "total": 1053775,
+      "daily": 212
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Drive On",
+      "trackId": "6tJ3szB8tOab0sGCPNRgaL",
+      "total": 1050674,
+      "daily": 2386
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Darlin' Companion - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "trackId": "2tGbfj0sLly8SQZjmLoXab",
+      "total": 1041601,
+      "daily": 249
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "If I Had a Hammer",
+      "trackId": "4GTFmWehoxuJEsaIGT3lXT",
+      "total": 1029972,
+      "daily": 172
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "'Cause I Love You",
+      "trackId": "5EpuJNMQ6LkPcidRR1P6D4",
+      "total": 1028171,
+      "daily": 527
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Got Stripes (with George Jones)",
+      "trackId": "5WBfE3EeAPwrlry08rwa41",
+      "total": 1027859,
+      "daily": 175
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Wide Open Road - Remastered 2024",
+      "trackId": "1VsxhPjrHcp2Z4NHUcxhPq",
+      "total": 1025656,
+      "daily": 216
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Forty Shades of Green",
+      "trackId": "2N9GtFf2c2akn61xmcy9DQ",
+      "total": 1009370,
+      "daily": 287
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Old Rugged Cross",
+      "trackId": "3PDG2nC1HYy1rfewKoK8pz",
+      "total": 1006439,
+      "daily": 651
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Far Side Banks Of Jordan (with June Carter Cash)",
+      "trackId": "1URamLokfst0x0qdjPlEjR",
+      "total": 995579,
+      "daily": 317
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Casey's Last Ride",
+      "trackId": "6KZKlGeoeJbMcZIa2ts2KW",
+      "total": 992132,
+      "daily": 184
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "\"T\" For Texas",
+      "trackId": "7ndKS4xhy2v78R44LCy8v6",
+      "total": 991401,
+      "daily": 195
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Belshazzar - Remastered 2024",
+      "trackId": "45f0shu2YKyPyDvRKq5fQY",
+      "total": 990427,
+      "daily": 251
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Walk the Line - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "trackId": "6tBcnzAflB45mh5dIFLsgj",
+      "total": 988286,
+      "daily": 180
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Frankie's Man, Johnny",
+      "trackId": "5J65xr8NkvpHy9RkxzSUAO",
+      "total": 984187,
+      "daily": 147
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Cindy",
+      "trackId": "6pe86I0HffNgYJzXJ06VjN",
+      "total": 973311,
+      "daily": 177
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "That's Enough",
+      "trackId": "4fq2vHBVl0sfAUTF8Ru5pd",
+      "total": 969675,
+      "daily": 284
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "This Town",
+      "trackId": "4XxLF5EcN2oT9iFGzvlmPp",
+      "total": 961959,
+      "daily": 377
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "My Old Kentucky Home - (Turpentine and Dandelion Wine)",
+      "trackId": "1G9Zji13IlCad7EL8Hs0AM",
+      "total": 960263,
+      "daily": 332
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "San Quentin - Live at San Quentin State Prison, San Quentin, CA - February 1969 (Version 2)",
+      "trackId": "7Dvybwmyn45aB5aAWsKFVp",
+      "total": 959969,
+      "daily": 95
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Folsom Prison Blues - Live",
+      "trackId": "2Zj5cc5bReJMiCTQKlyKa1",
+      "total": 955878,
+      "daily": 111
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Wildwood Flower",
+      "trackId": "0AiYpL4G5Iuk8ZO2gcgBY3",
+      "total": 955058,
+      "daily": 184
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Last Cowboy Song - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "7J58zVvuBUihIEg4af5pnw",
+      "total": 945977,
+      "daily": 348
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ringing the Bells for Jim",
+      "trackId": "07NrT19BhJWDMyLvCp9ojy",
+      "total": 944360,
+      "daily": 14
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Brown Eyed Handsome Man",
+      "trackId": "6UtbVV8qRPwDibzHlSvjvF",
+      "total": 943558,
+      "daily": 158
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "This Ole House - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "trackId": "6H6t7eezVk6ZR3gUEr8Kin",
+      "total": 940141,
+      "daily": 135
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Remember the Alamo",
+      "trackId": "11qscao5okBNpoBOfV48RU",
+      "total": 939262,
+      "daily": 151
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Like A Soldier",
+      "trackId": "3Eg8exzGg2js8uab12BRnk",
+      "total": 934399,
+      "daily": 171
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Anthem '84",
+      "trackId": "3pda0BaJG9vrHF1ZE1kc2J",
+      "total": 932434,
+      "daily": 319
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Two Timin' Woman",
+      "trackId": "1mfOoIqZQewAROz2FqASqb",
+      "total": 929707,
+      "daily": 122
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Christmas As I Knew It",
+      "trackId": "2PaxhxvHXVKkUvLte4m9jh",
+      "total": 929310,
+      "daily": 5
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Folsom Prison Blues - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "trackId": "1Ujg9uudGptuuG5yHe9oAk",
+      "total": 929221,
+      "daily": 203
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I'm Going To Memphis",
+      "trackId": "0XLSalnRgxNQNptdOJNljT",
+      "total": 927760,
+      "daily": 143
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I'm Here to Get My Baby Out of Jail - Live at Folsom State Prison, Folsom, CA (1st Show) - January",
+      "trackId": "1asTTg8zBmGioWJX0CqSmY",
+      "total": 923717,
+      "daily": 128
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Down the Street to 301",
+      "trackId": "1DEhQ2HExxttOAJ6I02ytO",
+      "total": 919794,
+      "daily": 126
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Long Black Veil - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "trackId": "5OOU3y76ZDc93RWoKjx4VZ",
+      "total": 916092,
+      "daily": 116
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Tennessee Flat Top Box - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "3wAUGLH72ltzsvdR8sQMil",
+      "total": 913979,
+      "daily": 65
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Pickin' Time",
+      "trackId": "5kyK2U2RIQHOtemfGFgKZG",
+      "total": 913478,
+      "daily": 336
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Five Feet High And Rising - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "3TBMBRsgcEAWkNOexsN0Uc",
+      "total": 907644,
+      "daily": 69
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Wanted Man - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "trackId": "6VoNdxnQFyCqMJAPSb4Oeh",
+      "total": 906412,
+      "daily": 151
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Texas",
+      "trackId": "5AGUgPn2MTRf1UDhh0nh0y",
+      "total": 906120,
+      "daily": 292
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I'd Still Be There",
+      "trackId": "1yZNoberHEoWuQbcpF3KNV",
+      "total": 905360,
+      "daily": 167
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Goin' By The Book",
+      "trackId": "0zFgM0ntYLc8vpR4QncFQu",
+      "total": 900159,
+      "daily": 344
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ragged Old Flag - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "7lrUVKgAELnJEELRBEw37p",
+      "total": 899744,
+      "daily": 48
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "My Grandfather's Clock",
+      "trackId": "46ilYvQHebp419ByvKTJpk",
+      "total": 896191,
+      "daily": 404
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Walk the Line - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "trackId": "2bItf9pag16H6HtjLOqzSS",
+      "total": 892900,
+      "daily": 297
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "We're All in Your Corner",
+      "trackId": "7xSokQ8hCA2yNt9mo3GETk",
+      "total": 891904,
+      "daily": 277
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "You Tell Me",
+      "trackId": "064g5kRUstpIKVjP0bjFzX",
+      "total": 891461,
+      "daily": 213
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Kneeling Drunkard's Plea",
+      "trackId": "36x1CaLbBZOwHOxVwAh2Dz",
+      "total": 890819,
+      "daily": 223
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Trouble In Mind",
+      "trackId": "5NluDkCGNhkcxiYlOeuKm5",
+      "total": 887679,
+      "daily": 195
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Ballad of Ira Hayes - Bear's Sonic Journals: Live At The Carousel Ballroom, April 24 1968",
+      "trackId": "5YtHviJy3nULdgP7hnmfo0",
+      "total": 883512,
+      "daily": 127
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Wreck of the Old 97",
+      "trackId": "1LZ80K1CYHm1jJnDlJ8HiA",
+      "total": 878886,
+      "daily": 586
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Blue Christmas",
+      "trackId": "0SmxjwX9kQkMfwh5eSINjr",
+      "total": 876838,
+      "daily": 10
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Guess Things Happen That Way",
+      "trackId": "4qjNE3VYN3XyWHif47j4vP",
+      "total": 875534,
+      "daily": 113
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Story Of A Broken Heart - Remastered 2024",
+      "trackId": "2bJLkJDYcjlMOhH5X1GbuP",
+      "total": 873575,
+      "daily": 170
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Caretaker",
+      "trackId": "5Ij36sjCdZgIEyOpeBZIJw",
+      "total": 873334,
+      "daily": 146
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Couldn't Keep from Crying",
+      "trackId": "6RZIouXBMWn9DUnQtf4XyA",
+      "total": 871147,
+      "daily": 70
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Have You Ever Seen the Rain",
+      "trackId": "2YQxytI5Kba6Uo3z0NgFlp",
+      "total": 869530,
+      "daily": 423
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "One More Ride",
+      "trackId": "1Dp9VyBsH3KDRk1LbaL0gs",
+      "total": 868571,
+      "daily": 175
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "God Bless Robert E. Lee",
+      "trackId": "23miDG20bPCFtlQInF74Ed",
+      "total": 867195,
+      "daily": 246
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Oh, What a Good Thing We Had",
+      "trackId": "4yQkuZeOWEZFnwTysHG3zv",
+      "total": 863282,
+      "daily": 343
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Waiting For A Train",
+      "trackId": "7mzrtmvh0jSKait7DhUusl",
+      "total": 862735,
+      "daily": 121
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "They Killed Him - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "11Lv2UGmGI5C5dkGnekLM1",
+      "total": 857091,
+      "daily": 274
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "As Long As the Grass Shall Grow",
+      "trackId": "3xM5kAaPR97799jqNiIb0N",
+      "total": 852629,
+      "daily": 247
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Christmas as I Knew It",
+      "trackId": "3A2ktn3pcdHQnuxEyI0Sfs",
+      "total": 852477,
+      "daily": 13
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Fourth Man In The Fire",
+      "trackId": "7l9nizFBUTFdkeY40sUJvD",
+      "total": 851095,
+      "daily": 159
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "How Great Thou Art - Live at Folsom State Prison, Folsom, CA (2nd Show) - January 1968",
+      "trackId": "3FsWij9VrgmY8S6bcZZaR9",
+      "total": 850853,
+      "daily": 376
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Always On My Mind - Live",
+      "trackId": "77ih3fdBQE6VLecTiftysZ",
+      "total": 848998,
+      "daily": 223
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Bull Rider",
+      "trackId": "7lcN5BvX0tbet2fq2GiCWb",
+      "total": 844063,
+      "daily": 332
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Caretaker",
+      "trackId": "7AmQQ0Da12YJk5aM9wAauN",
+      "total": 843784,
+      "daily": 106
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Hey Porter - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "4k0L3hTMTNFjOKs5PtnBvW",
+      "total": 840036,
+      "daily": 59
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Wanted Man - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "trackId": "5ifX0FhGoljScuqQtNRAyL",
+      "total": 833224,
+      "daily": 292
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Forty Shades Of Green - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "6PzWWhmSOkgnra0bdp5lzx",
+      "total": 832675,
+      "daily": 85
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "No Earthly Good",
+      "trackId": "0Qzujcsq5XSoC6vcjs3deE",
+      "total": 827319,
+      "daily": 149
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Breaking Bread",
+      "trackId": "5fWgN4pUA9IV8752JjiQdq",
+      "total": 824234,
+      "daily": 138
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Got a Woman",
+      "trackId": "7v8wr9iNovQeNbjU3wuimU",
+      "total": 821759,
+      "daily": 221
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Gifts They Gave",
+      "trackId": "2lPGn1BZEDwazdZwKZcNP6",
+      "total": 818598,
+      "daily": 3
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Call Me The Breeze",
+      "trackId": "3QS0o5x1JsjCpLb9RckfvP",
+      "total": 817116,
+      "daily": 200
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "You Win Again",
+      "trackId": "36qLSZ1LLlLb51neyv7cUn",
+      "total": 806786,
+      "daily": 184
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Guess Things Happen That Way - Take 3",
+      "trackId": "5qJwIIlBhKafAfCnbJHvoY",
+      "total": 804812,
+      "daily": 420
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Matthew 24; Luke 4",
+      "trackId": "7hU90bGr55sx2rUvglMou9",
+      "total": 801772,
+      "daily": 65
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Any Old Wind That Blows",
+      "trackId": "16PLFTzoHaPnU4BJFMJ7OY",
+      "total": 800746,
+      "daily": 192
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Busted",
+      "trackId": "6yud4QwlsCkTLdW0ufrwEJ",
+      "total": 799741,
+      "daily": 197
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Meet Me In Heaven",
+      "trackId": "1HIdebc3d60TcTlKTT8IAe",
+      "total": 796371,
+      "daily": 234
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "A Singer Of Songs",
+      "trackId": "3SxCKo42XlUM3ukLjWaiN9",
+      "total": 791565,
+      "daily": 120
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I'm A Drifter - Version 1",
+      "trackId": "52RcN7qIQDfsfPIyJqmKv0",
+      "total": 790956,
+      "daily": 100
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Cocaine Blues - Live at Folsom State Prison, Folsom, CA (2nd Show) - January 1968",
+      "trackId": "1Wvr2iPMWAfvxPytRA11He",
+      "total": 790262,
+      "daily": 80
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Green, Green Grass of Home - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "trackId": "3Z0azsB9ZzJ6L7juAWO4kB",
+      "total": 785511,
+      "daily": 112
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Kate",
+      "trackId": "5FYGURTDSHQfHpPaErJXhX",
+      "total": 783124,
+      "daily": 121
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Have You Ever Been To Little Rock?",
+      "trackId": "6GdNvs9ioFDDmUIWDvr0MB",
+      "total": 780875,
+      "daily": 1262
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Cocaine Carolina",
+      "trackId": "20snMHHQLjLMfnjkwoccxB",
+      "total": 780425,
+      "daily": 399
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Living Legend - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "06aBhYfgLtBT3NByXwUfD9",
+      "total": 778862,
+      "daily": 276
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Sunday Mornin' Comin' Down - Live",
+      "trackId": "2iMEus09znsutxLfwb4tgA",
+      "total": 774893,
+      "daily": 70
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Transfusion Blues",
+      "trackId": "5ijiN8kjgMxKSudLrwcy5j",
+      "total": 774858,
+      "daily": 100
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I'm So Lonesome I Could Cry",
+      "trackId": "6aa7Y2kpLNxH4eywvqM6NO",
+      "total": 767527,
+      "daily": 43
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Two Timin' Woman - Remastered 2024",
+      "trackId": "3Y9kRIKzEIXe9e0XcU1o6E",
+      "total": 765651,
+      "daily": 113
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Two Stories Wide - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "1rTnafE1fsRYHIXONYhXTd",
+      "total": 764675,
+      "daily": 247
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Devil To Pay",
+      "trackId": "4z6uU6l22n0c9Vdgc9A7IQ",
+      "total": 764039,
+      "daily": 256
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Love You Tonite",
+      "trackId": "1PXOXSHIkcVtvMuHbOefH3",
+      "total": 763644,
+      "daily": 1265
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "We Remember The King",
+      "trackId": "6x1w2jy9mS1jBOQN6E2rdS",
+      "total": 763551,
+      "daily": 115
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Preacher Said, \"Jesus Said\" (with Billy Graham)",
+      "trackId": "5PF4oDdNUYcxdbvcwCUcmb",
+      "total": 761465,
+      "daily": 288
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ragged Old Flag - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "0WRcicFszVnD691xqeiYmr",
+      "total": 761073,
+      "daily": 238
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Got a Woman (with June Carter Cash) (with June Carter Cash) - Live at Folsom State Prison, Folsom",
+      "trackId": "4bSONgXUBa3yZ5v1SJTtVn",
+      "total": 757438,
+      "daily": 99
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Wreck Of Old '97 - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "5lajeiAIcbx7ujPNyCbwvh",
+      "total": 755137,
+      "daily": 54
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Desperados Waiting for a Train - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "5WDPo97IVwnPXw71ew6EdI",
+      "total": 747760,
+      "daily": 291
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Me and Bobby McGee - Live at Channel DR-TV, Copenhagen, Denmark - September 1971",
+      "trackId": "5krDv8WFTXeWOliIGoB0OJ",
+      "total": 747571,
+      "daily": 236
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "What Is Man - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "79fa5p6On4XdwhXtfn3QuA",
+      "total": 746082,
+      "daily": 36
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Johnny 99",
+      "trackId": "6cZ4L4elsrDkr5dKmC22pl",
+      "total": 744905,
+      "daily": 414
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Merry Christmas Mary",
+      "trackId": "0HVoCVVbfpmr1YEVfDRMNr",
+      "total": 739446,
+      "daily": 8
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Thirteen",
+      "trackId": "0ptVt9j1gW0fqaEvw5qRRT",
+      "total": 738110,
+      "daily": 96
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "One More Ride",
+      "trackId": "4womeiQAUjgqzqyWjmD3hY",
+      "total": 736759,
+      "daily": 42
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "I Walk the Line - Live",
+      "trackId": "779NU1OiIMcWNoXp7eXACx",
+      "total": 736196,
+      "daily": 82
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Born To Lose - Remastered 2024",
+      "trackId": "2FqcX82y7fzXiJ7YHBcpjt",
+      "total": 735214,
+      "daily": 148
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Flushed from the Bathroom of Your Heart - Live at Folsom State Prison, Folsom, CA (1st Show) - Janu",
+      "trackId": "3DWpL5g9IlBurjU0I3WbSD",
+      "total": 732624,
+      "daily": 79
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Pilgrim: Chapter 33 - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "trackId": "6QGF0ITxq6qcHA4hdMfV2r",
+      "total": 729437,
+      "daily": 251
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Man in Black - Live at Channel DR-TV, Copenhagen, Denmark - September 1971",
+      "trackId": "6xlTZwLON5d7l9X4awy8J8",
+      "total": 727841,
+      "daily": 154
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Ring Of Fire (with The Carter Family) - Live at San Quentin State Prison, San Quentin, CA - Februar",
+      "trackId": "1Ymfd9uTm3WveSwIXOSqOe",
+      "total": 727828,
+      "daily": 106
+    },
+    {
+      "artist": "Johnny Cash",
+      "artistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "To Beat The Devil",
+      "trackId": "0zQbhhDTJ9DCA5MkXvsXmg",
+      "total": 724832,
+      "daily": 406
+    }
+  ]
+}

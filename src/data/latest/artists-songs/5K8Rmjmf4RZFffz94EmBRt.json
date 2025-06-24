@@ -1,0 +1,998 @@
+{
+  "artist": "Zé Vaqueiro",
+  "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+  "songs": [
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Vagabundo",
+      "trackId": "6Lrzxd7ST5oQ6FYKXKH7Ia",
+      "total": 153709105,
+      "daily": 29631
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Eu Tenho Medo",
+      "trackId": "7yjduLSgPntFlq79Cuzrfz",
+      "total": 127486066,
+      "daily": 48835
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Volta Comigo BB",
+      "trackId": "1h4u5t0EJZki8ieNGwwFXc",
+      "total": 108631793,
+      "daily": 16351
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Letícia",
+      "trackId": "1Qzse4pBfaUXY6wWOqYoRH",
+      "total": 89790043,
+      "daily": 11790
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Coladin (Minha Deusa)",
+      "trackId": "3xCkNUiap7EBjqnRldHSSh",
+      "total": 89251840,
+      "daily": 39975
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Cena de Amor",
+      "trackId": "6RMYuqlTn8777j5arY9zhC",
+      "total": 85516372,
+      "daily": 10447
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Meu Mel",
+      "trackId": "1w5GF97jRe8bnNKcBPYPyf",
+      "total": 69479293,
+      "daily": 28230
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Superação Digital",
+      "trackId": "6AQqsFYtCQi9m7MJcMjGup",
+      "total": 64871256,
+      "daily": 5236
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Maravilhosa - Ao Vivo",
+      "trackId": "61NdetWalRaWXXqqiRwmyG",
+      "total": 55377225,
+      "daily": 36808
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Só de Imaginar - Ao Vivo",
+      "trackId": "7KV8OnuDM2L5x5lm2xnfNP",
+      "total": 54466235,
+      "daily": 10036
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Cangote",
+      "trackId": "4sNVJ7S1hwZycKkCZY9gVx",
+      "total": 49581349,
+      "daily": 12790
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Metade de um Abraço",
+      "trackId": "6wG03q4dVAqjT6jZHrGsHc",
+      "total": 44676897,
+      "daily": 4048
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Meia Noite",
+      "trackId": "5UWSy939tiogjy1314jxMZ",
+      "total": 41269266,
+      "daily": 6798
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Cadê o Amor",
+      "trackId": "1EHFiKkrppC5kXImn8LFBr",
+      "total": 40477344,
+      "daily": 2939
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Confidencial",
+      "trackId": "1XyJUXZ2clGOcWSeaCd4MS",
+      "total": 39630335,
+      "daily": 14557
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Sentadinha Descarada",
+      "trackId": "2QDS8r2mAE0zXTkW5OGlvX",
+      "total": 38933020,
+      "daily": 1514
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Fim da Noite",
+      "trackId": "3MDH4MPSdsNcvWQozG85n2",
+      "total": 37978401,
+      "daily": 2141
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Alvejante",
+      "trackId": "5uQgOnhfWfPSXGgOH42VTk",
+      "total": 36240484,
+      "daily": 6080
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Se Você Se Entregar",
+      "trackId": "4Amyxn7MneXSO6yL0varJL",
+      "total": 34265153,
+      "daily": 12830
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Nunca Vai Ser Nós",
+      "trackId": "6KoWlMNCiFdHnzYSX1Ag8q",
+      "total": 29064254,
+      "daily": 3131
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Decida",
+      "trackId": "7gN9SJRkvc9Y4Qzvd7PIht",
+      "total": 26084969,
+      "daily": 2096
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Coisas do Interior",
+      "trackId": "70SX07s7cRqdf0VGLNyPfD",
+      "total": 25571413,
+      "daily": 15503
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Adivinha Aí",
+      "trackId": "5yanEtTl5smZrDGcLgBhdt",
+      "total": 21751633,
+      "daily": 1842
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Vem Me Amar (feat. Vitor Fernandes)",
+      "trackId": "15jyJQ8PctKFzrZv7YBePO",
+      "total": 21074385,
+      "daily": 3039
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Meu Eu em Você",
+      "trackId": "5mpzjTkP6A2GEK9OPQF9TQ",
+      "total": 20599420,
+      "daily": 12238
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Jorge & Mateus",
+      "trackId": "0KQb4DKSUBE0pVHKmzCG8y",
+      "total": 19179690,
+      "daily": 1902
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Nunca Foi Amor",
+      "trackId": "52akd5GAwCd1BGBhB7YeZG",
+      "total": 18915222,
+      "daily": 1304
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Baby - Ao Vivo",
+      "trackId": "064icmENZKbQ9OGYG4eaQ0",
+      "total": 18275853,
+      "daily": 7783
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Arriadin por Tu - Ao Vivo",
+      "trackId": "6RoAtlEVZzKfZEDQ4WWUdx",
+      "total": 18010361,
+      "daily": 16807
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Foi Amor",
+      "trackId": "41VdPkjS46U3fgvNxXUyzm",
+      "total": 16393902,
+      "daily": 4467
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Acordo Lembro",
+      "trackId": "1vlJmcquaTwzWEBKKH7rKh",
+      "total": 15259935,
+      "daily": 2541
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "A Um Beijo - Ao Vivo",
+      "trackId": "0ZNvCksNLOokkDNan3xNoT",
+      "total": 14690036,
+      "daily": 2072
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Sei Não",
+      "trackId": "5OtwzQhMJrEbEKCAFSd2ob",
+      "total": 14149556,
+      "daily": 11236
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Termina Logo",
+      "trackId": "4u6zRIriVnbarIW8eaM0dk",
+      "total": 12798308,
+      "daily": 2460
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "O Piseiro Estourou",
+      "trackId": "5xaeLRqXIKfjsnBg3tXhH9",
+      "total": 12635679,
+      "daily": 320
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Saudade Safada (feat. Zé Vaqueiro)",
+      "trackId": "3obXeugqKpNAlLUX46zTNa",
+      "total": 12241214,
+      "daily": 415
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Não Me Bloqueia - Ao Vivo",
+      "trackId": "655YHPxmRlhP7VAcqtuZF9",
+      "total": 12043137,
+      "daily": 3626
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Forró No Interior",
+      "trackId": "5Zq9n3NJ6QOsvcFwvS5SuC",
+      "total": 11828507,
+      "daily": 1136
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Só Basta Você Me Ligar",
+      "trackId": "605t2qSC6Wsmv0O1mxBFdN",
+      "total": 10963225,
+      "daily": 2585
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Acordo Pra Beber - Ao Vivo",
+      "trackId": "0pCQRED8iJmMgqOVkoiUdV",
+      "total": 10609815,
+      "daily": 4248
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "A Recaída",
+      "trackId": "0CiXUDycwiJKIoFESqOvqc",
+      "total": 9809472,
+      "daily": 1006
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Do Pior Jeito",
+      "trackId": "2VZYUFNMXM02mdY7OT7LM5",
+      "total": 9395158,
+      "daily": 1380
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Quero Amor Que Fica",
+      "trackId": "1kIGJELqHpqxGPMgCYXjzj",
+      "total": 9343850,
+      "daily": 214
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "VAI EMBORA NÃO",
+      "trackId": "6fwi35HV9Sav32WyTTUWLl",
+      "total": 9218659,
+      "daily": 2374
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "O Povo Gosta é De piseiro",
+      "trackId": "4kfOX3QWCvqXlAxgZggYAR",
+      "total": 9103188,
+      "daily": 326
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Decida",
+      "trackId": "1vKZmkvwJMEir9w8SxnTI3",
+      "total": 8554280,
+      "daily": 1842
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Se Depender de Mim - Ao Vivo",
+      "trackId": "4nPCm0FPZ0eP8zJFc87Mwa",
+      "total": 8273032,
+      "daily": 3232
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Cena de Amor - Funk Remix",
+      "trackId": "6Uj6sd8ek5tlPm2F0qom8q",
+      "total": 7866563,
+      "daily": 1891
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Chegou Um Áudio",
+      "trackId": "0ELLxj3ohy78fC4uowX6VR",
+      "total": 7380119,
+      "daily": 5262
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Inveja No Povo - Ao Vivo No Casa Filtr",
+      "trackId": "7dkMw5ScWdcuMY1CcXJkBg",
+      "total": 7224733,
+      "daily": 211
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Quero Ver Você Sofrer",
+      "trackId": "52avFkfWXu5wuZ4JgMCv4m",
+      "total": 7069711,
+      "daily": 333
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Tome Forró",
+      "trackId": "28MIbiuucf09VczhCto7ur",
+      "total": 6873226,
+      "daily": 412
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Consciência Limpa - Ao Vivo",
+      "trackId": "7cux8z1R0aessMvVHpWN5D",
+      "total": 6739952,
+      "daily": 3763
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Quando Eu Te Pegar - Ao Vivo No Casa Filtr",
+      "trackId": "1BwVPi8bFKElkZlKa7fo0f",
+      "total": 6560441,
+      "daily": 156
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Você Conta ou Eu Conto",
+      "trackId": "6Y4xjRYARwm3i0xR8a3gai",
+      "total": 6551440,
+      "daily": 669
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Um Dia",
+      "trackId": "4CnFUEIXbRwCQMcoDxwF2o",
+      "total": 6458260,
+      "daily": 9429
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Na Boca do Litrão",
+      "trackId": "1XzGyGDCcWdUK61Fl4QwSK",
+      "total": 6456616,
+      "daily": 1075
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Quatro Semanas de Amor / Não Me Julgue / Do Meu Jeito - Ao Vivo",
+      "trackId": "2epQhTaZrZOOvHEEXP0Hy2",
+      "total": 6194615,
+      "daily": 106406
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Obrigado, Deus",
+      "trackId": "7f3t1mj1YBrRgQDYAfAKz0",
+      "total": 5978985,
+      "daily": 23327
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Tô Beijando Ela",
+      "trackId": "0tFOoBLlLamb7B7P7AibBn",
+      "total": 5940993,
+      "daily": 862
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Lembrei de Você",
+      "trackId": "1ISd9Ic9mJUSP9nDuYbiI5",
+      "total": 5940347,
+      "daily": 335
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Qualidade de Vida",
+      "trackId": "7GgQXWAceqznlOLTRXUd1m",
+      "total": 5840305,
+      "daily": 18672
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Pode Ir",
+      "trackId": "1Q1jILC1x04I02WkpfpNy6",
+      "total": 5648224,
+      "daily": 1755
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Queda de Moto",
+      "trackId": "4fLP0n4smPKVilGW7lT3rF",
+      "total": 5643918,
+      "daily": 629
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Boi No Chão",
+      "trackId": "02Kbhy2MSUrAW5tDa6Duag",
+      "total": 5592921,
+      "daily": 141
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Espumas ao Vento - Forró Viral",
+      "trackId": "63r7CjV7htSBZnF4qTNolt",
+      "total": 5577497,
+      "daily": 2000
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Passarinho",
+      "trackId": "1QWWsWyjE5B7S4IH6NPZli",
+      "total": 5455431,
+      "daily": 674
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Me Chamando Pra Fazer",
+      "trackId": "50grsOYYrdoAPYJwbAsHsp",
+      "total": 5023020,
+      "daily": 520
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Te Amar Foi Bom",
+      "trackId": "5RWNFsOhYEL6jUCeDAzplJ",
+      "total": 4519433,
+      "daily": 42
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Meio Dia / Viajante Forrozeiro - Ao Vivo",
+      "trackId": "4UUD30Fv5NhJkWRjLYTXfh",
+      "total": 4282201,
+      "daily": 51993
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Esqueci Você - Ao Vivo",
+      "trackId": "3GBumVp24392PCLk7wEXfF",
+      "total": 4120781,
+      "daily": 381
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Curtindo A Bad - Ao Vivo",
+      "trackId": "4DKE2hl9HfwIJTCuAMAUdj",
+      "total": 4112555,
+      "daily": 773
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Pode Ligar",
+      "trackId": "19SNkJG5kzp5qcH7B9WQt2",
+      "total": 4054688,
+      "daily": 104
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Te Amar Te Amar",
+      "trackId": "7kdO8jjikDtXjeukzgTL5q",
+      "total": 3990041,
+      "daily": 2034
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Mais um Beijo",
+      "trackId": "73vDQ4nYXNbZHVsFpAsWgq",
+      "total": 3973633,
+      "daily": 60
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Meu Esporte é Vaquejada",
+      "trackId": "0M2kgMwNkl4EWpIYhzeLZA",
+      "total": 3728814,
+      "daily": 110
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Ressaca de Saudade",
+      "trackId": "2YXTUXncxoLwtwaFTdVxmD",
+      "total": 3702972,
+      "daily": 1308
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Pássaro Noturno - Ao Vivo",
+      "trackId": "5kZy49f0zCrW2EYL1jMeXQ",
+      "total": 3252294,
+      "daily": 3410
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Menino Bobo",
+      "trackId": "0enwlmH3Co63lXruPGf15q",
+      "total": 3178430,
+      "daily": ""
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Que Pancada de Mulher",
+      "trackId": "4hczulecIkZbGIC0RruIZV",
+      "total": 3133281,
+      "daily": 77910
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Volta Pro Seu Nego",
+      "trackId": "4vJ7HCql6RfIdMOMYOSj49",
+      "total": 3114046,
+      "daily": 2038
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Seu Desprezo",
+      "trackId": "4aDn22T6cX3dWkTSq2RYLL",
+      "total": 2692801,
+      "daily": 218
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Indícios",
+      "trackId": "2cFaEIMwQ0VyrRZ5pNRahN",
+      "total": 2624511,
+      "daily": 713
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Bom Não, Morena - Ao Vivo",
+      "trackId": "6ZROXtPWemk0gs3C1KNGOh",
+      "total": 2576417,
+      "daily": 1788
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Te Amo Demais - Ao Vivo",
+      "trackId": "7sA6rE34Irr35OuhbhJp17",
+      "total": 2461004,
+      "daily": 290
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Não Me Julgue (Me Beija) - Ao Vivo",
+      "trackId": "3r8XywDMfcaryzeRKecO9y",
+      "total": 2460801,
+      "daily": 216
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Até Você Voltar Pra Mim",
+      "trackId": "2sNb39NBEOOikeFCCBNdnF",
+      "total": 2280389,
+      "daily": 1698
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Passa O Coração",
+      "trackId": "3vsmXTf63MvmrHCLuskvuK",
+      "total": 2265302,
+      "daily": 135
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Emocionalmente Envolvido - Ao Vivo",
+      "trackId": "3YVNkFf0JHH1pM5QBWw1e7",
+      "total": 2245391,
+      "daily": 1755
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Você Não Me Ensinou a Te Esquecer - Ao Vivo",
+      "trackId": "3fBc5yrgtNXppJ3k3KvBai",
+      "total": 2071502,
+      "daily": 810
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Galopou e Gostou",
+      "trackId": "3ukDJxiGLHoB5lOTlahWqH",
+      "total": 2029331,
+      "daily": 133
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Hoje é Farra",
+      "trackId": "1d9X7FrdgF1QBiBZR4dmiJ",
+      "total": 1831533,
+      "daily": 867
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Vida de Farra",
+      "trackId": "1a5oyDQmea7jpMqBiK79I5",
+      "total": 1776382,
+      "daily": 127
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Bom, Né?! - Ao Vivo",
+      "trackId": "7L3qNBON88uI4mti0bqQTP",
+      "total": 1739725,
+      "daily": 867
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Rolo Fixo - Ao Vivo",
+      "trackId": "6KDp1qGC0iEo9HNfoZCwFo",
+      "total": 1650473,
+      "daily": 195
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Vaqueiro Empresário",
+      "trackId": "2EmKe6ZtOsU6Ll9JaYGeDD",
+      "total": 1625175,
+      "daily": 80
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Já Deu Certo",
+      "trackId": "7yqSwm0Ko9Lrfieoeo5pth",
+      "total": 1347368,
+      "daily": 85
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Por Amor",
+      "trackId": "2hu5DQFevPGQHTaTvahqnX",
+      "total": 1312248,
+      "daily": 396
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Não Me Julgue - Ao Vivo",
+      "trackId": "6Ue9WBAVNPKPalOL3AINnL",
+      "total": 1272793,
+      "daily": 409
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Vizinho de Cama - Ao Vivo",
+      "trackId": "0ZXIc7ROc7Py07ekEySMvR",
+      "total": 1101804,
+      "daily": 85
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Vaqueiro Raparigueiro",
+      "trackId": "0CMp2UpPsqDTXTDQ4z9w2X",
+      "total": 1085320,
+      "daily": 64
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Não Volta Pra Paris - Ao Vivo",
+      "trackId": "6oA8LZxswxxwefBgJftGqD",
+      "total": 1071495,
+      "daily": 1438
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Rei do Virote",
+      "trackId": "1Bt411IPXNuWz3NcZkOkjo",
+      "total": 1066497,
+      "daily": 57
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Anjo Bom",
+      "trackId": "5QJW6tqJXckGuSDcgYFcfB",
+      "total": 1016703,
+      "daily": 879
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Que Vida Boa - Ao Vivo",
+      "trackId": "2saukRLEI6BMKGvsTzpovd",
+      "total": 925721,
+      "daily": 4858
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Sendo Assim - Ao Vivo",
+      "trackId": "3bupmhXihRPrSzLwRK2ttm",
+      "total": 800189,
+      "daily": 86
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Liga Pra Mim / Não Posso Dizer Adeus / Se Eu Pedir Cê Volta - Ao Vivo",
+      "trackId": "1GVLObbTlfTcLNZRz7wdb0",
+      "total": 776821,
+      "daily": 1547
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Eu Escolheria Você - Ao Vivo",
+      "trackId": "342vrdU3hXC4ueRAfCcIwn",
+      "total": 704809,
+      "daily": 655
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Fonte De Desejos / Anjo Azul / Meu Mel - Ao Vivo",
+      "trackId": "53QSdm6VuholpNDP7P3pXr",
+      "total": 680462,
+      "daily": 2992
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Tudo Vai Dar Certo - Ao Vivo",
+      "trackId": "5FIBteM3sqjqIOJM1INZuM",
+      "total": 641921,
+      "daily": 113
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Não Larga o Osso - Ao Vivo",
+      "trackId": "0zy2Pk7uU2XFxhJZwC2yF2",
+      "total": 578832,
+      "daily": 428
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Só Você (Piseiro Funk) [Amazon Original] (feat. Zé Vaqueiro)",
+      "trackId": "2MSIrjXXYdbqmij0WEhcX4",
+      "total": 515716,
+      "daily": 36
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Vaqueirona",
+      "trackId": "6FKtIEP8R7KhuotSR89nWU",
+      "total": 423538,
+      "daily": 12835
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Garçom - Ao Vivo",
+      "trackId": "3OTal34x1qUpSSonleLclK",
+      "total": 391863,
+      "daily": 365
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Estrela Perdida - Ao Vivo",
+      "trackId": "4roxHAF3NQLp0eKkEKJqxz",
+      "total": 365303,
+      "daily": 273
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Mtg Cena de Amor (feat. Zé Vaqueiro)",
+      "trackId": "60w1af60Vj1JT9gJLx45MT",
+      "total": 352386,
+      "daily": 124
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Prefeito - Ao Vivo",
+      "trackId": "6ZpBRh2p8YD7gOTES7wYoE",
+      "total": 326163,
+      "daily": 607
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Clichê",
+      "trackId": "7J34z2wOoEaj6SV35fnTBZ",
+      "total": 228953,
+      "daily": ""
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Vai na Reboladinha - Ao Vivo",
+      "trackId": "3FjxBO1ePmEsLEKcn7RQwE",
+      "total": 222864,
+      "daily": 159
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "DNA do Mato",
+      "trackId": "1hH4o1z48IoZfUHGmhDlf1",
+      "total": 187424,
+      "daily": ""
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Vaqueiro Dos Vaqueiros",
+      "trackId": "0mXXWsqfZWFkCKsYBUZf5t",
+      "total": 166254,
+      "daily": 383
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Sonho Por Sonho / Deixaria Tudo / Dois Corações e Uma História - Ao Vivo",
+      "trackId": "1zbUFSmxswYUGrl5BAiCpL",
+      "total": 135999,
+      "daily": 592
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "O Que É Amor Pra Você",
+      "trackId": "3wCJJEcqW1R0rTtRbxFDwG",
+      "total": 115865,
+      "daily": ""
+    },
+    {
+      "artist": "Zé Vaqueiro",
+      "artistId": "5K8Rmjmf4RZFffz94EmBRt",
+      "trackName": "Clichê",
+      "trackId": "7hHcdF9TWjexlim3nYxpBG",
+      "total": 101975,
+      "daily": ""
+    }
+  ]
+}

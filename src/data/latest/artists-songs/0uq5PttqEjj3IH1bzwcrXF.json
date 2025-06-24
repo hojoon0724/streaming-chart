@@ -1,0 +1,766 @@
+{
+  "artist": "Spice Girls",
+  "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+  "songs": [
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Wannabe",
+      "trackId": "1Je1IMUlBXcx1Fz0WE7oPT",
+      "total": 1299809893,
+      "daily": 569388
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Stop",
+      "trackId": "3FteycP8CaXS1MhjcXekVT",
+      "total": 213707256,
+      "daily": 87779
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "2 Become 1",
+      "trackId": "36AWdhZIGLUTkWpJDhe7va",
+      "total": 175232054,
+      "daily": 66078
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Say You'll Be There",
+      "trackId": "1yTQ39my3MoNROlFw3RDNy",
+      "total": 172888128,
+      "daily": 91402
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Spice Up Your Life",
+      "trackId": "5qGwqO0lkbBXw4xNfzT7SF",
+      "total": 166063793,
+      "daily": 76291
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Who Do You Think You Are",
+      "trackId": "1jI1aLmm5HTwiMtvsbwDJw",
+      "total": 93839323,
+      "daily": 47876
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Viva Forever",
+      "trackId": "6BPDPcnbDMDf58srVzbfX9",
+      "total": 87098095,
+      "daily": 44934
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Mama",
+      "trackId": "3dNv3OuX6ol9si6PZ9KSAh",
+      "total": 44309821,
+      "daily": 18453
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Too Much",
+      "trackId": "1RQnYh2xw2BPpnzQFbO5r5",
+      "total": 40860798,
+      "daily": 19076
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Goodbye",
+      "trackId": "6ZNw9Cnc85OeHZrjMAZJfY",
+      "total": 29256449,
+      "daily": 16915
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Holler",
+      "trackId": "1NwDWbpg9dPH12xBd2ibrv",
+      "total": 28407802,
+      "daily": 11580
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Never Give Up On The Good Times",
+      "trackId": "6RQnRYot6B3TPZsMbbSJ20",
+      "total": 16014343,
+      "daily": 6522
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Christmas Wrapping",
+      "trackId": "1O2ymfIOPUz7RLzjDCnCWv",
+      "total": 13758651,
+      "daily": 184
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Viva Forever",
+      "trackId": "383UcYmgw1OsvVDtOROLFv",
+      "total": 12759074,
+      "daily": 7368
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Saturday Night Divas",
+      "trackId": "3M83cWfWcFXtkavdM8NuEZ",
+      "total": 11661930,
+      "daily": 4320
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Love Thing",
+      "trackId": "61PwiYyJhF1HLi0OXomzQE",
+      "total": 9979614,
+      "daily": 3124
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Move Over",
+      "trackId": "3P50dC4GwZYiToIXQGWIAC",
+      "total": 8834926,
+      "daily": 2129
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "If U Can't Dance",
+      "trackId": "6bh25NILjNfJnIvGRT2emC",
+      "total": 8250362,
+      "daily": 1743
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Last Time Lover",
+      "trackId": "5SAGopoaraFmLS08bNjLxB",
+      "total": 7748050,
+      "daily": 1978
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Something Kinda Funny",
+      "trackId": "6qL8tweXFMqztcMwNB4r7y",
+      "total": 7736043,
+      "daily": 2320
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Do It",
+      "trackId": "4oB9UvwZUkic3nWWZKULqs",
+      "total": 7228580,
+      "daily": 1707
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Who Do You Think You Are - Radio Edit",
+      "trackId": "0dRMcoWTlEY3uA4ra8U2np",
+      "total": 7155700,
+      "daily": 3573
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Let Love Lead The Way",
+      "trackId": "5EE1Uzg0JvtBhs6TRs33R0",
+      "total": 6546042,
+      "daily": 3345
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Naked",
+      "trackId": "2QMa85sq03n0NhDAjQe5eQ",
+      "total": 5937226,
+      "daily": 1283
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Denying",
+      "trackId": "3RTHY1WOLAkXoDW9oh5Cgb",
+      "total": 5170104,
+      "daily": 1207
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Headlines (Friendship Never Ends)",
+      "trackId": "5S7a7KwUsmqPPAG0JPZkQN",
+      "total": 5044255,
+      "daily": 1741
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "The Lady Is A Vamp",
+      "trackId": "0l7H48aO4jEa7Ee37h1rX4",
+      "total": 4330387,
+      "daily": 1066
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Holler",
+      "trackId": "36dQazx2WAniLorlTihOtW",
+      "total": 3772712,
+      "daily": 1144
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Spice Up Your Life - Morales Radio Mix",
+      "trackId": "4UHpvjEGU7ynl7cN4EhoZx",
+      "total": 3679001,
+      "daily": 4165
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Tell Me Why",
+      "trackId": "0r5d5LmhLQwJVEw0kTEExp",
+      "total": 3593694,
+      "daily": 974
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Mama",
+      "trackId": "6mnOw9OwN101bOwcyIlFVf",
+      "total": 3384322,
+      "daily": 1401
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Too Much",
+      "trackId": "3rAr3T7aCT7HT3ZVNMXGso",
+      "total": 3260895,
+      "daily": 1604
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Right Back At Ya",
+      "trackId": "2O8kqbUJS1vkL3x9mF7WzM",
+      "total": 2871636,
+      "daily": 622
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Goodbye",
+      "trackId": "3ZXqY4eanKNWql1T1Y7KPA",
+      "total": 2518802,
+      "daily": 864
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Step To Me - 7'' Mix",
+      "trackId": "1hlGenrUP4ryFdhJo102Qq",
+      "total": 1961066,
+      "daily": 630
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Wasting My Time",
+      "trackId": "1SDaGaHrcH7hDdZwzXHslN",
+      "total": 1845400,
+      "daily": 366
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Get Down With Me",
+      "trackId": "7xzDDFO7L1o5ANyzOYbbWZ",
+      "total": 1812731,
+      "daily": 649
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "If You Wanna Have Some Fun",
+      "trackId": "1tMHxkwWMUfh0HyMiRAY4I",
+      "total": 1676559,
+      "daily": 452
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Viva Forever (Io ci saro)",
+      "trackId": "3J3wql84gIXxSqY4ibcUcw",
+      "total": 1641527,
+      "daily": 1104
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Say You'll Be There - 7” Radio Mix",
+      "trackId": "3uGTUf4AQvNkui75eLKide",
+      "total": 1572923,
+      "daily": 1398
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Let Love Lead The Way",
+      "trackId": "3WoMyY4b07RWzxyNtQt6m7",
+      "total": 1421748,
+      "daily": 594
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Weekend Love",
+      "trackId": "2vnY8xDhRSW1Cc0xPpUMXc",
+      "total": 1218629,
+      "daily": 263
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Voodoo",
+      "trackId": "6rYVBkMNqLBH5kw7AcBz77",
+      "total": 1185148,
+      "daily": 804
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Outer Space Girls",
+      "trackId": "1XHosFpKcWkRtuxPQm0HnO",
+      "total": 1147057,
+      "daily": 615
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Wannabe - Junior Vasquez Remix Edit",
+      "trackId": "1FWRY44u3Qu61reNdAMiJk",
+      "total": 1132884,
+      "daily": 372
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Time Goes By",
+      "trackId": "4wJpBVD7r9WAOpmmMXqSL3",
+      "total": 1106060,
+      "daily": 234
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Oxygen",
+      "trackId": "1qmAvaC7Zo3VSCQ3tTx4kq",
+      "total": 1064809,
+      "daily": 197
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "2 Become 1 - Orchestral Version",
+      "trackId": "28ljQkRjyslYMxZGNWb9JO",
+      "total": 911283,
+      "daily": 291
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Feed Your Love",
+      "trackId": "1182NfpbWAJflmaIMOmKaQ",
+      "total": 883131,
+      "daily": 378
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Walk Of Life",
+      "trackId": "4zlUwX3UTWZe6CthxuMpSM",
+      "total": 801912,
+      "daily": 517
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "One Of These Girls",
+      "trackId": "7a901tm0xql6ytmNPIkS1C",
+      "total": 757753,
+      "daily": 350
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Ain't No Stopping Us Now",
+      "trackId": "3dtI8i1u14msA8noqVucZ2",
+      "total": 712256,
+      "daily": 322
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Wannabe - Junior Vasquez Gomis Dub",
+      "trackId": "5ao7SqQdTcIvOXYt3sg5kV",
+      "total": 568801,
+      "daily": 288
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Say You'll Be There - Live From Abdi İpekçi Arena, Istanbul, Turkey/1997",
+      "trackId": "05GA2KEnd9MysHPKJacrId",
+      "total": 553975,
+      "daily": 87
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Take Me Home",
+      "trackId": "7sD27Faicv7OAEwFDcw09V",
+      "total": 541624,
+      "daily": 371
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "We Are Family - Live From Wembley Stadium, UK /1998",
+      "trackId": "0SnF7B4aTiEg1xRsWeqcWe",
+      "total": 504885,
+      "daily": 407
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Baby Come Round",
+      "trackId": "6OsISsKgpUCAmrxp71S7SD",
+      "total": 479070,
+      "daily": 261
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Say You'll Be There - Junior's X-Beats / 2007 Edit",
+      "trackId": "26cj4TMS0NE0tmW7C8EaDg",
+      "total": 467711,
+      "daily": 188
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Who Do You Think You Are? - Live From Abdi İpekçi Arena, Istanbul, Turkey /1997",
+      "trackId": "32FYdQcIJu0ooMxhwgHJqL",
+      "total": 447597,
+      "daily": 74
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Tell Me Why - Jonathan Peters Edit",
+      "trackId": "1jbBAC1sTUOzNMN6pyilWz",
+      "total": 422101,
+      "daily": 212
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Spice Girls Party Mix",
+      "trackId": "0b6QDY3DSV733KWYX6yWTU",
+      "total": 416855,
+      "daily": 507
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Goodbye - Orchestral Mix",
+      "trackId": "6GNUJcLIiniwJr3nwFs2cI",
+      "total": 410801,
+      "daily": 126
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Who Do You Think You Are - Demo Version",
+      "trackId": "3nOj3zk7VISzUSmU55Cffz",
+      "total": 398008,
+      "daily": 72
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Spice Invaders",
+      "trackId": "08DJaUZjWzdRhr9EIdEgg0",
+      "total": 390105,
+      "daily": 260
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Sisters (Are Doing It For Themselves) - Live From Wembley Stadium, UK / 1998",
+      "trackId": "0y2Zg6IkB3YhuA7ygudELZ",
+      "total": 346031,
+      "daily": 250
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Viva Forever - John Themis Ambient Mix",
+      "trackId": "6niPoVwVeOIeVmrKstYUGD",
+      "total": 321492,
+      "daily": 115
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Spice Up Your Life - Murk Havana FM Radio Mix",
+      "trackId": "6txkWmyo6f2UUQMaHaHCwp",
+      "total": 315153,
+      "daily": 261
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Goodbye",
+      "trackId": "6Yd9huEhaMsLWSWI2T77PI",
+      "total": 293744,
+      "daily": 75
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Stop - Live In Madrid, Spain / 1998",
+      "trackId": "0VhUMZKnTBsMk4AVilZNuR",
+      "total": 285129,
+      "daily": 83
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Too Much - Orchestral Version",
+      "trackId": "32ywSpyJepPrtSu1MQ9sbF",
+      "total": 283399,
+      "daily": 108
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Spice Up Your Life - Live In Arnhem, Netherlands / 1998",
+      "trackId": "29ttDckpC1RUpxGB1fLLlR",
+      "total": 274924,
+      "daily": 108
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Wannabe - Dave Way Alternative Mix",
+      "trackId": "6wyJSlvtYRRt8jCcOgjyt0",
+      "total": 274874,
+      "daily": 61
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Viva Forever - Tony Rich Remix",
+      "trackId": "2Dtc9Qc5FgSDJ3tNMCpqnk",
+      "total": 269923,
+      "daily": 68
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Last Time Lover - Demo Version",
+      "trackId": "7pJQWQIyKhXG4nE9IV7NoI",
+      "total": 246496,
+      "daily": 28
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Spice Up Your Life - Morales Carnival Club Mix",
+      "trackId": "6GsCTAYaRXe9pNl5dPvDaY",
+      "total": 242566,
+      "daily": 82
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Mama - Biffco Mix",
+      "trackId": "3Js4CymFgJXkSCHUV1zaha",
+      "total": 242045,
+      "daily": 59
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Love Thing - Live From Istanbul, Turkey / 1997",
+      "trackId": "3KbbdnMvEnIEVSgKI6PPUL",
+      "total": 219674,
+      "daily": 53
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Who Do You Think You Are - Morales Club Mix",
+      "trackId": "1OzTNiRfszzQdtSjmHte8n",
+      "total": 210146,
+      "daily": 109
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "If U Can't Dance - Demo Version",
+      "trackId": "4LMRd2MrMtd21UnZXBBxkB",
+      "total": 205567,
+      "daily": 30
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Wannabe - Demo",
+      "trackId": "0bNddNTyoEzvqChziU8Pxu",
+      "total": 202216,
+      "daily": 105
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Love Thing - 12\" Unlimited Groove Mix",
+      "trackId": "6RWWp1bbezem2jdf3YR7Fc",
+      "total": 196227,
+      "daily": 42
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Spice Chat 2 “Shall We Say ‘Goodbye’ Then?’",
+      "trackId": "3BDGPPDaW1dwVjOoLO5uPl",
+      "total": 194567,
+      "daily": 196
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Too Much - SoulShock & Karlin Remix",
+      "trackId": "0igmg9bmMr6nmfzC1Xb5Ki",
+      "total": 186651,
+      "daily": 85
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Mama - Live In Istanbul, Turkey / 1997",
+      "trackId": "5VALtlFvT3u0zcn4YqVxWE",
+      "total": 179937,
+      "daily": 37
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Holler - MAW Tribal Vocal",
+      "trackId": "1yujBE9gUa9nkkc0C0pWmE",
+      "total": 178856,
+      "daily": 9
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Stop - Morales Remix",
+      "trackId": "6KnPJW7tqGwgFdt0DKoKoc",
+      "total": 173385,
+      "daily": 59
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Move Over - Live In Istanbul, Turkey / 1997",
+      "trackId": "08LhpXXkszz75gg8euQDs8",
+      "total": 166421,
+      "daily": 87
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Something Kinda Funny - Live From Istanbul, Turkey / 1997",
+      "trackId": "2ooYLboCfy7IhJASLoQtQv",
+      "total": 166168,
+      "daily": 111
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Spice Up Your Life - Murk Cuba Libre Mix",
+      "trackId": "01iBktbCOsnjKUD2BvEjDI",
+      "total": 155946,
+      "daily": 197
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Viva Forever - Live In Manchester, UK / 1998",
+      "trackId": "22p96UmEjgBGkoxQb505jS",
+      "total": 153901,
+      "daily": 146
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Holler - MAW Remix",
+      "trackId": "3fAnIMVGDcvRWGSiubs4FA",
+      "total": 147042,
+      "daily": 55
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Holler - MAW Spice Beats",
+      "trackId": "6eEDHQXblBJ2UNZIDmoRwx",
+      "total": 137143,
+      "daily": 8
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Viva Forever - Tony Rich Remix Instrumental",
+      "trackId": "1dehm5fgmBVxxur0YnZLMq",
+      "total": 128922,
+      "daily": 18
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Spice Up Your Life - Stent Radio Instrumental",
+      "trackId": "4lM0KDOdYJRmQU9OeNpneM",
+      "total": 126317,
+      "daily": 45
+    },
+    {
+      "artist": "Spice Girls",
+      "artistId": "0uq5PttqEjj3IH1bzwcrXF",
+      "trackName": "Holler - MAW Dub",
+      "trackId": "64SgWEnvscdMu9B8rPWGkx",
+      "total": 108752,
+      "daily": 4
+    }
+  ]
+}

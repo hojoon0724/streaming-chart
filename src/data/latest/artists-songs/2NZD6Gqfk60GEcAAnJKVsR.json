@@ -1,0 +1,46 @@
+{
+  "artist": "Stars Music Chile",
+  "artistId": "2NZD6Gqfk60GEcAAnJKVsR",
+  "songs": [
+    {
+      "artist": "Stars Music Chile",
+      "artistId": "2NZD6Gqfk60GEcAAnJKVsR",
+      "trackName": "Marisola - Remix",
+      "trackId": "0NO2zL0kw8sGGnaMvHKAZF",
+      "total": 398007395,
+      "daily": 124387
+    },
+    {
+      "artist": "Stars Music Chile",
+      "artistId": "2NZD6Gqfk60GEcAAnJKVsR",
+      "trackName": "Marisola",
+      "trackId": "2pR6bipXfJySBhje19SW02",
+      "total": 169394511,
+      "daily": 25085
+    },
+    {
+      "artist": "Stars Music Chile",
+      "artistId": "2NZD6Gqfk60GEcAAnJKVsR",
+      "trackName": "Los Malvekes",
+      "trackId": "7DsotsIcNLWL4O9kwPtMu0",
+      "total": 169283536,
+      "daily": 59340
+    },
+    {
+      "artist": "Stars Music Chile",
+      "artistId": "2NZD6Gqfk60GEcAAnJKVsR",
+      "trackName": "Salió De Noche",
+      "trackId": "15r68Um6LBYYBGUEEkqRkB",
+      "total": 15583002,
+      "daily": 3709
+    },
+    {
+      "artist": "Stars Music Chile",
+      "artistId": "2NZD6Gqfk60GEcAAnJKVsR",
+      "trackName": "+ Paca Más Elástico",
+      "trackId": "66klWPlXvdhLaaAFVtgh1c",
+      "total": 8016229,
+      "daily": 8081
+    }
+  ]
+}

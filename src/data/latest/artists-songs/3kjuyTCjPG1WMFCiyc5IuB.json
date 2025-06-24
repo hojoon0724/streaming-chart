@@ -1,0 +1,974 @@
+{
+  "artist": "Arcade Fire",
+  "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+  "songs": [
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "The Suburbs",
+      "trackId": "5iItYl3Q6wCnKVfpK1uNVf",
+      "total": 196867383,
+      "daily": 60733
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Wake Up",
+      "trackId": "6Hmj7SrLRbreLVfVS7mV1S",
+      "total": 163750110,
+      "daily": 37269
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Everything Now",
+      "trackId": "7KsZHCfOitA5V9oQYVdltG",
+      "total": 146118604,
+      "daily": 26627
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Rebellion (Lies)",
+      "trackId": "0xOeB16JDbBJBJKSdHbElT",
+      "total": 130903730,
+      "daily": 27367
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Ready to Start",
+      "trackId": "33X9miK4Xz7pNeVrc9RITG",
+      "total": 97842208,
+      "daily": 27566
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Reflektor",
+      "trackId": "4bX1HlRP3e9aTZ6aNOfnzL",
+      "total": 85433986,
+      "daily": 11264
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Sprawl II (Mountains Beyond Mountains)",
+      "trackId": "0epAG0WWRlDMsMFJiE5c6I",
+      "total": 80311888,
+      "daily": 25157
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Afterlife",
+      "trackId": "6IcD6Fj0qt89GAa0CC32vw",
+      "total": 70658238,
+      "daily": 11460
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "My Body Is a Cage",
+      "trackId": "1rOlTL4pKQ9Y1fURua4AJR",
+      "total": 63062705,
+      "daily": 13710
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "No Cars Go",
+      "trackId": "51xBgzcyzojRpqFW2ICQAB",
+      "total": 59897701,
+      "daily": 15305
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Put Your Money on Me",
+      "trackId": "0SaEmR2rdtfsZawPjMYkWg",
+      "total": 57917979,
+      "daily": 7406
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Creature Comfort",
+      "trackId": "2voWPWlDfIthC6GUjaIQyV",
+      "total": 55308512,
+      "daily": 7129
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Neighborhood #1 (Tunnels)",
+      "trackId": "0WZZJ0mDKIkLfL0710ssZt",
+      "total": 54680285,
+      "daily": 10978
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Keep the Car Running",
+      "trackId": "4KjdLo9JWJEKYoAJ8spkat",
+      "total": 43342486,
+      "daily": 8083
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Song on the Beach",
+      "trackId": "606R1WLtU2hPgl0YNfSJ4j",
+      "total": 36460785,
+      "daily": 21472
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "We Used to Wait",
+      "trackId": "3GgA0KZ3AMu8SInRmB1pmo",
+      "total": 34652210,
+      "daily": 6526
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "We Exist",
+      "trackId": "2D41XEYAwjfw39TSgA9mgN",
+      "total": 34562032,
+      "daily": 3835
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Electric Blue",
+      "trackId": "0KWcRXcnGoB0gWSu4mshF8",
+      "total": 34073591,
+      "daily": 3998
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Modern Man",
+      "trackId": "5VWRCDKukSgYRAhXMriSCu",
+      "total": 31288618,
+      "daily": 6493
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Baby Mine - From \"Dumbo\"/Soundtrack Version",
+      "trackId": "2ufkOFn5LKYNoAdss0GUKR",
+      "total": 25626737,
+      "daily": 2289
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Signs of Life",
+      "trackId": "1g1RmSl6D0I6m6MEtDvxYn",
+      "total": 25152300,
+      "daily": 1930
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Here Comes the Night Time",
+      "trackId": "3LNo8KIUJRei6uaLAMKKyA",
+      "total": 24212270,
+      "daily": 2077
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Neighborhood #3 (Power Out)",
+      "trackId": "1kAZE1Wtwg8sd7lCyLUweb",
+      "total": 23783571,
+      "daily": 4646
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Rococo",
+      "trackId": "0doEeyNpSTtMmrGh4DTzxc",
+      "total": 23691925,
+      "daily": 3565
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "The Suburbs (continued)",
+      "trackId": "1vn0lNByfu02t5fj3vpOnr",
+      "total": 21986625,
+      "daily": 2546
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Good God Damn",
+      "trackId": "2ZssXuZfktUr4MMDzEWD2Z",
+      "total": 20817402,
+      "daily": 2325
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "The Lightning II",
+      "trackId": "1tuQOu0GEvC70bCFzltK3a",
+      "total": 19445279,
+      "daily": 3240
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Neighborhood #2 (Laika)",
+      "trackId": "61ARSKFMwoVnIwXAVnfNNh",
+      "total": 19410666,
+      "daily": 4148
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Dimensions",
+      "trackId": "1F3pzdYyCJlnQoCM9gFzaU",
+      "total": 19036148,
+      "daily": 52079
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "We Don't Deserve Love",
+      "trackId": "0BP2o4rGe7nkQea1JOWMbl",
+      "total": 18956179,
+      "daily": 1546
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Intervention",
+      "trackId": "7Bl5Fqa2g1UFs2O1VJiKhb",
+      "total": 18889717,
+      "daily": 3880
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Suburban War",
+      "trackId": "6mzSjhOF5CaH97ySiSzsot",
+      "total": 18293718,
+      "daily": 3807
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Crown of Love",
+      "trackId": "3kusLGvgYkZldKfoDoJklR",
+      "total": 18246105,
+      "daily": 3011
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Haiti",
+      "trackId": "3Gkl2fJztF2B3fnUheejAA",
+      "total": 18221334,
+      "daily": 2989
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Deep Blue",
+      "trackId": "3S3ET4OgClctpND30pOTqp",
+      "total": 17663474,
+      "daily": 3141
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Unconditional I (Lookout Kid)",
+      "trackId": "6xcrYjTKuONMfC1Qoc6Bdy",
+      "total": 17631229,
+      "daily": 5034
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "City with No Children",
+      "trackId": "2HWXlAYYHRSwAjWq63Ezm1",
+      "total": 15477307,
+      "daily": 2061
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Neon Bible",
+      "trackId": "4FqnaZALqOYyWediiaAToi",
+      "total": 15293095,
+      "daily": 1744
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Age of Anxiety I",
+      "trackId": "76365icROsgrLvYVImAnyP",
+      "total": 15089356,
+      "daily": 3759
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "The Lightning I",
+      "trackId": "6bkqSi0jMZr6bX6MGRzdrt",
+      "total": 15080657,
+      "daily": 2497
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Porno",
+      "trackId": "2XB8vENxuySrBTcyLSksvL",
+      "total": 15062201,
+      "daily": 1658
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Normal Person",
+      "trackId": "5c3UhhpMZD4FNvjit7rmsS",
+      "total": 14961489,
+      "daily": 1187
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Empty Room",
+      "trackId": "3KX0CbXVvEb81gL0LIanR4",
+      "total": 14854502,
+      "daily": 2213
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Chemistry",
+      "trackId": "7kIwVGX93RF6c8ZLKpeiNN",
+      "total": 14616354,
+      "daily": 851
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Peter Pan",
+      "trackId": "0LOnyr7dtH8GQAVypvT98T",
+      "total": 14304857,
+      "daily": 870
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Une Annee Sans Lumiere",
+      "trackId": "7D5mjGj6O2cHHCoBF8O7qV",
+      "total": 13936079,
+      "daily": 3292
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "It's Never Over (Hey Orpheus)",
+      "trackId": "6kLWsF3wKzQB7C9UxOLOj2",
+      "total": 13927270,
+      "daily": 1417
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Joan of Arc",
+      "trackId": "5Hj4rAZrau7ZAVa17wq9jd",
+      "total": 13753753,
+      "daily": 1287
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "You Already Know",
+      "trackId": "1zLeJmOxeEHFQjurJ21izJ",
+      "total": 13469448,
+      "daily": 937
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Flashbulb Eyes",
+      "trackId": "20W72uGieckO7jlSDMBZFV",
+      "total": 13211721,
+      "daily": 849
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Abraham's Daughter",
+      "trackId": "32vKYtEqMhQUL4nWmIUjm0",
+      "total": 13164727,
+      "daily": 2184
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Age of Anxiety II (Rabbit Hole)",
+      "trackId": "2z0nkZLzKp1IbZzdQCaD6Z",
+      "total": 12943683,
+      "daily": 2942
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Half Light I",
+      "trackId": "58CoyTs0xRU524pF3RvAuZ",
+      "total": 12934134,
+      "daily": 1878
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Month of May",
+      "trackId": "2eSlBeOIKaT5LvPplw9aPN",
+      "total": 12885637,
+      "daily": 1868
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Half Light II (No Celebration)",
+      "trackId": "12IvmFs4HZJEYzq7VhDKR8",
+      "total": 12273253,
+      "daily": 1747
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Black Mirror",
+      "trackId": "16dTcp6dokMKhm1Guz9K2W",
+      "total": 11947644,
+      "daily": 1433
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Photograph",
+      "trackId": "5Sj3F1OEvSz52ehpxTJZlR",
+      "total": 11110612,
+      "daily": 6328
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "In the Backseat",
+      "trackId": "0O8Ymlu03OqEX5XU5p8Rw3",
+      "total": 10680040,
+      "daily": 2011
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Supersymmetry",
+      "trackId": "4Egz6HTOOUJxKVK8VIfAhh",
+      "total": 10456605,
+      "daily": 941
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Neighborhood #4 (7 Kettles)",
+      "trackId": "6oMBDrzwGG1BzCoZyPyGuG",
+      "total": 10331861,
+      "daily": 1596
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Awful Sound (Oh Eurydice)",
+      "trackId": "0PbTZgxgcF5oXbJUpqRrYM",
+      "total": 9847507,
+      "daily": 817
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Everything_Now (continued)",
+      "trackId": "2wXYAGCj2gA6biHi0W4xdJ",
+      "total": 9559702,
+      "daily": 640
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Ocean of Noise",
+      "trackId": "1ocL0Mdp2NKggF7kG3Qdm2",
+      "total": 9123930,
+      "daily": 1935
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Sprawl I (Flatland)",
+      "trackId": "2BkLOiCPyigGH4l3HfLEIq",
+      "total": 8724212,
+      "daily": 1015
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Here Comes the Night Time II",
+      "trackId": "6GFMBtqu9kquZoj0yZJiSi",
+      "total": 8520035,
+      "daily": 610
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Wasted Hours",
+      "trackId": "6336VDSySvOz7FD2EX7VcT",
+      "total": 8433864,
+      "daily": 1350
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "I Give You Power (feat. Mavis Staples)",
+      "trackId": "10AI0wzvssuZqWneV5pulK",
+      "total": 8399592,
+      "daily": 544
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Unconditional II (Race and Religion) (feat. Peter Gabriel)",
+      "trackId": "0C1u7POtLWpGFLCxzgToHq",
+      "total": 8294194,
+      "daily": 1972
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "(Antichrist Television Blues)",
+      "trackId": "3TcmqdciWnQOXxYohhERbP",
+      "total": 7744337,
+      "daily": 1106
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "The Well and the Lighthouse",
+      "trackId": "23DfvYoXdZ6eSuN5MUpZgQ",
+      "total": 7707950,
+      "daily": 1182
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "End of the Empire I-III",
+      "trackId": "5VHRFAqgPpC14U10Zdfk2r",
+      "total": 7538139,
+      "daily": 1461
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Infinite_Content",
+      "trackId": "3vxdRMOGm9bWFYTFOkhYpV",
+      "total": 7378106,
+      "daily": 457
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Get Right",
+      "trackId": "2cVaFbioaMfvjFSdeEYl1y",
+      "total": 7313525,
+      "daily": 247
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Black Wave / Bad Vibrations",
+      "trackId": "7plMAVxY9yuyCOx5yjdzjN",
+      "total": 7248415,
+      "daily": 1080
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Infinite Content",
+      "trackId": "4bjPdsuv5zMINSxuaSm5QF",
+      "total": 7103826,
+      "daily": 425
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Windowsill",
+      "trackId": "2XP4rhtpHlzJRUNhsD7eU3",
+      "total": 6515430,
+      "daily": 1041
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Everything Now (continued)",
+      "trackId": "643ZDkyffqGWzkDTzSfMCM",
+      "total": 6481371,
+      "daily": 515
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "End of the Empire IV (Sagittarius A*)",
+      "trackId": "4X3hyy1ILGwdWJIUOctpQ0",
+      "total": 5189394,
+      "daily": 833
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Prelude",
+      "trackId": "5o5p9IULyigMoSXj88xED0",
+      "total": 5184685,
+      "daily": 489
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Speaking in Tongues (feat. David Byrne)",
+      "trackId": "3RcAhyvWMuM03yiYD4bgCG",
+      "total": 4917000,
+      "daily": 2187
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "WE",
+      "trackId": "6Np3zFUJTwBiF3kX9cewUD",
+      "total": 4786102,
+      "daily": 879
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Year of the Snake",
+      "trackId": "2MEgMkZ0VtzHqjgw427cb5",
+      "total": 4292533,
+      "daily": 21992
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Loneliness #3 (Night Talking)",
+      "trackId": "14G8g61dZX92L7Gr7VFjTO",
+      "total": 3881873,
+      "daily": 2230
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Mind Games - Recorded at Spotify Studios NYC",
+      "trackId": "2UxY3bwMbuPdbG3teXYOxQ",
+      "total": 3849258,
+      "daily": 293
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Wasted Hours (A Life We Can Live)",
+      "trackId": "6FqjPiCOdfP2Iq3pELFfny",
+      "total": 3717981,
+      "daily": 718
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Culture War",
+      "trackId": "6SbVetD0xSnkyACxD7oRtg",
+      "total": 3461690,
+      "daily": 597
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Everything Now - Recorded at Spotify Studios NYC",
+      "trackId": "4pwnweaF5EFhy5Lfvg67f4",
+      "total": 3035424,
+      "daily": 225
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Sleepwalker",
+      "trackId": "29CHsXnhpVWvTfsLwqun8I",
+      "total": 2946736,
+      "daily": 1375
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Everything Now (Todo Ya) - Remix por Bomba Estéreo",
+      "trackId": "6oxQ2tiIXtydhEOIFJiYqC",
+      "total": 2878307,
+      "daily": 270
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Milk & Honey #1",
+      "trackId": "4WBTKwO2jebi1Z5NoY8iQu",
+      "total": 2869103,
+      "daily": 1501
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Divorce Papers",
+      "trackId": "5OxPPsNISnSHTxDFZfxcAP",
+      "total": 2776178,
+      "daily": 1436
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Pink Elephant",
+      "trackId": "6ujSWkV1lM2YEgJkBIb4VB",
+      "total": 2624922,
+      "daily": 13013
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Some Other Place",
+      "trackId": "4vpk2YCWEGEt19zLOxsIs1",
+      "total": 2583780,
+      "daily": 1826
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Loneliness #4 (Other People's Letters)",
+      "trackId": "4QZgUldJxTvOXhSJZxBgTN",
+      "total": 2523571,
+      "daily": 1009
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Put Your Money on Me - Single Version",
+      "trackId": "08zhggw6kImdQ94bsPMRiP",
+      "total": 2408241,
+      "daily": 210
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Morning Talk / Supersymmetry",
+      "trackId": "0WjXmnmCCGq5GGlxjD34Zc",
+      "total": 2379959,
+      "daily": 1319
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "We're All Leaving",
+      "trackId": "1kltDDXV2gnMfETUdlsL6c",
+      "total": 2301192,
+      "daily": 1190
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Circle of Trust",
+      "trackId": "76x9lsvahKXzPQVIJQLhDp",
+      "total": 2122051,
+      "daily": 13246
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Owl",
+      "trackId": "6Kr2NHIN9c58cpE6j0pqqH",
+      "total": 2059318,
+      "daily": 926
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Headlights Look Like Diamonds",
+      "trackId": "0iQHsP6xlKApuYgVF761YR",
+      "total": 1694819,
+      "daily": 393
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Milk & Honey #2",
+      "trackId": "7i6OWt9GW86omn7RW1wtfb",
+      "total": 1543879,
+      "daily": 777
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Women of a Certain Age",
+      "trackId": "5dp188Wlu2IH66Qif2kfOU",
+      "total": 1497437,
+      "daily": 123
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Soft Power",
+      "trackId": "6AqYPBdoC7TWzNzuZ67e4F",
+      "total": 1467798,
+      "daily": 117
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Apocrypha",
+      "trackId": "5KX1inKdqpWcJnN7MjXQvV",
+      "total": 1434480,
+      "daily": 105
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "No Cars Go",
+      "trackId": "0BzYCJdtP00Xk8btIrAonU",
+      "total": 1281377,
+      "daily": 301
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Flashbulb Eyes - Dennis Bovell Remix",
+      "trackId": "1kALYmq5xptctMMJ1ZQjG8",
+      "total": 1265417,
+      "daily": 92
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Crucified Again",
+      "trackId": "4hWXcKMbhPhEouNZ6DVxBc",
+      "total": 1238965,
+      "daily": 98
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "I Love Her Shadow",
+      "trackId": "3vzh2kkBjJ6Eq28bznTQoj",
+      "total": 1008585,
+      "daily": 7580
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Open Your Heart or Die Trying",
+      "trackId": "4QV6Bgb78EisQQ65rLwepA",
+      "total": 995026,
+      "daily": 5557
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Ride or Die",
+      "trackId": "6sLCcxsj2NO9Jo7G6vJbPn",
+      "total": 990258,
+      "daily": 6841
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Put Your Money on Me - Steve Mackey Remix",
+      "trackId": "6WNOPYOumXtgNKlknSrsrr",
+      "total": 974117,
+      "daily": 68
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Old Flame",
+      "trackId": "6DJx9OKnfpvebBhwRHUGEL",
+      "total": 945280,
+      "daily": 157
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Alien Nation",
+      "trackId": "0RHEvLrABdsDHQiX4wYGHu",
+      "total": 942793,
+      "daily": 5992
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Beyond Salvation",
+      "trackId": "4jYFHHqbSzyVSbdqkslPST",
+      "total": 735599,
+      "daily": 4364
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Stuck in my Head",
+      "trackId": "63l4W07YzAfJ43R3T0zg2W",
+      "total": 728152,
+      "daily": 4597
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "The Woodlands National Anthem",
+      "trackId": "2dhQkB8ytrZrTIa077PG6M",
+      "total": 662881,
+      "daily": 99
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "I'm Sleeping in a Submarine",
+      "trackId": "4JR5LGTNNKiT4pQCx6iVrN",
+      "total": 649867,
+      "daily": 89
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "My Heart is an Apple",
+      "trackId": "7EIOX52yZfCAQdnoChm9Ug",
+      "total": 647093,
+      "daily": 124
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Peter Pan (feat. Bobby Blackbird) - Equiknoxx Remix",
+      "trackId": "5oqcVmsy0I6xQh9Aaaaez5",
+      "total": 639356,
+      "daily": 42
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "Vampires / Forest Fire",
+      "trackId": "60ebFlGKV2b4ZBconxF8zf",
+      "total": 639277,
+      "daily": 105
+    },
+    {
+      "artist": "Arcade Fire",
+      "artistId": "3kjuyTCjPG1WMFCiyc5IuB",
+      "trackName": "She Cries Diamond Rain",
+      "trackId": "1R95qAcx4kZSYZRcelb3EN",
+      "total": 615916,
+      "daily": 3534
+    }
+  ]
+}

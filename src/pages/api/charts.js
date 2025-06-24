@@ -7,7 +7,7 @@ export default function handler(req, res) {
   }
 
   try {
-    const dataPath = path.join(process.cwd(), "src", "data", "global_charts_by_date.json");
+    const dataPath = path.join(process.cwd(), "src", "data", "weekly", "global_charts_by_date.json");
 
     if (!fs.existsSync(dataPath)) {
       return res.status(404).json({ error: "Chart data file not found" });

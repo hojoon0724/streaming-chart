@@ -1,0 +1,758 @@
+{
+  "artist": "Us The Duo",
+  "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+  "songs": [
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Better Together",
+      "trackId": "1rY9xgSPHSLogQ26YRNZEq",
+      "total": 138247146,
+      "daily": 24200
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Shake It Off",
+      "trackId": "2IXr7fUGgiT3o2GHowLPju",
+      "total": 59124888,
+      "daily": 3407
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "No Matter Where You Are",
+      "trackId": "2XW4AAjfBQTzp7Oe1tU702",
+      "total": 52483771,
+      "daily": 7614
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Missin' You Like Crazy",
+      "trackId": "51mwvxRXUktJYBXqq9uXuo",
+      "total": 16506142,
+      "daily": 1825
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Drivers License",
+      "trackId": "3PHEpXJh4It1bWZrq4Cf18",
+      "total": 16158226,
+      "daily": 9310
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Already Mine",
+      "trackId": "3NUDkC6zqAEL9hKFTaaG2k",
+      "total": 13986907,
+      "daily": 979
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "One Last Dance",
+      "trackId": "7nZ8Nu0K6PuwJDQGXo8Psw",
+      "total": 11254775,
+      "daily": 2084
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "(Stop) Just Love",
+      "trackId": "2Tb6YToKuxFvZ4G3QvyXJn",
+      "total": 10860461,
+      "daily": 573
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "No Matter Where You Are - Wedding Version",
+      "trackId": "2x54yA7WfoMkHXjAAScIcs",
+      "total": 10713307,
+      "daily": 2336
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Take Me Home",
+      "trackId": "4zaBf1Dkn1gr7QcRxAWSSg",
+      "total": 10675022,
+      "daily": 746
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "I'm Me",
+      "trackId": "1idFeO3ujdXIF8QyTrM7oe",
+      "total": 10241095,
+      "daily": 721
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Make You Mine",
+      "trackId": "1ZWFt1f25IDDHsyx2rlcSV",
+      "total": 9670711,
+      "daily": 714
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "I Will Wait For You",
+      "trackId": "6e7NAuf6hFujkhyGC8eCIg",
+      "total": 9446664,
+      "daily": 707
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Slow Down Time",
+      "trackId": "2TRXV6DoQLjdRrBR6ED6NP",
+      "total": 7367016,
+      "daily": 408
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Near Or Far",
+      "trackId": "2O7FC4XbIrJ6Ib8bsq0FYC",
+      "total": 7291191,
+      "daily": 797
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Falling In Love",
+      "trackId": "5dGpmw7RbXbRKjAQDg6n9S",
+      "total": 6793085,
+      "daily": 786
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Never Gonna Leave You",
+      "trackId": "5gdAIGgehqtsvwEJC79VOt",
+      "total": 6777382,
+      "daily": 585
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Together",
+      "trackId": "4et8aIYJaS2AvoiSzJPUa9",
+      "total": 4883770,
+      "daily": 353
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Shotgun",
+      "trackId": "7E4p3cPpDBKF4ztQVdT9dw",
+      "total": 4659365,
+      "daily": 780
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Look up at the Sky",
+      "trackId": "6LNewtzmK4zZcjKqu15wVh",
+      "total": 4542715,
+      "daily": 176
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "What Is Love",
+      "trackId": "36vczS3xiH5eAazol83YyA",
+      "total": 4240381,
+      "daily": 1837
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Like I Did with You - Acoustic",
+      "trackId": "4fOPCLlN2MpBwMEim015x1",
+      "total": 4101110,
+      "daily": 392
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Goodbye Forever",
+      "trackId": "26asRz48KDllD4ohiATFHC",
+      "total": 4037745,
+      "daily": 207
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Smile & Keep Your Head Up",
+      "trackId": "5zgdTSRKmVT5z4574iK06y",
+      "total": 3516395,
+      "daily": 320
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Saudade",
+      "trackId": "2Wd2ik82Ew6cck7ogYMMwH",
+      "total": 3514947,
+      "daily": 155
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Heartbreak",
+      "trackId": "4YPQOtDXYB0o4BfPkDFKwR",
+      "total": 3331398,
+      "daily": 187
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Right Where I Should Be",
+      "trackId": "2C9f9cVaMXENsmJFnZeZmh",
+      "total": 3241378,
+      "daily": 192
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Final Bow",
+      "trackId": "0GCha1NDsleBsE3GxE0NPv",
+      "total": 2741638,
+      "daily": 103
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Dear Mom & Dad",
+      "trackId": "67OLUfK4rZEkNnhfwNLqEH",
+      "total": 2592141,
+      "daily": 117
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Fall Asleep",
+      "trackId": "6YcnZdHl7fDhuoBamqRIM3",
+      "total": 2436983,
+      "daily": 81
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Not for the Better",
+      "trackId": "2JG3YrpRbeme0klS1RZMUd",
+      "total": 2417075,
+      "daily": 107
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Dreamy Night",
+      "trackId": "6UoL8hBvz18SoP5GaUUfjf",
+      "total": 2391344,
+      "daily": 302
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Shallow",
+      "trackId": "5DaVq8Fw9T82gdoW1xhuTN",
+      "total": 2390784,
+      "daily": 162
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "My Girl",
+      "trackId": "4X3dprCxOxMlwZW9lPM6Rk",
+      "total": 2368939,
+      "daily": 2193
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Fighting for You",
+      "trackId": "64ghuAA28XlQWcab4rlqtI",
+      "total": 2165322,
+      "daily": 82
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Come Running Back",
+      "trackId": "2dIesBrj5reLJy3Mnplt2F",
+      "total": 2140786,
+      "daily": 67
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "'Til The Morning Comes",
+      "trackId": "7anbTCg4dNKp4UUD1ATwPz",
+      "total": 2018772,
+      "daily": 97
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Don't Lay Your Head",
+      "trackId": "5eT0hMWKFU9CYFv73f96in",
+      "total": 1881509,
+      "daily": 69
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Come Back",
+      "trackId": "2TThaSDmqSwitNHL20NexA",
+      "total": 1828235,
+      "daily": 46
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Make You Love Me",
+      "trackId": "2n9iphwTQy13Jw4TpYhsHM",
+      "total": 1732777,
+      "daily": 46
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Close To You",
+      "trackId": "6KYIFN7VKuhdBYHwfxrAgi",
+      "total": 1713651,
+      "daily": 46
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Before We Go",
+      "trackId": "0LTCzVTGO7C3uDaLiAcHQP",
+      "total": 1671367,
+      "daily": 36
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Intro",
+      "trackId": "12KdUT18ORoia3bBEialTi",
+      "total": 1656395,
+      "daily": 36
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Finally Know What Love Is",
+      "trackId": "3RAIj56vZyG4X7QbbA1Y64",
+      "total": 1596504,
+      "daily": 154
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Safe",
+      "trackId": "59WqtkdV1MwxTE47YeIBml",
+      "total": 1531964,
+      "daily": 49
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Bricks",
+      "trackId": "630UN6BvTzC0OrxeVeYJKI",
+      "total": 1514403,
+      "daily": 41
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Last Cup of Coffee",
+      "trackId": "1ewh1pYPfs7wAVv28ol8yI",
+      "total": 1471724,
+      "daily": 483
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Have Yourself a Merry Little Christmas",
+      "trackId": "08dfrviDkVALoFzQ6XEJwH",
+      "total": 1426652,
+      "daily": 10
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "There Is Only One You",
+      "trackId": "7aC3eh3EWIlaFHjdwD4z9j",
+      "total": 1384307,
+      "daily": 148
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Telephone",
+      "trackId": "2lHUr9zd9P5xhGk8VG6JJB",
+      "total": 1298129,
+      "daily": 36
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Girl In L.A.",
+      "trackId": "1EOzMtKbSAIEcOdgXBEG2s",
+      "total": 1273344,
+      "daily": 25
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Rather Be with You",
+      "trackId": "4zngcokbGVkDFJ3XMqUlVM",
+      "total": 1150884,
+      "daily": 42
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Sunday Afternoon",
+      "trackId": "00IR4xhyEUW3grbpiKS9QJ",
+      "total": 908329,
+      "daily": 74
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Warm Summer Nights",
+      "trackId": "6U8ibw2eTjSk9sKe0oNqVK",
+      "total": 842925,
+      "daily": 90
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Broke",
+      "trackId": "5C9dg4gBA0zgA2pVUQeGIG",
+      "total": 828516,
+      "daily": 44
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Follow Me",
+      "trackId": "1HyvmIlPHywr0RuabePq7A",
+      "total": 699290,
+      "daily": 16
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Homesick Lullaby",
+      "trackId": "648o7VTczD3g7zIUp3DaOB",
+      "total": 652855,
+      "daily": 42
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Get Gone",
+      "trackId": "5k1oBNbOqb2OMqKHRB4YuS",
+      "total": 591466,
+      "daily": 24
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Doors",
+      "trackId": "33HyY8sFEP4dk4UWb4b6vS",
+      "total": 567196,
+      "daily": 59
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Like I'm Gonna Lose You",
+      "trackId": "6lsKyZSeAPReoldkk4mLM2",
+      "total": 566828,
+      "daily": 251
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Waiting on a Dream",
+      "trackId": "02D8gWoP3fv9qmd3uVz9aF",
+      "total": 527599,
+      "daily": 51
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Like Myself",
+      "trackId": "1uTjZQybG9dzzvZvvnzFHJ",
+      "total": 515406,
+      "daily": 36
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Memories",
+      "trackId": "5RkRTG45HbNGJDmWIHy5V1",
+      "total": 469642,
+      "daily": 122
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Let's Fall in Love for the Night",
+      "trackId": "66sP4tkX45OtJLxovzZiii",
+      "total": 449451,
+      "daily": 48
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "As It Was",
+      "trackId": "6adP3vuwCZxxZzns0oDEEA",
+      "total": 437066,
+      "daily": 120
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Nothing Can Stop Us",
+      "trackId": "6ZOsWNS1RNYCIyNOpi1Da8",
+      "total": 435665,
+      "daily": 86
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Need to Find My Place",
+      "trackId": "3mZXw1WJG0M6dJJcGML5gz",
+      "total": 406297,
+      "daily": 22
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Afterglow",
+      "trackId": "7tDbCW43v9WQK6Mn2FlGlm",
+      "total": 395739,
+      "daily": 195
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Every Day Is Ours",
+      "trackId": "361mcMpoFWOBAXziLEulCr",
+      "total": 373099,
+      "daily": 57
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Falling",
+      "trackId": "6c1y1Hb0xhERf9agfBk8ht",
+      "total": 360912,
+      "daily": 43
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Jingle Bells / Jingle Bell Rock",
+      "trackId": "7liX5aZSsiqijV8qVIl8QG",
+      "total": 339333,
+      "daily": 2
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Ghost - ANTELØPE Remix",
+      "trackId": "5WboQqwj2JkvRM9KkohqyO",
+      "total": 332754,
+      "daily": 26
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Take Me to Church",
+      "trackId": "4HrhNy34t1KJYx7EVGSFj0",
+      "total": 316737,
+      "daily": 55
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Get Lucky",
+      "trackId": "7aCNqdDhs6h8OEXzM5XLrZ",
+      "total": 301057,
+      "daily": 65
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Ghost",
+      "trackId": "56tCgwaSEvoYIqaBI5lnZq",
+      "total": 273669,
+      "daily": 57
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "When We Were Kids (Intro)",
+      "trackId": "6RS8vfDn2wRpsDxDVVRxsN",
+      "total": 225589,
+      "daily": 7
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Name",
+      "trackId": "7v7SZUD3S7a9WgOYwSnnZU",
+      "total": 212248,
+      "daily": 31
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Oh! Darling",
+      "trackId": "2XX1nFZtZDHZbQTv79iBK7",
+      "total": 201732,
+      "daily": 44
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "I'll Be There Soon",
+      "trackId": "1Rkp9AHPprJk4RyRNWPa67",
+      "total": 187620,
+      "daily": 4
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Baby, It's Cold Outside",
+      "trackId": "3IvNqEopi9Ww8KlTkZ4tPu",
+      "total": 171477,
+      "daily": 9
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "December",
+      "trackId": "1HDAibpba6v5y70Dqcvlex",
+      "total": 170390,
+      "daily": 2
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Wonderful Christmastime",
+      "trackId": "1gZ5I6NfC8QaJCt4AfOn4k",
+      "total": 165780,
+      "daily": 2
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "I See the Light",
+      "trackId": "0Gj2sSUTbjDqH4zq5k6WZy",
+      "total": 164717,
+      "daily": 53
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Winter Wonderland",
+      "trackId": "77qVBbpg4ul9tMyHKqVmaw",
+      "total": 155008,
+      "daily": 4
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "It's a New Year, Baby",
+      "trackId": "1BGVq4hqG7PAK6OIR9DNHC",
+      "total": 153096,
+      "daily": 2
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Living Our Forever",
+      "trackId": "7v9miMyGwJ3ywCpxp9Hjxq",
+      "total": 150298,
+      "daily": 24
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "La La La",
+      "trackId": "7eQjqOJ1d2p2ACCPkA9xQk",
+      "total": 140572,
+      "daily": 18
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Rockin' Around the Christmas Tree",
+      "trackId": "3sLbVTP97fofHAPJQecUDQ",
+      "total": 138402,
+      "daily": 2
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Christmas in Paradise",
+      "trackId": "39M8rMnAMVt9c2qgGYdX42",
+      "total": 129736,
+      "daily": 2
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "No One’s Listening",
+      "trackId": "0UhSLXsg8YgPERhsVb9nur",
+      "total": 121545,
+      "daily": 5
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Holiday Heartbreak",
+      "trackId": "01nXzPqjb3SjvU5TQ9XvGv",
+      "total": 120527,
+      "daily": 2
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "Silent Night",
+      "trackId": "5yKHQdQpQZXJOZ3IJCfY4b",
+      "total": 119072,
+      "daily": 3
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "White Christmas",
+      "trackId": "4pNdcjuUpuJvKlaVMhJURE",
+      "total": 116225,
+      "daily": 3
+    },
+    {
+      "artist": "Us The Duo",
+      "artistId": "3QGKsAfhZdldQCLuLjk6zl",
+      "trackName": "O Christmas Tree - Instrumental",
+      "trackId": "2lnzWoTpQFC5f8GXdxkkO2",
+      "total": 100308,
+      "daily": 2
+    }
+  ]
+}
