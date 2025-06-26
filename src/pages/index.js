@@ -1,8 +1,13 @@
 import { Calendar, Music, User } from "lucide-react";
 import { useRouter } from "next/router";
 import Header from "../components/Header";
+import dataSummary from "../data/data-summary.json";
 
 export default function HomePage() {
+  const formatNumber = (num) => {
+    return new Intl.NumberFormat().format(num);
+  };
+
   const router = useRouter();
 
   // Show artist's all-songs-performance, ranked by aggregate
@@ -44,6 +49,23 @@ export default function HomePage() {
           <div className="text-center">
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-y-6 text-sm text-gray-800 dark:text-gray-200 px-4 pt-2 pb-4 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg ">
               <div class="text-left">
+                <h2 class="text-xl font-semibold text-gray-700 dark:text-gray-100 mb-2">Stats</h2>
+                <ul class="space-y-1">
+                  <li>
+                    <strong className="text-black dark:text-gray-400">Total artists:</strong>{" "}
+                    <span class="text-green-700 dark:text-green-300">
+                      {formatNumber(dataSummary.latest.totalArtists)}
+                    </span>
+                  </li>
+                  <li>
+                    <strong className="text-black dark:text-gray-400">Total songs:</strong>{" "}
+                    <span class="text-green-700 dark:text-green-300">
+                      {formatNumber(dataSummary.latest.totalSongs)}
+                    </span>
+                  </li>
+                </ul>
+              </div>
+              <div class="text-left">
                 <h2 class="text-xl font-semibold text-gray-700 dark:text-gray-100 mb-2">Source</h2>
                 <ul class="space-y-1">
                   <li>
@@ -53,10 +75,6 @@ export default function HomePage() {
                   <li>
                     <strong className="text-black dark:text-gray-400">Market share:</strong> ~
                     <span class="text-pink-700 dark:text-pink-300">30%</span>
-                  </li>
-                  <li>
-                    <strong className="text-black dark:text-gray-400">Total songs:</strong>{" "}
-                    <span class="text-green-700 dark:text-green-300">11,139</span>
                   </li>
                 </ul>
               </div>
@@ -92,10 +110,10 @@ export default function HomePage() {
                 <ul class="space-y-1">
                   <li>
                     <strong className="text-black dark:text-gray-400">Spotify:</strong>{" "}
-                    <span class="text-indigo-700 dark:text-indigo-300">$5,000/M</span>
+                    <span class="text-indigo-700 dark:text-indigo-300">$4,000/M</span>
                   </li>
                   <li>
-                    <strong className="text-black dark:text-gray-400">Other platforms:</strong> Up to{" "}
+                    <strong className="text-black dark:text-gray-400">Apple:</strong>{" "}
                     <span class="text-indigo-700 dark:text-indigo-300">$10,000/M</span>
                   </li>
                 </ul>
@@ -136,6 +154,23 @@ export default function HomePage() {
           <div className="text-center">
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-y-6 text-sm text-gray-800 dark:text-gray-200 px-4 pt-2 pb-4 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg ">
               <div class="text-left">
+                <h2 class="text-xl font-semibold text-gray-700 dark:text-gray-100 mb-2">Stats</h2>
+                <ul class="space-y-1">
+                  <li>
+                    <strong className="text-black dark:text-gray-400">Total artists:</strong>{" "}
+                    <span class="text-green-700 dark:text-green-300">
+                      {formatNumber(dataSummary.weekly.totalArtists)}
+                    </span>
+                  </li>
+                  <li>
+                    <strong className="text-black dark:text-gray-400">Total songs:</strong>{" "}
+                    <span class="text-green-700 dark:text-green-300">
+                      {formatNumber(dataSummary.weekly.totalSongs)}
+                    </span>
+                  </li>
+                </ul>
+              </div>
+              <div class="text-left">
                 <h2 class="text-xl font-semibold text-gray-700 dark:text-gray-100 mb-2">Source</h2>
                 <ul class="space-y-1">
                   <li>
@@ -145,10 +180,6 @@ export default function HomePage() {
                   <li>
                     <strong className="text-black dark:text-gray-400">Market share:</strong> ~
                     <span class="text-pink-700 dark:text-pink-300">30%</span>
-                  </li>
-                  <li>
-                    <strong className="text-black dark:text-gray-400">Total songs:</strong>{" "}
-                    <span class="text-green-700 dark:text-green-300">6,199</span>
                   </li>
                 </ul>
               </div>
@@ -166,19 +197,9 @@ export default function HomePage() {
                   </li>
                   <li>
                     <strong className="text-black dark:text-gray-400">Unique weeks</strong>{" "}
-                    <span class="text-green-700 dark:text-green-300">494</span>
-                  </li>
-                </ul>
-              </div>
-
-              <div class="text-left">
-                <h2 class="text-xl font-semibold text-gray-700 dark:text-gray-100 mb-2">Chart Coverage</h2>
-                <ul class="space-y-1">
-                  <li>
-                    <strong className="text-black dark:text-gray-400">Before 2014/10/26:</strong> Top 50
-                  </li>
-                  <li>
-                    <strong className="text-black dark:text-gray-400">After 2014/10/26:</strong> Top 200
+                    <span class="text-green-700 dark:text-green-300">
+                      {formatNumber(dataSummary.weekly.totalUniqueWeeks)}
+                    </span>
                   </li>
                 </ul>
               </div>
@@ -188,10 +209,10 @@ export default function HomePage() {
                 <ul class="space-y-1">
                   <li>
                     <strong className="text-black dark:text-gray-400">Spotify:</strong>{" "}
-                    <span class="text-indigo-700 dark:text-indigo-300">$5,000/M</span>
+                    <span class="text-indigo-700 dark:text-indigo-300">$4,000/M</span>
                   </li>
                   <li>
-                    <strong className="text-black dark:text-gray-400">Other platforms:</strong> Up to{" "}
+                    <strong className="text-black dark:text-gray-400">Apple:</strong>{" "}
                     <span class="text-indigo-700 dark:text-indigo-300">$10,000/M</span>
                   </li>
                 </ul>

@@ -108,7 +108,14 @@ export default function AggregateAllPage() {
   if (loading) {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-        <Header title="Aggregate All Songs" showBackButton={true} iconColor="text-slate-600 dark:text-slate-400" />
+        <Header
+          title="Aggregate All Songs"
+          showBackButton={true}
+          iconColor="text-slate-600 dark:text-slate-400"
+          showPayoutSetting={true}
+          payoutPerMillion={payoutPerMillion}
+          onPayoutChange={setPayoutPerMillion}
+        />
         <main className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col items-center justify-center py-20">
             <Loader2 className="h-12 w-12 text-slate-600 dark:text-slate-400 animate-spin mb-4" />
@@ -122,7 +129,14 @@ export default function AggregateAllPage() {
   if (error) {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-        <Header title="Aggregate All Songs" showBackButton={true} iconColor="text-slate-600 dark:text-slate-400" />
+        <Header
+          title="Aggregate All Songs"
+          showBackButton={true}
+          iconColor="text-slate-600 dark:text-slate-400"
+          showPayoutSetting={true}
+          payoutPerMillion={payoutPerMillion}
+          onPayoutChange={setPayoutPerMillion}
+        />
         <main className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <p className="text-red-600">Error: {error}</p>
         </main>
@@ -132,30 +146,18 @@ export default function AggregateAllPage() {
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-      <Header title="Aggregate All Songs" showBackButton={true} iconColor="text-slate-600 dark:text-slate-400" />
+      <Header
+        title="Aggregate All Songs"
+        showBackButton={true}
+        iconColor="text-slate-600 dark:text-slate-400"
+        showPayoutSetting={true}
+        payoutPerMillion={payoutPerMillion}
+        onPayoutChange={setPayoutPerMillion}
+      />
       <main className="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
         <div className="mb-8">
           <div className="flex items-center justify-between mb-6">
             <h2 className="text-3xl font-bold text-gray-900 dark:text-gray-100">All Songs Summary</h2>
-            <div className="flex items-center space-x-3">
-              <label htmlFor="payoutRate" className="text-sm font-medium text-gray-700 dark:text-gray-300">
-                Payout per 1M plays:
-              </label>
-              <div className="relative">
-                <span className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-500 dark:text-gray-400">
-                  $
-                </span>
-                <input
-                  id="payoutRate"
-                  type="number"
-                  min="0"
-                  step="100"
-                  value={payoutPerMillion}
-                  onChange={(e) => setPayoutPerMillion(Number(e.target.value) || 0)}
-                  className="pl-8 pr-3 py-2 border border-gray-300 dark:border-gray-600 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-slate-500 dark:focus:ring-slate-400 focus:border-slate-500 dark:focus:border-slate-400 w-24 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
-                />
-              </div>
-            </div>
           </div>
           <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg overflow-hidden">
             <div className="px-6 py-4 bg-slate-50 dark:bg-gray-700 border-b border-slate-100 dark:border-gray-600">

@@ -172,7 +172,14 @@ export default function AggregateEverythingPage() {
   if (loading) {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-        <Header title="Aggregate Everything" showBackButton={true} iconColor="text-stone-600 dark:text-stone-400" />
+        <Header
+          title="Aggregate Everything"
+          showBackButton={true}
+          iconColor="text-stone-600 dark:text-stone-400"
+          showPayoutSetting={true}
+          payoutPerMillion={payoutPerMillion}
+          onPayoutChange={setPayoutPerMillion}
+        />
         <main className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col items-center justify-center py-20">
             <Loader2 className="h-12 w-12 text-stone-600 dark:text-stone-400 animate-spin mb-4" />
@@ -186,7 +193,14 @@ export default function AggregateEverythingPage() {
   if (error) {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-        <Header title="Aggregate Everything" showBackButton={true} iconColor="text-stone-600 dark:text-stone-400" />
+        <Header
+          title="Aggregate Everything"
+          showBackButton={true}
+          iconColor="text-stone-600 dark:text-stone-400"
+          showPayoutSetting={true}
+          payoutPerMillion={payoutPerMillion}
+          onPayoutChange={setPayoutPerMillion}
+        />
         <main className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col items-center justify-center py-20">
             <AlertCircle className="h-12 w-12 text-red-500 dark:text-red-400 mb-4" />
@@ -206,7 +220,14 @@ export default function AggregateEverythingPage() {
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-      <Header title="Aggregate Everything" showBackButton={true} iconColor="text-stone-600 dark:text-stone-400" />
+      <Header
+        title="Aggregate Everything"
+        showBackButton={true}
+        iconColor="text-stone-600 dark:text-stone-400"
+        showPayoutSetting={true}
+        payoutPerMillion={payoutPerMillion}
+        onPayoutChange={setPayoutPerMillion}
+      />
       <main className="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
         <div className="mb-8">
           <div className="flex items-center justify-between mb-6">
@@ -216,25 +237,6 @@ export default function AggregateEverythingPage() {
                 Showing {formatNumber(pagination.totalArtists || 0)} artists ranked by total stream count from complete
                 catalog ({formatNumber(pagination.totalSongs || 0)} total songs)
               </p>
-              <div className="mt-4 flex items-center space-x-3">
-                <label htmlFor="payoutRate" className="text-sm font-medium text-gray-700 dark:text-gray-300">
-                  Payout per 1M plays:
-                </label>
-                <div className="relative">
-                  <span className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-500 dark:text-gray-400">
-                    $
-                  </span>
-                  <input
-                    id="payoutRate"
-                    type="number"
-                    min="0"
-                    step="100"
-                    value={payoutPerMillion}
-                    onChange={(e) => setPayoutPerMillion(Number(e.target.value) || 0)}
-                    className="pl-8 pr-3 py-2 border border-gray-300 dark:border-gray-600 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-stone-500 dark:focus:ring-stone-400 focus:border-stone-500 dark:focus:border-stone-400 w-24 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
-                  />
-                </div>
-              </div>
             </div>
             <User className="h-12 w-12 text-stone-600 dark:text-stone-400" />
           </div>

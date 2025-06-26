@@ -81,7 +81,14 @@ export default function ByDatePage() {
   if (loading) {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-        <Header title="Charts by Date" showBackButton={true} iconColor="text-yellow-600 dark:text-yellow-400" />
+        <Header
+          title="Charts by Date"
+          showBackButton={true}
+          iconColor="text-yellow-600 dark:text-yellow-400"
+          showPayoutSetting={true}
+          payoutPerMillion={payoutPerMillion}
+          onPayoutChange={setPayoutPerMillion}
+        />
         <main className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <Loader2 className="mx-auto h-16 w-16 text-yellow-600 dark:text-yellow-400 mb-6 animate-spin" />
@@ -96,7 +103,14 @@ export default function ByDatePage() {
   if (error) {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-        <Header title="Charts by Date" showBackButton={true} iconColor="text-yellow-600 dark:text-yellow-400" />
+        <Header
+          title="Charts by Date"
+          showBackButton={true}
+          iconColor="text-yellow-600 dark:text-yellow-400"
+          showPayoutSetting={true}
+          payoutPerMillion={payoutPerMillion}
+          onPayoutChange={setPayoutPerMillion}
+        />
         <main className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <AlertCircle className="mx-auto h-16 w-16 text-red-600 dark:text-red-400 mb-6" />
@@ -116,7 +130,14 @@ export default function ByDatePage() {
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-      <Header title="Charts by Date" showBackButton={true} iconColor="text-yellow-600 dark:text-yellow-400" />
+      <Header
+        title="Charts by Date"
+        showBackButton={true}
+        iconColor="text-yellow-600 dark:text-yellow-400"
+        showPayoutSetting={true}
+        payoutPerMillion={payoutPerMillion}
+        onPayoutChange={setPayoutPerMillion}
+      />
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
@@ -127,22 +148,6 @@ export default function ByDatePage() {
               <p className="text-lg text-gray-600 dark:text-gray-300">
                 Select a week from the matrix below to view that week's charts and estimated earnings
               </p>
-            </div>
-            <div className="flex items-center gap-2">
-              <label className="text-sm font-medium text-gray-700 dark:text-gray-300">
-                Payout per million streams:
-              </label>
-              <div className="flex items-center">
-                <span className="text-sm text-gray-600 dark:text-gray-400">$</span>
-                <input
-                  type="number"
-                  value={payoutPerMillion}
-                  onChange={(e) => setPayoutPerMillion(Number(e.target.value))}
-                  className="w-20 px-2 py-1 ml-1 border border-gray-300 dark:border-gray-600 rounded-md bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100"
-                  min="0"
-                  step="100"
-                />
-              </div>
             </div>
           </div>
 
