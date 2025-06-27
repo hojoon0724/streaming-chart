@@ -8,8 +8,8 @@ from datetime import datetime
 
 
 def reorganize_charts_by_date():
-    input_file = "git_ignore/global_charts.csv"
-    output_file = "git_ignore/global_charts_by_date.csv"
+    input_file = "../../git_ignore/global_charts.csv"
+    output_file = "../../git_ignore/global_charts_by_date.csv"
 
     print("Reading global charts data...")
 

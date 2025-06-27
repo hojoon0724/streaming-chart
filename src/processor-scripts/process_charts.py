@@ -42,8 +42,8 @@ def process_csv_to_json():
     """
     Process the charts.csv file and create separate JSON files for each country.
     """
-    csv_file_path = "src/data/charts.csv"
-    output_dir = "output/countries"
+    csv_file_path = "../data/charts.csv"
+    output_dir = "../../output/countries"
 
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)

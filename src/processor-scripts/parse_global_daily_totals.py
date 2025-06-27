@@ -17,8 +17,8 @@ Usage:
 import json
 import re
 
-INPUT_HTML = "git_ignore/kworb_pages/global_daily_totals.html"
-OUTPUT_JSON = "git_ignore/global_daily_totals.json"
+INPUT_HTML = "../../git_ignore/kworb_pages/global_daily_totals.html"
+OUTPUT_JSON = "../../git_ignore/global_daily_totals.json"
 
 
 def parse_html_to_json(input_path):

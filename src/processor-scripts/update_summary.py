@@ -12,7 +12,7 @@ def update_data_summary():
     """Generate and update data summary with artist and song counts."""
 
     # Paths
-    data_dir = Path("src/data/latest")
+    data_dir = Path("../data/latest")
     artists_dir = data_dir / "artists-songs"
     summary_file = data_dir / "data-summary.json"
 

@@ -11,7 +11,7 @@ from pathlib import Path
 
 def count_latest_data():
     """Count artists and songs in the latest data directory."""
-    data_dir = Path("src/data/latest")
+    data_dir = Path("../data/latest")
     artists_dir = data_dir / "artists-songs"
 
     print("Counting latest data...")
@@ -46,7 +46,7 @@ def count_latest_data():
 
 def count_weekly_data():
     """Count artists and songs in the weekly data."""
-    weekly_dir = Path("src/data/weekly")
+    weekly_dir = Path("../data/weekly")
 
     print("Counting weekly data...")
 
@@ -121,7 +121,7 @@ def update_data_summary():
     summary = {"latest": latest_stats, "weekly": weekly_stats}
 
     # Write to file
-    summary_file = Path("src/data/data-summary.json")
+    summary_file = Path("../data/data-summary.json")
     with open(summary_file, "w", encoding="utf-8") as f:
         json.dump(summary, f, indent=2)
 

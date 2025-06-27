@@ -92,7 +92,7 @@ def update_data_summary(data_dir: str, stats: Dict[str, int]) -> None:
 def main():
     """Main function to generate the data summary."""
     # Path to the latest data directory
-    data_dir = "src/data/latest"
+    data_dir = "../data/latest"
 
     print("Generating data summary...")
     print(f"Data directory: {os.path.abspath(data_dir)}")

@@ -5,7 +5,7 @@ import time
 import requests
 
 # Load your list of URLs from a file
-with open("git_ignore/all_artists_songs_weekly_x_to_download.txt", "r") as file:
+with open("../../git_ignore/all_artists_songs_weekly_x_to_download.txt", "r") as file:
     urls = [line.strip() for line in file if line.strip()]
 
 # Keep track of remaining URLs and processed URLs
@@ -14,7 +14,7 @@ downloaded_urls = []
 error_urls = []
 
 # Make a folder to store the HTML files
-os.makedirs("git_ignore/downloaded_html_weekly", exist_ok=True)
+os.makedirs("../../git_ignore/downloaded_html_weekly", exist_ok=True)
 
 
 # Function to check if a file contains valid HTML
@@ -39,9 +39,9 @@ def is_valid_html_file(filepath):
 
 # Clean up any corrupted files from previous runs
 print("Checking for corrupted files from previous downloads...")
-for filename in os.listdir("git_ignore/downloaded_html_weekly"):
+for filename in os.listdir("../../git_ignore/downloaded_html_weekly"):
     if filename.endswith(".html"):
-        filepath = os.path.join("git_ignore/downloaded_html_weekly", filename)
+        filepath = os.path.join("../../git_ignore/downloaded_html_weekly", filename)
         if not is_valid_html_file(filepath):
             print(f"Removing corrupted file: {filename}")
             os.remove(filepath)
@@ -60,7 +60,7 @@ for i, url in enumerate(urls, 1):
     try:
         # Clean up the URL to use as a filename
         filename = url.replace("https://", "").replace("http://", "").replace("/", "_") + ".html"
-        filepath = os.path.join("git_ignore/downloaded_html_weekly", filename)
+        filepath = os.path.join("../../git_ignore/downloaded_html_weekly", filename)
 
         # Check if file already exists and is valid
         if os.path.exists(filepath) and is_valid_html_file(filepath):
@@ -125,17 +125,17 @@ for i, url in enumerate(urls, 1):
 
 # Update the files after processing
 # Write remaining URLs back to the original file
-with open("git_ignore/all_artists_songs_weekly_x_to_download.txt", "w") as file:
+with open("../../git_ignore/all_artists_songs_weekly_x_to_download.txt", "w") as file:
     for url in remaining_urls:
         file.write(url + "\n")
 
 # Write downloaded URLs to success file
-with open("git_ignore/all_artists_songs_weekly_y_downloaded.txt", "a") as file:
+with open("../../git_ignore/all_artists_songs_weekly_y_downloaded.txt", "a") as file:
     for url in downloaded_urls:
         file.write(url + "\n")
 
 # Write error URLs to error file
-with open("git_ignore/all_artists_songs_weekly_z_error.txt", "a") as file:
+with open("../../git_ignore/all_artists_songs_weekly_z_error.txt", "a") as file:
     for url in error_urls:
         file.write(url + "\n")
 

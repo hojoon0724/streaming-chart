@@ -97,8 +97,8 @@ def extract_artist_data(html_file_path):
 
 def process_all_files():
     """Process all HTML files in the kworb_artist_songs directory."""
-    input_dir = "/Users/hojoon/Code/active/streams-chart/git_ignore/kworb_artist_songs"
-    output_dir = "/Users/hojoon/Code/active/streams-chart/src/data/artists-songs"
+    input_dir = "../../git_ignore/kworb_artist_songs"
+    output_dir = "../data/artists-songs"
 
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
